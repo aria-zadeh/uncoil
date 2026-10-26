@@ -1,0 +1,862 @@
+[
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Unit test on series and sequences",
+      "subject": "AP Calculus BC",
+      "description": "Includes convergence tests.",
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and list every convergence test by name\",\"minutes\":15},{\"title\":\"Write the conditions for each test on one page\",\"minutes\":30},{\"title\":\"Solve the first five practice problems from the packet\",\"minutes\":35},{\"title\":\"Solve the last five practice problems from the packet\",\"minutes\":35},{\"title\":\"Check your answers against the packet key\",\"minutes\":20},{\"title\":\"Solve again the two problems you got wrong\",\"minutes\":20}],\"starterAction\":\"Open your notes and list every convergence test by name\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Unit test on ionic and covalent bonding",
+      "subject": "AP Chemistry",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes to the bonding section\",\"minutes\":5},{\"title\":\"Draw the dot structure for the first five compounds\",\"minutes\":30},{\"title\":\"Draw the dot structure for the last five compounds\",\"minutes\":30},{\"title\":\"Sort your flashcards into ionic and covalent piles\",\"minutes\":15},{\"title\":\"Check every structure against the answer key\",\"minutes\":20}],\"starterAction\":\"Open your notes to the bonding section\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Unit test on Mendelian genetics",
+      "subject": "AP Biology",
+      "description": "Punnett squares and probability.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes to the genetics section\",\"minutes\":5},{\"title\":\"Copy the vocabulary list onto index cards\",\"minutes\":20},{\"title\":\"Solve the first five Punnett square problems\",\"minutes\":30},{\"title\":\"Solve the last five Punnett square problems\",\"minutes\":30},{\"title\":\"Check your answers against the answer key\",\"minutes\":20},{\"title\":\"Cover the vocabulary cards and say each definition\",\"minutes\":20}],\"starterAction\":\"Open your notes to the genetics section\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Unit test on rotational motion and torque",
+      "subject": "Physics C",
+      "description": null,
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the formula sheet to the rotation section\",\"minutes\":5},{\"title\":\"Copy every rotational formula onto one card\",\"minutes\":20},{\"title\":\"Solve the first four torque problems from the packet\",\"minutes\":35},{\"title\":\"Solve the last four torque problems from the packet\",\"minutes\":35},{\"title\":\"Check every answer against the packet key\",\"minutes\":20},{\"title\":\"Circle the two problem types you keep missing\",\"minutes\":15}],\"starterAction\":\"Open the formula sheet to the rotation section\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Midterm exam on plate tectonics and weather systems",
+      "subject": "Earth Science",
+      "description": null,
+      "duePhrase": "in 6 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and sort them into tectonics and weather\",\"minutes\":10},{\"title\":\"Draw the three plate boundary types from memory\",\"minutes\":25},{\"title\":\"Label each boundary with what forms there\",\"minutes\":15},{\"title\":\"List the four types of weather fronts on one page\",\"minutes\":20},{\"title\":\"Answer the review packet questions\",\"minutes\":35},{\"title\":\"Check your answers against the packet key\",\"minutes\":20}],\"starterAction\":\"Open your notes and sort them into tectonics and weather\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Annotated notes for the AP Lang rhetorical analysis unit",
+      "subject": "AP English Language",
+      "description": "Margin notes on three practice speeches.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the first speech and skim it once\",\"minutes\":5},{\"title\":\"Underline every persuasive technique you can name\",\"minutes\":20},{\"title\":\"Label each underline with the technique it uses\",\"minutes\":20},{\"title\":\"Read the second speech and repeat the same steps\",\"minutes\":35},{\"title\":\"Read the third speech and repeat the same steps\",\"minutes\":35},{\"title\":\"Check your labels against the list of techniques\",\"minutes\":15}],\"starterAction\":\"Open the first speech and skim it once\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Discussion questions for the Socratic seminar on Night",
+      "subject": "World Literature",
+      "description": "Graded on participation and evidence.",
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the book and find the passages you marked\",\"minutes\":5},{\"title\":\"Write down three moments that surprised you\",\"minutes\":15},{\"title\":\"Turn each moment into a question\",\"minutes\":15},{\"title\":\"Find one quote to support each question\",\"minutes\":20},{\"title\":\"Read your three questions out loud once to practice\",\"minutes\":15}],\"starterAction\":\"Open the book and find the passages you marked\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Unit test on federalism and the branches of government",
+      "subject": "AP US Government",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes to the federalism section\",\"minutes\":5},{\"title\":\"List the powers reserved to states on one page\",\"minutes\":20},{\"title\":\"List the powers reserved to the federal government on another\",\"minutes\":20},{\"title\":\"Draw a diagram showing how a bill becomes a law\",\"minutes\":25},{\"title\":\"Answer the practice questions in the review packet\",\"minutes\":30},{\"title\":\"Check your answers against the packet key\",\"minutes\":20}],\"starterAction\":\"Open your notes to the federalism section\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Unit test on social institutions",
+      "subject": "Sociology",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and list the five institutions covered\",\"minutes\":10},{\"title\":\"Write one example of each institution from your own life\",\"minutes\":20},{\"title\":\"Write the definition of each institution from memory\",\"minutes\":20},{\"title\":\"Check each definition against your notes\",\"minutes\":15},{\"title\":\"Cover your notes and say all five definitions in order\",\"minutes\":15}],\"starterAction\":\"Open your notes and list the five institutions covered\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Practice writing section for Spanish IV",
+      "subject": "Spanish IV",
+      "description": "Persuasive essay, thirty minutes.",
+      "duePhrase": "in 6 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Set a timer for thirty minutes\",\"minutes\":5},{\"title\":\"Read the practice prompt and underline the question\",\"minutes\":5},{\"title\":\"Write an outline with three supporting points\",\"minutes\":15},{\"title\":\"Write the essay in Spanish without stopping to edit\",\"minutes\":30},{\"title\":\"Read the essay aloud and circle any verb that sounds wrong\",\"minutes\":20}],\"starterAction\":\"Set a timer for thirty minutes\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Listening comprehension quiz on the news segment",
+      "subject": "French III",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Play the practice clip once all the way through\",\"minutes\":10},{\"title\":\"Write down every word you recognized\",\"minutes\":15},{\"title\":\"Play the clip again and fill in three more words\",\"minutes\":15},{\"title\":\"Answer the five comprehension questions about the clip\",\"minutes\":20},{\"title\":\"Play the clip once more and check your answers\",\"minutes\":15}],\"starterAction\":\"Play the practice clip once all the way through\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Quiz on the first forty hiragana characters",
+      "subject": "Japanese I",
+      "description": null,
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write each character on its own card\",\"minutes\":20},{\"title\":\"Say the sound for the first twenty characters\",\"minutes\":15},{\"title\":\"Say the sound for the last twenty characters\",\"minutes\":15},{\"title\":\"Sort the cards into known and unknown piles\",\"minutes\":10},{\"title\":\"Trace the unknown characters five times each\",\"minutes\":20}],\"starterAction\":\"Write each character on its own card\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Vocabulary quiz on classroom signs",
+      "subject": "American Sign Language",
+      "description": "Twenty-five signs, receptive and expressive.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Watch the practice video for the first twelve signs\",\"minutes\":15},{\"title\":\"Practice the first twelve signs in front of a mirror\",\"minutes\":20},{\"title\":\"Watch the practice video for the last thirteen signs\",\"minutes\":15},{\"title\":\"Practice the last thirteen signs in front of a mirror\",\"minutes\":20},{\"title\":\"Record yourself signing all twenty-five in order\",\"minutes\":20}],\"starterAction\":\"Watch the practice video for the first twelve signs\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Guitar jury on a prepared piece and scales",
+      "subject": "Guitar",
+      "description": "Performed for the music teacher, five minutes.",
+      "duePhrase": "in 7 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the sheet music to the first section\",\"minutes\":5},{\"title\":\"Play the first section slowly ten times\",\"minutes\":25},{\"title\":\"Play the second section slowly ten times\",\"minutes\":25},{\"title\":\"Play the whole piece at performance speed\",\"minutes\":20},{\"title\":\"Play all five required scales in order\",\"minutes\":20},{\"title\":\"Record the whole jury and listen back for mistakes\",\"minutes\":25}],\"starterAction\":\"Open the sheet music to the first section\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Jazz band audition on the improvised solo section",
+      "subject": "Jazz Band",
+      "description": "Sixteen bars over a blues progression.",
+      "duePhrase": "in 8 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the chart to the solo section\",\"minutes\":5},{\"title\":\"Play the scale that matches the chord progression\",\"minutes\":20},{\"title\":\"Play three practice solos over a backing track\",\"minutes\":35},{\"title\":\"Record one full solo attempt\",\"minutes\":15},{\"title\":\"Play the solo back and mark the two weakest bars\",\"minutes\":20},{\"title\":\"Play those two bars slowly five more times\",\"minutes\":25}],\"starterAction\":\"Open the chart to the solo section\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Technique exam on the semester combination",
+      "subject": "Dance",
+      "description": "Performed in groups of four.",
+      "duePhrase": "in 6 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the counts sheet and read the first eight counts\",\"minutes\":5},{\"title\":\"Practice the first eight counts slowly\",\"minutes\":25},{\"title\":\"Practice the next eight counts slowly\",\"minutes\":25},{\"title\":\"Run the whole combination at half speed\",\"minutes\":20},{\"title\":\"Run the whole combination at full speed three times\",\"minutes\":25},{\"title\":\"Record yourself and watch for counts you rush\",\"minutes\":20}],\"starterAction\":\"Open the counts sheet and read the first eight counts\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Portfolio review for the studio art class",
+      "subject": "Studio Art",
+      "description": "Twelve pieces, teacher and peer feedback.",
+      "duePhrase": "in 10 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Lay out all twelve pieces on the table\",\"minutes\":10},{\"title\":\"Sort the pieces into a rough order by theme\",\"minutes\":20},{\"title\":\"Write one sentence about each piece explaining a choice you made\",\"minutes\":35},{\"title\":\"Photograph each piece for the digital copy\",\"minutes\":30},{\"title\":\"Check every photo for glare or blur before saving\",\"minutes\":20}],\"starterAction\":\"Lay out all twelve pieces on the table\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Midterm exam on camera settings and exposure",
+      "subject": "Photography",
+      "description": "Aperture, shutter speed and ISO, written and shooting sections.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes to the exposure triangle page\",\"minutes\":5},{\"title\":\"Write the definition of aperture, shutter speed and ISO\",\"minutes\":20},{\"title\":\"Take five practice photos changing only the aperture\",\"minutes\":25},{\"title\":\"Take five practice photos changing only the shutter speed\",\"minutes\":25},{\"title\":\"Compare all ten photos and note what changed\",\"minutes\":20},{\"title\":\"Check your written definitions against your notes\",\"minutes\":15}],\"starterAction\":\"Open your notes to the exposure triangle page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Evidence quiz before the debate tournament",
+      "subject": "Debate",
+      "description": "Covers the current topic file.",
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the topic file to the first card\",\"minutes\":5},{\"title\":\"Read the first ten pieces of evidence aloud\",\"minutes\":20},{\"title\":\"Write a one-line summary of each piece\",\"minutes\":25},{\"title\":\"Cover the summaries and say what each card proves\",\"minutes\":20},{\"title\":\"Sort the cards into strong and weak evidence piles\",\"minutes\":15}],\"starterAction\":\"Open the topic file to the first card\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Safety and code quiz before the robotics competition",
+      "subject": "Robotics",
+      "description": "Written test, required for pit access.",
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the safety manual to the checklist page\",\"minutes\":5},{\"title\":\"Write the five safety rules from memory\",\"minutes\":15},{\"title\":\"Check your list against the manual\",\"minutes\":10},{\"title\":\"Answer the ten practice questions in the manual\",\"minutes\":20},{\"title\":\"Circle the ones you missed and read those pages again\",\"minutes\":15}],\"starterAction\":\"Open the safety manual to the checklist page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Practical exam on tool identification and safety",
+      "subject": "Woodshop",
+      "description": "Name each tool and its safety rule.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the tool chart and list every tool on it\",\"minutes\":10},{\"title\":\"Write the safety rule for each tool next to its name\",\"minutes\":20},{\"title\":\"Cover the names and identify each tool from its picture\",\"minutes\":20},{\"title\":\"Check what you said against the chart\",\"minutes\":10},{\"title\":\"Say the safety rule for the five you missed one more time\",\"minutes\":15}],\"starterAction\":\"Open the tool chart and list every tool on it\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Unit test on budgeting and interest",
+      "subject": "Personal Finance",
+      "description": null,
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes to the interest formula page\",\"minutes\":5},{\"title\":\"Copy the simple and compound interest formulas onto a card\",\"minutes\":20},{\"title\":\"Solve the first five practice budget problems\",\"minutes\":30},{\"title\":\"Solve the last five practice budget problems\",\"minutes\":30},{\"title\":\"Check every answer against the practice key\",\"minutes\":20}],\"starterAction\":\"Open your notes to the interest formula page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Role-play prep for the DECA regional competition",
+      "subject": "Marketing",
+      "description": "Ten-minute prep, ten-minute presentation.",
+      "duePhrase": "in 9 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the event guide to your assigned category\",\"minutes\":5},{\"title\":\"List the performance indicators the judges will score\",\"minutes\":20},{\"title\":\"Write a two-minute opening for a practice scenario\",\"minutes\":25},{\"title\":\"Say the opening out loud with a timer running\",\"minutes\":15},{\"title\":\"Record a full practice round and play it back\",\"minutes\":30},{\"title\":\"Write down the two weakest performance indicators to fix\",\"minutes\":20}],\"starterAction\":\"Open the event guide to your assigned category\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Unit test on classical empires",
+      "subject": "AP World History",
+      "description": "Rome, Han China and the Maurya Empire.",
+      "duePhrase": "in 6 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and list the three empires on one page\",\"minutes\":10},{\"title\":\"Write two facts about government for each empire\",\"minutes\":25},{\"title\":\"Write two facts about trade for each empire\",\"minutes\":25},{\"title\":\"Draw a timeline placing all three empires in order\",\"minutes\":20},{\"title\":\"Answer the practice questions in the review packet\",\"minutes\":30},{\"title\":\"Check your answers against the packet key\",\"minutes\":20}],\"starterAction\":\"Open your notes and list the three empires on one page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Formula sheet for the statistics final",
+      "subject": "AP Statistics",
+      "description": "One page, final exam allows it open.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and list every formula from this semester\",\"minutes\":15},{\"title\":\"Copy the formulas for chapters one through five onto the sheet\",\"minutes\":35},{\"title\":\"Copy the formulas for chapters six through ten onto the sheet\",\"minutes\":35},{\"title\":\"Write what each symbol stands for next to its formula\",\"minutes\":25},{\"title\":\"Solve one old free-response question using only the sheet\",\"minutes\":30}],\"starterAction\":\"Open your notes and list every formula from this semester\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Error log for the returned chemistry test",
+      "subject": "Chemistry",
+      "description": "Every missed problem, with the correct method.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Lay out the returned test and find every red mark\",\"minutes\":10},{\"title\":\"Group the misses into balancing problems and mole problems\",\"minutes\":15},{\"title\":\"Solve the balancing misses again on a blank page\",\"minutes\":30},{\"title\":\"Solve the mole misses again on a blank page\",\"minutes\":30},{\"title\":\"Write the rule that fixes each type next to the redo\",\"minutes\":20},{\"title\":\"Check the new answers against the posted key\",\"minutes\":20}],\"starterAction\":\"Lay out the returned test and find every red mark\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Concept map for the triangle congruence unit",
+      "subject": "Geometry",
+      "description": "Connects SSS, SAS, ASA and AAS.",
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a blank page and write the topic in the middle\",\"minutes\":5},{\"title\":\"List the four congruence rules around it\",\"minutes\":20},{\"title\":\"Draw a small triangle pair as an example of each rule\",\"minutes\":25},{\"title\":\"Label which sides and angles match in each example\",\"minutes\":20},{\"title\":\"Check the map against your notes for anything missing\",\"minutes\":15}],\"starterAction\":\"Open a blank page and write the topic in the middle\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Unit test on models of memory",
+      "subject": "Psychology",
+      "description": "Sensory, short-term and long-term memory.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes to the memory models section\",\"minutes\":5},{\"title\":\"Draw the three-stage model from memory\",\"minutes\":20},{\"title\":\"Label each stage with its storage limit\",\"minutes\":15},{\"title\":\"Write one real-life example for each stage\",\"minutes\":20},{\"title\":\"Check your diagram against your notes\",\"minutes\":15}],\"starterAction\":\"Open your notes to the memory models section\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Quiz on cultural universals",
+      "subject": "Anthropology",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and list every universal covered\",\"minutes\":10},{\"title\":\"Write one example of each from a culture you know\",\"minutes\":20},{\"title\":\"Cover the list and name all the universals in order\",\"minutes\":15},{\"title\":\"Check what you named against your notes\",\"minutes\":10},{\"title\":\"Say the ones you missed three more times\",\"minutes\":15}],\"starterAction\":\"Open your notes and list every universal covered\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Quiz on loops and arrays",
+      "subject": "AP Computer Science",
+      "description": null,
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes to the loops section\",\"minutes\":5},{\"title\":\"Write the syntax for a for-loop from memory\",\"minutes\":15},{\"title\":\"Write the syntax for a while-loop from memory\",\"minutes\":15},{\"title\":\"Trace through the sample code and write the output by hand\",\"minutes\":30},{\"title\":\"Check your traced output against the actual program\",\"minutes\":20}],\"starterAction\":\"Open your notes to the loops section\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Practical exam on knife skills",
+      "subject": "Culinary Arts II",
+      "description": "Dice, julienne and chiffonade, graded live.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Set out a cutting board and one practice vegetable\",\"minutes\":5},{\"title\":\"Practice the dice cut for five minutes\",\"minutes\":15},{\"title\":\"Practice the julienne cut for five minutes\",\"minutes\":15},{\"title\":\"Practice the chiffonade cut for five minutes\",\"minutes\":15},{\"title\":\"Time yourself doing all three cuts in a row\",\"minutes\":20},{\"title\":\"Check each cut against the size chart on the wall\",\"minutes\":15}],\"starterAction\":\"Set out a cutting board and one practice vegetable\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "All-state orchestra audition on the required excerpts",
+      "subject": "Orchestra",
+      "description": "Three excerpts plus scales, recorded submission.",
+      "duePhrase": "in 12 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the first excerpt and mark the hardest measure\",\"minutes\":10},{\"title\":\"Play that measure alone twenty times slowly\",\"minutes\":35},{\"title\":\"Play the whole first excerpt at tempo\",\"minutes\":25},{\"title\":\"Play the second and third excerpts the same way\",\"minutes\":45},{\"title\":\"Record all three excerpts and the scales in one take\",\"minutes\":30},{\"title\":\"Play back the recording and note two spots to fix\",\"minutes\":25}],\"starterAction\":\"Open the first excerpt and mark the hardest measure\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Sight-reading test for choir placement",
+      "subject": "Choir",
+      "description": "New piece, thirty seconds to look before singing.",
+      "duePhrase": "in 6 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a random piece of sheet music you have not seen\",\"minutes\":5},{\"title\":\"Tap the rhythm before adding any pitches\",\"minutes\":15},{\"title\":\"Sing the pitches on a neutral syllable slowly\",\"minutes\":20},{\"title\":\"Sing the pitches at a normal tempo\",\"minutes\":15},{\"title\":\"Time yourself doing the whole routine in thirty seconds\",\"minutes\":20}],\"starterAction\":\"Open a random piece of sheet music you have not seen\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Practice test for the Academic Decathlon literature module",
+      "subject": "Academic Decathlon",
+      "description": "Poetry analysis and prose passages.",
+      "duePhrase": "in 10 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the resource guide to the poetry section\",\"minutes\":5},{\"title\":\"Read the first three poems and answer the questions\",\"minutes\":35},{\"title\":\"Read the prose passage and answer the questions\",\"minutes\":35},{\"title\":\"Check your score against the answer sheet\",\"minutes\":15},{\"title\":\"Reread the poems behind every question you missed\",\"minutes\":30}],\"starterAction\":\"Open the resource guide to the poetry section\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Buzzer practice round before the quiz bowl match",
+      "subject": "Quiz Bowl",
+      "description": "Practice with the buzzer system, not just the packet.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Set up the buzzer system on the desk\",\"minutes\":5},{\"title\":\"Read ten toss-up questions out loud, one at a time\",\"minutes\":20},{\"title\":\"Press the buzzer the moment you know an answer\",\"minutes\":15},{\"title\":\"Answer the five you buzzed on correctly\",\"minutes\":10},{\"title\":\"Write down the five you missed to look up later\",\"minutes\":10}],\"starterAction\":\"Set up the buzzer system on the desk\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Make-up exam on the industrial revolution unit",
+      "subject": "US History",
+      "description": "Same test the rest of the class already took.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Collect notes from a classmate for the days you missed\",\"minutes\":10},{\"title\":\"List the five causes of the industrial revolution\",\"minutes\":20},{\"title\":\"List three effects on daily life\",\"minutes\":15},{\"title\":\"Cover the list and say the causes and effects back\",\"minutes\":15},{\"title\":\"Answer the study questions at the end of the chapter\",\"minutes\":25}],\"starterAction\":\"Collect notes from a classmate for the days you missed\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Retake of the chemistry test on the periodic table",
+      "subject": "Chemistry",
+      "description": "Same material as the test you missed.",
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Lay the old test next to a blank sheet of paper\",\"minutes\":10},{\"title\":\"Copy every question you got wrong onto the blank sheet\",\"minutes\":20},{\"title\":\"Look up the correct answer for each one in your notes\",\"minutes\":25},{\"title\":\"Write a short reason next to each correct answer\",\"minutes\":20},{\"title\":\"Answer three brand-new practice questions with the book closed\",\"minutes\":30},{\"title\":\"Mark which of the three you would still get wrong\",\"minutes\":15}],\"starterAction\":\"Lay the old test next to a blank sheet of paper\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Group study session before the geometry final",
+      "subject": "Geometry",
+      "description": "Meeting with two classmates at the library.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Bring your formula sheet and old tests to the table\",\"minutes\":5},{\"title\":\"Split the chapters evenly between the group\",\"minutes\":10},{\"title\":\"Explain your assigned chapters to the rest of the group\",\"minutes\":30},{\"title\":\"Write down notes on the other chapters as they get explained\",\"minutes\":40},{\"title\":\"Solve three practice problems together as a group\",\"minutes\":30},{\"title\":\"Check the group answers against the textbook\",\"minutes\":20}],\"starterAction\":\"Bring your formula sheet and old tests to the table\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Tutoring appointment on balancing chemical equations",
+      "subject": "Chemistry",
+      "description": "Thirty minutes with the science tutor after school.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Search your notebook for the three equations marked wrong\",\"minutes\":10},{\"title\":\"Rewrite each one on a fresh page leaving room to work\",\"minutes\":15},{\"title\":\"Underline the exact point where the atoms stop balancing\",\"minutes\":15},{\"title\":\"List one question about each equation for the tutor\",\"minutes\":15},{\"title\":\"Place the page inside your chemistry folder to take with you\",\"minutes\":10}],\"starterAction\":\"Search your notebook for the three equations marked wrong\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Full-length practice exam for AP Environmental Science",
+      "subject": "AP Environmental Science",
+      "description": "Eighty multiple choice, ninety minutes.",
+      "duePhrase": "in 9 days",
+      "sessionMinutes": 60
+    },
+    "completion": "{\"steps\":[{\"title\":\"Set a timer for ninety minutes and clear the desk\",\"minutes\":5},{\"title\":\"Answer questions one through forty against the timer\",\"minutes\":45},{\"title\":\"Answer questions forty-one through eighty against the timer\",\"minutes\":45},{\"title\":\"Check every answer against the key\",\"minutes\":25},{\"title\":\"Sort the misses into topics using your unit list\",\"minutes\":20},{\"title\":\"Reread your notes on the topic you missed most\",\"minutes\":30}],\"starterAction\":\"Set a timer for ninety minutes and clear the desk\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Vocabulary list of Latin roots for the SAT",
+      "subject": "English 11",
+      "description": "Twenty roots plus one example word each.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the twenty roots down the side of a page\",\"minutes\":15},{\"title\":\"Write what each root means next to it\",\"minutes\":20},{\"title\":\"Write one example word that uses each root\",\"minutes\":20},{\"title\":\"Cover the meanings and say each one from the root\",\"minutes\":15},{\"title\":\"Circle the five roots you missed most often\",\"minutes\":10}],\"starterAction\":\"Write the twenty roots down the side of a page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Formula sheet for the geometry final exam",
+      "subject": "Geometry",
+      "description": "Area, volume and surface area formulas.",
+      "duePhrase": "in 6 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the textbook to the formula summary pages\",\"minutes\":10},{\"title\":\"Copy every area formula onto the sheet with a small sketch\",\"minutes\":25},{\"title\":\"Copy every volume formula onto the sheet with a small sketch\",\"minutes\":25},{\"title\":\"Copy every surface area formula onto the sheet\",\"minutes\":20},{\"title\":\"Solve one practice problem per shape using only the sheet\",\"minutes\":30}],\"starterAction\":\"Open the textbook to the formula summary pages\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Timeline of Cold War events for the unit test",
+      "subject": "US History",
+      "description": null,
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes to the first Cold War event\",\"minutes\":5},{\"title\":\"List every event in the order it happened\",\"minutes\":25},{\"title\":\"Write the year next to each event\",\"minutes\":15},{\"title\":\"Cover the list and say the events back in order\",\"minutes\":20},{\"title\":\"Check the order against your notes\",\"minutes\":10}],\"starterAction\":\"Open your notes to the first Cold War event\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Concept map for classical and operant conditioning",
+      "subject": "Psychology",
+      "description": "Connects key terms and examples.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a blank page and write conditioning in the middle\",\"minutes\":5},{\"title\":\"List the key terms for classical conditioning on one side\",\"minutes\":20},{\"title\":\"List the key terms for operant conditioning on the other side\",\"minutes\":20},{\"title\":\"Draw a line connecting each term to a real example\",\"minutes\":20},{\"title\":\"Check the map against your notes for anything missing\",\"minutes\":15}],\"starterAction\":\"Open a blank page and write conditioning in the middle\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Annotated notes on a primary source for AP World History",
+      "subject": "AP World History",
+      "description": "Margin notes plus a one-paragraph summary.",
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the source and skim it once for the main idea\",\"minutes\":5},{\"title\":\"Read it again and underline every claim the author makes\",\"minutes\":20},{\"title\":\"Write a note in the margin next to each claim\",\"minutes\":20},{\"title\":\"Write a one-paragraph summary at the bottom\",\"minutes\":20},{\"title\":\"Check your summary against the underlined claims\",\"minutes\":10}],\"starterAction\":\"Open the source and skim it once for the main idea\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Practice test for the ACT science section",
+      "subject": "ACT Prep",
+      "description": "Forty questions, thirty-five minutes, seven passages.",
+      "duePhrase": "in 6 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Set a timer for thirty-five minutes\",\"minutes\":5},{\"title\":\"Answer the first three passages against the timer\",\"minutes\":30},{\"title\":\"Answer the next two passages against the timer\",\"minutes\":25},{\"title\":\"Answer the last two passages against the timer\",\"minutes\":25},{\"title\":\"Check every answer against the key\",\"minutes\":20},{\"title\":\"Circle the graphs you read wrong and look at them again\",\"minutes\":20}],\"starterAction\":\"Set a timer for thirty-five minutes\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "State end-of-course exam for English 10",
+      "subject": "English 10",
+      "description": "Reading passages and a short written response.",
+      "duePhrase": "in 8 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the released practice test to the first passage\",\"minutes\":5},{\"title\":\"Read the first passage and answer its questions\",\"minutes\":25},{\"title\":\"Read the second passage and answer its questions\",\"minutes\":25},{\"title\":\"Write a practice response to the released prompt\",\"minutes\":30},{\"title\":\"Check your answers against the released key\",\"minutes\":20},{\"title\":\"Read your response aloud and check it answers the prompt\",\"minutes\":15}],\"starterAction\":\"Open the released practice test to the first passage\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Certification test on spreadsheet skills",
+      "subject": "Computer Applications",
+      "description": "Formulas, charts and formatting.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the practice spreadsheet file\",\"minutes\":5},{\"title\":\"Write the formula for each of the five practice cells\",\"minutes\":20},{\"title\":\"Build a chart from the practice data\",\"minutes\":25},{\"title\":\"Format the header row using the practice instructions\",\"minutes\":15},{\"title\":\"Check your file against the answer file\",\"minutes\":15}],\"starterAction\":\"Open the practice spreadsheet file\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Placement test into Spanish IV",
+      "subject": "Spanish III",
+      "description": "Grammar, reading and a short writing sample.",
+      "duePhrase": "in 9 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the practice packet to the grammar section\",\"minutes\":5},{\"title\":\"Answer the grammar questions in the packet\",\"minutes\":30},{\"title\":\"Read the practice passage and answer its questions\",\"minutes\":25},{\"title\":\"Write a short paragraph answering the practice prompt\",\"minutes\":25},{\"title\":\"Check your grammar answers against the packet key\",\"minutes\":20}],\"starterAction\":\"Open the practice packet to the grammar section\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Recitation exam on the assigned Latin passage",
+      "subject": "Latin II",
+      "description": "Ten lines, graded on pronunciation.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the passage and read it silently once\",\"minutes\":5},{\"title\":\"Read the first five lines out loud slowly\",\"minutes\":15},{\"title\":\"Read the last five lines out loud slowly\",\"minutes\":15},{\"title\":\"Record yourself reciting all ten lines\",\"minutes\":15},{\"title\":\"Play the recording back and mark words to fix\",\"minutes\":15},{\"title\":\"Say the marked words correctly three times each\",\"minutes\":20}],\"starterAction\":\"Open the passage and read it silently once\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Lab practical on setting up a motion sensor experiment",
+      "subject": "Physics",
+      "description": "Timed setup, then explain each step.",
+      "duePhrase": "in 6 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the lab manual to the setup procedure\",\"minutes\":5},{\"title\":\"List the six setup steps in order\",\"minutes\":15},{\"title\":\"Set up the practice equipment and time yourself\",\"minutes\":25},{\"title\":\"Say what each step does out loud while you do it\",\"minutes\":20},{\"title\":\"Check your setup against the manual diagram\",\"minutes\":15},{\"title\":\"Set up the equipment a second time without looking\",\"minutes\":25}],\"starterAction\":\"Open the lab manual to the setup procedure\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Highway driving checkpoint with the instructor",
+      "subject": "Driver Education",
+      "description": "Merging, lane changes and exit ramps.",
+      "duePhrase": "in 7 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the checkpoint sheet and read the first skill listed\",\"minutes\":5},{\"title\":\"Practice checking mirrors before every lane change in the lot\",\"minutes\":20},{\"title\":\"Say the merge checklist out loud before driving\",\"minutes\":10},{\"title\":\"Practice merging onto the access road with the instructor\",\"minutes\":45},{\"title\":\"Practice taking an exit ramp at the correct speed\",\"minutes\":35},{\"title\":\"Check the sheet and mark which skills still need work\",\"minutes\":15}],\"starterAction\":\"Open the checkpoint sheet and read the first skill listed\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Quiz on key signatures and intervals",
+      "subject": "Music Theory",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes to the key signature chart\",\"minutes\":5},{\"title\":\"Write all twelve major key signatures from memory\",\"minutes\":25},{\"title\":\"Check your key signatures against the chart\",\"minutes\":10},{\"title\":\"Write the interval name for ten example pairs of notes\",\"minutes\":20},{\"title\":\"Check your interval answers against the answer sheet\",\"minutes\":15}],\"starterAction\":\"Open your notes to the key signature chart\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Lab practical on water quality testing",
+      "subject": "Environmental Science",
+      "description": "pH, turbidity and dissolved oxygen stations.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the lab manual to the three testing stations\",\"minutes\":5},{\"title\":\"Practice the pH test on a sample twice\",\"minutes\":20},{\"title\":\"Practice the turbidity test on a sample twice\",\"minutes\":20},{\"title\":\"Practice the dissolved oxygen test on a sample twice\",\"minutes\":20},{\"title\":\"Write the normal range for each test from memory\",\"minutes\":15},{\"title\":\"Check your written ranges against the manual\",\"minutes\":10}],\"starterAction\":\"Open the lab manual to the three testing stations\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Sectional rehearsal before the choir concert",
+      "subject": "Choir",
+      "description": "Altos only, meeting after school.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the sheet music to the hardest section\",\"minutes\":5},{\"title\":\"Sing the hardest section alone at a slow tempo\",\"minutes\":20},{\"title\":\"Sing the hardest section with the group at a slow tempo\",\"minutes\":20},{\"title\":\"Sing the whole piece with the group at full tempo\",\"minutes\":25},{\"title\":\"Record the section and listen back for pitch problems\",\"minutes\":20}],\"starterAction\":\"Open the sheet music to the hardest section\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Practice test for the Academic Decathlon science module",
+      "subject": "Academic Decathlon",
+      "description": "Physics and earth science questions.",
+      "duePhrase": "in 11 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the resource guide to the physics section\",\"minutes\":5},{\"title\":\"Answer the physics practice questions\",\"minutes\":35},{\"title\":\"Answer the earth science practice questions\",\"minutes\":35},{\"title\":\"Check your score against the answer sheet\",\"minutes\":15},{\"title\":\"Reread the pages behind every question you missed\",\"minutes\":30}],\"starterAction\":\"Open the resource guide to the physics section\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Written exam for the DECA regional competition",
+      "subject": "Marketing",
+      "description": "One hundred multiple choice questions.",
+      "duePhrase": "in 8 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the practice exam to the first section\",\"minutes\":5},{\"title\":\"Answer the first fifty questions\",\"minutes\":40},{\"title\":\"Answer the last fifty questions\",\"minutes\":40},{\"title\":\"Check every answer against the key\",\"minutes\":25},{\"title\":\"Reread the cluster exam guide pages you missed most\",\"minutes\":30}],\"starterAction\":\"Open the practice exam to the first section\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Written final exam on kitchen terms and measurements",
+      "subject": "Culinary Arts II",
+      "description": "Conversions and knife cut names.",
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes to the conversion chart\",\"minutes\":5},{\"title\":\"Write the conversion for each measurement from memory\",\"minutes\":20},{\"title\":\"Check your conversions against the chart\",\"minutes\":10},{\"title\":\"Name each knife cut from its picture on the handout\",\"minutes\":15},{\"title\":\"Check your answers against the handout key\",\"minutes\":10}],\"starterAction\":\"Open your notes to the conversion chart\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Rebuttal practice before the debate tournament final round",
+      "subject": "Debate",
+      "description": "Practice round against a likely opposing case.",
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the flow sheet from the last practice round\",\"minutes\":5},{\"title\":\"Write down the three strongest points the other side made\",\"minutes\":20},{\"title\":\"Write one rebuttal for each of the three points\",\"minutes\":25},{\"title\":\"Say all three rebuttals out loud with a timer\",\"minutes\":20},{\"title\":\"Time yourself giving the whole rebuttal speech\",\"minutes\":20}],\"starterAction\":\"Open the flow sheet from the last practice round\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Programming quiz on the autonomous code",
+      "subject": "Robotics",
+      "description": "Multiple choice on syntax and logic.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes to the autonomous code section\",\"minutes\":5},{\"title\":\"Write the syntax for the movement commands from memory\",\"minutes\":20},{\"title\":\"Check your syntax against the reference sheet\",\"minutes\":10},{\"title\":\"Trace through the sample code and predict its output\",\"minutes\":25},{\"title\":\"Check your predicted output against the actual run\",\"minutes\":15}],\"starterAction\":\"Open your notes to the autonomous code section\"}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Midterms week: Monday is English and world language, Tuesday is math and science, Wednesday is history and electives.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"English midterm\",\"dueInDays\":0,\"subject\":\"English\"},{\"title\":\"World language midterm\",\"dueInDays\":0},{\"title\":\"Math midterm\",\"dueInDays\":1,\"subject\":\"Math\"},{\"title\":\"Science midterm\",\"dueInDays\":1,\"subject\":\"Science\"},{\"title\":\"History midterm\",\"dueInDays\":2,\"subject\":\"History\"},{\"title\":\"Elective midterm\",\"dueInDays\":2}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Grading policy: labs 35 percent, tests 35 percent, homework 20 percent, notebook checks 10 percent. First test is in ten days.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"First test\",\"dueInDays\":10,\"subject\":\"Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "who else is coming to the library thursday to study for the physics test? bringing my notes and the formula sheet",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Library study session\",\"dueInDays\":3,\"subject\":\"Physics\"},{\"title\":\"Physics test\",\"dueInDays\":4,\"subject\":\"Physics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Unit 6 test covers chapters 12 through 14: World War I, the interwar period, and the start of World War II. Test is a week from Friday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Unit 6 test\",\"dueInDays\":11,\"subject\":\"World History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Assembly schedule today, all afternoon classes are cancelled.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "ACT scores post online Thursday. Retake registration opens Friday if you want to try again.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"ACT retake registration\",\"dueInDays\":4}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "French oral exams are next week, sign-up sheet on the board, each slot is three minutes starting Monday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"French oral exam sign up\",\"dueInDays\":2,\"subject\":\"French\"},{\"title\":\"French oral exam\",\"dueInDays\":7,\"subject\":\"French\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Road test appointments open online tonight at 6. Book early, slots fill up within an hour most weeks.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Book road test appointment\",\"dueInDays\":0}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Lifeguard course final skills day is Saturday, written test Sunday morning at the pool office.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Lifeguard skills day\",\"dueInDays\":5},{\"title\":\"Lifeguard written test\",\"dueInDays\":6}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Jury schedule posted outside the choir room: piano juries Monday, vocal juries Tuesday, instrumental juries Wednesday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Piano jury\",\"dueInDays\":0,\"subject\":\"Piano\"},{\"title\":\"Vocal jury\",\"dueInDays\":1,\"subject\":\"Choir\"},{\"title\":\"Instrumental jury\",\"dueInDays\":2}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "decathlon science module practice test moved to next tuesday, super quiz study guide posted online",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Science module practice test\",\"dueInDays\":8,\"subject\":\"Academic Decathlon\"},{\"title\":\"Super quiz study guide\",\"dueInDays\":5,\"subject\":\"Academic Decathlon\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Chair placement auditions signed up already? Deadline is Wednesday, audition slots run the following Monday and Tuesday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Audition sign up\",\"dueInDays\":2,\"subject\":\"Band\"},{\"title\":\"Chair placement audition\",\"dueInDays\":7,\"subject\":\"Band\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Classroom spelling bee is this Friday, top two move on to the school bee in two weeks.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Classroom spelling bee\",\"dueInDays\":4},{\"title\":\"School spelling bee\",\"dueInDays\":14}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Physics lab practical stations open Thursday, pre-lab quiz due online by Wednesday night.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Pre-lab quiz\",\"dueInDays\":2,\"subject\":\"Physics\"},{\"title\":\"Lab practical\",\"dueInDays\":3,\"subject\":\"Physics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Culinary practical exam is next Tuesday, written final the Thursday after that.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Culinary practical exam\",\"dueInDays\":8,\"subject\":\"Culinary Arts\"},{\"title\":\"Culinary written final\",\"dueInDays\":10,\"subject\":\"Culinary Arts\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Quiz bowl regional tournament bracket is posted, our first match is in two weeks, practice packets due every Monday until then.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Practice packets\",\"dueInDays\":7,\"subject\":\"Quiz Bowl\"},{\"title\":\"Regional tournament\",\"dueInDays\":14,\"subject\":\"Quiz Bowl\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Robotics safety quiz is due before Friday practice, competition itself is the second weekend of next month.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Robotics safety quiz\",\"dueInDays\":4,\"subject\":\"Robotics\"},{\"title\":\"Robotics competition\",\"dueInDays\":30,\"subject\":\"Robotics\"}]}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Prepare for the AP Calculus BC test on series",
+      "description": null
+    },
+    "completion": "{\"title\":\"Write the names of three convergence tests\",\"explanation\":\"Open your notes and write down the names of three convergence tests you remember, even without the details yet. That short list is the starting point for the whole review.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Get ready for the all-region band audition",
+      "description": "Etude plus all major scales."
+    },
+    "completion": "{\"title\":\"Play the first line of the etude once\",\"explanation\":\"Open the etude to the first line and play through it one time at any speed, mistakes included. That single run-through is the only goal for right now.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Study for the driving road test",
+      "description": null
+    },
+    "completion": "{\"title\":\"Write down the three skills being tested\",\"explanation\":\"Take a card and write the three things examiners check most: parking, turns and merging. Naming them turns a vague test into three specific things to practice.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Prepare for the debate tournament evidence check",
+      "description": "Coach reviews every card before finals."
+    },
+    "completion": "{\"title\":\"Read the first evidence card out loud\",\"explanation\":\"Open the topic file to the first card and read it out loud once, just to hear what it says. That is the only step for now, not the whole file.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Get ready for the culinary knife skills practical",
+      "description": "Dice, julienne and chiffonade cuts."
+    },
+    "completion": "{\"title\":\"Set out one vegetable and the knife\",\"explanation\":\"Take one practice vegetable and your knife and set them on the cutting board. You are not cutting anything yet, just setting up the station.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Study for the state end-of-course exam in English",
+      "description": null
+    },
+    "completion": "{\"title\":\"Read the first practice passage once\",\"explanation\":\"Open the released practice test and read straight through the first passage without answering any questions yet. That gives you something to work from instead of a blank test booklet.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Prepare for the robotics competition safety quiz",
+      "description": "Required before pit access is allowed."
+    },
+    "completion": "{\"title\":\"Write the first safety rule you remember\",\"explanation\":\"Open a blank page and write down one safety rule from the manual, whichever one comes to mind first. The rest of the list gets easier once one rule is already written down.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Get ready for the quiz bowl regional tournament",
+      "description": "Practice packets due every week before then."
+    },
+    "completion": "{\"title\":\"Read the first ten toss-up questions\",\"explanation\":\"Open the newest practice packet and read the first ten toss-up questions without trying to buzz in yet. That tells you what topics are showing up before you worry about speed.\"}"
+  }
+]

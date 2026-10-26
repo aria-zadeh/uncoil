@@ -1,0 +1,15 @@
+# CPU only, deliberately. This machine has an AMD GPU, so there is no CUDA, and
+# ROCm on Windows is brittle enough at this model size that setting it up costs
+# more time than a CPU fine-tune takes. train.py sets device="cpu" explicitly
+# and never branches on torch.cuda.is_available().
+#
+# Install with the CPU index so the wheel does not pull a CUDA runtime:
+#   train/.venv/Scripts/python.exe -m pip install -r train/requirements.txt \
+#     --extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.13.0+cpu
+transformers==5.16.1
+datasets==5.0.1
+trl==1.12.0
+peft==0.20.0
+accelerate==1.14.0
+pytest==9.1.1

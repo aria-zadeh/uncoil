@@ -1,0 +1,502 @@
+{
+  "_comment": "Shared fixture for services/dueDates.ts and train/due_dates.py. Each case: the due phrase as it appears in text, the reference weekday, the most recently resolved due (null when none), the real reference date for calendar phrases (ISO, optional), and the expected dueInDays. The convention is train/data_sources/synthesized/EXTRACTION_BRIEF.md. A combined weekday plus calendar date ('Friday the 25th', 'Friday, September 12') resolves by the calendar date when todayDate is given and by the weekday otherwise. A day number that does not exist in the month it names is null.",
+  "cases": [
+    {
+      "phrase": "today",
+      "today": "Monday",
+      "lastDue": null,
+      "expected": 0
+    },
+    {
+      "phrase": "tonight",
+      "today": "Thursday",
+      "lastDue": null,
+      "expected": 0
+    },
+    {
+      "phrase": "by the end of class",
+      "today": "Tuesday",
+      "lastDue": null,
+      "expected": 0
+    },
+    {
+      "phrase": "before you leave",
+      "today": "Friday",
+      "lastDue": null,
+      "expected": 0
+    },
+    {
+      "phrase": "tomorrow",
+      "today": "Wednesday",
+      "lastDue": null,
+      "expected": 1
+    },
+    {
+      "phrase": "the day after tomorrow",
+      "today": "Wednesday",
+      "lastDue": null,
+      "expected": 2
+    },
+    {
+      "phrase": "in 3 days",
+      "today": "Monday",
+      "lastDue": null,
+      "expected": 3
+    },
+    {
+      "phrase": "in three days",
+      "today": "Monday",
+      "lastDue": null,
+      "expected": 3
+    },
+    {
+      "phrase": "in 10 days",
+      "today": "Sunday",
+      "lastDue": null,
+      "expected": 10
+    },
+    {
+      "phrase": "in a week",
+      "today": "Monday",
+      "lastDue": null,
+      "expected": 7
+    },
+    {
+      "phrase": "in one week",
+      "today": "Monday",
+      "lastDue": null,
+      "expected": 7
+    },
+    {
+      "phrase": "in two weeks",
+      "today": "Monday",
+      "lastDue": null,
+      "expected": 14
+    },
+    {
+      "phrase": "in 2 weeks",
+      "today": "Monday",
+      "lastDue": null,
+      "expected": 14
+    },
+    {
+      "phrase": "in three weeks",
+      "today": "Monday",
+      "lastDue": null,
+      "expected": 21
+    },
+    {
+      "phrase": "in a month",
+      "today": "Monday",
+      "lastDue": null,
+      "expected": 30
+    },
+    {
+      "phrase": "end of the month",
+      "today": "Monday",
+      "lastDue": null,
+      "expected": 30
+    },
+    {
+      "phrase": "Friday",
+      "today": "Monday",
+      "lastDue": null,
+      "expected": 4
+    },
+    {
+      "phrase": "on Thursday",
+      "today": "Monday",
+      "lastDue": null,
+      "expected": 3
+    },
+    {
+      "phrase": "by Wednesday",
+      "today": "Monday",
+      "lastDue": null,
+      "expected": 2
+    },
+    {
+      "phrase": "this Friday",
+      "today": "Monday",
+      "lastDue": null,
+      "expected": 4
+    },
+    {
+      "phrase": "Monday",
+      "today": "Sunday",
+      "lastDue": null,
+      "expected": 1
+    },
+    {
+      "phrase": "Friday",
+      "today": "Wednesday",
+      "lastDue": null,
+      "expected": 2
+    },
+    {
+      "phrase": "Fri",
+      "today": "Wednesday",
+      "lastDue": null,
+      "expected": 2
+    },
+    {
+      "phrase": "Tues",
+      "today": "Sunday",
+      "lastDue": null,
+      "expected": 2
+    },
+    {
+      "phrase": "Monday",
+      "today": "Monday",
+      "lastDue": null,
+      "expected": 0
+    },
+    {
+      "phrase": "Monday",
+      "today": "Monday",
+      "lastDue": 0,
+      "expected": 0
+    },
+    {
+      "phrase": "Monday",
+      "today": "Monday",
+      "lastDue": 4,
+      "expected": 7
+    },
+    {
+      "phrase": "Monday",
+      "today": "Friday",
+      "lastDue": null,
+      "expected": 3
+    },
+    {
+      "phrase": "next Tuesday",
+      "today": "Monday",
+      "lastDue": null,
+      "expected": 8
+    },
+    {
+      "phrase": "next Monday",
+      "today": "Monday",
+      "lastDue": null,
+      "expected": 7
+    },
+    {
+      "phrase": "next Monday",
+      "today": "Friday",
+      "lastDue": null,
+      "expected": 3
+    },
+    {
+      "phrase": "next Monday",
+      "today": "Sunday",
+      "lastDue": null,
+      "expected": 1
+    },
+    {
+      "phrase": "next Monday",
+      "today": "Sunday",
+      "lastDue": 5,
+      "expected": 8
+    },
+    {
+      "phrase": "next Wednesday",
+      "today": "Sunday",
+      "lastDue": 8,
+      "expected": 10
+    },
+    {
+      "phrase": "next Friday",
+      "today": "Friday",
+      "lastDue": null,
+      "expected": 7
+    },
+    {
+      "phrase": "next Tuesday",
+      "today": "Wednesday",
+      "lastDue": null,
+      "expected": 6
+    },
+    {
+      "phrase": "next Tues",
+      "today": "Wednesday",
+      "lastDue": null,
+      "expected": 6
+    },
+    {
+      "phrase": "end of the week",
+      "today": "Sunday",
+      "lastDue": null,
+      "expected": 5
+    },
+    {
+      "phrase": "end of the week",
+      "today": "Monday",
+      "lastDue": null,
+      "expected": 4
+    },
+    {
+      "phrase": "by the end of the week",
+      "today": "Wednesday",
+      "lastDue": null,
+      "expected": 2
+    },
+    {
+      "phrase": "by Friday",
+      "today": "Friday",
+      "lastDue": null,
+      "expected": 0
+    },
+    {
+      "phrase": "by Friday",
+      "today": "Friday",
+      "lastDue": 3,
+      "expected": 7
+    },
+    {
+      "phrase": "this week",
+      "today": "Tuesday",
+      "lastDue": null,
+      "expected": 3
+    },
+    {
+      "phrase": "due this week",
+      "today": "Tuesday",
+      "lastDue": null,
+      "expected": 3
+    },
+    {
+      "phrase": "over the weekend",
+      "today": "Thursday",
+      "lastDue": null,
+      "expected": 4
+    },
+    {
+      "phrase": "after the weekend",
+      "today": "Friday",
+      "lastDue": null,
+      "expected": 3
+    },
+    {
+      "phrase": "by Monday",
+      "today": "Thursday",
+      "lastDue": null,
+      "expected": 4
+    },
+    {
+      "phrase": "the following Monday",
+      "today": "Sunday",
+      "lastDue": 5,
+      "expected": 8
+    },
+    {
+      "phrase": "the Monday after",
+      "today": "Sunday",
+      "lastDue": 5,
+      "expected": 8
+    },
+    {
+      "phrase": "the following Friday",
+      "today": "Monday",
+      "lastDue": 4,
+      "expected": 11
+    },
+    {
+      "phrase": "the following Monday",
+      "today": "Monday",
+      "lastDue": null,
+      "expected": 7
+    },
+    {
+      "phrase": "next week",
+      "today": "Monday",
+      "lastDue": null,
+      "expected": 7
+    },
+    {
+      "phrase": "the following week",
+      "today": "Monday",
+      "lastDue": 4,
+      "expected": 11
+    },
+    {
+      "phrase": "Monday after next",
+      "today": "Monday",
+      "lastDue": null,
+      "expected": 14
+    },
+    {
+      "phrase": "Friday of next week",
+      "today": "Monday",
+      "lastDue": null,
+      "expected": 11
+    },
+    {
+      "phrase": "two weeks from Friday",
+      "today": "Monday",
+      "lastDue": null,
+      "expected": 18
+    },
+    {
+      "phrase": "September 12",
+      "today": "Monday",
+      "lastDue": null,
+      "todayDate": "2026-09-07",
+      "expected": 5
+    },
+    {
+      "phrase": "Sept 12",
+      "today": "Monday",
+      "lastDue": null,
+      "todayDate": "2026-09-07",
+      "expected": 5
+    },
+    {
+      "phrase": "Sep. 12",
+      "today": "Monday",
+      "lastDue": null,
+      "todayDate": "2026-09-07",
+      "expected": 5
+    },
+    {
+      "phrase": "9/12",
+      "today": "Monday",
+      "lastDue": null,
+      "todayDate": "2026-09-07",
+      "expected": 5
+    },
+    {
+      "phrase": "the 15th",
+      "today": "Monday",
+      "lastDue": null,
+      "todayDate": "2026-09-07",
+      "expected": 8
+    },
+    {
+      "phrase": "the 3rd",
+      "today": "Monday",
+      "lastDue": null,
+      "todayDate": "2026-09-07",
+      "expected": 26
+    },
+    {
+      "phrase": "October 1",
+      "today": "Monday",
+      "lastDue": null,
+      "todayDate": "2026-09-07",
+      "expected": 24
+    },
+    {
+      "phrase": "September 12",
+      "today": "Monday",
+      "lastDue": null,
+      "expected": null
+    },
+    {
+      "phrase": "whenever",
+      "today": "Monday",
+      "lastDue": null,
+      "expected": null
+    },
+    {
+      "phrase": "",
+      "today": "Monday",
+      "lastDue": null,
+      "expected": null
+    },
+    {
+      "phrase": "Friday the 25th",
+      "today": "Monday",
+      "lastDue": null,
+      "todayDate": "2026-09-07",
+      "expected": 18
+    },
+    {
+      "phrase": "Friday, September 12",
+      "today": "Monday",
+      "lastDue": null,
+      "todayDate": "2026-09-07",
+      "expected": 5
+    },
+    {
+      "phrase": "due Friday, Sept. 12th",
+      "today": "Monday",
+      "lastDue": null,
+      "todayDate": "2026-09-07",
+      "expected": 5
+    },
+    {
+      "phrase": "Friday the 25th",
+      "today": "Monday",
+      "lastDue": null,
+      "expected": 4
+    },
+    {
+      "phrase": "by next Fri",
+      "today": "Wednesday",
+      "lastDue": null,
+      "expected": 9
+    },
+    {
+      "phrase": "due Thurs.",
+      "today": "Monday",
+      "lastDue": null,
+      "expected": 3
+    },
+    {
+      "phrase": "in 1 day",
+      "today": "Monday",
+      "lastDue": null,
+      "expected": 1
+    },
+    {
+      "phrase": "the 31st",
+      "today": "Monday",
+      "lastDue": null,
+      "todayDate": "2026-09-07",
+      "expected": null
+    },
+    {
+      "phrase": "two weeks from today",
+      "today": "Monday",
+      "lastDue": null,
+      "expected": 14
+    },
+    {
+      "phrase": "one week from tomorrow",
+      "today": "Monday",
+      "lastDue": null,
+      "expected": 8
+    },
+    {
+      "phrase": "three days after that",
+      "today": "Monday",
+      "lastDue": 10,
+      "expected": 13
+    },
+    {
+      "phrase": "2 days later",
+      "today": "Monday",
+      "lastDue": 3,
+      "expected": 5
+    },
+    {
+      "phrase": "a week after that",
+      "today": "Monday",
+      "lastDue": 3,
+      "expected": 10
+    },
+    {
+      "phrase": "the following Mon",
+      "today": "Sunday",
+      "lastDue": 5,
+      "expected": 8
+    },
+    {
+      "phrase": "The following Wed",
+      "today": "Sunday",
+      "lastDue": 8,
+      "expected": 10
+    }
+  ]
+}

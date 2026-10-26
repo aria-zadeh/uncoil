@@ -1,0 +1,117 @@
+[
+  {
+    "id": "titration-lab",
+    "kind": "breakdown",
+    "task": {
+      "title": "Lab report: titration of vinegar",
+      "subject": "Chemistry",
+      "description": "Write up the acetic acid titration from Tuesday. Needs data table, average titre, percent acetic acid calculation, and a sources of error paragraph.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    }
+  },
+  {
+    "id": "gatsby-chapters",
+    "kind": "breakdown",
+    "task": {
+      "title": "Read Gatsby chapters 4 and 5",
+      "subject": "English",
+      "description": "Annotate for symbols and write three discussion questions.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    }
+  },
+  {
+    "id": "quadratics-problem-set",
+    "kind": "breakdown",
+    "task": {
+      "title": "Problem set 6.2 quadratics",
+      "subject": "Algebra 2",
+      "description": "Problems 1 to 20 odd, factoring and the quadratic formula. Show work.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 45
+    }
+  },
+  {
+    "id": "new-deal-dbq",
+    "kind": "breakdown",
+    "task": {
+      "title": "DBQ on the New Deal",
+      "subject": "US History",
+      "description": null,
+      "duePhrase": "next week",
+      "sessionMinutes": 60
+    }
+  },
+  {
+    "id": "spanish-vocab-quiz",
+    "kind": "breakdown",
+    "task": {
+      "title": "Study for unit 4 vocab quiz",
+      "subject": "Spanish",
+      "description": "40 words, food and restaurant, plus ordering phrases.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    }
+  },
+  {
+    "id": "photosynthesis-slides",
+    "kind": "breakdown",
+    "task": {
+      "title": "Photosynthesis presentation",
+      "subject": "Biology",
+      "description": "Five slides with a partner on the light reactions, present Thursday.",
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 30
+    }
+  },
+  {
+    "id": "persuasive-essay",
+    "kind": "breakdown",
+    "task": {
+      "title": "Persuasive essay on school start times",
+      "subject": "English",
+      "description": "Five paragraphs, two sources cited in MLA, rubric on Canvas.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    }
+  },
+  {
+    "id": "python-loops",
+    "kind": "breakdown",
+    "task": {
+      "title": "Coding assignment: loops",
+      "subject": "Computer Science",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 15
+    }
+  },
+  {
+    "id": "syllabus-week-block",
+    "kind": "extraction",
+    "task": {
+      "today": "Sunday",
+      "text": "Week 3. Monday: quiz on chapters 1 to 3. Wednesday: bring your lab notebook, lab 2 write-up due Friday. Thursday: no homework, office hours after school. Friday: chapter 4 reading questions due, project proposal due the following Monday."
+    },
+    "expected": [
+      { "title": "quiz on chapters 1 to 3", "dueInDays": 1 },
+      { "title": "lab 2 write-up", "dueInDays": 5 },
+      { "title": "chapter 4 reading questions", "dueInDays": 5 },
+      { "title": "project proposal", "dueInDays": 8 }
+    ]
+  },
+  {
+    "id": "teacher-email",
+    "kind": "extraction",
+    "task": {
+      "today": "Wednesday",
+      "text": "Hi all, reminder that the unit 2 test is Friday and covers everything through cell transport. The study guide is due tomorrow at the start of class. Signed field trip forms need to be in by next Tuesday. Have a good week. Ms. Okafor"
+    },
+    "expected": [
+      { "title": "unit 2 test", "dueInDays": 2 },
+      { "title": "study guide", "dueInDays": 1 },
+      { "title": "signed field trip forms", "dueInDays": 6 }
+    ]
+  }
+]

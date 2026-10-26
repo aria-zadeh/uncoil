@@ -1,0 +1,1517 @@
+[
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Lab report on osmosis in potato strips",
+      "subject": "Biology",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the osmosis data\",\"minutes\":5},{\"title\":\"Copy the starting and ending mass of each potato strip into the table\",\"minutes\":20},{\"title\":\"Calculate the percent change in mass for each strip\",\"minutes\":25},{\"title\":\"Graph percent change against the salt concentration\",\"minutes\":30},{\"title\":\"Write the conclusion using the graph\",\"minutes\":30},{\"title\":\"Check every unit and label on the table\",\"minutes\":15}],\"starterAction\":\"Open your lab notebook to the osmosis data\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Onion root tip mitosis microscope drawing",
+      "subject": "Biology",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the microscope and find the root tip slide\",\"minutes\":5},{\"title\":\"Turn the focus knob until the cells appear\",\"minutes\":10},{\"title\":\"Sketch one cell from each stage you can find\",\"minutes\":35},{\"title\":\"Label each stage with its name\",\"minutes\":20},{\"title\":\"Check your drawing against the diagram in the packet\",\"minutes\":15}],\"starterAction\":\"Open the microscope and find the root tip slide\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Frog dissection lab report",
+      "subject": "Biology",
+      "description": "External and internal anatomy.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Put on your gloves and safety goggles\",\"minutes\":5},{\"title\":\"Open the dissection tray and check every tool\",\"minutes\":5},{\"title\":\"Place the specimen on the tray and pin back the skin\",\"minutes\":20},{\"title\":\"Photograph each organ system as you expose it\",\"minutes\":25},{\"title\":\"Label the diagram in the packet as you go\",\"minutes\":30},{\"title\":\"Write the conclusion comparing what you expected to find\",\"minutes\":30}],\"starterAction\":\"Put on your gloves and safety goggles\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Owl pellet dissection and bone sorting",
+      "subject": "Biology",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the pellet with the wooden probe\",\"minutes\":10},{\"title\":\"Sort the bones by shape into small piles\",\"minutes\":20},{\"title\":\"Match each pile to the bone chart in the packet\",\"minutes\":25},{\"title\":\"Count how many skeletons you can identify\",\"minutes\":15},{\"title\":\"Record your counts on the lab sheet\",\"minutes\":10}],\"starterAction\":\"Open the pellet with the wooden probe\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Earthworm dissection post-lab questions",
+      "subject": "Biology",
+      "description": "Eight questions.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the lab packet to the question page\",\"minutes\":5},{\"title\":\"Reread your dissection notes from class\",\"minutes\":10},{\"title\":\"Answer the first four questions in order\",\"minutes\":20},{\"title\":\"Answer the last four questions in order\",\"minutes\":20}],\"starterAction\":\"Open the lab packet to the question page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Punnett square practice worksheet",
+      "subject": "Biology",
+      "description": "Monohybrid and dihybrid crosses.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and put your name on it\",\"minutes\":5},{\"title\":\"Draw a punnett square for each of the first five crosses\",\"minutes\":25},{\"title\":\"Draw a punnett square for the remaining crosses\",\"minutes\":25},{\"title\":\"Fill in the ratio under each square\",\"minutes\":15},{\"title\":\"Check your ratios against the answer key\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and put your name on it\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Build a model of an animal cell",
+      "subject": "Biology",
+      "description": null,
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 60
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and list every organelle it requires\",\"minutes\":10},{\"title\":\"Gather the craft materials for the cell model\",\"minutes\":30},{\"title\":\"Build the outer membrane and cytoplasm first\",\"minutes\":40},{\"title\":\"Add and label each organelle inside it\",\"minutes\":45},{\"title\":\"Check the sheet again for anything missing\",\"minutes\":15}],\"starterAction\":\"Open the assignment sheet and list every organelle it requires\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Food web diagram for the local ecosystem",
+      "subject": "Biology",
+      "description": null,
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your field notes from the ecosystem unit\",\"minutes\":10},{\"title\":\"List every organism you observed in your notes\",\"minutes\":15},{\"title\":\"Draw an arrow from each organism to what eats it\",\"minutes\":30},{\"title\":\"Label each arrow with the energy direction\",\"minutes\":20},{\"title\":\"Check that every organism has at least one arrow\",\"minutes\":15}],\"starterAction\":\"Open your field notes from the ecosystem unit\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Vocabulary set for the genetics unit",
+      "subject": "Biology",
+      "description": "Twenty terms.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the first ten terms on index cards\",\"minutes\":20},{\"title\":\"Answer those ten cards without looking at your notes\",\"minutes\":15},{\"title\":\"Write the next ten terms on index cards\",\"minutes\":20},{\"title\":\"Answer all twenty cards without looking\",\"minutes\":20},{\"title\":\"Stack the cards you missed in a separate pile\",\"minutes\":10}],\"starterAction\":\"Write the first ten terms on index cards\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Ecology survey of the schoolyard plot",
+      "subject": "Biology",
+      "description": "Quadrat method.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the data table for the survey\",\"minutes\":5},{\"title\":\"Mark off a one-meter square with string and stakes\",\"minutes\":15},{\"title\":\"Count every plant and insect inside the square\",\"minutes\":25},{\"title\":\"Record each count in the data table\",\"minutes\":15},{\"title\":\"Repeat the count in two more squares\",\"minutes\":30},{\"title\":\"Compare the three squares and note any pattern\",\"minutes\":20}],\"starterAction\":\"Print the data table for the survey\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Enzyme lab on catalase activity",
+      "subject": "Honors Biology",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the catalase data\",\"minutes\":5},{\"title\":\"Copy the bubble height for each trial into the table\",\"minutes\":20},{\"title\":\"Calculate the reaction rate for each trial\",\"minutes\":30},{\"title\":\"Graph rate against temperature\",\"minutes\":30},{\"title\":\"Write the conclusion using the graph\",\"minutes\":30},{\"title\":\"Check every unit and significant figure\",\"minutes\":15}],\"starterAction\":\"Open your lab notebook to the catalase data\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Pedigree chart for an inherited trait",
+      "subject": "Honors Biology",
+      "description": "Three generations.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and reread the family history\",\"minutes\":10},{\"title\":\"Sketch the symbols for three generations in pencil\",\"minutes\":25},{\"title\":\"Fill in each symbol with the trait it shows\",\"minutes\":20},{\"title\":\"Trace the trait back to the first generation\",\"minutes\":15},{\"title\":\"Write one sentence on the likely inheritance pattern\",\"minutes\":15}],\"starterAction\":\"Open the assignment sheet and reread the family history\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "DNA extraction from strawberries write-up",
+      "subject": "Honors Biology",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the extraction steps\",\"minutes\":5},{\"title\":\"Write down what you observed at each stage\",\"minutes\":20},{\"title\":\"Describe what the visible strands are made of\",\"minutes\":15},{\"title\":\"Answer the three post-lab questions\",\"minutes\":20}],\"starterAction\":\"Open your lab notebook to the extraction steps\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Protein synthesis flowchart",
+      "subject": "Honors Biology",
+      "description": "Transcription and translation.",
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes on transcription and translation\",\"minutes\":10},{\"title\":\"List every step in order on scratch paper\",\"minutes\":20},{\"title\":\"Draw a box for each step\",\"minutes\":25},{\"title\":\"Draw an arrow connecting each box to the next\",\"minutes\":15},{\"title\":\"Label each arrow with what molecule moves\",\"minutes\":20},{\"title\":\"Check your flowchart against your notes\",\"minutes\":15}],\"starterAction\":\"Open your notes on transcription and translation\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Case study on a genetic disorder",
+      "subject": "Honors Biology",
+      "description": "One page.",
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and note what the case study must cover\",\"minutes\":10},{\"title\":\"List the symptoms and the chromosome involved\",\"minutes\":20},{\"title\":\"Write the opening paragraph without stopping to edit\",\"minutes\":25},{\"title\":\"Write the remaining paragraphs\",\"minutes\":30},{\"title\":\"Read it aloud and fix what sounds wrong\",\"minutes\":15}],\"starterAction\":\"Open the assignment sheet and note what the case study must cover\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Taxonomy classification worksheet",
+      "subject": "Honors Biology",
+      "description": "Twelve organisms.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and find the first organism\",\"minutes\":5},{\"title\":\"Sort the first six organisms into their kingdom and phylum\",\"minutes\":20},{\"title\":\"Sort the remaining six organisms\",\"minutes\":20},{\"title\":\"Check your answers against the classification key\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and find the first organism\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Free-response practice on natural selection",
+      "subject": "AP Biology",
+      "description": "Three prompts.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the practice packet to the first prompt\",\"minutes\":5},{\"title\":\"Outline the claim and evidence for the first prompt\",\"minutes\":25},{\"title\":\"Write the full response to the first prompt\",\"minutes\":35},{\"title\":\"Outline and write the response to the second prompt\",\"minutes\":40},{\"title\":\"Outline and write the response to the third prompt\",\"minutes\":40},{\"title\":\"Check each response against the scoring guidelines\",\"minutes\":20}],\"starterAction\":\"Open the practice packet to the first prompt\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Lab report on cellular respiration rates",
+      "subject": "AP Biology",
+      "description": "CO2 output in germinating seeds.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the respiration data\",\"minutes\":5},{\"title\":\"Copy the gas readings for each trial into the table\",\"minutes\":20},{\"title\":\"Calculate the average rate at each temperature\",\"minutes\":30},{\"title\":\"Graph the rate against temperature\",\"minutes\":30},{\"title\":\"Write the conclusion using the graph\",\"minutes\":30},{\"title\":\"Check every calculation against your raw data\",\"minutes\":15}],\"starterAction\":\"Open your lab notebook to the respiration data\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Pre-lab questions for the enzyme lab",
+      "subject": "AP Biology",
+      "description": "Five questions.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the lab manual to the enzyme procedure\",\"minutes\":5},{\"title\":\"Read the procedure once all the way through\",\"minutes\":10},{\"title\":\"Answer the first three questions in order\",\"minutes\":20},{\"title\":\"Answer the last two questions\",\"minutes\":15}],\"starterAction\":\"Open the lab manual to the enzyme procedure\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Research poster on an invasive species",
+      "subject": "AP Biology",
+      "description": "Trifold board.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 60
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and list what the poster must show\",\"minutes\":10},{\"title\":\"Search for three sources on the species you picked\",\"minutes\":40},{\"title\":\"Write the introduction and background section\",\"minutes\":35},{\"title\":\"Write the impact and control section\",\"minutes\":35},{\"title\":\"Print the images and headings you need\",\"minutes\":30},{\"title\":\"Arrange everything on the board before gluing\",\"minutes\":35}],\"starterAction\":\"Open the assignment sheet and list what the poster must show\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Data table and graph for a population growth model",
+      "subject": "AP Biology",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the spreadsheet template for the model\",\"minutes\":5},{\"title\":\"Enter the starting population and growth rate\",\"minutes\":15},{\"title\":\"Calculate the population for ten generations\",\"minutes\":30},{\"title\":\"Graph the population against generation number\",\"minutes\":25},{\"title\":\"Compare the shape of the curve to the reading\",\"minutes\":15}],\"starterAction\":\"Open the spreadsheet template for the model\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Article summary on CRISPR gene editing",
+      "subject": "AP Biology",
+      "description": "One page.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the article and skim the headings first\",\"minutes\":5},{\"title\":\"Read the article once straight through\",\"minutes\":25},{\"title\":\"Underline the three sentences that matter most\",\"minutes\":10},{\"title\":\"Write the summary in one sitting\",\"minutes\":30},{\"title\":\"Read it aloud and fix what sounds wrong\",\"minutes\":15}],\"starterAction\":\"Open the article and skim the headings first\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Unit test study guide on evolution",
+      "subject": "AP Biology",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and put them in date order\",\"minutes\":10},{\"title\":\"List every vocabulary term on one page\",\"minutes\":25},{\"title\":\"Write eight questions a test might ask\",\"minutes\":20},{\"title\":\"Answer your own questions without looking\",\"minutes\":30},{\"title\":\"Answer again the ones you missed\",\"minutes\":20}],\"starterAction\":\"Open your notes and put them in date order\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Lab practical review on cell organelles",
+      "subject": "AP Biology",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and find the organelle diagrams\",\"minutes\":10},{\"title\":\"Cover the labels and name each organelle from memory\",\"minutes\":20},{\"title\":\"Check your answers against the diagrams\",\"minutes\":15},{\"title\":\"Repeat for the organelles you missed\",\"minutes\":15}],\"starterAction\":\"Open your notes and find the organelle diagrams\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Titration lab report",
+      "subject": "Chemistry",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the titration data\",\"minutes\":5},{\"title\":\"Record the burette reading at the start and end of each trial\",\"minutes\":20},{\"title\":\"Calculate the volume of titrant used in each trial\",\"minutes\":20},{\"title\":\"Calculate the concentration of the unknown solution\",\"minutes\":30},{\"title\":\"Explain any outlier trial in one sentence\",\"minutes\":15},{\"title\":\"Check every significant figure in your answers\",\"minutes\":15}],\"starterAction\":\"Open your lab notebook to the titration data\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Stoichiometry problem set",
+      "subject": "Chemistry",
+      "description": "Mole-to-mass conversions.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the balanced equation for problem one\",\"minutes\":5},{\"title\":\"Convert the given grams to moles for the first five problems\",\"minutes\":30},{\"title\":\"Convert moles of product back to grams for those five\",\"minutes\":25},{\"title\":\"Solve the remaining five problems the same way\",\"minutes\":30},{\"title\":\"Check every answer against the back of the packet\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy the balanced equation for problem one\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Balancing chemical equations worksheet",
+      "subject": "Chemistry",
+      "description": "Twenty equations.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and count the atoms in equation one\",\"minutes\":5},{\"title\":\"Balance the first ten equations in order\",\"minutes\":25},{\"title\":\"Balance the last ten equations\",\"minutes\":25},{\"title\":\"Check every equation by recounting the atoms\",\"minutes\":20}],\"starterAction\":\"Open the worksheet and count the atoms in equation one\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Periodic table trends poster",
+      "subject": "Chemistry",
+      "description": "Atomic radius and electronegativity.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and list the trends it requires\",\"minutes\":10},{\"title\":\"Sketch the outline of the periodic table in pencil\",\"minutes\":30},{\"title\":\"Shade the trend arrows across each row\",\"minutes\":30},{\"title\":\"Label three example elements for each trend\",\"minutes\":35},{\"title\":\"Check the sheet again for anything missing\",\"minutes\":15}],\"starterAction\":\"Open the assignment sheet and list the trends it requires\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Flame test lab observations",
+      "subject": "Chemistry",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the flame test table\",\"minutes\":5},{\"title\":\"Record the flame colour for each of the first four samples\",\"minutes\":20},{\"title\":\"Record the flame colour for the remaining samples\",\"minutes\":20},{\"title\":\"Match each colour to the metal ion on the reference sheet\",\"minutes\":20},{\"title\":\"Write one sentence on any sample you could not match\",\"minutes\":15}],\"starterAction\":\"Open your lab notebook to the flame test table\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Density lab with irregular solids",
+      "subject": "Chemistry",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the density data\",\"minutes\":5},{\"title\":\"Weigh each of the five solids on the balance\",\"minutes\":20},{\"title\":\"Record the water level before and after each solid\",\"minutes\":20},{\"title\":\"Calculate the volume and density of each solid\",\"minutes\":30},{\"title\":\"Graph density against the known material\",\"minutes\":25},{\"title\":\"Check each density against the accepted value\",\"minutes\":15}],\"starterAction\":\"Open your lab notebook to the density data\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Safety quiz for the chemistry lab",
+      "subject": "Chemistry",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the safety sheet and read it once through\",\"minutes\":10},{\"title\":\"Answer the first ten questions in order\",\"minutes\":20},{\"title\":\"Answer the remaining questions\",\"minutes\":20},{\"title\":\"Check your answers against the safety sheet\",\"minutes\":15}],\"starterAction\":\"Open the safety sheet and read it once through\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Percent yield lab calculations",
+      "subject": "Chemistry",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the yield data\",\"minutes\":5},{\"title\":\"Calculate the theoretical yield from the equation\",\"minutes\":25},{\"title\":\"Calculate the percent yield using your actual mass\",\"minutes\":25},{\"title\":\"Write one sentence explaining any yield over 100 percent\",\"minutes\":20},{\"title\":\"Check every calculation for a sign error\",\"minutes\":15}],\"starterAction\":\"Open your lab notebook to the yield data\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Naming ionic and covalent compounds worksheet",
+      "subject": "Chemistry",
+      "description": "Thirty formulas.",
+      "duePhrase": "Friday",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and find the first formula\",\"minutes\":5},{\"title\":\"Name the first fifteen compounds in order\",\"minutes\":30},{\"title\":\"Name the remaining fifteen compounds\",\"minutes\":30},{\"title\":\"Check your names against the answer key\",\"minutes\":20}],\"starterAction\":\"Open the worksheet and find the first formula\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Gas laws lab on pressure and volume",
+      "subject": "Chemistry",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the gas laws data\",\"minutes\":5},{\"title\":\"Record the volume at each pressure setting\",\"minutes\":20},{\"title\":\"Calculate the constant for each trial\",\"minutes\":25},{\"title\":\"Graph pressure against volume\",\"minutes\":30},{\"title\":\"Write the conclusion comparing your graph to the law\",\"minutes\":30},{\"title\":\"Check every unit and significant figure\",\"minutes\":15}],\"starterAction\":\"Open your lab notebook to the gas laws data\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Free-response practice on equilibrium",
+      "subject": "AP Chemistry",
+      "description": "Two prompts.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the free-response packet and read the first prompt\",\"minutes\":5},{\"title\":\"Write the equilibrium expression for the first prompt\",\"minutes\":20},{\"title\":\"Solve for the missing concentration\",\"minutes\":30},{\"title\":\"Write the full response to the second prompt\",\"minutes\":40},{\"title\":\"Check both responses against the scoring guidelines\",\"minutes\":20}],\"starterAction\":\"Open the free-response packet and read the first prompt\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Buffer lab report",
+      "subject": "AP Chemistry",
+      "description": "pH and capacity.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the buffer data\",\"minutes\":5},{\"title\":\"Record the pH after each addition of acid\",\"minutes\":20},{\"title\":\"Record the pH after each addition of base\",\"minutes\":20},{\"title\":\"Graph pH against volume added\",\"minutes\":30},{\"title\":\"Write the conclusion using the graph\",\"minutes\":30},{\"title\":\"Check every reading against your raw notes\",\"minutes\":15}],\"starterAction\":\"Open your lab notebook to the buffer data\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Molarity and dilution problem set",
+      "subject": "AP Chemistry",
+      "description": "Twenty problems.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the dilution formula\",\"minutes\":5},{\"title\":\"Solve the first ten problems in order\",\"minutes\":30},{\"title\":\"Solve the remaining ten problems\",\"minutes\":30},{\"title\":\"Check every solved problem against the back of the packet\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy the dilution formula\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Thermochemistry lab on heat of reaction",
+      "subject": "AP Chemistry",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the calorimetry data\",\"minutes\":5},{\"title\":\"Record the starting and final temperature for each trial\",\"minutes\":20},{\"title\":\"Calculate the heat released in each trial\",\"minutes\":30},{\"title\":\"Calculate the average heat per mole\",\"minutes\":25},{\"title\":\"Write the conclusion comparing your value to the accepted one\",\"minutes\":30},{\"title\":\"Check every unit and sign\",\"minutes\":15}],\"starterAction\":\"Open your lab notebook to the calorimetry data\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Lab practical review on qualitative analysis",
+      "subject": "AP Chemistry",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes on the test reactions\",\"minutes\":10},{\"title\":\"Cover the results column and predict each test from memory\",\"minutes\":20},{\"title\":\"Check your predictions against the results column\",\"minutes\":15},{\"title\":\"Repeat for the tests you missed\",\"minutes\":15}],\"starterAction\":\"Open your notes on the test reactions\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Vocabulary set for the kinetics unit",
+      "subject": "AP Chemistry",
+      "description": "Fifteen terms.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the first eight terms on index cards\",\"minutes\":15},{\"title\":\"Answer those eight cards without looking at your notes\",\"minutes\":15},{\"title\":\"Write the remaining seven terms on index cards\",\"minutes\":15},{\"title\":\"Answer all fifteen cards without looking\",\"minutes\":20},{\"title\":\"Stack the cards you missed in a separate pile\",\"minutes\":10}],\"starterAction\":\"Write the first eight terms on index cards\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Article summary on green chemistry",
+      "subject": "AP Chemistry",
+      "description": "One page.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the article and skim the headings first\",\"minutes\":5},{\"title\":\"Read the article once straight through\",\"minutes\":25},{\"title\":\"Underline the sentences that state the main claim\",\"minutes\":15},{\"title\":\"Write the summary in one sitting\",\"minutes\":30},{\"title\":\"Read it aloud and fix what sounds wrong\",\"minutes\":15}],\"starterAction\":\"Find the article and skim the headings first\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Free-body diagram set for blocks on inclines",
+      "subject": "Physics",
+      "description": "Five scenarios.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and find the first scenario\",\"minutes\":5},{\"title\":\"Sketch the block for the first two scenarios\",\"minutes\":20},{\"title\":\"Draw every force vector acting on the block\",\"minutes\":25},{\"title\":\"Label each vector with its name\",\"minutes\":20},{\"title\":\"Sketch and label the remaining three scenarios\",\"minutes\":30},{\"title\":\"Check that every diagram has gravity and a normal force\",\"minutes\":15}],\"starterAction\":\"Open the packet and find the first scenario\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Circuit diagram lab for series and parallel wiring",
+      "subject": "Physics",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the circuit data\",\"minutes\":5},{\"title\":\"Draw the series circuit and label each resistor\",\"minutes\":20},{\"title\":\"Record the current and voltage at each resistor\",\"minutes\":20},{\"title\":\"Draw the parallel circuit and label each resistor\",\"minutes\":20},{\"title\":\"Record the current and voltage for that circuit\",\"minutes\":20},{\"title\":\"Compare the two circuits in one sentence\",\"minutes\":15}],\"starterAction\":\"Open your lab notebook to the circuit data\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Lab report on acceleration down a ramp",
+      "subject": "Physics",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the acceleration data\",\"minutes\":5},{\"title\":\"Record the time for each of the five trials\",\"minutes\":20},{\"title\":\"Calculate the acceleration for each trial\",\"minutes\":30},{\"title\":\"Graph velocity against time\",\"minutes\":30},{\"title\":\"Write the conclusion using the slope of the graph\",\"minutes\":30},{\"title\":\"Check every unit against your raw notes\",\"minutes\":15}],\"starterAction\":\"Open your lab notebook to the acceleration data\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Momentum and collision lab",
+      "subject": "Physics",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the collision data\",\"minutes\":5},{\"title\":\"Weigh both carts before the trials\",\"minutes\":15},{\"title\":\"Record the velocity of each cart before and after the collision\",\"minutes\":25},{\"title\":\"Calculate the momentum before and after each trial\",\"minutes\":30},{\"title\":\"Write the conclusion comparing the two totals\",\"minutes\":25},{\"title\":\"Check every unit in every calculation\",\"minutes\":15}],\"starterAction\":\"Open your lab notebook to the collision data\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Wave properties worksheet",
+      "subject": "Physics",
+      "description": "Wavelength, frequency, speed.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and find the first wave diagram\",\"minutes\":5},{\"title\":\"Measure the wavelength on the first four diagrams\",\"minutes\":25},{\"title\":\"Calculate the frequency for those four\",\"minutes\":25},{\"title\":\"Solve the remaining problems the same way\",\"minutes\":30},{\"title\":\"Check your answers against the formula sheet\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and find the first wave diagram\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Pendulum lab on period and length",
+      "subject": "Physics",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the pendulum data\",\"minutes\":5},{\"title\":\"Time twenty swings at the first length\",\"minutes\":20},{\"title\":\"Time twenty swings at four more lengths\",\"minutes\":30},{\"title\":\"Calculate the period for each length\",\"minutes\":25},{\"title\":\"Graph period against length\",\"minutes\":25},{\"title\":\"Check every timing against your raw notes\",\"minutes\":15}],\"starterAction\":\"Open your lab notebook to the pendulum data\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Vector addition problem set",
+      "subject": "Physics",
+      "description": "Fifteen problems.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the first vector pair\",\"minutes\":5},{\"title\":\"Solve the first seven problems by components\",\"minutes\":20},{\"title\":\"Solve the remaining eight problems\",\"minutes\":20},{\"title\":\"Check your answers against the back of the packet\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy the first vector pair\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Pre-lab questions for the projectile motion lab",
+      "subject": "Physics",
+      "description": "Four questions.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the lab manual to the projectile procedure\",\"minutes\":5},{\"title\":\"Read the procedure once all the way through\",\"minutes\":10},{\"title\":\"Answer the first two questions\",\"minutes\":15},{\"title\":\"Answer the last two questions\",\"minutes\":15}],\"starterAction\":\"Open the lab manual to the projectile procedure\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Unit test study guide on kinematics",
+      "subject": "Physics",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Gather your notes from the whole unit\",\"minutes\":10},{\"title\":\"Copy every formula onto one page\",\"minutes\":25},{\"title\":\"Write eight questions a test might ask\",\"minutes\":20},{\"title\":\"Answer your own questions without looking\",\"minutes\":30},{\"title\":\"Answer again the ones you missed\",\"minutes\":20}],\"starterAction\":\"Gather your notes from the whole unit\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Free-response practice on rotational motion",
+      "subject": "AP Physics 1",
+      "description": "Two prompts.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the practice set to the first free-response prompt\",\"minutes\":5},{\"title\":\"Draw the diagram the first prompt asks for\",\"minutes\":20},{\"title\":\"Solve the first prompt showing every step\",\"minutes\":30},{\"title\":\"Draw and solve the second prompt\",\"minutes\":40},{\"title\":\"Check both responses against the scoring guidelines\",\"minutes\":20}],\"starterAction\":\"Open the practice set to the first free-response prompt\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Lab report on rotational inertia",
+      "subject": "AP Physics 1",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the rotational data\",\"minutes\":5},{\"title\":\"Record the angular acceleration for each mass\",\"minutes\":20},{\"title\":\"Calculate the rotational inertia for each trial\",\"minutes\":30},{\"title\":\"Graph inertia against the mass distribution\",\"minutes\":30},{\"title\":\"Write the conclusion using the graph\",\"minutes\":30},{\"title\":\"Check every unit and significant figure\",\"minutes\":15}],\"starterAction\":\"Open your lab notebook to the rotational data\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Circuit diagram lab on capacitor charging",
+      "subject": "AP Physics 1",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the capacitor data\",\"minutes\":5},{\"title\":\"Draw the charging circuit and label each part\",\"minutes\":20},{\"title\":\"Record the voltage across the capacitor every ten seconds\",\"minutes\":25},{\"title\":\"Graph voltage against time\",\"minutes\":25},{\"title\":\"Write the conclusion comparing your curve to the formula\",\"minutes\":20}],\"starterAction\":\"Open your lab notebook to the capacitor data\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Energy conservation problem set",
+      "subject": "AP Physics 1",
+      "description": "Twelve problems.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the first energy diagram\",\"minutes\":5},{\"title\":\"Solve the first six problems using conservation of energy\",\"minutes\":30},{\"title\":\"Solve the remaining six problems\",\"minutes\":30},{\"title\":\"Check your work against the back of the packet\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy the first energy diagram\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Simple harmonic motion lab on a spring",
+      "subject": "AP Physics 1",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the spring data\",\"minutes\":5},{\"title\":\"Hang five different masses from the spring\",\"minutes\":20},{\"title\":\"Record the stretch distance for each mass\",\"minutes\":20},{\"title\":\"Calculate the spring constant from the data\",\"minutes\":30},{\"title\":\"Graph force against stretch distance\",\"minutes\":30},{\"title\":\"Check every unit and significant figure\",\"minutes\":15}],\"starterAction\":\"Open your lab notebook to the spring data\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Vocabulary set for the electricity unit",
+      "subject": "AP Physics 1",
+      "description": "Sixteen terms.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Copy the first eight electricity terms onto index cards\",\"minutes\":15},{\"title\":\"Answer those eight cards without looking at your notes\",\"minutes\":15},{\"title\":\"Write the remaining eight terms on index cards\",\"minutes\":15},{\"title\":\"Answer all sixteen cards without looking\",\"minutes\":20},{\"title\":\"Stack the cards you missed in a separate pile\",\"minutes\":10}],\"starterAction\":\"Copy the first eight electricity terms onto index cards\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Unit test study guide on forces and motion",
+      "subject": "AP Physics 1",
+      "description": null,
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your binder and find the notes for this unit\",\"minutes\":10},{\"title\":\"Copy every formula onto one page\",\"minutes\":25},{\"title\":\"Solve one problem of each type from old quizzes\",\"minutes\":40},{\"title\":\"Mark the types you got wrong\",\"minutes\":10},{\"title\":\"Solve three more problems of the types you missed\",\"minutes\":30}],\"starterAction\":\"Open your binder and find the notes for this unit\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Skeletal system labeling diagram",
+      "subject": "Anatomy and Physiology",
+      "description": "Front and back view.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the textbook to the skeletal system diagram\",\"minutes\":5},{\"title\":\"Sketch the front view outline in pencil\",\"minutes\":20},{\"title\":\"Label every bone on the front view\",\"minutes\":25},{\"title\":\"Sketch and label the back view\",\"minutes\":30},{\"title\":\"Check your labels against the textbook\",\"minutes\":15}],\"starterAction\":\"Open the textbook to the skeletal system diagram\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Sheep heart dissection lab report",
+      "subject": "Anatomy and Physiology",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Put on your safety goggles and apron\",\"minutes\":5},{\"title\":\"Open the dissection tray and check every tool\",\"minutes\":5},{\"title\":\"Place the specimen on the tray and rinse it first\",\"minutes\":15},{\"title\":\"Cut along the first line on the diagram to open a chamber\",\"minutes\":25},{\"title\":\"Photograph each chamber and valve as you find it\",\"minutes\":25},{\"title\":\"Label the diagram in the packet as you go\",\"minutes\":30},{\"title\":\"Write the conclusion comparing what you expected to find\",\"minutes\":30}],\"starterAction\":\"Put on your safety goggles and apron\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Muscle diagram for the upper body",
+      "subject": "Anatomy and Physiology",
+      "description": "Twelve muscles.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the textbook to the muscle diagram\",\"minutes\":5},{\"title\":\"Trace the outline of the body in pencil\",\"minutes\":15},{\"title\":\"Draw each of the first six muscles in place\",\"minutes\":30},{\"title\":\"Draw the remaining six muscles\",\"minutes\":30},{\"title\":\"Label every muscle with its name\",\"minutes\":25}],\"starterAction\":\"Open the textbook to the muscle diagram\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Blood pressure lab data table",
+      "subject": "Anatomy and Physiology",
+      "description": "Resting and after exercise.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the blood pressure table\",\"minutes\":5},{\"title\":\"Record each partner's resting reading three times\",\"minutes\":20},{\"title\":\"Record each partner's reading after one minute of exercise\",\"minutes\":20},{\"title\":\"Calculate the average change for each partner\",\"minutes\":20},{\"title\":\"Check every reading against your raw notes\",\"minutes\":15}],\"starterAction\":\"Open your lab notebook to the blood pressure table\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Reflex arc diagram and worksheet",
+      "subject": "Anatomy and Physiology",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and find the reflex arc diagram\",\"minutes\":5},{\"title\":\"Trace the path of the signal with a pencil\",\"minutes\":15},{\"title\":\"Label each part the signal passes through\",\"minutes\":20},{\"title\":\"Answer the three questions at the bottom\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and find the reflex arc diagram\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Digestive system model",
+      "subject": "Anatomy and Physiology",
+      "description": null,
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 60
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and list every organ the model must show\",\"minutes\":10},{\"title\":\"Gather the craft materials for the organ model\",\"minutes\":30},{\"title\":\"Build the tube from the mouth to the stomach\",\"minutes\":40},{\"title\":\"Add and attach each remaining organ\",\"minutes\":45},{\"title\":\"Label every organ with its name\",\"minutes\":25},{\"title\":\"Check the sheet again for anything missing\",\"minutes\":15}],\"starterAction\":\"Open the assignment sheet and list every organ the model must show\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Vocabulary set for the nervous system unit",
+      "subject": "Anatomy and Physiology",
+      "description": "Eighteen terms.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the first nine terms on index cards\",\"minutes\":15},{\"title\":\"Answer those nine cards without looking at your notes\",\"minutes\":15},{\"title\":\"Write the remaining nine terms on index cards\",\"minutes\":15},{\"title\":\"Answer all eighteen cards without looking\",\"minutes\":20},{\"title\":\"Stack the cards you missed in a separate pile\",\"minutes\":10}],\"starterAction\":\"Write the first nine terms on index cards\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Case study on a joint injury",
+      "subject": "Anatomy and Physiology",
+      "description": "One page.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Read the assignment sheet and note the case requirements\",\"minutes\":10},{\"title\":\"List the joint involved and the type of movement lost\",\"minutes\":20},{\"title\":\"Write the opening paragraph without stopping to edit\",\"minutes\":25},{\"title\":\"Write the remaining paragraphs\",\"minutes\":30},{\"title\":\"Read it aloud and fix what sounds wrong\",\"minutes\":15}],\"starterAction\":\"Read the assignment sheet and note the case requirements\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Water quality testing at the local stream",
+      "subject": "Environmental Science",
+      "description": "pH, turbidity, temperature.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the data table for the stream site\",\"minutes\":5},{\"title\":\"Measure the water temperature at three points along the stream\",\"minutes\":20},{\"title\":\"Measure the pH at the same three points\",\"minutes\":20},{\"title\":\"Record the turbidity reading for each point\",\"minutes\":15},{\"title\":\"Compare the three points and note any pattern\",\"minutes\":20}],\"starterAction\":\"Print the data table for the stream site\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Biodiversity index calculation for two sites",
+      "subject": "Environmental Science",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your field notes from both sites\",\"minutes\":10},{\"title\":\"Count every species you recorded at the first site\",\"minutes\":20},{\"title\":\"Count every species you recorded at the second site\",\"minutes\":20},{\"title\":\"Calculate the diversity index for each site\",\"minutes\":30},{\"title\":\"Compare the two indexes in one sentence\",\"minutes\":15}],\"starterAction\":\"Open your field notes from both sites\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Carbon footprint worksheet",
+      "subject": "Environmental Science",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and find the first category\",\"minutes\":5},{\"title\":\"Fill in your household numbers for the first three categories\",\"minutes\":20},{\"title\":\"Fill in the remaining categories\",\"minutes\":20},{\"title\":\"Add up the total and check it against the scale on the sheet\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and find the first category\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Soil sample testing lab",
+      "subject": "Environmental Science",
+      "description": "pH and composition.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the soil data\",\"minutes\":5},{\"title\":\"Weigh each of the three soil samples\",\"minutes\":15},{\"title\":\"Record the pH of each sample\",\"minutes\":20},{\"title\":\"Mix each sample with water and record the layers\",\"minutes\":25},{\"title\":\"Write the conclusion comparing the three samples\",\"minutes\":25}],\"starterAction\":\"Open your lab notebook to the soil data\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Research poster on a renewable energy source",
+      "subject": "Environmental Science",
+      "description": "Trifold board.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 60
+    },
+    "completion": "{\"steps\":[{\"title\":\"Read the assignment sheet and list what the poster needs\",\"minutes\":10},{\"title\":\"Search for three sources on the energy source you picked\",\"minutes\":40},{\"title\":\"Write the how-it-works section\",\"minutes\":35},{\"title\":\"Write the costs and benefits section\",\"minutes\":35},{\"title\":\"Print the images and headings you need\",\"minutes\":30},{\"title\":\"Arrange everything on the board before gluing\",\"minutes\":35}],\"starterAction\":\"Read the assignment sheet and list what the poster needs\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Recycling audit of the classroom",
+      "subject": "Environmental Science",
+      "description": "One week of data.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the data table for the audit\",\"minutes\":5},{\"title\":\"Weigh the recycling bin at the end of each day\",\"minutes\":25},{\"title\":\"Weigh the trash bin at the end of each day\",\"minutes\":25},{\"title\":\"Calculate the recycling rate for the week\",\"minutes\":20},{\"title\":\"Write one sentence on what changed the rate most\",\"minutes\":15}],\"starterAction\":\"Print the data table for the audit\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Article summary on ocean acidification",
+      "subject": "Environmental Science",
+      "description": "One page.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the article and read the first paragraph twice\",\"minutes\":5},{\"title\":\"Read the article once straight through\",\"minutes\":25},{\"title\":\"Underline the sentences that state the main claim\",\"minutes\":15},{\"title\":\"Write the summary in one sitting\",\"minutes\":30},{\"title\":\"Read it aloud and fix what sounds wrong\",\"minutes\":15}],\"starterAction\":\"Open the article and read the first paragraph twice\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Population sampling with the quadrat method",
+      "subject": "APES",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the data table for the sampling plot\",\"minutes\":5},{\"title\":\"Mark off five one-meter squares with string and stakes\",\"minutes\":25},{\"title\":\"Count every organism inside each square\",\"minutes\":30},{\"title\":\"Record each count in the data table\",\"minutes\":15},{\"title\":\"Calculate the average density per square meter\",\"minutes\":25}],\"starterAction\":\"Print the data table for the sampling plot\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Air quality data table and graph",
+      "subject": "APES",
+      "description": "One week of readings.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the data table for the week\",\"minutes\":5},{\"title\":\"Record the air quality index at the same time each day\",\"minutes\":25},{\"title\":\"Graph the index against the day of the week\",\"minutes\":25},{\"title\":\"Write one sentence on the day with the worst reading\",\"minutes\":15}],\"starterAction\":\"Print the data table for the week\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Invasive species field report",
+      "subject": "APES",
+      "description": "One page.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your field notes on the species you tracked\",\"minutes\":10},{\"title\":\"List every location where you found it\",\"minutes\":20},{\"title\":\"Write the impact section using your notes\",\"minutes\":30},{\"title\":\"Write the control section using your notes\",\"minutes\":30},{\"title\":\"Read it aloud and fix what sounds wrong\",\"minutes\":15}],\"starterAction\":\"Open your field notes on the species you tracked\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Free-response practice on nutrient cycles",
+      "subject": "APES",
+      "description": "Two prompts.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the practice packet and read the first question\",\"minutes\":5},{\"title\":\"Diagram the cycle the first prompt asks about\",\"minutes\":20},{\"title\":\"Write the full response to the first prompt\",\"minutes\":30},{\"title\":\"Diagram and write the response to the second prompt\",\"minutes\":40},{\"title\":\"Check both responses against the scoring guidelines\",\"minutes\":20}],\"starterAction\":\"Open the practice packet and read the first question\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Vocabulary set for the ecology unit",
+      "subject": "APES",
+      "description": "Twenty terms.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Copy the first ten ecology terms onto index cards\",\"minutes\":20},{\"title\":\"Answer those ten cards without looking at your notes\",\"minutes\":15},{\"title\":\"Write the next ten terms on index cards\",\"minutes\":20},{\"title\":\"Answer all twenty cards without looking\",\"minutes\":20},{\"title\":\"Stack the cards you missed in a separate pile\",\"minutes\":10}],\"starterAction\":\"Copy the first ten ecology terms onto index cards\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Unit test study guide on biogeochemical cycles",
+      "subject": "APES",
+      "description": null,
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Collect your notes from the whole unit\",\"minutes\":10},{\"title\":\"Diagram each cycle on its own page\",\"minutes\":30},{\"title\":\"Write eight questions a test might ask\",\"minutes\":20},{\"title\":\"Answer your own questions without looking\",\"minutes\":30},{\"title\":\"Answer again the ones you missed\",\"minutes\":20}],\"starterAction\":\"Collect your notes from the whole unit\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Rock and mineral identification lab",
+      "subject": "Earth Science",
+      "description": "Ten samples.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the lab manual to the identification key\",\"minutes\":5},{\"title\":\"Press each of the first five samples onto the streak plate\",\"minutes\":25},{\"title\":\"Record the streak colour and hardness for those five\",\"minutes\":20},{\"title\":\"Press and record the remaining five samples\",\"minutes\":25},{\"title\":\"Match each sample to a name using the key\",\"minutes\":20}],\"starterAction\":\"Open the lab manual to the identification key\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Plate tectonics boundary diagram",
+      "subject": "Earth Science",
+      "description": "Three boundary types.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the textbook to the plate boundary diagrams\",\"minutes\":5},{\"title\":\"Sketch the convergent boundary and label the arrows\",\"minutes\":25},{\"title\":\"Sketch the divergent boundary and label the arrows\",\"minutes\":25},{\"title\":\"Sketch the transform boundary and label the arrows\",\"minutes\":25},{\"title\":\"Check each diagram against the textbook\",\"minutes\":15}],\"starterAction\":\"Open the textbook to the plate boundary diagrams\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Weather map analysis worksheet",
+      "subject": "Earth Science",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and find the first weather map\",\"minutes\":5},{\"title\":\"Circle every high and low pressure system on the map\",\"minutes\":20},{\"title\":\"Trace the front lines with the correct symbols\",\"minutes\":20},{\"title\":\"Answer the five questions at the bottom\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and find the first weather map\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Rock cycle diagram",
+      "subject": "Earth Science",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes on the three rock types\",\"minutes\":10},{\"title\":\"Sketch the cycle as a loop of arrows\",\"minutes\":20},{\"title\":\"Label each arrow with what happens there\",\"minutes\":20},{\"title\":\"Label each rock type in its place on the loop\",\"minutes\":20},{\"title\":\"Check your diagram against your notes\",\"minutes\":15}],\"starterAction\":\"Open your notes on the three rock types\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Topographic map reading worksheet",
+      "subject": "Earth Science",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and find the topographic map\",\"minutes\":5},{\"title\":\"Trace every fifth contour line in a darker pencil\",\"minutes\":20},{\"title\":\"Mark the highest and lowest points on the map\",\"minutes\":15},{\"title\":\"Answer the elevation questions at the bottom\",\"minutes\":20}],\"starterAction\":\"Open the worksheet and find the topographic map\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Layers of the atmosphere diagram",
+      "subject": "Earth Science",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the textbook to the atmosphere diagram\",\"minutes\":5},{\"title\":\"Sketch the four layers as stacked bands\",\"minutes\":20},{\"title\":\"Label each layer with its name and height range\",\"minutes\":20},{\"title\":\"Check your diagram against the textbook\",\"minutes\":15}],\"starterAction\":\"Open the textbook to the atmosphere diagram\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Fossil record worksheet",
+      "subject": "Earth Science",
+      "description": null,
+      "duePhrase": "Friday",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and find the first rock layer\",\"minutes\":5},{\"title\":\"Order the layers from oldest to youngest\",\"minutes\":20},{\"title\":\"Match each fossil to the layer it was found in\",\"minutes\":25},{\"title\":\"Answer the three questions about the timeline\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and find the first rock layer\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Field observation log for the weather unit",
+      "subject": "Earth Science",
+      "description": "Five days.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the log template for the week\",\"minutes\":5},{\"title\":\"Record the temperature and sky condition each morning\",\"minutes\":25},{\"title\":\"Record the wind direction each afternoon\",\"minutes\":20},{\"title\":\"Graph the temperature across the five days\",\"minutes\":25}],\"starterAction\":\"Print the log template for the week\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Phases of the moon observation log",
+      "subject": "Astronomy",
+      "description": "Two weeks.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the log template for two weeks of viewing\",\"minutes\":5},{\"title\":\"Sketch the moon's shape on the first night\",\"minutes\":10},{\"title\":\"Sketch the moon's shape every following night\",\"minutes\":35},{\"title\":\"Label each sketch with the phase name\",\"minutes\":20},{\"title\":\"Check your sequence against the phase diagram\",\"minutes\":15}],\"starterAction\":\"Print the log template for two weeks of viewing\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Scale model of the solar system",
+      "subject": "Astronomy",
+      "description": null,
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 60
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and list every body it requires\",\"minutes\":10},{\"title\":\"Calculate the scaled distance for each planet\",\"minutes\":35},{\"title\":\"Gather the materials for each planet\",\"minutes\":30},{\"title\":\"Place and label each planet at its scaled distance\",\"minutes\":45},{\"title\":\"Check the sheet again for anything missing\",\"minutes\":15}],\"starterAction\":\"Open the assignment sheet and list every body it requires\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Constellation identification worksheet",
+      "subject": "Astronomy",
+      "description": "Star chart.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the star chart and find the first constellation\",\"minutes\":5},{\"title\":\"Trace the outline of the first five constellations\",\"minutes\":25},{\"title\":\"Trace the remaining constellations\",\"minutes\":25},{\"title\":\"Name each one on the chart\",\"minutes\":20},{\"title\":\"Check your names against the chart key\",\"minutes\":15}],\"starterAction\":\"Open the star chart and find the first constellation\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Telescope observation log for a planet",
+      "subject": "Astronomy",
+      "description": "Three nights.",
+      "duePhrase": "in 10 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the log template for three nights\",\"minutes\":5},{\"title\":\"Set up the telescope and find the planet\",\"minutes\":20},{\"title\":\"Sketch what you see through the eyepiece\",\"minutes\":20},{\"title\":\"Record the time and sky conditions\",\"minutes\":15},{\"title\":\"Repeat on the next two clear nights\",\"minutes\":35}],\"starterAction\":\"Print the log template for three nights\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Distance and light-year calculations worksheet",
+      "subject": "Astronomy",
+      "description": "Ten problems.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the speed of light\",\"minutes\":5},{\"title\":\"Solve the first five problems in order\",\"minutes\":25},{\"title\":\"Solve the remaining five problems\",\"minutes\":25},{\"title\":\"Check your answers against the back of the sheet\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the speed of light\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Research poster on a named exoplanet",
+      "subject": "Astronomy",
+      "description": "Trifold board.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 60
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the rubric and list what the poster must include\",\"minutes\":10},{\"title\":\"Search for three sources on the planet you picked\",\"minutes\":40},{\"title\":\"Write the discovery and orbit section\",\"minutes\":35},{\"title\":\"Write the size and composition section\",\"minutes\":35},{\"title\":\"Print the images and headings you need\",\"minutes\":30},{\"title\":\"Arrange everything on the board before gluing\",\"minutes\":35}],\"starterAction\":\"Open the rubric and list what the poster must include\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Vocabulary set for the stellar evolution unit",
+      "subject": "Astronomy",
+      "description": "Fourteen terms.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the first seven terms on index cards\",\"minutes\":15},{\"title\":\"Answer those seven cards without looking at your notes\",\"minutes\":15},{\"title\":\"Write the remaining seven terms on index cards\",\"minutes\":15},{\"title\":\"Answer all fourteen cards without looking\",\"minutes\":20},{\"title\":\"Stack the cards you missed in a separate pile\",\"minutes\":10}],\"starterAction\":\"Write the first seven terms on index cards\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Tide pool species survey",
+      "subject": "Marine Biology",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the data table for the tide pool survey\",\"minutes\":5},{\"title\":\"Count every organism in the first three tide pools\",\"minutes\":25},{\"title\":\"Count every organism in the remaining pools\",\"minutes\":25},{\"title\":\"Record each count in the data table\",\"minutes\":15},{\"title\":\"Compare the pools and note any pattern\",\"minutes\":20}],\"starterAction\":\"Print the data table for the tide pool survey\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Ocean zone diagram",
+      "subject": "Marine Biology",
+      "description": "Sunlight, twilight, midnight zones.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the textbook to the ocean zone diagram\",\"minutes\":5},{\"title\":\"Sketch the ocean as stacked bands from surface to floor\",\"minutes\":20},{\"title\":\"Label each zone with its depth range\",\"minutes\":20},{\"title\":\"Draw one organism that lives in each zone\",\"minutes\":25},{\"title\":\"Check your diagram against the textbook\",\"minutes\":15}],\"starterAction\":\"Open the textbook to the ocean zone diagram\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Salinity testing lab",
+      "subject": "Marine Biology",
+      "description": "Four water samples.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the salinity data\",\"minutes\":5},{\"title\":\"Measure the salinity of each of the four samples\",\"minutes\":25},{\"title\":\"Record the temperature of each sample\",\"minutes\":20},{\"title\":\"Graph salinity against sample location\",\"minutes\":25},{\"title\":\"Write the conclusion comparing the four readings\",\"minutes\":25}],\"starterAction\":\"Open your lab notebook to the salinity data\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Marine food web diagram",
+      "subject": "Marine Biology",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and list every organism from the unit\",\"minutes\":15},{\"title\":\"Draw an arrow from each organism to what eats it\",\"minutes\":25},{\"title\":\"Label each arrow with the energy direction\",\"minutes\":20},{\"title\":\"Check that every organism has at least one arrow\",\"minutes\":15}],\"starterAction\":\"Open your notes and list every organism from the unit\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Plankton tow sample identification",
+      "subject": "Marine Biology",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the microscope and find the sample slide\",\"minutes\":5},{\"title\":\"Sketch the first five organisms you can see\",\"minutes\":30},{\"title\":\"Match each sketch to the identification key\",\"minutes\":25},{\"title\":\"Count how many of each type you found\",\"minutes\":20}],\"starterAction\":\"Open the microscope and find the sample slide\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Research poster on coral reef bleaching",
+      "subject": "Marine Biology",
+      "description": "Trifold board.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 60
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the assignment sheet and list what the poster must show\",\"minutes\":10},{\"title\":\"Search for three sources on coral bleaching\",\"minutes\":40},{\"title\":\"Write the causes section\",\"minutes\":30},{\"title\":\"Write the effects section\",\"minutes\":30},{\"title\":\"Print the images and headings you need\",\"minutes\":30},{\"title\":\"Arrange everything on the board before gluing\",\"minutes\":35}],\"starterAction\":\"Find the assignment sheet and list what the poster must show\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Fingerprint classification lab",
+      "subject": "Forensic Science",
+      "description": "Loops, whorls, arches.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the fingerprint sheet\",\"minutes\":5},{\"title\":\"Press each of your ten fingers onto the print card\",\"minutes\":25},{\"title\":\"Sort each print into loop, whorl, or arch\",\"minutes\":25},{\"title\":\"Count how many of each pattern you found\",\"minutes\":15},{\"title\":\"Compare your pattern counts with a partner's\",\"minutes\":20}],\"starterAction\":\"Open your lab notebook to the fingerprint sheet\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Blood spatter angle calculations",
+      "subject": "Forensic Science",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the angle formula\",\"minutes\":5},{\"title\":\"Measure the length and width of the first five drops\",\"minutes\":25},{\"title\":\"Calculate the impact angle for those five\",\"minutes\":25},{\"title\":\"Solve the remaining drops the same way\",\"minutes\":30},{\"title\":\"Check your angles against the back of the packet\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy the angle formula\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Handwriting analysis worksheet",
+      "subject": "Forensic Science",
+      "description": "Four samples.",
+      "duePhrase": "Friday",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and find the first pair of samples\",\"minutes\":5},{\"title\":\"Compare the letter slant in the first pair\",\"minutes\":20},{\"title\":\"Compare the letter spacing in the remaining pairs\",\"minutes\":20},{\"title\":\"Write your conclusion for each pair\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and find the first pair of samples\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Mock crime scene sketch",
+      "subject": "Forensic Science",
+      "description": "Overhead view with scale.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and list what the sketch must show\",\"minutes\":10},{\"title\":\"Measure the room and the position of every item\",\"minutes\":30},{\"title\":\"Sketch the outline of the room to scale\",\"minutes\":25},{\"title\":\"Place and label every item you measured\",\"minutes\":25},{\"title\":\"Check the sketch against your measurements\",\"minutes\":15}],\"starterAction\":\"Open the assignment sheet and list what the sketch must show\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Chromatography lab on pen ink",
+      "subject": "Forensic Science",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the chromatography data\",\"minutes\":5},{\"title\":\"Mark each of the four ink samples on the strip\",\"minutes\":20},{\"title\":\"Time how long the solvent takes to climb the strip\",\"minutes\":20},{\"title\":\"Measure the distance each colour travelled\",\"minutes\":25},{\"title\":\"Compare the pattern to the unknown sample\",\"minutes\":20}],\"starterAction\":\"Open your lab notebook to the chromatography data\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Shoe print casting lab report",
+      "subject": "Forensic Science",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the casting steps\",\"minutes\":5},{\"title\":\"Mix the casting compound to the right thickness\",\"minutes\":20},{\"title\":\"Pour the compound into the print and wait for it to set\",\"minutes\":25},{\"title\":\"Measure the length and tread pattern once it hardens\",\"minutes\":25},{\"title\":\"Write the conclusion comparing it to the reference print\",\"minutes\":25}],\"starterAction\":\"Open your lab notebook to the casting steps\"}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Biology: read chapter 9 tonight, quiz on cell structure tomorrow, lab report on osmosis due in one week.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Read chapter 9\",\"dueInDays\":0,\"subject\":\"Biology\"},{\"title\":\"Quiz on cell structure\",\"dueInDays\":1,\"subject\":\"Biology\"},{\"title\":\"Lab report on osmosis\",\"dueInDays\":7,\"subject\":\"Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Chemistry lab tomorrow. Bring your safety goggles and a lab notebook. Pre-lab questions due at the start of class.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Pre-lab questions\",\"dueInDays\":1,\"subject\":\"Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Reminder: AP Physics 1 problem set 4 is due Friday. The free-body diagram packet from last week is due Monday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Problem set 4\",\"dueInDays\":4,\"subject\":\"AP Physics 1\"},{\"title\":\"Free-body diagram packet\",\"dueInDays\":7,\"subject\":\"AP Physics 1\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "No lab this week, the microscopes are being serviced. Regular reading and notes continue as usual.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Earth Science: rock and mineral lab Thursday, bring closed-toe shoes. Study guide for the unit test due the following Tuesday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Rock and mineral lab\",\"dueInDays\":3,\"subject\":\"Earth Science\"},{\"title\":\"Study guide for the unit test\",\"dueInDays\":8,\"subject\":\"Earth Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Dissection permission forms are due tomorrow. Students without a signed form will complete an alternate assignment during the frog dissection next week.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Dissection permission form\",\"dueInDays\":1},{\"title\":\"Alternate assignment\",\"dueInDays\":7}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "APES: soil sample data due Wednesday. Population sampling write-up due the following Monday. Bring your field notebook every day this week.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Soil sample data\",\"dueInDays\":2,\"subject\":\"APES\"},{\"title\":\"Population sampling write-up\",\"dueInDays\":7,\"subject\":\"APES\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Astronomy observation log check-in is Friday. Bring your sketches from at least three nights. The solar system model is due in two weeks.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Observation log check-in\",\"dueInDays\":4,\"subject\":\"Astronomy\"},{\"title\":\"Solar system model\",\"dueInDays\":14,\"subject\":\"Astronomy\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Forensic Science: fingerprint lab today, chromatography lab Thursday, unit test the Monday after.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Chromatography lab\",\"dueInDays\":3,\"subject\":\"Forensic Science\"},{\"title\":\"Unit test\",\"dueInDays\":7,\"subject\":\"Forensic Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Marine Biology field trip to the tide pools is next Tuesday. Permission slip and five dollars due Friday. Species log due the following week.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Permission slip\",\"dueInDays\":4,\"subject\":\"Marine Biology\"},{\"title\":\"Species log\",\"dueInDays\":11,\"subject\":\"Marine Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Honors Biology: pedigree chart due in three days. DNA extraction lab write-up due in five days.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Pedigree chart\",\"dueInDays\":3,\"subject\":\"Honors Biology\"},{\"title\":\"DNA extraction lab write-up\",\"dueInDays\":5,\"subject\":\"Honors Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "AP Chemistry: buffer lab this Thursday, molarity problem set due Monday, unit test in two weeks.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Buffer lab\",\"dueInDays\":3,\"subject\":\"AP Chemistry\"},{\"title\":\"Molarity problem set\",\"dueInDays\":7,\"subject\":\"AP Chemistry\"},{\"title\":\"Unit test\",\"dueInDays\":14,\"subject\":\"AP Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Field trip forms went home today. Nothing else is due this week, enjoy the long weekend.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Field trip form\",\"dueInDays\":1}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Anatomy and Physiology: skeletal system quiz Friday, muscle diagram due the following Wednesday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Skeletal system quiz\",\"dueInDays\":4,\"subject\":\"Anatomy and Physiology\"},{\"title\":\"Muscle diagram\",\"dueInDays\":9,\"subject\":\"Anatomy and Physiology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Physics: circuit lab tomorrow, bring your calculator. Vector addition problem set due Thursday. Pendulum lab write-up due next week.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Circuit lab\",\"dueInDays\":1,\"subject\":\"Physics\"},{\"title\":\"Vector addition problem set\",\"dueInDays\":3,\"subject\":\"Physics\"},{\"title\":\"Pendulum lab write-up\",\"dueInDays\":7,\"subject\":\"Physics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Environmental Science: water testing at the stream is Wednesday, wear boots. Recycling audit data due the following Friday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Water testing at the stream\",\"dueInDays\":2,\"subject\":\"Environmental Science\"},{\"title\":\"Recycling audit data\",\"dueInDays\":4,\"subject\":\"Environmental Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "AP Biology: free-response practice due tomorrow, respiration lab report due in five days, evolution study guide due in ten days.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Free-response practice\",\"dueInDays\":1,\"subject\":\"AP Biology\"},{\"title\":\"Respiration lab report\",\"dueInDays\":5,\"subject\":\"AP Biology\"},{\"title\":\"Evolution study guide\",\"dueInDays\":10,\"subject\":\"AP Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Reminder that the science fair proposal is due next Monday. Materials lists and background research follow two weeks after that.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Science fair proposal\",\"dueInDays\":7},{\"title\":\"Materials list\",\"dueInDays\":21}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Chemistry: safety quiz Monday, titration lab Wednesday, percent yield calculations due Friday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Safety quiz\",\"dueInDays\":0,\"subject\":\"Chemistry\"},{\"title\":\"Titration lab\",\"dueInDays\":2,\"subject\":\"Chemistry\"},{\"title\":\"Percent yield calculations\",\"dueInDays\":4,\"subject\":\"Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Class is canceled tomorrow for a school assembly. We will pick up the stoichiometry unit on Thursday, no new assignments.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "AP Physics 1: energy conservation problem set due Wednesday, spring lab write-up due the following Monday, electricity vocabulary quiz two days after that.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Energy conservation problem set\",\"dueInDays\":2,\"subject\":\"AP Physics 1\"},{\"title\":\"Spring lab write-up\",\"dueInDays\":7,\"subject\":\"AP Physics 1\"},{\"title\":\"Electricity vocabulary quiz\",\"dueInDays\":9,\"subject\":\"AP Physics 1\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Earth Science field trip to the quarry is Friday. Bring a notebook, water, and closed-toe shoes. No other homework this week.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Field trip to the quarry\",\"dueInDays\":4,\"subject\":\"Earth Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Astronomy: telescope night is weather permitting next Tuesday, observation log due the following Friday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Observation log\",\"dueInDays\":11,\"subject\":\"Astronomy\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Marine Biology: salinity lab Thursday, ocean zone diagram due Monday, food web diagram due the following Thursday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Salinity lab\",\"dueInDays\":3,\"subject\":\"Marine Biology\"},{\"title\":\"Ocean zone diagram\",\"dueInDays\":7,\"subject\":\"Marine Biology\"},{\"title\":\"Food web diagram\",\"dueInDays\":10,\"subject\":\"Marine Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Forensic Science: blood spatter calculations due tomorrow, handwriting analysis worksheet due Wednesday, mock crime scene project due in two weeks.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Blood spatter calculations\",\"dueInDays\":1,\"subject\":\"Forensic Science\"},{\"title\":\"Handwriting analysis worksheet\",\"dueInDays\":2,\"subject\":\"Forensic Science\"},{\"title\":\"Mock crime scene project\",\"dueInDays\":14,\"subject\":\"Forensic Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "APES: air quality data collection starts Monday and runs all week, data table due the following Monday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Air quality data table\",\"dueInDays\":14,\"subject\":\"APES\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Honors Biology: taxonomy worksheet due Friday, case study on a genetic disorder due in two weeks. Extra credit reading is optional and has no due date.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Taxonomy worksheet\",\"dueInDays\":4,\"subject\":\"Honors Biology\"},{\"title\":\"Case study on a genetic disorder\",\"dueInDays\":14,\"subject\":\"Honors Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "AP Chemistry: thermochemistry lab is Thursday, kinetics vocabulary quiz Friday, green chemistry article summary due the following Wednesday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Thermochemistry lab\",\"dueInDays\":3,\"subject\":\"AP Chemistry\"},{\"title\":\"Kinetics vocabulary quiz\",\"dueInDays\":4,\"subject\":\"AP Chemistry\"},{\"title\":\"Green chemistry article summary\",\"dueInDays\":9,\"subject\":\"AP Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Biology: no new assignments this week while we finish the ecology unit test makeups. Bring your notebook every day.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Physics: acceleration lab data due tomorrow, momentum lab write-up due in five days, kinematics study guide due in nine days.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Acceleration lab data\",\"dueInDays\":1,\"subject\":\"Physics\"},{\"title\":\"Momentum lab write-up\",\"dueInDays\":5,\"subject\":\"Physics\"},{\"title\":\"Kinematics study guide\",\"dueInDays\":9,\"subject\":\"Physics\"}]}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Synthesize your understanding of cellular respiration and photosynthesis into a comparative analysis",
+      "description": null
+    },
+    "completion": "{\"title\":\"Draw two labeled circles\",\"explanation\":\"Draw one circle for respiration and one for photosynthesis. Write what goes in and what comes out of each. That is the whole comparison, just laid out side by side instead of in your head.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Critically evaluate the validity of your lab's experimental design",
+      "description": null
+    },
+    "completion": "{\"title\":\"List your three data table columns\",\"explanation\":\"Open your data table and write down what the three column headings are. Seeing what you actually measured is the first step before judging whether the design holds up.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Investigate the stoichiometric relationships governing the given chemical reaction",
+      "description": "Show all work."
+    },
+    "completion": "{\"title\":\"Open the packet to problem one\",\"explanation\":\"Open your stoichiometry packet and find the first problem. Copy the balanced equation onto your paper. You do not need to solve anything yet, just get the numbers in front of you.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Design and conduct an independent investigation for the science fair",
+      "description": null
+    },
+    "completion": "{\"title\":\"Write down three things you wonder about\",\"explanation\":\"Grab a blank page and write three questions you are actually curious about, no matter how small. Your science fair project starts from whichever one you cannot stop thinking about.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Construct a detailed free-body diagram accounting for all forces acting on the system",
+      "description": "Block on a ramp."
+    },
+    "completion": "{\"title\":\"Draw one small square\",\"explanation\":\"Draw a small square on your paper to stand for the block. That square is the whole diagram so far. Every force you add after this is just one arrow at a time.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Perform a comparative analysis of the geologic time scale and correlate it with the rock layers observed",
+      "description": null
+    },
+    "completion": "{\"title\":\"Open your notes to the rock layer page\",\"explanation\":\"Open your earth science notes to the page with the rock layers on it. Just look at the page, you do not have to line anything up with the time scale yet.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Formulate a testable hypothesis regarding the effect of temperature on enzyme activity",
+      "description": null
+    },
+    "completion": "{\"title\":\"Write one sentence starting with if\",\"explanation\":\"Write a sentence that starts with the word if and ends with what you think will happen. That sentence is your hypothesis. You can make it more precise later.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Analyze the trophic dynamics and energy flow throughout the marine ecosystem",
+      "description": null
+    },
+    "completion": "{\"title\":\"List five animals from the reading\",\"explanation\":\"Write down five animals mentioned in your marine biology reading, in any order. Once they are on paper you can start drawing arrows between who eats whom.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Critically assess the reliability and validity of forensic fingerprint identification methods",
+      "description": null
+    },
+    "completion": "{\"title\":\"Write down what you already think\",\"explanation\":\"Before you research anything, write one sentence saying whether you already trust fingerprint matching and why. That opinion is your starting point for the assignment, not the ending point.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Derive the equations of motion for a projectile launched at an arbitrary angle",
+      "description": null
+    },
+    "completion": "{\"title\":\"Copy the three motion equations from your notes\",\"explanation\":\"Copy the three motion equations you already have from class notes onto a fresh page, even if you are not sure which one to use yet. Having them written out is the first step.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Interpret the periodic trends and justify the underlying atomic structure",
+      "description": "Atomic radius, ionization energy, electronegativity."
+    },
+    "completion": "{\"title\":\"Circle one element on the table\",\"explanation\":\"Circle any one element on your periodic table. You will compare everything else in the assignment back to that one element, so picking it is the whole first step.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Evaluate competing explanations for the mass extinction event using the fossil evidence provided",
+      "description": null
+    },
+    "completion": "{\"title\":\"List the fossils given in the packet\",\"explanation\":\"Open the packet and write down every fossil it lists, in the order they appear. You are just making an inventory right now, not picking a side yet.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Synthesize data from multiple trials to draw a defensible conclusion about reaction rate",
+      "description": "Use the class data set."
+    },
+    "completion": "{\"title\":\"Copy the class data into your table\",\"explanation\":\"Copy every trial from the class data set into your own table, one row at a time. Once every number has a home you can start looking for a pattern.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Critically examine the ethical implications of genetic engineering technology",
+      "description": null
+    },
+    "completion": "{\"title\":\"Write down one example you have heard of\",\"explanation\":\"Write one sentence naming a real or fictional example of genetic engineering you already know about. Starting from something familiar makes the ethics questions easier to reach.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Extrapolate the long-term climate trend from the given decade of temperature data",
+      "description": null
+    },
+    "completion": "{\"title\":\"Plot the first five years on graph paper\",\"explanation\":\"Take the first five years of temperature data and plot each point on your graph paper. Do not draw a trend line yet, just get the dots down where they belong.\"}"
+  }
+]

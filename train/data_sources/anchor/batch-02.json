@@ -1,0 +1,499 @@
+[
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Essay on the symbolism in the novel",
+      "subject": "English 2H",
+      "description": "Three pages.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and read the prompt out loud\",\"minutes\":5},{\"title\":\"Write down the two symbols you will trace\",\"minutes\":10},{\"title\":\"Find three places each symbol appears\",\"minutes\":30},{\"title\":\"Write the opening paragraph without stopping to edit\",\"minutes\":25},{\"title\":\"Write the body paragraphs in order\",\"minutes\":40},{\"title\":\"Read it aloud and fix what sounds wrong\",\"minutes\":15}],\"starterAction\":\"Open the assignment sheet and read the prompt out loud\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Unit 4 problem set",
+      "subject": "Algebra II",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and find the first problem\",\"minutes\":5},{\"title\":\"Answer the first eight problems in order\",\"minutes\":30},{\"title\":\"Answer the next eight problems\",\"minutes\":30},{\"title\":\"Finish the problems that are left\",\"minutes\":25},{\"title\":\"Check your answers against the key\",\"minutes\":15}],\"starterAction\":\"Open the packet and find the first problem\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Reading: 40 pages of the assigned novel",
+      "subject": "World Literature",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the book and find where you left off\",\"minutes\":5},{\"title\":\"Read twenty pages without stopping\",\"minutes\":25},{\"title\":\"Write one sentence saying what happened\",\"minutes\":5},{\"title\":\"Read the last twenty pages\",\"minutes\":25},{\"title\":\"Write down the parts you found confusing\",\"minutes\":10}],\"starterAction\":\"Open the book and find where you left off\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Gatsby essay",
+      "subject": "English 2H",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and read the prompt out loud\",\"minutes\":5},{\"title\":\"Write down the argument you want to make\",\"minutes\":10},{\"title\":\"Copy out three quotes that support it\",\"minutes\":20},{\"title\":\"Write the introduction without stopping to edit\",\"minutes\":25},{\"title\":\"Write the body paragraphs in order\",\"minutes\":45},{\"title\":\"Read it aloud and fix what sounds wrong\",\"minutes\":15}],\"starterAction\":\"Open the assignment sheet and read the prompt out loud\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Why did the Roman Republic fall?",
+      "subject": "AP US History",
+      "description": "Two pages.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and write the question at the top of a page\",\"minutes\":5},{\"title\":\"List four reasons from the reading\",\"minutes\":20},{\"title\":\"Pick the two strongest and find evidence for each\",\"minutes\":30},{\"title\":\"Write the answer in one sitting\",\"minutes\":40},{\"title\":\"Read it aloud and fix what sounds wrong\",\"minutes\":15}],\"starterAction\":\"Open the assignment sheet and write the question at the top of a page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Finish the poster",
+      "subject": "Chemistry",
+      "description": "Half of it is done.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the poster and look at what is already there\",\"minutes\":5},{\"title\":\"Write down what is still missing\",\"minutes\":10},{\"title\":\"Draw the missing sections\",\"minutes\":35},{\"title\":\"Add the labels and the key\",\"minutes\":25},{\"title\":\"Check the assignment sheet again\",\"minutes\":10}],\"starterAction\":\"Open the poster and look at what is already there\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Chemistry: mole conversions",
+      "subject": "Chemistry",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment and copy the conversion factors\",\"minutes\":10},{\"title\":\"Answer the first five problems in order\",\"minutes\":25},{\"title\":\"Answer the rest of the problems\",\"minutes\":25},{\"title\":\"Check every unit in every answer\",\"minutes\":15}],\"starterAction\":\"Open the assignment and copy the conversion factors\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Prepare a three-minute talk on any topic",
+      "subject": "Spanish III",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the topic you will talk about\",\"minutes\":5},{\"title\":\"Write twelve sentences you could say about it\",\"minutes\":25},{\"title\":\"Practise the first half out loud without looking\",\"minutes\":20},{\"title\":\"Practise the second half out loud without looking\",\"minutes\":20},{\"title\":\"Practise the whole thing with a timer\",\"minutes\":15}],\"starterAction\":\"Write down the topic you will talk about\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Biology: label the cell diagram",
+      "subject": "Biology",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the textbook to the cell diagram\",\"minutes\":5},{\"title\":\"Sketch the outline in pencil first\",\"minutes\":15},{\"title\":\"Draw each part inside the outline\",\"minutes\":20},{\"title\":\"Label every part you drew\",\"minutes\":15},{\"title\":\"Check your labels against the textbook\",\"minutes\":10}],\"starterAction\":\"Open the textbook to the cell diagram\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Unit 2 study guide",
+      "subject": "US Government",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and put them in date order\",\"minutes\":10},{\"title\":\"Copy the key terms onto one page\",\"minutes\":25},{\"title\":\"Write eight questions a test might ask\",\"minutes\":20},{\"title\":\"Answer your own questions without looking\",\"minutes\":30},{\"title\":\"Answer again the ones you got wrong\",\"minutes\":20}],\"starterAction\":\"Open your notes and put them in date order\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write up the pendulum experiment",
+      "subject": "Physics",
+      "description": "Include the graph.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the pendulum data\",\"minutes\":5},{\"title\":\"Copy the timings into the data table\",\"minutes\":20},{\"title\":\"Draw the graph from the table\",\"minutes\":25},{\"title\":\"Write the method section from your notes\",\"minutes\":25},{\"title\":\"Write the conclusion using the graph\",\"minutes\":25},{\"title\":\"Check every unit and label\",\"minutes\":10}],\"starterAction\":\"Open your lab notebook to the pendulum data\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Statistics: 20 probability questions",
+      "subject": "Statistics",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment and find the first question\",\"minutes\":5},{\"title\":\"Answer the first seven questions in order\",\"minutes\":30},{\"title\":\"Answer the next seven questions\",\"minutes\":30},{\"title\":\"Answer the last six questions\",\"minutes\":25},{\"title\":\"Check your answers against the worked example\",\"minutes\":15}],\"starterAction\":\"Open the assignment and find the first question\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Draft the conclusion",
+      "subject": "AP Psychology",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Read the paper you have written so far\",\"minutes\":15},{\"title\":\"Write down the one point the conclusion has to land\",\"minutes\":10},{\"title\":\"Write the conclusion without stopping to edit\",\"minutes\":25},{\"title\":\"Read the last two paragraphs aloud together\",\"minutes\":10}],\"starterAction\":\"Read the paper you have written so far\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "How does the water cycle move energy?",
+      "subject": "Biology",
+      "description": "One page.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and write the question at the top of a page\",\"minutes\":5},{\"title\":\"List the stages the reading names\",\"minutes\":20},{\"title\":\"Write one sentence about energy for each stage\",\"minutes\":25},{\"title\":\"Write the page in one sitting\",\"minutes\":30},{\"title\":\"Read it aloud and fix what sounds wrong\",\"minutes\":10}],\"starterAction\":\"Open the assignment sheet and write the question at the top of a page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Geometry: circle theorems worksheet",
+      "subject": "Geometry",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and put your name on it\",\"minutes\":5},{\"title\":\"Copy the circle theorems onto the top of the page\",\"minutes\":10},{\"title\":\"Answer the first five questions in order\",\"minutes\":20},{\"title\":\"Answer the rest of the questions\",\"minutes\":20},{\"title\":\"Check every reason against the theorem list\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and put your name on it\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Art history: compare two paintings",
+      "subject": "Art History",
+      "description": "Two pages.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and pick the two paintings\",\"minutes\":10},{\"title\":\"Write down four things you can see in each\",\"minutes\":20},{\"title\":\"Write down two things they share and two they do not\",\"minutes\":20},{\"title\":\"Write the comparison in one sitting\",\"minutes\":40},{\"title\":\"Read it aloud and fix what sounds wrong\",\"minutes\":15}],\"starterAction\":\"Open your notes and pick the two paintings\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Finish the annotated bibliography",
+      "subject": "English 2H",
+      "description": "Four sources left.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the document and see which sources are done\",\"minutes\":5},{\"title\":\"Find the four sources you still need\",\"minutes\":35},{\"title\":\"Write the citation for each one\",\"minutes\":30},{\"title\":\"Write two sentences about each source\",\"minutes\":30},{\"title\":\"Check every citation against the format guide\",\"minutes\":15}],\"starterAction\":\"Open the document and see which sources are done\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Health: food diary for three days",
+      "subject": "Health",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a blank page and write today's date\",\"minutes\":5},{\"title\":\"Write down everything you ate today\",\"minutes\":10},{\"title\":\"Write down everything you ate tomorrow\",\"minutes\":10},{\"title\":\"Write down everything you ate the third day\",\"minutes\":10},{\"title\":\"Add up the totals for each day\",\"minutes\":15}],\"starterAction\":\"Open a blank page and write today's date\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Spanish III: past tense paragraph",
+      "subject": "Spanish III",
+      "description": "Ten sentences.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down ten things you did last week\",\"minutes\":10},{\"title\":\"Translate the first five into the past tense\",\"minutes\":20},{\"title\":\"Translate the last five into the past tense\",\"minutes\":20},{\"title\":\"Check every verb ending against your notes\",\"minutes\":15}],\"starterAction\":\"Write down ten things you did last week\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Unit 6 vocabulary",
+      "subject": "World Literature",
+      "description": "Thirty words.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the vocabulary list and split it into three groups\",\"minutes\":5},{\"title\":\"Write the first group five times each\",\"minutes\":20},{\"title\":\"Cover the list and write that group from memory\",\"minutes\":10},{\"title\":\"Repeat for the other two groups\",\"minutes\":35},{\"title\":\"Write again the words you got wrong\",\"minutes\":10}],\"starterAction\":\"Open the vocabulary list and split it into three groups\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Physics: 12 force problems",
+      "subject": "Physics",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the formulas you will need\",\"minutes\":10},{\"title\":\"Answer the first four problems in order\",\"minutes\":45},{\"title\":\"Answer the next four problems in order\",\"minutes\":45},{\"title\":\"Answer the last four problems\",\"minutes\":40},{\"title\":\"Check every unit in every answer\",\"minutes\":20}],\"starterAction\":\"Open the packet and copy the formulas you will need\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Rewrite the opening after feedback",
+      "subject": "English 2H",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the marked copy and read the comments on the opening\",\"minutes\":10},{\"title\":\"Write down what the comments are asking for\",\"minutes\":10},{\"title\":\"Rewrite the opening without looking at the old one\",\"minutes\":20},{\"title\":\"Compare the two and keep the better one\",\"minutes\":10}],\"starterAction\":\"Open the marked copy and read the comments on the opening\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "AP US History: primary source analysis",
+      "subject": "AP US History",
+      "description": "Three documents.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the first document and read it once straight through\",\"minutes\":15},{\"title\":\"Write down who wrote it and when\",\"minutes\":10},{\"title\":\"Repeat that for the other two documents\",\"minutes\":30},{\"title\":\"Write what the three documents together suggest\",\"minutes\":30},{\"title\":\"Read it aloud and fix what sounds wrong\",\"minutes\":10}],\"starterAction\":\"Open the first document and read it once straight through\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Build the circuit and record the readings",
+      "subject": "Physics",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Collect the wires, battery and meter you need\",\"minutes\":15},{\"title\":\"Build the circuit from the diagram\",\"minutes\":30},{\"title\":\"Record the reading at each setting\",\"minutes\":30},{\"title\":\"Copy the readings into the data table\",\"minutes\":20},{\"title\":\"Check every reading against the diagram\",\"minutes\":10}],\"starterAction\":\"Collect the wires, battery and meter you need\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Turn in the reading log",
+      "subject": "World Literature",
+      "description": "Four weeks of entries.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the log and see which weeks are missing\",\"minutes\":10},{\"title\":\"Write the entries for the first two missing weeks\",\"minutes\":25},{\"title\":\"Write the entries for the other missing weeks\",\"minutes\":25},{\"title\":\"Check that every entry has a page count\",\"minutes\":10}],\"starterAction\":\"Open the log and see which weeks are missing\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Chemistry: balance 20 equations",
+      "subject": "Chemistry",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and find the first equation\",\"minutes\":5},{\"title\":\"Balance the first seven equations\",\"minutes\":25},{\"title\":\"Balance the next seven equations\",\"minutes\":25},{\"title\":\"Balance the last six equations\",\"minutes\":25},{\"title\":\"Check that every equation has equal atoms on both sides\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and find the first equation\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "What made the New Deal controversial?",
+      "subject": "US Government",
+      "description": "Two pages.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and write the question at the top of a page\",\"minutes\":5},{\"title\":\"List three groups who objected and why\",\"minutes\":25},{\"title\":\"Find one quote for each group\",\"minutes\":30},{\"title\":\"Write the answer in one sitting\",\"minutes\":40},{\"title\":\"Read it aloud and fix what sounds wrong\",\"minutes\":15}],\"starterAction\":\"Open the assignment sheet and write the question at the top of a page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Finish the slide deck",
+      "subject": "AP Psychology",
+      "description": "Four slides left.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the deck and see which slides are missing\",\"minutes\":5},{\"title\":\"Write the four remaining slide titles\",\"minutes\":15},{\"title\":\"Collect an image for each one\",\"minutes\":25},{\"title\":\"Build the four slides all the way through\",\"minutes\":35},{\"title\":\"Practise saying the whole deck out loud once\",\"minutes\":20}],\"starterAction\":\"Open the deck and see which slides are missing\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Algebra II: graph six functions",
+      "subject": "Algebra II",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment and find the first function\",\"minutes\":5},{\"title\":\"Make a table of values for the first three\",\"minutes\":25},{\"title\":\"Plot the first three functions\",\"minutes\":25},{\"title\":\"Make tables and plot the last three\",\"minutes\":35},{\"title\":\"Check every graph against its table\",\"minutes\":15}],\"starterAction\":\"Open the assignment and find the first function\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Geometry: two-column proofs",
+      "subject": "Geometry",
+      "description": "Eight proofs.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and read the first proof\",\"minutes\":5},{\"title\":\"Write out the first three proofs step by step\",\"minutes\":30},{\"title\":\"Write out the next three proofs\",\"minutes\":30},{\"title\":\"Write out the last two proofs\",\"minutes\":25},{\"title\":\"Check every reason against the theorem list\",\"minutes\":15}],\"starterAction\":\"Open the packet and read the first proof\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Read and annotate the short story",
+      "subject": "World Literature",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the story and read it once without a pen\",\"minutes\":20},{\"title\":\"Read it again and underline as you go\",\"minutes\":25},{\"title\":\"Write a note in the margin every page\",\"minutes\":25},{\"title\":\"Write three sentences about what you noticed\",\"minutes\":10}],\"starterAction\":\"Open the story and read it once without a pen\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Unit 1 lab safety quiz review",
+      "subject": "Chemistry",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the safety handout and read it once\",\"minutes\":10},{\"title\":\"Write down the six rules you keep forgetting\",\"minutes\":10},{\"title\":\"Cover the handout and write all the rules from memory\",\"minutes\":15},{\"title\":\"Check what you missed against the handout\",\"minutes\":10}],\"starterAction\":\"Open the safety handout and read it once\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Draft the personal statement",
+      "subject": "English 2H",
+      "description": "500 words.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a blank document and write the prompt at the top\",\"minutes\":5},{\"title\":\"Write down three stories you could tell\",\"minutes\":20},{\"title\":\"Pick one and list what happened, in order\",\"minutes\":25},{\"title\":\"Write the whole draft without stopping to edit\",\"minutes\":45},{\"title\":\"Read it aloud and mark what sounds false\",\"minutes\":20},{\"title\":\"Rewrite the parts you marked\",\"minutes\":35}],\"starterAction\":\"Open a blank document and write the prompt at the top\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Collect materials for the science fair board",
+      "subject": "Biology",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and list what the board must show\",\"minutes\":10},{\"title\":\"Print the graphs and photographs you need\",\"minutes\":25},{\"title\":\"Collect the board, glue and lettering\",\"minutes\":20},{\"title\":\"Lay everything out without gluing it down\",\"minutes\":30},{\"title\":\"Check the layout against the sheet\",\"minutes\":10}],\"starterAction\":\"Open the assignment sheet and list what the board must show\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Practice sight reading",
+      "subject": "Art History",
+      "description": "Twenty minutes a day.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the book to a piece you have not played\",\"minutes\":5},{\"title\":\"Play through it slowly once\",\"minutes\":15},{\"title\":\"Mark the two bars that broke down\",\"minutes\":5},{\"title\":\"Play those two bars five times each\",\"minutes\":15},{\"title\":\"Play the whole piece through again\",\"minutes\":15}],\"starterAction\":\"Open the book to a piece you have not played\"}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Draft due Wednesday. Revision due the following Monday. Portfolio due at the end of the month.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Draft\",\"dueInDays\":2},{\"title\":\"Revision\",\"dueInDays\":7},{\"title\":\"Portfolio\",\"dueInDays\":30}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Watch the documentary tonight and write half a page by Friday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Watch the documentary\",\"dueInDays\":0},{\"title\":\"Write half a page\",\"dueInDays\":4}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Bring your calculator every day this week. Test on Friday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Bring your calculator\",\"dueInDays\":1},{\"title\":\"Test\",\"dueInDays\":4}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Reminder: no class Monday. Homework still due Tuesday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Homework\",\"dueInDays\":1}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Group presentations start in two weeks. Sign up for a slot by Friday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Sign up for a presentation slot\",\"dueInDays\":4},{\"title\":\"Group presentation\",\"dueInDays\":14}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Nothing new was assigned today.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Reading quiz tomorrow covers chapters 1 to 3. Essay prompt goes out Friday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Reading quiz on chapters 1 to 3\",\"dueInDays\":1},{\"title\":\"Essay prompt released\",\"dueInDays\":4}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Physics: problem set 5 due in three days, lab practical in ten days.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Problem set 5\",\"dueInDays\":3,\"subject\":\"Physics\"},{\"title\":\"Lab practical\",\"dueInDays\":10,\"subject\":\"Physics\"}]}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Delineate the principal thematic concerns of the text",
+      "description": null
+    },
+    "completion": "{\"title\":\"Say what the book is really about\",\"explanation\":\"Write down the two or three big ideas the book keeps coming back to. For each one, name a scene where it shows up clearly.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Justify your methodological choices",
+      "description": "Two paragraphs."
+    },
+    "completion": "{\"title\":\"Explain why you did it that way\",\"explanation\":\"Write down the main choices you made when setting up the experiment. For each one, say what you were trying to avoid and what you would have lost by doing it another way.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Contrast the perspectives of the two authors",
+      "description": null
+    },
+    "completion": "{\"title\":\"Show how the two writers disagree\",\"explanation\":\"Write down what each writer says about the topic. Then write two sentences about where they clash and one about why they might see it differently.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Substantiate your claim with quantitative evidence",
+      "description": null
+    },
+    "completion": "{\"title\":\"Back up your point with numbers\",\"explanation\":\"Find the numbers in your data that support what you said. Write each one down and add a sentence explaining what it proves.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Appraise the long-term implications of the policy",
+      "description": null
+    },
+    "completion": "{\"title\":\"Say what this could lead to later\",\"explanation\":\"Write down two things that might happen years from now because of this policy. For each one, say who it would affect and whether it seems likely.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Reconcile the apparent contradiction in the results",
+      "description": null
+    },
+    "completion": "{\"title\":\"Explain why the results seem to clash\",\"explanation\":\"Write down the two results that do not fit together. Then write what might explain both of them at once, and what you would test to find out.\"}"
+  }
+]

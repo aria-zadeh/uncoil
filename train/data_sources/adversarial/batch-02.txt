@@ -1,0 +1,204 @@
+# Adversarial edge cases, batch 2. FINE_TUNING.md section 3.1.
+#
+# Continues batch-01: inputs that are not a tidy assignment. This file leans
+# into one-word and no-verb titles, single-action tasks that need no real
+# breakdown, noisy 300+ character descriptions, ALL CAPS and lowercase-only
+# titles, text-message spelling, non-English fragments, and extraction text
+# with no tasks at all, eight or more items, or relative dates like "next
+# Tuesday" and "end of the month".
+#
+# Same rule as batch-01: when the input names nothing specific, the
+# completion stays GENERIC. A one-word title does not get a step that names
+# a textbook, a topic, or a teacher, because none was given -- that would be
+# the hallucination failure the validator exists to catch. Step titles here
+# talk about "the assignment", "the worksheet", "what you were given", never
+# anything invented.
+
+# --- one-word and near-empty titles ----------------------------------------
+b | Math | ~ | ~ | today | 20 | Open the assignment and find the first question:5 ; Answer the first few questions in order:20 ; Finish the questions that are left:20 ; Check your answers against your notes:10
+b | Essay | ~ | ~ | tomorrow | 30 | Open the assignment and read what it asks for:5 ; Write down the point you want to make:10 ; Write the first half without stopping to edit:25 ; Write the second half without stopping to edit:25 ; Read it back and fix what sounds wrong:15
+b | Read | ~ | ~ | today | 25 | Open the book and find where you left off:5 ; Read the first part without stopping:20 ; Write one sentence saying what happened:5 ; Read the rest of it:25 ; Write down what you did not follow:10
+b | Project | ~ | ~ | in 2 weeks | 45 | Collect the materials this needs and set them on the desk:10 ; Write down what has to be handed in:15 ; Make the first part all the way through:45 ; Make the rest of the parts:45 ; Check your work against what was asked:15
+b | Lab | ~ | ~ | tomorrow | 30 | Open your notebook to today's page:5 ; Copy the numbers you recorded into the table:20 ; Write the method from your notes:25 ; Write the conclusion using the table:25 ; Check every unit and label:10
+b | Homework | ~ | ~ | today | 20 | Gather your books and open them to tonight's page:5 ; Answer the first part in order:20 ; Write down what is still left:5 ; Finish the rest of it:20 ; Check it against what you were given:10
+b | Study | ~ | ~ | in 3 days | 30 | Collect your notes and put them in one pile:10 ; Copy the key points onto one page:20 ; Write six questions this might be tested on:20 ; Answer your own questions without looking:25 ; Answer again the ones you missed:15
+b | Chores | ~ | ~ | today | 15 | Look around the room and find what is out of place:5 ; Pick up everything on the floor:15 ; Put everything back where it belongs:15 ; Clean the surfaces with a cloth:10 ; Check the room once more before you leave:5
+b | Quiz | ~ | ~ | tomorrow | 20 | Look through your notes and find the right section:5 ; Write eight questions this might ask:20 ; Answer your own questions without looking:20 ; Check your answers against your notes:10
+b | Packet | ~ | ~ | in 2 days | 25 | Take out the packet and put your name on it:5 ; Answer the first side in order:20 ; Answer the back side in order:20 ; Check your answers against the examples:10
+b | x | ~ | ~ | today | 20 | Search your bag for anything marked with today's date:5 ; Write down what the task is asking for:10 ; Complete the first part you can see:20 ; Finish whatever is left:20 ; Check it against the instructions:10
+b | ... | ~ | ~ | tomorrow | 25 | Look at the top of the page for any instructions:5 ; Write down what it is actually asking:10 ; Complete the part that makes sense so far:25 ; Finish the rest once that part is done:25 ; Check the whole thing against the instructions:10
+b | hw | ~ | ~ | today | 20 | Take everything out of your bag and sort it into piles:5 ; Answer the first few questions:20 ; Answer the rest of the questions:20 ; Check your work against your notes:10
+
+# --- titles with no verb ----------------------------------------------------
+b | Chapter 7 | ~ | ~ | tomorrow | 25 | Open the book to chapter 7:5 ; Read the first half without stopping:20 ; Write one sentence saying what it covered:5 ; Read the second half without stopping:20 ; Write down the words you did not know:10
+b | Page 210 to 230 | ~ | ~ | tomorrow | 25 | Turn to page 210 in the book:5 ; Read to page 220 without stopping:20 ; Write one sentence saying what happened:5 ; Read to page 230 without stopping:20 ; Write down the parts you found confusing:10
+b | Unit 4 test | ~ | ~ | in 4 days | 30 | Collect your notes and put them in date order:10 ; Copy the key terms onto one page:20 ; Write eight questions a test might ask:20 ; Answer your own questions without looking:25 ; Answer again the ones you got wrong:15
+b | Section B | ~ | ~ | tomorrow | 20 | Find section b on the worksheet:5 ; Answer the first half of section b:20 ; Answer the second half of section b:20 ; Check your answers against the examples:10
+b | Ch. 12 | ~ | ~ | tomorrow | 25 | Open the textbook and find chapter 12:5 ; Read the first part without stopping:20 ; Write one sentence saying what it was about:5 ; Read the rest of it:20 ; Write down what you did not follow:10
+b | Problems 5 to 20 | ~ | ~ | in 2 days | 30 | Find problem 5 in the textbook:5 ; Answer problems 5 through 10:25 ; Answer problems 11 through 15:25 ; Answer problems 16 through 20:25 ; Check your answers against the back of the book:15
+b | Vocab list 3 | ~ | ~ | tomorrow | 20 | Count how many words are on the list:5 ; Write the first half of the words on cards:15 ; Write the second half of the words on cards:15 ; Answer all the cards without looking:20 ; Put the ones you missed in a separate pile:10
+b | Worksheet 4B | ~ | ~ | today | 20 | Put your name at the top of the worksheet:5 ; Answer the first column in order:20 ; Answer the second column in order:20 ; Check your answers against the examples:10
+b | Unit 7 review | ~ | ~ | in 3 days | 25 | Gather this unit's handouts from your binder:10 ; Copy every definition onto one page:20 ; Answer the review questions in order:25 ; Check your answers against your notes:15
+b | Test corrections | ~ | ~ | in 2 days | 25 | Circle every question you missed on the test:10 ; Solve the first half of them again:20 ; Solve the second half of them again:20 ; Write one sentence on each about what went wrong:15
+
+# --- already atomic ---------------------------------------------------------
+b | Sign the permission slip | ~ | ~ | tomorrow | 15 | Find the slip and set it on the table:5 ; Fill in every box that is yours to fill:5 ; Ask a parent to sign it tonight:5 ; Put the signed slip back in your bag:5
+b | Bring gym shoes | ~ | ~ | tomorrow | 15 | Find your gym shoes and check they still fit:5 ; Pack them in your bag tonight:5 ; Set the bag by the door:5 ; Check the bag again before you leave:5
+b | Email the teacher back | ~ | ~ | today | 15 | Open your email and find the message:5 ; Write down the one thing you need to say:5 ; Write the reply in one sitting:10 ; Read it once and send it:5
+b | Return the library book | ~ | ~ | tomorrow | 15 | Find the book on your shelf:5 ; Put it in your bag tonight:5 ; Set the bag by the front door:5 ; Check the book is in your bag before you leave:5
+b | Charge the tablet | ~ | ~ | today | 15 | Find the charger and plug it into the wall:5 ; Attach the charger to the tablet:5 ; Check that the light comes on:5
+b | Print the ticket | ~ | ~ | today | 15 | Open the email with the ticket in it:5 ; Find the print button and click it:5 ; Check the printed page is readable:5 ; Put the ticket in your bag:5
+b | Pack the calculator | ~ | ~ | tomorrow | 15 | Find the calculator on your desk:5 ; Check the batteries still work:5 ; Put it in the front pocket of your bag:5 ; Check the pocket is zipped before you go:5
+b | Text mom the pickup time | ~ | ~ | today | 15 | Open your messages and find the thread:5 ; Write down the exact time you need:5 ; Type the message in one line:5 ; Send it and check it went through:5
+b | Buy poster board | ~ | ~ | tomorrow | 20 | Find money and put it in your pocket:5 ; Ask a parent for a ride to the store:5 ; Pick the size the assignment needs:10 ; Pack the board flat in your bag:10
+b | Return the graded quiz signed | ~ | ~ | tomorrow | 15 | Find the quiz in your folder:5 ; Ask a parent to sign the top line:5 ; Put it back in your folder tonight:5 ; Check it is on top of your other papers:5
+
+# --- long or noisy descriptions --------------------------------------------
+b | Research project | Environmental Science | This has to cover a local environmental issue of your choosing, include at least six sources with proper citations, a section on possible solutions, a section on who is affected and how, photographs or diagrams where useful, a bibliography that is not counted in the page total, and it has to be printed single sided and stapled in the top left corner before the start of class, and if it is late it drops one letter grade for every day past the deadline. | in 2 weeks | 45 | Open the assignment sheet and write down the issue you picked:10 ; Write every requirement out as a checklist:20 ; Collect six sources and save them in one folder:40 ; Write the outline as a list of section headings:25 ; Write the whole draft without stopping to edit:45 ; Add the citations and check the format:25 ; Check the paper against your requirement checklist:20
+b | Group presentation | Health | Every person in the group has to talk for roughly the same amount of time and you will be graded both on the group's slides and on how well you personally explain your part so it matters that you actually know what your slides say instead of just reading off them word for word in front of the whole class on presentation day. | next week | 30 | Open the assignment sheet and find which part is yours:10 ; Write down the three points your part has to make:15 ; Collect an image or fact for each point:25 ; Build your slides in order:35 ; Write out what you will say for each slide:25 ; Practise saying it out loud with a timer:20
+b | Take-home exam | Statistics | It is open notes but not open internet and not open to talking with anyone else in the class about it including over text or online in any form, and every answer has to show the steps you used to get there because an answer with no work shown gets zero credit no matter how correct the final number is, and it is due back at the start of the next class period no exceptions. | in 3 days | 40 | Open the exam and count how many questions there are:5 ; Answer the first third in order, showing every step:35 ; Answer the middle third in order, showing every step:35 ; Answer the last third in order, showing every step:35 ; Check every answer has work shown next to it:20
+b | Portfolio | Art | Six finished pieces total, at least two of which have to be in a medium you had not used before this year, each one needs an artist statement of a few sentences explaining what you were going for and what you would change if you did it again, and the whole thing gets mounted on black board and turned in together in the folder provided rather than as loose pieces. | in 2 weeks | 45 | Open the folder and list the six pieces you want to include:10 ; Collect the materials for the new medium:35 ; Finish the first three pieces:45 ; Finish the last three pieces:45 ; Write an artist statement for each piece:40 ; Place every piece onto the black board:35 ; Check the folder against the list you made:15
+b | Lab practical | Chemistry | You rotate through five stations in the room, each with a different piece of equipment, and at every station you have a set amount of time to record a measurement, identify a substance, or answer a short written question, and you are not allowed to go back to a station once the timer moves you along, so accuracy on the first attempt matters more than usual here. | tomorrow | 25 | Open your notes and look over the five stations you were told about:10 ; Write down what each station is likely to ask:15 ; Practise the measurement steps once with your own equipment:25 ; Time yourself answering a sample question:15 ; Check your notes cover all five stations:10
+b | Independent study proposal | ~ | You get to pick your own topic for this as long as a teacher signs off on it first, and the proposal has to explain what you want to study, why it matters to you, how you will prove you learned something by the end of the term, and roughly how many hours a week you expect to spend on it, plus a rough week by week outline for the whole semester. | in 5 days | 30 | Open a blank document and write the topic you want:10 ; Write down why it matters to you, in a few sentences:15 ; Write how you will prove you learned something:20 ; Write a rough outline for each week of the term:30 ; Read the whole thing back and fix what is unclear:15
+b | Capstone reflection | ~ | This is supposed to look back at everything from the whole year, not just the last project, and it should mention at least one thing that was harder than expected, one thing you are proud of, one thing you would tell a younger student to watch out for, and it should be written in your own voice rather than sounding like a formal essay because this one is just for you and your advisor to read. | in 2 weeks | 30 | Open a blank document and write today's date:5 ; Write down one thing that was harder than expected:15 ; Write down one thing you are proud of:15 ; Write down one thing to tell a younger student:15 ; Write the whole reflection in your own words:30 ; Read it back once and fix what sounds off:15
+b | Science fair write-up | Physics | The write-up has to include your original question, your hypothesis, the full list of materials you used, the exact steps you followed so someone else could repeat it, a data table, a graph made from that table, and a conclusion that says whether your hypothesis was right or wrong and why you think that happened. | in 5 days | 40 | Open your lab notebook to the data you collected:5 ; Write down your original question and hypothesis:10 ; List every material you used:15 ; Copy your raw numbers into a data table:25 ; Draw the graph from the table:30 ; Write the conclusion using the graph:30 ; Check every step is written in the right order:20
+
+# --- ALL CAPS and lowercase, no punctuation ---------------------------------
+b | FINISH THE LAB REPORT | Chemistry | ~ | tomorrow | 30 | Open your lab notebook and find last night's data:5 ; Copy the numbers into the data table:20 ; Write the method section from your notes:25 ; Write the conclusion using the table:25 ; Check every unit and label:10
+b | STUDY GUIDE DUE MONDAY | ~ | ~ | in 4 days | 30 | Gather every quiz and handout from this unit:10 ; Copy the key points onto one page:20 ; Write eight questions this might be tested on:20 ; Answer your own questions without looking:25 ; Answer again the ones you missed:15
+b | READ CHAPTERS 3 AND 4 | English | ~ | tomorrow | 25 | Open the book to the start of chapter 3:5 ; Read chapter 3 without stopping:25 ; Write one sentence saying what happened:5 ; Read chapter 4 the same way:25 ; Write down the parts you found confusing:10
+b | worksheet due tomorrow no name yet | ~ | ~ | tomorrow | 20 | Write your name at the top of the worksheet:5 ; Answer the first few questions in order:20 ; Answer the rest of the questions:20 ; Check your answers against your notes:10
+b | finish the packet before class | ~ | ~ | today | 20 | Count how many pages are left in the packet:5 ; Answer the next few pages in order:20 ; Answer the pages after that:20 ; Check every page has an answer on it:10
+b | catch up on reading for tomorrow | ~ | ~ | today | 25 | Find your place in the book from last time:5 ; Read the next section without stopping:25 ; Write one sentence saying what happened:5 ; Read the section after that:25 ; Write down what you did not follow:10
+b | ALGEBRA WORKSHEET CHAPTER 6 | Algebra | ~ | tomorrow | 25 | Find problem one on the worksheet:5 ; Answer the first ten problems in order:25 ; Answer the next ten problems in order:25 ; Check your answers against the back of the book:15
+b | write the outline tonight | ~ | ~ | today | 20 | Write the topic at the top of a blank page:5 ; List every section this needs:15 ; Write two lines under each section:20 ; Read the outline back once:10
+b | PACK FOR THE FIELD TRIP | ~ | ~ | tomorrow | 20 | Find the packing list on your desk:5 ; Collect everything the list asks for:20 ; Pack it all into one bag:15 ; Check every item off the list:10
+b | clean out the binder its a mess | ~ | ~ | today | 20 | Take everything out of the binder:5 ; Sort the papers into keep and toss piles:20 ; Put the keep pile back in order:15 ; Put the toss pile in the recycling bin:10 ; Check every section has the right papers:10
+
+# --- typos and text-message spelling ----------------------------------------
+b | essay bout the civil war due fri | History | ~ | in 2 days | 30 | Open the assignment sheet and read the prompt:5 ; Write down the three points it has to make:15 ; Write the opening without stopping to edit:25 ; Write the rest of it in one sitting:35 ; Read it aloud and fix what sounds wrong:15
+b | finsih math hw b4 practice | ~ | ~ | today | 20 | Find the math assignment in your bag:5 ; Answer the first half of the questions:20 ; Answer the second half of the questions:20 ; Check your answers against your notes:10
+b | reserch paper rough draft due thurs | ~ | ~ | in 3 days | 30 | Open a new document and type the topic at the top:5 ; Write down what the paper has to argue:15 ; Write the first half without stopping to edit:30 ; Write the second half without stopping to edit:30 ; Read it back once and fix what sounds wrong:15
+b | studdy for the spanish quiz 2marrow | Spanish | ~ | tomorrow | 20 | Find the section your notes cover for this:5 ; Write the key words onto cards:20 ; Answer the cards without looking:15 ; Put the ones you missed in a separate pile:5 ; Answer the missed cards again:15
+b | forgot bout this 1 til now | ~ | ~ | today | 20 | Read the assignment from the top:5 ; Write down what is already done:5 ; Complete the part that is left:25 ; Check it against the instructions:10
+b | huge bio packet ugh | Biology | ~ | in 3 days | 30 | Count how many pages the packet has:5 ; Answer the first third of the packet:25 ; Answer the middle third of the packet:25 ; Answer the last third of the packet:25 ; Check every page against the answer key:15
+b | eng essy revison b4 fri | English | ~ | in 2 days | 25 | Read the draft start to finish once:10 ; Circle every sentence that sounds off:15 ; Rewrite the circled sentences:25 ; Read the whole thing aloud once more:15
+b | quizz make up 2day | ~ | ~ | today | 20 | Look up which section the quiz covers:5 ; Write the key facts onto one page:20 ; Answer the practice questions without looking:20 ; Check your answers against your notes:10
+b | lab writeup due 2moro nite | Chemistry | ~ | tomorrow | 25 | Find the data from last night's lab:5 ; Record each number in the data table:20 ; Write the conclusion using the table:25 ; Check every unit and label:10
+b | worksheeet pg 12 odd only | ~ | ~ | tomorrow | 20 | Turn to page 12 in the worksheet:5 ; Answer the first five odd problems:20 ; Answer the rest of the odd problems:20 ; Check your answers against the examples:10
+
+# --- non-English fragments --------------------------------------------------
+b | Faire les devoirs de maths | French | ~ | tomorrow | 25 | Open the assignment and find the first problem:5 ; Answer the first half of the questions:25 ; Answer the second half of the questions:25 ; Check your answers against your notes:10
+b | Estudiar para el examen | Spanish | ~ | in 3 days | 30 | Gather your notes and put them in order:10 ; Write the key words onto cards:20 ; Answer the cards without looking:20 ; Answer again the ones you missed:15
+b | 数学の宿題をやる | Japanese | ~ | today | 20 | Take out the assignment and find the first question:5 ; Answer the first half of the questions:20 ; Answer the second half of the questions:20 ; Check your answers against your notes:10
+b | Hausaufgaben fertig machen | German | ~ | today | 20 | Find today's page in the folder:5 ; Answer the first part in order:20 ; Finish the rest of it:20 ; Check it against the instructions:10
+b | Lire le chapitre pour lundi | French | ~ | in 2 days | 25 | Open the book to the chapter you were given:5 ; Read the first half without stopping:20 ; Write one sentence saying what happened:5 ; Read the second half without stopping:20 ; Write down the words you did not know:10
+b | history essay + verlade notes | History | mezcla of notes en dos idiomas, sorry | in 2 days | 25 | Read the assignment sheet once through:5 ; Write down the points it has to make:15 ; Write the draft in one sitting:25 ; Read it back and fix what sounds wrong:15
+b | tarea de ciencias capitulo 5 | Science | ~ | tomorrow | 25 | Open the book to chapter 5:5 ; Read the first half without stopping:20 ; Write one sentence saying what it covered:5 ; Read the second half without stopping:20 ; Write down the words you did not know:10
+b | 완성해야 할 숙제 | ~ | ~ | today | 20 | Look at what is due and set it in front of you:5 ; Complete the first part in one sitting:20 ; Write down what is still left:5 ; Finish the rest of it:20
+
+# --- unusual or missing subjects ---------------------------------------------
+b | Practice free throws | Gym | ~ | in 3 days | 20 | Find a ball and bring it to the court:5 ; Take ten free throws and count how many go in:15 ; Take ten more and count how many go in:15 ; Write down your total out of twenty:5
+b | Fill out the locker form | Study hall | ~ | tomorrow | 15 | Find the form in your folder:5 ; Fill in every box that is yours:5 ; Ask the teacher where to turn it in:5 ; Put it in the turn-in bin:5
+b | Pick electives for next year | Advisory | ~ | in 5 days | 25 | Open the course list and read it once:10 ; Circle three classes you might want:10 ; Write down one question for your advisor:5 ; Rank your three choices in order:10
+b | Get the permission form for driving hours | Driver's ed | ~ | tomorrow | 15 | Find the form on the class website:5 ; Print the form at home:5 ; Ask a parent to sign it tonight:5 ; Pack it in your bag:5
+b | Clean the band instrument | Band | ~ | today | 15 | Find the cleaning kit in your case:5 ; Take the instrument apart the way you were shown:10 ; Clean each piece with the kit:15 ; Put it back together and pack the case:10
+b | Turn in the yearbook order form | ~ | ~ | tomorrow | 15 | Find the form and the money for it:5 ; Fill in every box on the form:5 ; Put the form and money in an envelope:5 ; Hand it to the front office tomorrow morning:5
+b | Log community service hours | ~ | ~ | in 5 days | 15 | Find the log sheet in your folder:5 ; Write down every date you volunteered:10 ; Add up the total hours:5 ; Check the total against what is required:5
+b | figure life stuff out this weekend | ~ | ~ | in 2 days | 30 | Open your planner and list everything that is due:15 ; Put the list in order by date:10 ; Finish the first thing on the list:30 ; Cross off what is done and look at the list again:10
+b | Advisory reflection sheet | Advisory | ~ | today | 15 | Open the sheet and read the three questions:5 ; Write one sentence for the first question:5 ; Write one sentence for the second question:5 ; Write one sentence for the third question:5 ; Check every question has an answer:5
+b | idk what this even is | ~ | ~ | today | 15 | Take out everything in your bag that is due today:5 ; Write down what you can tell about it:10 ; Finish the part that makes sense:15 ; Check it against whatever you were given:10
+
+# --- very short and very long sessions --------------------------------------
+b | Finish the semester project | ~ | ~ | in 2 weeks | 60 | Open the assignment sheet and list everything it needs:15 ; Collect the materials this needs:40 ; Build the first half of it:45 ; Build the second half of it:45 ; Check the sheet again for anything missed:20
+b | Write the term paper draft | English | ~ | in 2 weeks | 60 | Open a blank document and write the topic at the top:10 ; Write down what the paper has to argue:15 ; Write the first third without stopping to edit:40 ; Write the middle third without stopping to edit:40 ; Write the last third without stopping to edit:40 ; Read it back once and fix what sounds wrong:25
+b | Rehearse the full scene | Theatre | ~ | in 3 days | 60 | Open the script to the start of the scene:5 ; Read through the whole scene once out loud:20 ; Practise the first half without looking:35 ; Practise the second half without looking:35 ; Practise the whole scene with a timer:30
+b | Build the diorama | History | ~ | in 5 days | 60 | Collect the assignment sheet and list what it needs:10 ; Collect a box and the materials you need:35 ; Build the background first:45 ; Add every figure and label:40 ; Check the sheet again for anything missed:15
+b | Sort the recycling | Chores | ~ | today | 15 | Find the bins and bring them to the kitchen:5 ; Sort the bottles from the paper:10 ; Put each bin back in its spot:5
+b | Water the plants | Chores | ~ | today | 15 | Find the watering can and fill it up:5 ; Pour water into the first half of the plants:5 ; Pour water into the rest of the plants:5
+b | Take out the trash | Chores | ~ | today | 15 | Find every trash can in the house:5 ; Pick up each bag and carry it outside:5 ; Put fresh bags in every can:5
+b | Load the dishwasher | Chores | ~ | today | 15 | Find every dirty dish in the sink:5 ; Place the dishes into the rack:10 ; Add soap and close the door:5
+b | Feed the dog | Chores | ~ | today | 15 | Find the food bag in the pantry:5 ; Measure one cup into the bowl:5 ; Set the bowl down by the door:5
+
+# --- awkward but real --------------------------------------------------------
+b | this whole thing is due tmrw and i havent started | ~ | ~ | tomorrow | 30 | Open the assignment and read what it is asking for:5 ; Write down every part it needs:15 ; Complete the part that is easiest first:30 ; Finish the harder parts after:30 ; Check the whole thing against the instructions:15
+b | i dont get this assignment at all | ~ | ~ | in 2 days | 25 | Read the assignment through twice:5 ; Write down the one part you do follow:10 ; Write down one question to ask the teacher:5 ; Complete the part that already makes sense:25 ; Finish the rest once you have an answer:25
+b | so behind on everything rn | ~ | ~ | today | 30 | Take out your bag and sort what is late:5 ; Put the papers in order by due date:10 ; Finish the first one on the list:30 ; Finish the second one on the list:30 ; Cross off what is done and check the list again:10
+b | teacher said just wing it | ~ | ~ | tomorrow | 25 | Open a blank page and write today's topic at the top:5 ; Write down the first thing that comes to mind:15 ; Write the rest without stopping to edit:25 ; Read it back once and fix what sounds wrong:15
+b | THIS IS SO DUMB BUT WHATEVER | ~ | ~ | today | 20 | Read the instructions one time through:5 ; Write down what it wants in your own words:10 ; Complete the first part:20 ; Finish the rest of it:20 ; Check it against the instructions:10
+b | random worksheet found in bag | ~ | ~ | today | 20 | Look for a due date anywhere on the worksheet:5 ; Answer the first half of the questions:20 ; Answer the second half of the questions:20 ; Check your answers against your notes:10
+b | Finish the thing from science | Science | ~ | tomorrow | 25 | Find the science handout in your folder:5 ; Answer the first half in order:20 ; Answer the second half in order:20 ; Check your answers against your notes:10
+b | idk the name of this class assignment | ~ | ~ | today | 20 | Read the top line of the assignment:5 ; Write down anything it tells you about itself:10 ; Complete the part that is clearest:20 ; Finish whatever is left:20 ; Check it against what you were given:10
+b | mystery packet no instructions | ~ | ~ | tomorrow | 20 | Look for any heading on the packet:5 ; Write down what each page seems to ask for:15 ; Answer the pages that make sense:20 ; Write down one question about the pages that do not:10
+b | Practice spelling words | Spelling | ~ | today | 15 | Count the words on this week's list:5 ; Write each word three times:15 ; Say each word out loud once:5 ; Check your spelling against the list:5
+b | Organize the binder by unit | ~ | ~ | today | 20 | Take every loose paper out of the binder:5 ; Sort the papers into piles by unit:20 ; Put each pile behind its matching tab:15 ; Check every tab has the right papers behind it:10
+b | Finish signing up for the trip | ~ | ~ | tomorrow | 15 | Find the sign-up page online:5 ; Fill in every field it asks for:10 ; Check your answers before you submit them:5 ; Save or print the confirmation:5
+
+# --- more of the same, rounding out the mix ---------------------------------
+b | Return the signed field trip form | ~ | ~ | tomorrow | 15 | Find the form in your bag:5 ; Check every box has a parent's signature:5 ; Put it in the turn-in folder:5 ; Hand it to the teacher first thing:5
+b | Study hall packet | Study hall | ~ | today | 20 | Count the pages in the packet:5 ; Answer the first few pages:20 ; Answer the pages after that:20 ; Check every page against the answer key:10
+b | Finish the vocab quiz corrections | ~ | ~ | in 2 days | 20 | Circle every word you missed on the quiz:5 ; Look up the correct definition for each one:20 ; Write each corrected definition out by hand:20 ; Check your corrections against the quiz key:10
+b | Chapter 12 vocabulary | Biology | ~ | tomorrow | 20 | Find the chapter 12 word list in the book:5 ; Write the first half of the words with their definitions:20 ; Write the second half of the words with their definitions:20 ; Check every definition against the glossary:10
+b | Unit 2, part 3 | ~ | ~ | today | 20 | Find part 3 in the packet:5 ; Answer the questions in part 3 in order:20 ; Finish whatever is left in part 3:20 ; Check your answers against your notes:10
+b | Pack the lunch for tomorrow | Chores | ~ | today | 15 | Find a bag and the food you need:5 ; Pack the food into the bag:5 ; Set the bag in the fridge:5
+b | Sharpen the pencils for tomorrow | ~ | ~ | today | 15 | Find every dull pencil in your case:5 ; Run each one through the sharpener:10 ; Put the sharp pencils back in your case:5
+b | Fill the water bottle for practice | Gym | ~ | today | 15 | Find the water bottle in your bag:5 ; Fill it at the sink:5 ; Put it back in the front pocket:5
+
+# --- extraction: no tasks at all --------------------------------------------
+x | Monday |  | -
+x | Monday | ??? | -
+x | Monday | asdkfj alsdkfj zzzzz nothing here | -
+x | Monday | Have a good weekend everyone! | -
+x | Monday | No school Monday, enjoy the day off. | -
+x | Monday | Just checking in, nothing due right now. | -
+x | Monday | lol what even is this text | -
+x | Monday | Everything got pushed, more info soon, nothing to do yet. | -
+
+# --- extraction: one long run-on paragraph ----------------------------------
+x | Monday | okay so basically today was kind of a mess because the fire drill ate up half of first period and then the sub for second period didnt know what was going on so nothing really got covered there but third period we did go over stuff and mr allen said the reading response is due Friday and also dont forget the field trip form has to be back by next Tuesday or you cant go and he said it like three times so it must be important | Reading response:4 ; Field trip form:8
+x | Monday | so i was texting sam about the weekend and we're still figuring out if we're doing the movie thing or just hanging out at his place but anyway he reminded me that the chem lab writeup which i totally forgot about is due tomorrow and also i guess there's a pop quiz possibility this week in that class so maybe look over notes at some point but nothing else is really going on | Chem lab writeup:1:Chemistry
+x | Monday | ugh this whole week has been a lot, monday was fine but tuesday the wifi went out during class so we didnt finish the worksheet and mrs park said just bring it back done by end of the month whenever that works for people since a bunch of us were affected, and wednesday and today were pretty normal, nothing else new | Worksheet:30
+
+# --- extraction: eight or more items, keep only the first eight -------------
+x | Monday | Monday: math homework. Tuesday: english quiz. Wednesday: history reading. Thursday: chem lab. Friday: spanish project. Also due this week: gym waiver, art sketch, band forms, yearbook photo order, and the locker cleanout. | Math homework:0 ; English quiz:1 ; History reading:2 ; Chem lab:3 ; Spanish project:4 ; Gym waiver:4 ; Art sketch:4 ; Band forms:4
+x | Monday | Things due this week in no particular order: permission slip, reading log, times tables quiz, spelling test, library book return, show and tell item, field day shirt order, class picture money, and the pizza fundraiser form. | Permission slip:4 ; Reading log:4 ; Times tables quiz:4 ; Spelling test:4 ; Library book return:4 ; Show and tell item:4 ; Field day shirt order:4 ; Class picture money:4
+
+# --- extraction: relative dates ("next Tuesday", "end of the month") -------
+x | Monday | Coach said the permission form for the tournament needs to be turned in by next Tuesday, no exceptions this time since he already extended it once. | Permission form:8
+x | Monday | The teacher mentioned the big group project isn't due until end of the month, so there's no rush, but she wants a topic choice emailed to her by next Tuesday. | Topic choice:8 ; Group project:30
+
+# --- extraction: text-speak, all caps, non-English, and the rest -----------
+x | Monday | HW: pg 45 #1-20 due tmrw, quiz fri, dont forget!! | Pg 45 #1-20:1 ; Quiz:4
+x | Monday | reminder reminder reminder nothing new just a reminder | -
+x | Monday | Field trip Thursday, bring $10 and a signed form by Wednesday. | Signed form:2
+x | Monday | 明日は提出物があります。宿題を忘れないでください。 | Homework:1
+x | Monday | Devoirs de francais pour lundi, redaction de dix phrases. | Devoirs de francais:7
+x | Monday | Tarea de matematicas pagina 12, examen la proxima semana. | Tarea de matematicas:1 ; Examen:7
+x | Monday | quiz 2day, worksheet due 2moro, project due in like 2 wks i think | Quiz:0 ; Worksheet:1 ; Project:14
+x | Monday | Bring your own device tomorrow for testing, and the consent form was due last week so bring that too if you still have it. | Consent form:0 ; Bring your own device:1
+x | Monday | Everything is due Friday: the essay, the works cited page, and the peer review sheet. | Essay:4 ; Works cited page:4 ; Peer review sheet:4
+x | Monday | idk man this class just assigns stuff constantly, today its a worksheet due friday and some reading due next Tuesday | Worksheet:4 ; Reading:8
+x | Monday | Practice log due Monday, sign it before turning it in. | Practice log:7
+x | Monday | Two things: bring the note from home, and finish the reading by end of the month. | Note from home:1 ; Reading:30
+x | Monday | asdf | -
+x | Monday | Half day tomorrow, no homework, just come to school. | -
+x | Monday | STUDY GUIDE DUE FRIDAY QUIZ MONDAY DONT FORGET CALCULATOR | Study guide:4 ; Quiz:7
+x | Monday | Everything's on the portal, just check there, nothing to write down right now. | -
+
+# --- simplification edge cases ---------------------------------------------
+s | Math | ~ | Do today's math work | The title just says math with no unit or page number given, so treat it as whatever is due next: open the folder or the app and find the one assignment marked for today.
+s | Essay | ~ | Write the assigned essay | Nothing here says which essay or what it is about, so this stands for whatever essay was actually given. Check the folder or ask a classmate what the actual topic and length are before starting.
+s | ??? | ~ | Work out what this task even is | The title alone does not say what has to be done. Reread whatever it came with, and if nothing else is written down, ask the teacher what it actually is before doing any of it.
+s | HW DUE 2MORO NO IDEA WHAT IT IS | ~ | Figure out which homework is due tomorrow | The all caps title and the typing do not say which class this is from. Check each class's folder or app for anything marked due tomorrow, and start with whichever one you find first.
+s | essay bout the civil war due fri | ~ | Write the civil war essay | The words bout and fri are just texting shortcuts for about and Friday. This is a regular essay about the civil war, due Friday, and the plain version just spells that out clearly.
+s | Undertake a rigorous analysis of the socioeconomic factors | ~ | Look at what caused it economically | Find the money and class related reasons behind what happened. List three of them, and for each one write a sentence on how it made things worse or better.
+s | Engage in a critical evaluation of the primary source | ~ | Judge how trustworthy the source is | Look at who wrote it, when, and why. Write down one reason to trust it and one reason to be careful with it, then say overall whether you would rely on it.
+s | Synthesize a cohesive argument from disparate evidence | ~ | Pull the evidence into one argument | Look at all the separate facts and quotes you collected. Write one sentence that ties them together into a single point, then use each piece of evidence to back that point up.
+s | THE ASSIGNMENT (see attached, IMPORTANT, READ ALL OF IT) | ~ | Read the attached assignment sheet carefully | The all caps and extra words are just the teacher trying to get your attention. Underneath that, it just means open the attached sheet and read the whole thing before starting anything.
+s | idk this weird bio thing about cells n stuff | ~ | Do the biology assignment about cells | The texting spelling makes it look more confusing than it is. It is a biology task about cells, so open the actual handout to see exactly what it wants before you start guessing.
+s | Interrogate the underlying power structures present in the text | ~ | Find who has the power in the story | Look at which characters get to make decisions and which ones do not. Write down two examples of that difference, and say what it seems to be saying about power.
+s | Devoirs de francais difficiles | ~ | Do the french homework | The title is just in French for difficult French homework. It still means the same thing: open the assignment and do whatever pages or questions were given.
+s | Chapter 12 | ~ | Read chapter 12 | A bare chapter number with no other detail just means read that chapter. Open the textbook to chapter 12 and go through it start to finish, since nothing else was specified about which pages or questions.
+s | Utilize dimensional analysis to convert between units | ~ | Convert the units step by step | This means lining up the units so the ones you do not want cancel out. Write the starting number, multiply by a fraction that flips the unit, and repeat until only the unit you want is left.
+s | Formulate a testable hypothesis for the experiment | ~ | Write a guess you can actually test | Write one sentence saying what you think will happen and why. Make sure it says exactly what you would measure, so someone else could check if you turned out to be right or wrong.
+s | asdkjf assignment thing | ~ | Work out what was actually assigned | The title does not say anything real about the task. Look at wherever it came from for a real name or instructions, and if there is nothing else, ask the teacher what it is before doing any of it.

@@ -1,0 +1,926 @@
+[
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Explain how the Homestead Act shaped western settlement",
+      "subject": "US History",
+      "description": null,
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the textbook chapter on westward expansion\",\"minutes\":5},{\"title\":\"List three requirements the Homestead Act placed on settlers\",\"minutes\":15},{\"title\":\"Write one sentence on how the act changed land ownership\",\"minutes\":20},{\"title\":\"Write the closing paragraph linking the act to railroad growth\",\"minutes\":25},{\"title\":\"Read the paragraph aloud and check it names the act twice\",\"minutes\":10}],\"starterAction\":\"Open the textbook chapter on westward expansion\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "alien and sedition acts questions",
+      "subject": "US History",
+      "description": null,
+      "duePhrase": "due Thursday",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and find question one\",\"minutes\":5},{\"title\":\"Answer questions one through three about the Alien and Sedition Acts\",\"minutes\":20},{\"title\":\"Answer questions four and five about who could be punished under the acts\",\"minutes\":20},{\"title\":\"Check each answer against the packet definitions\",\"minutes\":15}],\"starterAction\":\"Open the packet and find question one\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Trace the compromises that delayed the Civil War",
+      "subject": "AP US History",
+      "description": "Missouri Compromise and Kansas-Nebraska Act.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and find the Missouri Compromise section\",\"minutes\":5},{\"title\":\"List the two provisions of the Missouri Compromise\",\"minutes\":15},{\"title\":\"Write one sentence on what the second compromise changed\",\"minutes\":20},{\"title\":\"Write a closing sentence linking both compromises to rising tension\",\"minutes\":20}],\"starterAction\":\"Open your notes and find the Missouri Compromise section\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Explain how the Congress of Berlin redrew Balkan borders after the Russo-Turkish War",
+      "subject": "AP World History",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes on the Congress of Berlin\",\"minutes\":5},{\"title\":\"List two countries named in the reading\",\"minutes\":15},{\"title\":\"Write one sentence on how borders changed after the congress\",\"minutes\":20},{\"title\":\"Write a closing sentence on one effect felt by a local population\",\"minutes\":20}],\"starterAction\":\"Open your notes on the Congress of Berlin\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Summarize the Marshall Plan's goals for one page",
+      "subject": "US History",
+      "description": "One page about postwar Europe.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes on postwar Europe\",\"minutes\":5},{\"title\":\"List the three goals stated for postwar Europe\",\"minutes\":15},{\"title\":\"Write the opening paragraph naming the aid program and its purpose\",\"minutes\":20},{\"title\":\"Write the closing paragraph on one country that received aid\",\"minutes\":20},{\"title\":\"Count the words and trim the page to one page\",\"minutes\":10}],\"starterAction\":\"Open your notes on postwar Europe\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "watergate timeline, need 6 events",
+      "subject": "US Government",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the textbook section on the Watergate scandal\",\"minutes\":5},{\"title\":\"List the first three events in order\",\"minutes\":15},{\"title\":\"List the last three events in order\",\"minutes\":15},{\"title\":\"Write one date under each of the six events\",\"minutes\":20},{\"title\":\"Check the six events run in the correct order\",\"minutes\":10}],\"starterAction\":\"Open the textbook section on the Watergate scandal\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Explain what the Manhattan Project accomplished",
+      "subject": "US History",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the chapter section on the Manhattan Project\",\"minutes\":5},{\"title\":\"List two scientists named in the reading and note the year the project began\",\"minutes\":20},{\"title\":\"Write two sentences on what the project produced\",\"minutes\":20},{\"title\":\"Write a closing sentence on how the project affected the end of the war\",\"minutes\":15}],\"starterAction\":\"Open the chapter section on the Manhattan Project\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Compare the goals of the Dawes Act and the Indian Removal Act",
+      "subject": "AP US History",
+      "description": "One page.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 60
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and find the goal of the Indian Removal Act\",\"minutes\":15},{\"title\":\"Find the goal of the Dawes Act underneath it\",\"minutes\":15},{\"title\":\"List one way the two acts differ in method\",\"minutes\":20},{\"title\":\"Write the paragraph comparing their long-term effects\",\"minutes\":25},{\"title\":\"Write a closing sentence saying which act changed more land ownership\",\"minutes\":15}],\"starterAction\":\"Open your notes and find the goal of the Indian Removal Act\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "berlin airlift essay draft",
+      "subject": "World History",
+      "description": "The United States and Britain ran the airlift.",
+      "duePhrase": "due next Monday",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes on the Berlin Airlift\",\"minutes\":5},{\"title\":\"List the two countries that ran the airlift\",\"minutes\":10},{\"title\":\"Write the opening paragraph naming the airlift and its cause\",\"minutes\":20},{\"title\":\"Write the closing paragraph on how the airlift ended\",\"minutes\":20},{\"title\":\"Read the draft aloud and check both cities are named\",\"minutes\":15}],\"starterAction\":\"Open your notes on the Berlin Airlift\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Explain the outcome of Marbury v. Madison in one paragraph",
+      "subject": "AP Government",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the case summary for Marbury v. Madison\",\"minutes\":5},{\"title\":\"Write down the question the court had to answer\",\"minutes\":10},{\"title\":\"Write one sentence on how the court ruled\",\"minutes\":15},{\"title\":\"Write the closing sentence naming the power the case created\",\"minutes\":15}],\"starterAction\":\"Open the case summary for Marbury v. Madison\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "New Deal programs chart: CCC, WPA, TVA",
+      "subject": "US History",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the New Deal chart template\",\"minutes\":5},{\"title\":\"Write CCC in the first column with its founding year\",\"minutes\":10},{\"title\":\"Write WPA in the second column with its founding year\",\"minutes\":10},{\"title\":\"Write TVA in the third column with its founding year\",\"minutes\":10},{\"title\":\"List one project each program built\",\"minutes\":20},{\"title\":\"Check all three years are filled in\",\"minutes\":10}],\"starterAction\":\"Open the New Deal chart template\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Weimar Republic collapse worksheet",
+      "subject": "AP European History",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and find question one\",\"minutes\":5},{\"title\":\"Answer the first question about the Weimar Republic economy\",\"minutes\":10},{\"title\":\"Write your answer to the second question about the Weimar Republic economy\",\"minutes\":10},{\"title\":\"Answer the third question about the rise of opposition parties\",\"minutes\":10},{\"title\":\"Answer the fourth question about the rise of opposition parties\",\"minutes\":10},{\"title\":\"Check your four answers against the timeline in the packet\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and find question one\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Meiji Restoration reforms list",
+      "subject": "AP World History",
+      "description": "Five reforms.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes on the Meiji Restoration\",\"minutes\":5},{\"title\":\"List the first three reforms in order\",\"minutes\":15},{\"title\":\"List the remaining two reforms\",\"minutes\":15},{\"title\":\"Write one sentence on why each reform mattered\",\"minutes\":25},{\"title\":\"Check all five reforms are numbered correctly\",\"minutes\":10}],\"starterAction\":\"Open your notes on the Meiji Restoration\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Opium Wars cause-and-effect chart",
+      "subject": "AP World History",
+      "description": null,
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the chart template for the Opium Wars\",\"minutes\":5},{\"title\":\"Write the first cause in the left column\",\"minutes\":15},{\"title\":\"Write the matching effect in the right column\",\"minutes\":15},{\"title\":\"Write two more cause-and-effect pairs\",\"minutes\":25},{\"title\":\"Check every cause has a matching effect\",\"minutes\":10}],\"starterAction\":\"Open the chart template for the Opium Wars\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "yalta conference: 3 decisions, need examples",
+      "subject": "World History",
+      "description": null,
+      "duePhrase": "due Friday",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes on the Yalta Conference\",\"minutes\":5},{\"title\":\"List the first decision made at the conference\",\"minutes\":10},{\"title\":\"List the second and third decisions\",\"minutes\":15},{\"title\":\"Write one example of how each decision played out\",\"minutes\":25}],\"starterAction\":\"Open your notes on the Yalta Conference\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Explain what caused the Cuban Missile Crisis to end peacefully",
+      "subject": "AP US History",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes on the Cuban Missile Crisis\",\"minutes\":5},{\"title\":\"Write down the two countries directly negotiating\",\"minutes\":10},{\"title\":\"List the deal each side agreed to\",\"minutes\":15},{\"title\":\"Write a closing sentence on why the crisis ended without war\",\"minutes\":20}],\"starterAction\":\"Open your notes on the Cuban Missile Crisis\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Explain how the Camp David Accords changed Middle East relations",
+      "subject": "AP US History",
+      "description": "One page.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes on the Camp David Accords\",\"minutes\":5},{\"title\":\"List the two countries that signed the accords\",\"minutes\":10},{\"title\":\"Write the opening paragraph naming the accords and their goal\",\"minutes\":20},{\"title\":\"Write the closing paragraph on one lasting effect\",\"minutes\":20},{\"title\":\"Read the page aloud and check both countries are named\",\"minutes\":10}],\"starterAction\":\"Open your notes on the Camp David Accords\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Compare the Battle of Stalingrad to the Battle of Midway",
+      "subject": "World History",
+      "description": "One page.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and find the outcome of Stalingrad\",\"minutes\":10},{\"title\":\"Find the outcome of Midway underneath it\",\"minutes\":10},{\"title\":\"List one way the two battles turned the war\",\"minutes\":20},{\"title\":\"Write the paragraph explaining why the losing side lost each battle\",\"minutes\":25},{\"title\":\"Write a closing sentence saying which turning point mattered more\",\"minutes\":15}],\"starterAction\":\"Open your notes and find the outcome of Stalingrad\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "berlin wall fall: timeline w/ 5 dates",
+      "subject": "AP European History",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes on the fall of the Berlin Wall\",\"minutes\":5},{\"title\":\"List the first and second dates on the timeline\",\"minutes\":15},{\"title\":\"List the third, fourth, and fifth dates on the timeline\",\"minutes\":20},{\"title\":\"Check the five dates run in the correct order\",\"minutes\":10}],\"starterAction\":\"Open your notes on the fall of the Berlin Wall\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Explain three causes of the Russian Revolution",
+      "subject": "AP European History",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the textbook section on the Russian Revolution\",\"minutes\":5},{\"title\":\"List the first cause named in the reading\",\"minutes\":10},{\"title\":\"List the second and third causes\",\"minutes\":15},{\"title\":\"Write one sentence explaining each cause\",\"minutes\":25}],\"starterAction\":\"Open the textbook section on the Russian Revolution\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Explain the holding in Tinker v. Des Moines",
+      "subject": "AP Government",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the case summary for Tinker v. Des Moines\",\"minutes\":5},{\"title\":\"Write down what the students were doing in the case\",\"minutes\":10},{\"title\":\"Write one sentence on how the court ruled\",\"minutes\":15},{\"title\":\"Write the closing sentence naming the right the case protected\",\"minutes\":15}],\"starterAction\":\"Open the case summary for Tinker v. Des Moines\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "gerrymandering worksheet, redraw 1 district",
+      "subject": "Civics",
+      "description": "Map shows two marked towns and the state border.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the blank district map\",\"minutes\":5},{\"title\":\"Trace the current district boundary in pencil\",\"minutes\":15},{\"title\":\"Draw the new boundary connecting the two marked towns\",\"minutes\":20},{\"title\":\"List one voting group that moves into the new district\",\"minutes\":15},{\"title\":\"Check the new district still touches the state border\",\"minutes\":10}],\"starterAction\":\"Open the blank district map\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Explain how Miranda v. Arizona changed police procedure",
+      "subject": "US Government",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the case summary for Miranda v. Arizona\",\"minutes\":5},{\"title\":\"Write down what the police failed to tell the suspect\",\"minutes\":10},{\"title\":\"Write one sentence on what the ruling now requires\",\"minutes\":15},{\"title\":\"Write the closing sentence on why the case still matters today\",\"minutes\":15}],\"starterAction\":\"Open the case summary for Miranda v. Arizona\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "electoral college worksheet: swing state math",
+      "subject": "Government",
+      "description": null,
+      "duePhrase": "due Wednesday",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and find the electoral votes for the first swing state\",\"minutes\":5},{\"title\":\"Add up the electoral votes for the first three swing states\",\"minutes\":15},{\"title\":\"Add the remaining electoral votes for the states listed\",\"minutes\":15},{\"title\":\"Check your total against the answer key\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and find the electoral votes for the first swing state\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Explain why Citizens United v. FEC expanded campaign spending",
+      "subject": "AP Government",
+      "description": "One page.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the case summary for Citizens United v. FEC\",\"minutes\":5},{\"title\":\"Write down what the ruling changed about corporate spending\",\"minutes\":15},{\"title\":\"Write the opening paragraph naming the case and its outcome\",\"minutes\":20},{\"title\":\"Write the closing paragraph on one criticism of the ruling\",\"minutes\":20},{\"title\":\"Read the page aloud and check the case name appears twice\",\"minutes\":10}],\"starterAction\":\"Open the case summary for Citizens United v. FEC\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Draft one clause of a bill for the mock legislature unit",
+      "subject": "Civics",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the bill template\",\"minutes\":5},{\"title\":\"Write down the problem the clause will address\",\"minutes\":10},{\"title\":\"Draft the first sentence naming what the clause requires\",\"minutes\":20},{\"title\":\"Draft the second sentence naming who enforces it\",\"minutes\":20}],\"starterAction\":\"Open the bill template\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Explain the difference between the 14th Amendment and the 19th Amendment",
+      "subject": "US Government",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes on the 14th Amendment\",\"minutes\":5},{\"title\":\"Write down what the 14th Amendment guarantees\",\"minutes\":15},{\"title\":\"Write down what the 19th Amendment guarantees\",\"minutes\":15},{\"title\":\"Write a closing sentence on why both amendments needed enforcement later\",\"minutes\":20}],\"starterAction\":\"Open your notes on the 14th Amendment\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "filibuster rules: when can debate be cut off",
+      "subject": "AP Government",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes on the filibuster\",\"minutes\":5},{\"title\":\"Write down how many votes are needed to end debate\",\"minutes\":10},{\"title\":\"List two reasons a senator might use the filibuster\",\"minutes\":20},{\"title\":\"Write a closing sentence on one criticism of the rule\",\"minutes\":15}],\"starterAction\":\"Open your notes on the filibuster\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Explain how Gideon v. Wainwright guaranteed a lawyer",
+      "subject": "AP Government",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the case summary for Gideon v. Wainwright\",\"minutes\":5},{\"title\":\"Write down what right the defendant did not have at trial\",\"minutes\":10},{\"title\":\"Write one sentence on how the court ruling fixed that gap\",\"minutes\":15},{\"title\":\"Write the closing sentence naming who now must provide a lawyer\",\"minutes\":15}],\"starterAction\":\"Open the case summary for Gideon v. Wainwright\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "checks and balances worksheet: 3 branches, 1 example each",
+      "subject": "Civics",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and find the executive branch box\",\"minutes\":5},{\"title\":\"Write one example of the executive branch checking the legislative branch\",\"minutes\":15},{\"title\":\"Write one example of the legislative branch checking the president\",\"minutes\":15},{\"title\":\"Record one example of the judicial branch checking a law\",\"minutes\":15},{\"title\":\"Check each box names a different branch doing the checking\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and find the executive branch box\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Calculate opportunity cost for the worksheet's three scenarios",
+      "subject": "Economics",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and find the first scenario\",\"minutes\":5},{\"title\":\"Calculate the opportunity cost of the first choice\",\"minutes\":15},{\"title\":\"Calculate opportunity cost of the second and third choices\",\"minutes\":20},{\"title\":\"Check each answer names what was given up\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and find the first scenario\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Explain how the Federal Reserve's rate hike affects loans",
+      "subject": "AP Macroeconomics",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes on the Federal Reserve\",\"minutes\":5},{\"title\":\"Write down what a rate hike changes for banks\",\"minutes\":15},{\"title\":\"Write one sentence on how that affects loan costs for a buyer\",\"minutes\":20},{\"title\":\"Write a closing sentence on one industry that slows down first\",\"minutes\":20}],\"starterAction\":\"Open your notes on the Federal Reserve\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "gdp packet: nominal vs real, 4 problems",
+      "subject": "AP Macroeconomics",
+      "description": null,
+      "duePhrase": "due Friday",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and find problem one\",\"minutes\":5},{\"title\":\"Solve the first problem converting nominal to real GDP\",\"minutes\":13},{\"title\":\"Solve the second problem converting nominal to real GDP\",\"minutes\":12},{\"title\":\"Solve the third problem the same way\",\"minutes\":13},{\"title\":\"Solve the fourth problem the same way\",\"minutes\":12},{\"title\":\"Check each answer uses the correct price index\",\"minutes\":15}],\"starterAction\":\"Open the packet and find problem one\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Explain the tariff case study's effect on the price of steel",
+      "subject": "Economics",
+      "description": "One page.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the case study on the steel tariff\",\"minutes\":5},{\"title\":\"Write down the tariff percentage named in the case\",\"minutes\":10},{\"title\":\"Write the opening paragraph naming the tariff and its target\",\"minutes\":20},{\"title\":\"Write the closing paragraph on who pays the higher price\",\"minutes\":20},{\"title\":\"Read the page aloud and check the tariff percentage is named\",\"minutes\":10}],\"starterAction\":\"Open the case study on the steel tariff\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "elasticity worksheet, 5 goods to rank",
+      "subject": "AP Microeconomics",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and find the list of five goods\",\"minutes\":5},{\"title\":\"Rank all five goods from most to least elastic\",\"minutes\":35},{\"title\":\"Check your ranking matches the definitions in the packet\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and find the list of five goods\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Compare a monopoly and an oligopoly using the case examples",
+      "subject": "AP Microeconomics",
+      "description": "One page.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the case examples for both market types\",\"minutes\":10},{\"title\":\"List one feature of the monopoly example\",\"minutes\":15},{\"title\":\"Name one feature of the oligopoly example\",\"minutes\":15},{\"title\":\"Write the paragraph comparing how each sets its price\",\"minutes\":25},{\"title\":\"Write a closing sentence on which structure benefits the customer more\",\"minutes\":15}],\"starterAction\":\"Open the case examples for both market types\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "stock simulation log: buy 1 sell 1, write why",
+      "subject": "Economics",
+      "description": null,
+      "duePhrase": "due Monday",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the simulation log\",\"minutes\":5},{\"title\":\"Write down the stock you bought and its price\",\"minutes\":10},{\"title\":\"Write down the stock you sold and its price\",\"minutes\":10},{\"title\":\"Write two sentences on why you made each choice\",\"minutes\":20}],\"starterAction\":\"Open the simulation log\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Explain comparative advantage using the trade worksheet",
+      "subject": "Economics",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the trade worksheet and find the two countries listed\",\"minutes\":5},{\"title\":\"Write down what each country produces more efficiently\",\"minutes\":15},{\"title\":\"Write one sentence on which good each country should export\",\"minutes\":20},{\"title\":\"Write a closing sentence on why trade benefits both countries\",\"minutes\":15}],\"starterAction\":\"Open the trade worksheet and find the two countries listed\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "exchange rate packet: convert 4 currencies",
+      "subject": "AP Macroeconomics",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and find the first exchange rate\",\"minutes\":5},{\"title\":\"Convert the first amount using the given rate\",\"minutes\":10},{\"title\":\"Convert the second amount using the given rate\",\"minutes\":10},{\"title\":\"Convert the third amount using the given rate\",\"minutes\":10},{\"title\":\"Convert the fourth amount using the given rate\",\"minutes\":10},{\"title\":\"Check each converted amount against the answer key\",\"minutes\":10}],\"starterAction\":\"Open the packet and find the first exchange rate\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Explain what the population pyramid says about a country's age structure",
+      "subject": "Human Geography",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assigned population pyramid\",\"minutes\":5},{\"title\":\"Write down which age group has the widest bar\",\"minutes\":10},{\"title\":\"Write one sentence on what that shape says about birth rates\",\"minutes\":20},{\"title\":\"Write a closing sentence predicting the country's population in twenty years\",\"minutes\":20}],\"starterAction\":\"Open the assigned population pyramid\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "urban sprawl case study: 3 causes, 1 page",
+      "subject": "Human Geography",
+      "description": "One page.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the case study on urban sprawl\",\"minutes\":5},{\"title\":\"List the first cause of sprawl named in the case\",\"minutes\":15},{\"title\":\"List the second and third causes\",\"minutes\":20},{\"title\":\"Write the page explaining how the three causes connect\",\"minutes\":30},{\"title\":\"Read the page aloud and check all three causes are named\",\"minutes\":10}],\"starterAction\":\"Open the case study on urban sprawl\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "demographic transition model worksheet, stage 1-4",
+      "subject": "AP Human Geography",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and find stage one\",\"minutes\":5},{\"title\":\"Write down the birth and death rate pattern for stage one\",\"minutes\":10},{\"title\":\"Write down the birth and death rate pattern for stage two\",\"minutes\":10},{\"title\":\"Write down the pattern for stage three\",\"minutes\":10},{\"title\":\"Write down the pattern for stage four\",\"minutes\":10},{\"title\":\"Check each stage pattern matches the model in your notes\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and find stage one\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "climate zone map: shade 5 regions",
+      "subject": "Human Geography",
+      "description": "Five regions.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the blank climate zone map\",\"minutes\":5},{\"title\":\"Shade the first and second regions using the color key\",\"minutes\":15},{\"title\":\"Shade the third and fourth regions using the color key\",\"minutes\":13},{\"title\":\"Shade the fifth region using the color key\",\"minutes\":7},{\"title\":\"Check every region on the key is shaded on the map\",\"minutes\":10}],\"starterAction\":\"Print the blank climate zone map\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Explain how the watershed map connects three rivers to one basin",
+      "subject": "AP Human Geography",
+      "description": null,
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the blank watershed map\",\"minutes\":5},{\"title\":\"Trace the first river down to the shared basin\",\"minutes\":15},{\"title\":\"Trace the remaining two rivers down to the same basin\",\"minutes\":20},{\"title\":\"Label the basin where all three rivers meet\",\"minutes\":15},{\"title\":\"Check every river on the map reaches the labeled basin\",\"minutes\":10}],\"starterAction\":\"Open the blank watershed map\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "agricultural land use packet, 4 regions compared",
+      "subject": "Human Geography",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and find the land use data for the first region\",\"minutes\":5},{\"title\":\"List the main crop grown in the first and second regions\",\"minutes\":15},{\"title\":\"Name the main crop grown in the third and fourth regions\",\"minutes\":15},{\"title\":\"Write one sentence comparing why the crops differ by region\",\"minutes\":20}],\"starterAction\":\"Open the packet and find the land use data for the first region\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Explain which three goods moved west along the Silk Road",
+      "subject": "AP Human Geography",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes on Silk Road trade goods\",\"minutes\":5},{\"title\":\"List the first good and where it originated\",\"minutes\":15},{\"title\":\"List the second and third goods the same way\",\"minutes\":20},{\"title\":\"Write a closing sentence on which good most changed western markets\",\"minutes\":15}],\"starterAction\":\"Open your notes on Silk Road trade goods\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "migration push-pull factors worksheet, 1 case",
+      "subject": "Human Geography",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and find the assigned migration case\",\"minutes\":5},{\"title\":\"List two push factors driving people to leave\",\"minutes\":15},{\"title\":\"List two pull factors drawing people to the destination\",\"minutes\":15},{\"title\":\"Write a closing sentence on which factor mattered most in this case\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and find the assigned migration case\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Explain the steps of Pavlov's classical conditioning experiment",
+      "subject": "AP Psychology",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes on classical conditioning\",\"minutes\":5},{\"title\":\"Write down the unconditioned stimulus and response\",\"minutes\":15},{\"title\":\"Write down what became the conditioned stimulus\",\"minutes\":15},{\"title\":\"Write a closing sentence on how the response changed over time\",\"minutes\":20}],\"starterAction\":\"Open your notes on classical conditioning\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Diagram the four stages of Piaget's cognitive development",
+      "subject": "AP Psychology",
+      "description": null,
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the blank four-box diagram\",\"minutes\":5},{\"title\":\"Label the first two boxes with their stage names\",\"minutes\":15},{\"title\":\"Label the last two boxes with their stage names\",\"minutes\":15},{\"title\":\"Write one example behavior under each stage\",\"minutes\":25},{\"title\":\"Check every stage is in the correct age order\",\"minutes\":10}],\"starterAction\":\"Print the blank four-box diagram\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Explain what the Asch conformity experiment measured",
+      "subject": "Psychology",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes on the Asch conformity experiment\",\"minutes\":5},{\"title\":\"Write down what the group was asked to judge\",\"minutes\":10},{\"title\":\"Write one sentence on how often participants conformed\",\"minutes\":15},{\"title\":\"Write a closing sentence on why the wrong answer still felt convincing\",\"minutes\":15}],\"starterAction\":\"Open your notes on the Asch conformity experiment\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "sleep stages diagram, label all 5",
+      "subject": "AP Psychology",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the blank sleep-cycle diagram\",\"minutes\":5},{\"title\":\"Label the first and second stages in order\",\"minutes\":15},{\"title\":\"Label the third, fourth, and fifth stages in order\",\"minutes\":20},{\"title\":\"Check the stages run in the correct cycle order\",\"minutes\":10}],\"starterAction\":\"Print the blank sleep-cycle diagram\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Compare Freud's and Jung's views on the unconscious",
+      "subject": "AP Psychology",
+      "description": "One page.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and find the definition of the unconscious from Freud\",\"minutes\":10},{\"title\":\"Find the definition of the unconscious from Jung underneath it\",\"minutes\":10},{\"title\":\"List one way the two definitions differ\",\"minutes\":20},{\"title\":\"Write the paragraph comparing both views\",\"minutes\":30},{\"title\":\"Write a closing sentence saying which view you find more convincing\",\"minutes\":15}],\"starterAction\":\"Open your notes and find the definition of the unconscious from Freud\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "operant conditioning schedule chart, 4 types",
+      "subject": "AP Psychology",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the chart template for reinforcement schedules\",\"minutes\":5},{\"title\":\"Write the definition of the first schedule type\",\"minutes\":10},{\"title\":\"Write the definition of the second schedule type\",\"minutes\":10},{\"title\":\"Note the definition of the third schedule type\",\"minutes\":10},{\"title\":\"Note the definition of the fourth schedule type\",\"minutes\":10},{\"title\":\"Write one real-world example for each schedule type\",\"minutes\":25}],\"starterAction\":\"Open the chart template for reinforcement schedules\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Critique the research methods used in the assigned study",
+      "subject": "Psychology",
+      "description": "One page.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assigned study and find the methods section\",\"minutes\":10},{\"title\":\"List the number of participants and how they were selected\",\"minutes\":15},{\"title\":\"Write down one possible bias in that selection method\",\"minutes\":20},{\"title\":\"Write the page explaining how the bias could affect the results\",\"minutes\":30},{\"title\":\"Read the page aloud and check it names the bias directly\",\"minutes\":10}],\"starterAction\":\"Open the assigned study and find the methods section\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Compare Guernica and The Third of May 1808",
+      "subject": "Art History",
+      "description": "One page.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open both images side by side\",\"minutes\":10},{\"title\":\"List one color choice in Guernica\",\"minutes\":15},{\"title\":\"Name one color choice in The Third of May\",\"minutes\":15},{\"title\":\"Write the paragraph comparing how each painting shows violence\",\"minutes\":25},{\"title\":\"Write a closing sentence saying which painting feels more urgent\",\"minutes\":15}],\"starterAction\":\"Open both images side by side\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Explain how Las Meninas plays with the viewer's position",
+      "subject": "Art History",
+      "description": "The painting shows a mirror reflecting the king and queen, and a self-portrait of the artist.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assigned image of Las Meninas\",\"minutes\":5},{\"title\":\"Write down who is looking directly at the viewer\",\"minutes\":15},{\"title\":\"Write one sentence on where the mirror places the king and queen\",\"minutes\":20},{\"title\":\"Write a closing sentence on why the artist included himself in the scene\",\"minutes\":20}],\"starterAction\":\"Open the assigned image of Las Meninas\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "cubism vs fauvism: 1 page compare",
+      "subject": "Art History",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open one example painting from each movement\",\"minutes\":10},{\"title\":\"List one way Cubism breaks up the subject shape\",\"minutes\":20},{\"title\":\"Name one way Fauvism uses color instead of shape\",\"minutes\":20},{\"title\":\"Write the paragraph that compares Cubism and Fauvism\",\"minutes\":25},{\"title\":\"Write the closing paragraph on which movement broke more rules for its time\",\"minutes\":25}],\"starterAction\":\"Open one example painting from each movement\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Diagram the vanishing point in a Renaissance perspective painting",
+      "subject": "Art History",
+      "description": null,
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the assigned Renaissance painting\",\"minutes\":5},{\"title\":\"Draw lines from three objects toward a single point\",\"minutes\":20},{\"title\":\"Mark the vanishing point where the lines meet\",\"minutes\":10},{\"title\":\"Write one sentence on how the point creates depth\",\"minutes\":20}],\"starterAction\":\"Print the assigned Renaissance painting\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "baroque vs rococo furniture packet, 4 features",
+      "subject": "Art History",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and find the Baroque example\",\"minutes\":5},{\"title\":\"List the first and second features of the Baroque piece\",\"minutes\":15},{\"title\":\"Name the first and second features of the Rococo piece\",\"minutes\":15},{\"title\":\"Write a closing sentence on which style feels heavier\",\"minutes\":15}],\"starterAction\":\"Open the packet and find the Baroque example\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Explain the iconography in the assigned altarpiece panel",
+      "subject": "AP Art History",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assigned altarpiece image\",\"minutes\":5},{\"title\":\"List three symbols visible in the central panel\",\"minutes\":20},{\"title\":\"Write one sentence on what each symbol traditionally means\",\"minutes\":25},{\"title\":\"Write a closing sentence on how the symbols connect to the panel story\",\"minutes\":20}],\"starterAction\":\"Open the assigned altarpiece image\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "circle of fifths worksheet, fill all 12 keys",
+      "subject": "Music Theory",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the blank circle of fifths\",\"minutes\":5},{\"title\":\"Write the first four key signatures in order\",\"minutes\":20},{\"title\":\"Write the next four key signatures in order\",\"minutes\":20},{\"title\":\"Write the last four key signatures in order\",\"minutes\":20},{\"title\":\"Check every key is in the correct clockwise order\",\"minutes\":10}],\"starterAction\":\"Print the blank circle of fifths\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Identify the intervals in the first four measures",
+      "subject": "Music Theory",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assigned sheet music\",\"minutes\":5},{\"title\":\"Name the interval between the first two notes\",\"minutes\":15},{\"title\":\"Label the interval in the second measure\",\"minutes\":15},{\"title\":\"Name the intervals in the last two measures\",\"minutes\":20}],\"starterAction\":\"Open the assigned sheet music\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Analyze the ii-V-I progression in the jazz lead sheet",
+      "subject": "AP Music Theory",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the lead sheet and find the first ii-V-I\",\"minutes\":5},{\"title\":\"Write the chord symbols for the ii and V chords\",\"minutes\":15},{\"title\":\"Note the chord symbol for the I chord\",\"minutes\":10},{\"title\":\"Play the three chords in order on the keyboard\",\"minutes\":20},{\"title\":\"Write one sentence on how the progression resolves\",\"minutes\":15}],\"starterAction\":\"Open the lead sheet and find the first ii-V-I\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "rhythm dictation packet, 4 measures",
+      "subject": "Music Theory",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Play the first measure of the recording and pause\",\"minutes\":10},{\"title\":\"Write the rhythm you heard in the first measure\",\"minutes\":15},{\"title\":\"Replay and write the second measure the same way\",\"minutes\":20},{\"title\":\"Play and write the last two measures the same way\",\"minutes\":25}],\"starterAction\":\"Play the first measure of the recording and pause\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Explain the difference between an authentic and a plagal cadence",
+      "subject": "Music Theory",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes on cadence types\",\"minutes\":5},{\"title\":\"Write down the chord movement that makes an authentic cadence\",\"minutes\":15},{\"title\":\"Write down the chord movement that makes a plagal cadence\",\"minutes\":15},{\"title\":\"Play both cadences on the keyboard and note which sounds more final\",\"minutes\":20}],\"starterAction\":\"Open your notes on cadence types\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "transpose the melody up a major third, 8 bars",
+      "subject": "Music Theory",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the original eight-bar melody\",\"minutes\":5},{\"title\":\"Rewrite the first four bars up a major third\",\"minutes\":20},{\"title\":\"Rewrite the last four bars up a major third\",\"minutes\":20},{\"title\":\"Play the transposed melody and check it matches the original shape\",\"minutes\":15}],\"starterAction\":\"Open the original eight-bar melody\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Explain why the Great Depression's bank runs made things worse",
+      "subject": "US History",
+      "description": "The bank runs began in 1930.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes on the bank runs of 1930\",\"minutes\":5},{\"title\":\"Write down what caused people to withdraw their savings\",\"minutes\":15},{\"title\":\"Write one sentence on how the withdrawals closed more banks\",\"minutes\":20},{\"title\":\"Write a closing sentence on how the government later insured deposits\",\"minutes\":15}],\"starterAction\":\"Open your notes on the bank runs of 1930\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "compare the causes of ww1 and ww2 in 2 sentences each",
+      "subject": "World History",
+      "description": null,
+      "duePhrase": "due Friday",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes on both world wars\",\"minutes\":5},{\"title\":\"Write two sentences on what caused the first war\",\"minutes\":20},{\"title\":\"Write two sentences on what caused the second war\",\"minutes\":20},{\"title\":\"Write a closing sentence on the one cause both wars share\",\"minutes\":15}],\"starterAction\":\"Open your notes on both world wars\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Explain how the Pendleton Act reformed federal hiring",
+      "subject": "US History",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes on the Pendleton Act\",\"minutes\":5},{\"title\":\"Write down the hiring problem the act was meant to fix\",\"minutes\":15},{\"title\":\"Write one sentence on how the exam system changed hiring\",\"minutes\":20},{\"title\":\"Write a closing sentence on one job category the act covered\",\"minutes\":15}],\"starterAction\":\"Open your notes on the Pendleton Act\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Explain the main argument of the Federalist No. 10 essay",
+      "subject": "AP Government",
+      "description": "Written by Madison.",
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your copy of Federalist No. 10\",\"minutes\":5},{\"title\":\"Write down the problem Madison says factions cause\",\"minutes\":15},{\"title\":\"Write one sentence on the solution Madison proposes\",\"minutes\":20},{\"title\":\"Write a closing sentence on why a large republic helps control factions\",\"minutes\":20}],\"starterAction\":\"Open your copy of Federalist No. 10\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Explain the ruling in Plessy v. Ferguson and why Brown overturned it",
+      "subject": "AP US History",
+      "description": "Plessy was decided in 1896. Compare to Brown v. Board of Education.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the case summary for Plessy v. Ferguson\",\"minutes\":10},{\"title\":\"Write down the standard the 1896 ruling set\",\"minutes\":15},{\"title\":\"Look up the case summary for Brown v. Board of Education\",\"minutes\":10},{\"title\":\"Write down the reason the later court rejected that standard\",\"minutes\":20},{\"title\":\"Write the closing paragraph on why the two rulings conflict\",\"minutes\":25}],\"starterAction\":\"Open the case summary for Plessy v. Ferguson\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Compare fixed and variable costs using the bakery case",
+      "subject": "Economics",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the bakery case study\",\"minutes\":5},{\"title\":\"List the first and second fixed costs named in the case\",\"minutes\":15},{\"title\":\"Name the first and second variable costs listed in the case\",\"minutes\":15},{\"title\":\"Write a closing sentence on which cost changes if sales double\",\"minutes\":15}],\"starterAction\":\"Open the bakery case study\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Explain what the CPI packet says changed most this year",
+      "subject": "AP Macroeconomics",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the CPI packet and find this year's basket of goods\",\"minutes\":5},{\"title\":\"Write down the price change for the first three items\",\"minutes\":20},{\"title\":\"Write down the price change for the last two items\",\"minutes\":15},{\"title\":\"Write a closing sentence on which item price rose the most\",\"minutes\":15}],\"starterAction\":\"Open the CPI packet and find this year's basket of goods\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "urbanization case study: 1 city, 3 decades",
+      "subject": "AP Human Geography",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the case study on the assigned city\",\"minutes\":5},{\"title\":\"Write down the population for the first decade\",\"minutes\":10},{\"title\":\"Write down the population for the second and third decades\",\"minutes\":15},{\"title\":\"Write two sentences on what drove the growth between decades\",\"minutes\":25},{\"title\":\"Write a closing sentence predicting the next decade's population\",\"minutes\":15}],\"starterAction\":\"Open the case study on the assigned city\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Explain how the demographic dividend helped one country's economy",
+      "subject": "Human Geography",
+      "description": null,
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes on the demographic dividend\",\"minutes\":5},{\"title\":\"Write down the age group that grew fastest in the case\",\"minutes\":15},{\"title\":\"Write one sentence on how that group entered the workforce\",\"minutes\":20},{\"title\":\"Write a closing sentence on how the economy changed as a result\",\"minutes\":20}],\"starterAction\":\"Open your notes on the demographic dividend\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Explain the difference between short-term and long-term memory",
+      "subject": "Psychology",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes on memory encoding\",\"minutes\":5},{\"title\":\"Write down how long information stays in short-term memory\",\"minutes\":15},{\"title\":\"Write down what moves information into long-term memory\",\"minutes\":15},{\"title\":\"Write a closing sentence on one way to strengthen that move\",\"minutes\":15}],\"starterAction\":\"Open your notes on memory encoding\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "nature vs nurture essay outline, 1 page",
+      "subject": "AP Psychology",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a blank outline template\",\"minutes\":5},{\"title\":\"List two studies that support nature\",\"minutes\":15},{\"title\":\"Name two studies that support nurture\",\"minutes\":15},{\"title\":\"Write the opening line naming your own position\",\"minutes\":15},{\"title\":\"Write the closing line naming the one study that changed your mind\",\"minutes\":15}],\"starterAction\":\"Open a blank outline template\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Compare a Vermeer interior and a Rembrandt portrait",
+      "subject": "Art History",
+      "description": "One page.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open both assigned paintings side by side\",\"minutes\":10},{\"title\":\"List one light source choice in the Vermeer\",\"minutes\":15},{\"title\":\"Name one light source choice in the Rembrandt\",\"minutes\":15},{\"title\":\"Write the paragraph comparing how each artist uses shadow\",\"minutes\":25},{\"title\":\"Write a closing sentence saying which use of light feels warmer\",\"minutes\":15}],\"starterAction\":\"Open both assigned paintings side by side\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "sight-singing packet, 4 phrases",
+      "subject": "Music Theory",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the sight-singing packet\",\"minutes\":5},{\"title\":\"Sing the first phrase using solfege\",\"minutes\":15},{\"title\":\"Sing the second phrase using solfege\",\"minutes\":15},{\"title\":\"Sing the last two phrases using solfege\",\"minutes\":20}],\"starterAction\":\"Open the sight-singing packet\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Explain how the key signature changes between the verse and chorus",
+      "subject": "Music Theory",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assigned sheet music\",\"minutes\":5},{\"title\":\"Name the key signature in the verse\",\"minutes\":15},{\"title\":\"Label the key signature in the chorus\",\"minutes\":15},{\"title\":\"Write one sentence on why the change shifts the song mood\",\"minutes\":20}],\"starterAction\":\"Open the assigned sheet music\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "explain the 3 branches checks in ur own words",
+      "subject": "Civics",
+      "description": null,
+      "duePhrase": "no due date set",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes on the three branches\",\"minutes\":5},{\"title\":\"Write one line on how the executive checks the legislative branch\",\"minutes\":15},{\"title\":\"Write one line on how the judicial branch checks a law\",\"minutes\":15}],\"starterAction\":\"Open your notes on the three branches\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "explain trail of tears route n why it happened",
+      "subject": "US History",
+      "description": null,
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes on the Trail of Tears\",\"minutes\":5},{\"title\":\"Trace the route on the blank map\",\"minutes\":15},{\"title\":\"Write one sentence on why the removal was ordered\",\"minutes\":20},{\"title\":\"Write a closing sentence on the toll the journey took\",\"minutes\":15}],\"starterAction\":\"Open your notes on the Trail of Tears\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "explain how the gilded age's wealth gap showed up in 1 city",
+      "subject": "US History",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the case study on the assigned city\",\"minutes\":5},{\"title\":\"Write down one fact about the wealthiest families\",\"minutes\":15},{\"title\":\"Write down one fact about the working-class neighborhoods\",\"minutes\":15},{\"title\":\"Write the closing paragraph comparing the two groups' daily lives\",\"minutes\":25}],\"starterAction\":\"Open the case study on the assigned city\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "progressive era reform, pick 1 and explain its goal",
+      "subject": "US History",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes on Progressive Era reforms\",\"minutes\":5},{\"title\":\"Pick one reform and write down its stated goal\",\"minutes\":15},{\"title\":\"Write one sentence on who pushed for the reform\",\"minutes\":20},{\"title\":\"Write a closing sentence on whether the reform achieved its goal\",\"minutes\":15}],\"starterAction\":\"Open your notes on Progressive Era reforms\"}"
+  }
+]

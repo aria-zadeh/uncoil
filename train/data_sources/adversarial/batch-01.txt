@@ -1,0 +1,80 @@
+# Adversarial edge cases, batch 1. FINE_TUNING.md section 3.1.
+#
+# These teach the model what to do when the input is not a tidy assignment:
+# one-word titles, titles with no verb, tasks that are already a single atomic
+# action, very long descriptions, unusual subjects, non-English fragments, and
+# empty details.
+#
+# The completions here are deliberately GENERIC. When the input names nothing,
+# a step may not invent anything, so the right answer is a plain, physical
+# sequence that would be useful for any assignment. Teaching the model to
+# hallucinate specifics from a one-word prompt is exactly the failure the
+# hallucination check exists to catch.
+
+# --- one-word and near-empty titles ----------------------------------------
+b | essay | ~ | ~ | in 3 days | 30 | Open the materials for this and read the instructions:5 ; Write down what the finished piece has to contain:15 ; Write the opening without stopping to edit:25 ; Write the rest of it in one sitting:40 ; Read it aloud and fix what sounds wrong:15
+b | homework | ~ | ~ | tomorrow | 30 | Open the materials for this and read the instructions:5 ; Complete the first part in one sitting:30 ; Write down what is still left to do:5 ; Finish the rest of it:30 ; Check your work against the instructions:10
+b | reading | ~ | ~ | tomorrow | 25 | Open the reading and find where you left off:5 ; Read the first section without stopping:25 ; Write one sentence saying what that section was about:5 ; Read the next section without stopping:25 ; Write down the parts you did not follow:10
+b | project | ~ | ~ | in 2 weeks | 45 | Open the materials for this and read the instructions:10 ; Write down what has to be handed in:15 ; Collect the materials you need:35 ; Make the first piece all the way through:45 ; Make the rest of the pieces:45 ; Check your work against the instructions:15
+b | math | Algebra II | ~ | tomorrow | 25 | Open the assignment and find the first question:5 ; Answer the first five questions in order:25 ; Answer the rest of the questions:25 ; Check your answers against your notes:15
+b | lab | Chemistry | ~ | in 3 days | 30 | Open your lab notebook to the data you collected:5 ; Copy the raw numbers into the data table:20 ; Write the method section from your notes:25 ; Write the conclusion using the table:25 ; Check every unit and label:10
+b | test | ~ | ~ | in 3 days | 30 | Open your notes and put them in date order:10 ; Copy the key points onto one page:25 ; Write eight questions a test might ask:20 ; Answer your own questions without looking:30 ; Answer again the ones you got wrong:20
+b | x | ~ | ~ | tomorrow | 30 | Open the materials for this and read the instructions:5 ; Complete the first part in one sitting:30 ; Write down what is still left to do:5 ; Finish the rest of it:30
+b | ?? | ~ | ~ | in 2 days | 30 | Open the materials for this and read the instructions:5 ; Write down what the assignment is actually asking for:10 ; Complete the first part in one sitting:30 ; Finish the rest of it:30 ; Check your work against the instructions:10
+
+# --- titles with no verb ----------------------------------------------------
+b | Chapter 8 | Biology | ~ | tomorrow | 25 | Open the textbook to chapter 8:5 ; Read the first half without stopping:25 ; Write one sentence saying what that half covered:5 ; Read the second half without stopping:25 ; Write down the terms you did not know:10
+b | Unit 5 | US Government | ~ | in 5 days | 30 | Open your notes for this unit and put them in order:10 ; Copy the key terms onto one page:25 ; Write eight questions a test might ask:20 ; Answer your own questions without looking:30 ; Answer again the ones you got wrong:20
+b | Pages 44 to 71 | World Literature | ~ | tomorrow | 25 | Open the book to page 44:5 ; Read to page 58 without stopping:25 ; Write one sentence saying what happened:5 ; Read to page 71 without stopping:25 ; Write down the parts you found confusing:10
+b | The Great Gatsby | English 2H | ~ | in 5 days | 30 | Open the book and find where you left off:5 ; Read thirty pages without stopping:30 ; Write one sentence saying what happened:5 ; Read the next thirty pages:30 ; Write down the parts you found confusing:10
+b | Photosynthesis worksheet, front and back | Biology | ~ | tomorrow | 25 | Open the worksheet and put your name on it:5 ; Answer the front side in order:25 ; Answer the back side in order:25 ; Check your answers against your notes:10
+b | Periodic table quiz Friday | Chemistry | ~ | in 4 days | 20 | Open your notes and find the section you will be quizzed on:5 ; Write the key facts onto cards:20 ; Answer the cards without looking:15 ; Put the ones you missed in a separate pile:5 ; Answer the missed cards again:15
+
+# --- already atomic ---------------------------------------------------------
+b | Sign the permission slip | ~ | ~ | tomorrow | 30 | Find the slip in your bag and put it on the table:5 ; Fill in every box that is yours to fill:5 ; Ask a parent to sign it tonight:5 ; Put the signed slip in your bag by the door:5
+b | Bring gym clothes | Health | ~ | tomorrow | 30 | Find your gym clothes and check they are clean:5 ; Pack them in your bag tonight:5 ; Put the bag by the door:5
+b | Email the teacher about the missed quiz | ~ | ~ | tomorrow | 20 | Open your email and start a new message:5 ; Write down the two things you need to ask:5 ; Write the message in one sitting:10 ; Read it once and send it:5
+b | Charge the laptop | ~ | ~ | tomorrow | 30 | Find the charger and plug it into the wall:5 ; Attach the charger to the laptop:5 ; Check that the charging light is on:5
+b | Print the essay | English 2H | ~ | tomorrow | 20 | Open the document and check it is the final version:5 ; Print the pages:5 ; Staple the pages in order:5 ; Pack the printed copy in your bag:5
+
+# --- long or noisy descriptions --------------------------------------------
+b | Research paper | AP US History | This paper should be between eight and ten pages, double spaced, in twelve point font, with one inch margins on all sides, and must include at least eight scholarly sources, of which no more than two may be websites, with full citations in the required format, a title page that is not counted in the page total, and a works cited page that is also not counted, submitted both on paper and electronically before the start of class on the due date, and late papers lose one letter grade per day. | in 2 weeks | 45 | Open the assignment sheet and write the question you are answering:10 ; Write down every requirement as a checklist:20 ; Collect eight sources and save them in one folder:45 ; Write the outline as a list of section headings:30 ; Write the whole draft without editing:45 ; Add the citations and check the format:30 ; Check the paper against your requirement checklist:20
+b | Group project | AP Psychology | Everyone in the group has to contribute equally and you will all be graded on the same rubric so make sure you divide the work fairly and keep a record of who did what because the teacher will ask for it at the end and if someone does not do their part you should say so on the peer evaluation form which is handed out separately on the last day. | in 2 weeks | 45 | Open the assignment sheet and list what has to be handed in:10 ; Write down which part is yours:10 ; Collect the materials you need for your part:35 ; Make your part all the way through:45 ; Write down what you did, with dates:15 ; Check your part against the rubric:20
+b | Reading | World Literature | qx9 zzz lorem filler filler filler more filler and yet more filler text that does not say anything useful at all about the assignment itself | tomorrow | 25 | Open the reading and find where you left off:5 ; Read the first section without stopping:25 ; Write one sentence saying what that section was about:5 ; Read the next section without stopping:25 ; Write down the parts you did not follow:10
+
+# --- unusual or missing subjects -------------------------------------------
+b | Practice the drum part | Music Technology | ~ | in 3 days | 25 | Open the sheet music to the first page:5 ; Play through the first section slowly:25 ; Mark the two bars that broke down:5 ; Play those bars five times each:20 ; Play the whole part at full speed:15
+b | Sand and stain the shelf | Woodworking | ~ | in 5 days | 45 | Collect the sandpaper, cloth and stain:15 ; Run the sandpaper over the whole surface until it is smooth:45 ; Clean the dust off with a damp cloth:10 ; Paste the first coat of stain over the surface:30 ; Cover it with a second coat once the first is dry:30
+b | Log this week's training | Physical Education | ~ | in 3 days | 15 | Open the log and write today's date:5 ; Write down what you did each day this week:15 ; Add up the total minutes:5 ; Check the log against the requirement sheet:5
+b | Photograph five textures | Photography | ~ | in 5 days | 30 | Collect your camera and check the battery:10 ; Photograph the first three textures:30 ; Photograph the last two textures:25 ; Upload the photographs to your folder:15 ; Pick the five best and label them:15
+b | Rehearse your lines for act 2 | Theatre | ~ | in 3 days | 25 | Open the script to act 2:5 ; Read your lines out loud once:15 ; Practise the first half without looking:25 ; Practise the second half without looking:25 ; Practise the whole act with a timer:15
+b | Debug the sorting function | Computer Science | ~ | in 2 days | 30 | Open the file and run the failing test:10 ; Write down what the test expected and what it got:10 ; Add a print statement inside the loop:15 ; Run it again and read the output:15 ; Fix the line the output points at:25
+
+# --- non-English fragments --------------------------------------------------
+b | Leer el capitulo 3 | Spanish III | ~ | tomorrow | 25 | Open the book to the chapter you were given:5 ; Read the first half without stopping:25 ; Write one sentence saying what happened:5 ; Read the second half without stopping:25 ; Write down the words you did not know:10
+b | Ecrire un paragraphe sur les vacances | French II | Dix phrases. | in 2 days | 20 | Write down ten things you did, in your own words:10 ; Translate the first five sentences:20 ; Translate the last five sentences:20 ; Check every verb ending against your notes:15
+b | 宿題を終わらせる | Japanese I | ~ | tomorrow | 25 | Open the materials for this and read the instructions:5 ; Complete the first part in one sitting:25 ; Write down what is still left to do:5 ; Finish the rest of it:25 ; Check your work against the instructions:10
+b | Прочитать главу 4 | Russian I | ~ | tomorrow | 25 | Open the book to the chapter you were given:5 ; Read the first half without stopping:25 ; Write one sentence saying what happened:5 ; Read the second half without stopping:25 ; Write down the words you did not know:10
+
+# --- awkward but real -------------------------------------------------------
+b | this stupid essay | English 2H | ~ | in 2 days | 30 | Open the assignment sheet and read the prompt out loud:5 ; Write down the three points it has to make:15 ; Write the opening without stopping to edit:25 ; Write the rest of it in one sitting:40 ; Read it aloud and fix what sounds wrong:15
+b | i have no idea what this is | ~ | ~ | in 3 days | 30 | Open the materials for this and read the instructions:5 ; Write down what the assignment is actually asking for:15 ; Write down one question to ask the teacher:5 ; Complete the part you already follow:30 ; Finish the rest once you have an answer:30
+b | catch up on everything | ~ | ~ | in 5 days | 30 | Open your planner and list every assignment that is late:15 ; Put the list in order of due date:10 ; Finish the first item on the list:35 ; Finish the second item on the list:35 ; Cross off what you have done and check the list again:10
+b | ALL CAPS ASSIGNMENT TITLE | Biology | ~ | in 3 days | 30 | Open the materials for this and read the instructions:5 ; Write down what the finished work has to contain:15 ; Complete the first part in one sitting:30 ; Finish the rest of it:30 ; Check your work against the instructions:10
+b |    lots   of    spaces   in   the  title   | ~ | ~ | tomorrow | 25 | Open the materials for this and read the instructions:5 ; Complete the first part in one sitting:25 ; Write down what is still left to do:5 ; Finish the rest of it:25
+
+# --- extraction edge cases --------------------------------------------------
+x | Monday |  | -
+x | Monday | ??? | -
+x | Monday | asdfjkl qwerty zzzz | -
+x | Monday | Due tomorrow. | Assignment:1
+x | Monday | Everything is due at once and I do not know what to do | -
+x | Monday | Chapter 1 chapter 2 chapter 3 chapter 4 chapter 5 chapter 6 chapter 7 chapter 8 chapter 9 all due Friday | Read chapters 1 to 9:4
+x | Monday | 宿題は明日までです | Homework:1
+x | Monday | Reminder reminder reminder reminder reminder | -
+
+# --- simplification edge cases ---------------------------------------------
+s | essay | ~ | Write a short piece about the topic | Find out what the essay is supposed to be about. Write down three things you want to say, then write a paragraph about each one.
+s | ??? | ~ | Work out what the task is | Look at the assignment again and write down anything you can tell about it. Then write one question you could ask the teacher to clear it up.
+s | Undertake a comprehensive interrogation of the extant literature | ~ | Read what people have already written | Find the main things written about this topic. Read them, and write down what most of them agree on and where they disagree.
+s | Operationalize the construct for empirical measurement | ~ | Decide how you will measure it | Write down what you are trying to measure. Then write down exactly what you will count or record so that someone else could do it the same way.

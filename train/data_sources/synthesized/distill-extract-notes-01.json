@@ -1,0 +1,1202 @@
+[
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "yo did u do the bio hw its due tmrw i literally forgot we had it",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Biology homework\",\"dueInDays\":1,\"subject\":\"Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "wait is the apush dbq due wed or thurs. its wed. also dont forget the apush dbq we have to print it out and bring it",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"DBQ essay\",\"dueInDays\":2,\"subject\":\"AP US History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "hey sweetie dad is picking u up at 4. remember the field trip form has to be signed and turned in by wednesday. also put ur laundry away tonight",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Turn in the signed field trip form\",\"dueInDays\":2},{\"title\":\"Put the laundry away\",\"dueInDays\":0}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Track team - physicals paperwork is due friday or you cant compete. practice is at 3 every day this week same as usual, nothing to bring",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Physicals paperwork\",\"dueInDays\":4,\"subject\":\"Track\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Canvas notification - New assignment posted in Chemistry Honors. Lab safety contract, due tomorrow at 1159pm",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Lab safety contract\",\"dueInDays\":1,\"subject\":\"Chemistry Honors\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "stuff to do - finish calc pset due thurs - email ms reyes tonight about the makeup quiz - buy poster board tmrw for the spanish project",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Calculus problem set\",\"dueInDays\":3,\"subject\":\"Calculus\"},{\"title\":\"Email Ms Reyes about the makeup quiz\",\"dueInDays\":0},{\"title\":\"Buy poster board\",\"dueInDays\":1,\"subject\":\"Spanish\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "my mom says i have to be home by 10 on school nights now. thats it. no hw tonight bc the teacher was out and the sub just let us watch a movie",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "BRO the english essay is due TODAY at 3 not friday. check the classroom post. i almost didnt turn it in",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"English essay\",\"dueInDays\":0,\"subject\":\"English\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "idk if u saw but in ap bio she said the ch 7 packet is due wed and then the unit test is next monday. also lab notebook check friday",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Chapter 7 packet\",\"dueInDays\":2,\"subject\":\"AP Biology\"},{\"title\":\"Unit test\",\"dueInDays\":7,\"subject\":\"AP Biology\"},{\"title\":\"Lab notebook check\",\"dueInDays\":4,\"subject\":\"AP Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "reminfer - retrun the libary bookd tomorow and pya the yearbok fee by fridya",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Return the library books\",\"dueInDays\":1},{\"title\":\"Pay the yearbook fee\",\"dueInDays\":4}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "group chat recap. lit essay tuesday, chem prelab wednesday, and the spanish speaking thing friday. thats all i wrote down",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Essay\",\"dueInDays\":1,\"subject\":\"Literature\"},{\"title\":\"Prelab\",\"dueInDays\":2,\"subject\":\"Chemistry\"},{\"title\":\"Speaking assessment\",\"dueInDays\":4,\"subject\":\"Spanish\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "does anyone else think its weird we have a fire drill every monday. anyway nothing due this week in art she said just keep working on the piece",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "mom text - i put the dr note on the counter give it to the attendance office tomorrow. also your uncle is coming friday so the guest room needs to be cleaned by then",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Give the doctor note to the attendance office\",\"dueInDays\":1},{\"title\":\"Clean the guest room\",\"dueInDays\":4}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Canvas - New assignment. AP Human Geography, Population Pyramid Analysis, due Thursday 1159pm",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Population pyramid analysis\",\"dueInDays\":3,\"subject\":\"AP Human Geography\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "she said the ap lit essay is due next monday and the annotations are due this friday. dont mix them up like last time",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Essay\",\"dueInDays\":7,\"subject\":\"AP Literature\"},{\"title\":\"Annotations\",\"dueInDays\":4,\"subject\":\"AP Literature\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Volleyball - the fundraiser envelopes with the money have to be back by wednesday. Practice is normal all week and we are running the stairs so eat something",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Return the fundraiser envelope with the money\",\"dueInDays\":2,\"subject\":\"Volleyball\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "list - flashcards for the french quiz tuesday - trig worksheet due tomorrow - pay the ap exam fee by friday - ask mr byrne for a rec letter tomorrow",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"French quiz\",\"dueInDays\":1,\"subject\":\"French\"},{\"title\":\"Trigonometry worksheet\",\"dueInDays\":1,\"subject\":\"Trigonometry\"},{\"title\":\"Pay the AP exam fee\",\"dueInDays\":4},{\"title\":\"Ask Mr Byrne for a recommendation letter\",\"dueInDays\":1}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "i forgto that the goverment curernt event writeup is due wendesday",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Current event writeup\",\"dueInDays\":2,\"subject\":\"Government\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "week plan - bio ch 8 notes tomorrow - math test wednesday - english rough draft thursday - history reading friday - lab safety quiz next tuesday",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Chapter 8 notes\",\"dueInDays\":1,\"subject\":\"Biology\"},{\"title\":\"Test\",\"dueInDays\":2,\"subject\":\"Math\"},{\"title\":\"Rough draft\",\"dueInDays\":3,\"subject\":\"English\"},{\"title\":\"Reading\",\"dueInDays\":4,\"subject\":\"History\"},{\"title\":\"Lab safety quiz\",\"dueInDays\":8}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "the assembly is during 4th period tomorrow so that class is cancelled. no work was assigned and the teacher said just relax and come back ready",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "ok so in econ we got the market project today, proposal due wednesday and the full thing due next wednesday. also read the article tonight",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Project proposal\",\"dueInDays\":2,\"subject\":\"Economics\"},{\"title\":\"Market project\",\"dueInDays\":9,\"subject\":\"Economics\"},{\"title\":\"Read the article\",\"dueInDays\":0,\"subject\":\"Economics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "the drivers ed permission form is due friday. my dad already signed it. drivers ed form friday dont forget it again",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Drivers ed permission form\",\"dueInDays\":4}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "screenshot from the class group chat - hw for tomorrow is the ch 1 vocab. quiz thursday. and the signed syllabus page is due friday",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Chapter 1 vocabulary\",\"dueInDays\":1},{\"title\":\"Quiz\",\"dueInDays\":3},{\"title\":\"Signed syllabus page\",\"dueInDays\":4}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "does anyone have the geometry notes from yesterday. also quiz fri right? she said quiz fri like four times",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Quiz\",\"dueInDays\":3,\"subject\":\"Geometry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Grandma is coming Sunday so please clean your room before then. Also your dentist appointment is Thursday at 330 dont forget. Love you",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Clean your room\",\"dueInDays\":5},{\"title\":\"Dentist appointment\",\"dueInDays\":2}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Key Club - dues are 15 dollars and are due by friday to be on the roster. Bring the volunteer hour log to the meeting wednesday. Meetings are every wednesday in room 208",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Pay the club dues\",\"dueInDays\":3,\"subject\":\"Key Club\"},{\"title\":\"Bring the volunteer hour log\",\"dueInDays\":1,\"subject\":\"Key Club\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Google Classroom - Mr Okafor posted Vocabulary Unit 4 in World Literature. Due Thursday",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Vocabulary Unit 4\",\"dueInDays\":2,\"subject\":\"World Literature\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "hw - read ch 12 pg 240-255 for hist due thurs, math wksht 6.3 due tmrw, quiz fri on ch 12",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Read chapter 12\",\"dueInDays\":2,\"subject\":\"History\"},{\"title\":\"Worksheet 6.3\",\"dueInDays\":1,\"subject\":\"Math\"},{\"title\":\"Quiz on chapter 12\",\"dueInDays\":3,\"subject\":\"History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "half day tmrw for parent conferences so no homework tonight. we just watched a documentary in class and she isnt collecting the notes",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "omg the scholarship essay thing is due TODAY by 5pm i thought it was next week. i am panicking a little bit",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Scholarship essay\",\"dueInDays\":0}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "to do - spanish flashcards tmrw - chem lab writeup thurs - permission slip for the museum trip fri - study for the sat vocab quiz monday",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Spanish flashcards\",\"dueInDays\":1,\"subject\":\"Spanish\"},{\"title\":\"Lab writeup\",\"dueInDays\":2,\"subject\":\"Chemistry\"},{\"title\":\"Museum trip permission slip\",\"dueInDays\":3},{\"title\":\"Study for the SAT vocabulary quiz\",\"dueInDays\":6}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Soccer - uniform fee needs to be turned in by wednesday. Away game thursday, bus at 2. Practice is cancelled friday so sleep in",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Turn in the uniform fee\",\"dueInDays\":1,\"subject\":\"Soccer\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "she moved the apes test to next friday which is nice but the field notebook is still due thursday",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Unit test\",\"dueInDays\":10,\"subject\":\"AP Environmental Science\"},{\"title\":\"Field notebook\",\"dueInDays\":2,\"subject\":\"AP Environmental Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "yo group chat check. the psych reading response is due tomorrow and the group slides are due friday. who is doing the intro slide",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Reading response\",\"dueInDays\":1,\"subject\":\"Psychology\"},{\"title\":\"Group slides\",\"dueInDays\":3,\"subject\":\"Psychology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "she gave us the whole period to work on it so most people finished in class. nothing to take home tonight for algebra",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "hey its mom. the orthodontist moved you to friday at 3 so tell your teacher tomorrow. also the field trip money is due wednesday and i left cash in the drawer",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Tell the teacher about the appointment\",\"dueInDays\":1},{\"title\":\"Turn in the field trip money\",\"dueInDays\":1}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Canvas - Upcoming. Honors Physics, Projectile Motion Problem Set, due Thursday. Attempts allowed 2",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Projectile motion problem set\",\"dueInDays\":2,\"subject\":\"Honors Physics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "notes - return the jersey to coach wednesday - nhs application due friday - study apush ch 12 for the quiz thursday - text about the ride monday",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Return the jersey\",\"dueInDays\":1},{\"title\":\"National Honor Society application\",\"dueInDays\":3},{\"title\":\"Chapter 12 quiz\",\"dueInDays\":2,\"subject\":\"AP US History\"},{\"title\":\"Text about the ride\",\"dueInDays\":6}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Yearbook - senior quotes and baby photos need to be submitted by friday or you get the default one. Meeting thursday in the lab, come if you can",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Submit the senior quote and baby photo\",\"dueInDays\":3,\"subject\":\"Yearbook\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "dont forgt the enlgish vocab quzi is thrusday and the anotated bibliogaphy is due mondya",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Vocabulary quiz\",\"dueInDays\":2,\"subject\":\"English\"},{\"title\":\"Annotated bibliography\",\"dueInDays\":6,\"subject\":\"English\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "coach said practice is optional today bc of the heat. nothing to bring, nothing due, just show up if you feel like running",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "so mrs alvarez in stats said the ch 5 hw is due tomorrow and then we have a test friday and the project is due next friday",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Chapter 5 homework\",\"dueInDays\":1,\"subject\":\"Statistics\"},{\"title\":\"Test\",\"dueInDays\":3,\"subject\":\"Statistics\"},{\"title\":\"Project\",\"dueInDays\":10,\"subject\":\"Statistics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "the college app supplement has to be submitted by 1159 tonight. i am not doing that to myself again",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Submit the college application supplement\",\"dueInDays\":0}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "school email - Picture retakes are wednesday, bring your old photo package if you have one. Locker cleanout forms are due friday. Have a great week",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Bring the old photo package\",\"dueInDays\":1},{\"title\":\"Locker cleanout form\",\"dueInDays\":3}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "the library fine has to be paid by friday or they hold your report card. its like 3 dollars i think",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Pay the library fine\",\"dueInDays\":3}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "yo the physics lab is due by the end of class today. if u didnt do the graph just do it now i am serious",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Physics lab\",\"dueInDays\":0,\"subject\":\"Physics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Mom - I signed the form its in your backpack. Turn it in tomorrow. Also we are leaving for your cousins thing saturday so finish your homework friday",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Turn in the signed form\",\"dueInDays\":1},{\"title\":\"Finish the homework\",\"dueInDays\":2}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Canvas - Assignment Due Tomorrow. Algebra 2 Honors, Section 4.6 practice set. Submitted 0 of 24 questions",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Section 4.6 practice set\",\"dueInDays\":1,\"subject\":\"Algebra 2 Honors\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "wait when is the ap lang rhetorical analysis due. monday. its monday. i already put it in my phone twice",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Rhetorical analysis essay\",\"dueInDays\":5,\"subject\":\"AP Language\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "the sub didnt give us anything today she just took attendance and let us have a study hall. so nothing for chem",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "notes app - band fundraiser money fri - return the calculator to mrs lin thurs - art sketchbook 3 pages due monday - college essay draft to mr diaz by friday - laundry tonight",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Fundraiser money\",\"dueInDays\":2,\"subject\":\"Band\"},{\"title\":\"Return the calculator\",\"dueInDays\":1},{\"title\":\"Sketchbook pages\",\"dueInDays\":5,\"subject\":\"Art\"},{\"title\":\"College essay draft\",\"dueInDays\":2},{\"title\":\"Do the laundry\",\"dueInDays\":0}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Swim - suits and caps order form due thursday. Morning practice is 545am starting monday. Team photos next tuesday, wear your warmups",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Suit and cap order form\",\"dueInDays\":1,\"subject\":\"Swim\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "dont froget the hisotry projcet outlien is due fri and the biboliography is due nxt wed",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Project outline\",\"dueInDays\":2,\"subject\":\"History\"},{\"title\":\"Bibliography\",\"dueInDays\":7,\"subject\":\"History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "so in stats mr patel said the ch 4 hw is due tomorrow and the test got pushed to next monday which is clutch honestly",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Chapter 4 homework\",\"dueInDays\":1,\"subject\":\"Statistics\"},{\"title\":\"Unit test\",\"dueInDays\":5,\"subject\":\"Statistics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "hey can you drop the rent check at the office tomorrow morning before school. its on the counter in the envelope",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Drop the rent check at the office\",\"dueInDays\":1}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "did u see the classroom post. the bio lab report is due thursday and the ch 9 quiz is monday. also she wants the safety contract signed by thursday",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Lab report\",\"dueInDays\":1,\"subject\":\"Biology\"},{\"title\":\"Chapter 9 quiz\",\"dueInDays\":5,\"subject\":\"Biology\"},{\"title\":\"Signed safety contract\",\"dueInDays\":1,\"subject\":\"Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "the wifi was down the whole period so we couldnt do the online thing. she said we will just do it in class next time, nothing to do tonight",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "your father and i need you to babysit your sister friday night. also nice job on that math test",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Babysit your sister\",\"dueInDays\":2}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "todo - chem homework tonight - art critique paragraph thursday - buy a gift for the exchange monday - lit test friday - renew the library book tomorrow",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Homework\",\"dueInDays\":0,\"subject\":\"Chemistry\"},{\"title\":\"Critique paragraph\",\"dueInDays\":1,\"subject\":\"Art\"},{\"title\":\"Buy a gift for the exchange\",\"dueInDays\":5},{\"title\":\"Test\",\"dueInDays\":2,\"subject\":\"Literature\"},{\"title\":\"Renew the library book\",\"dueInDays\":1}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Google Classroom - Assignment returned in Algebra 1. Quiz 3 corrections are required and due Friday to earn the points back",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Quiz 3 corrections\",\"dueInDays\":2,\"subject\":\"Algebra 1\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Track - the meet entry form is due tomorrow and spikes have to be checked by the coach thursday. Also the team dinner is saturday, bring a side dish",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Meet entry form\",\"dueInDays\":1,\"subject\":\"Track\"},{\"title\":\"Get the spikes checked\",\"dueInDays\":1,\"subject\":\"Track\"},{\"title\":\"Bring a side dish to the team dinner\",\"dueInDays\":3,\"subject\":\"Track\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "so the field trip got cancelled bc the bus company messed up. no forms needed anymore and the money is being refunded next week",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "reminder - turnin the schollarship recomendation packet by mondya and finsh the resume draft tomorow",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Turn in the scholarship recommendation packet\",\"dueInDays\":5},{\"title\":\"Finish the resume draft\",\"dueInDays\":1}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "for ap gov we have to read the two articles by tomorrow and the fed 10 analysis is due next monday. the test got moved to next thursday",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Read the two articles\",\"dueInDays\":1,\"subject\":\"AP Government\"},{\"title\":\"Federalist 10 analysis\",\"dueInDays\":5,\"subject\":\"AP Government\"},{\"title\":\"Unit test\",\"dueInDays\":8,\"subject\":\"AP Government\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "she is collecting the poetry packets at the end of class today. mine is in my locker im gonna go get it right now",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Poetry packet\",\"dueInDays\":0}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "wait so the spanish essay is due friday right. yes friday. and the presentation is monday. ok cool thx for confirming",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Essay\",\"dueInDays\":2,\"subject\":\"Spanish\"},{\"title\":\"Presentation\",\"dueInDays\":5,\"subject\":\"Spanish\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "did anyone start the econ reading. its ch 9 and 10 due tmrw and theres a quiz on it monday",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Chapters 9 and 10 reading\",\"dueInDays\":1,\"subject\":\"Economics\"},{\"title\":\"Quiz\",\"dueInDays\":4,\"subject\":\"Economics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "THE PERMISSION SLIP IS DUE TODAY. mrs cole said last period today or you cant go on the trip at all",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Turn in the permission slip\",\"dueInDays\":0}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "no practice today coach is sick. also no hw in bio she just did a review game the whole period and nothing to turn in",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Google Classroom - New announcement in AP Psych. The unit 3 study guide is optional and will not be collected. Test is next tuesday",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Unit 3 test\",\"dueInDays\":5,\"subject\":\"AP Psychology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "todo - french oral practice tonight - lit annotations for ch 6 due tmrw - pick up the graduation gown order form and turn it in by monday - venmo kayla for the ticket tomorrow",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Oral practice\",\"dueInDays\":0,\"subject\":\"French\"},{\"title\":\"Chapter 6 annotations\",\"dueInDays\":1,\"subject\":\"Literature\"},{\"title\":\"Turn in the graduation gown order form\",\"dueInDays\":4},{\"title\":\"Venmo Kayla for the ticket\",\"dueInDays\":1}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Robotics - the competition registration form and the 40 dollar fee are due tomorrow. Build night is friday and saturday, come if you can",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Competition registration form and fee\",\"dueInDays\":1,\"subject\":\"Robotics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "pls dont forgt to email ur counselor abut the schedual change tonihgt and the physical form is due monday for sports",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Email the counselor about the schedule change\",\"dueInDays\":0},{\"title\":\"Physical form\",\"dueInDays\":4}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "the chem lab writeup is due friday. FRIDAY. she said it twice. also the corrections on the last test are due friday too",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Lab writeup\",\"dueInDays\":1,\"subject\":\"Chemistry\"},{\"title\":\"Test corrections\",\"dueInDays\":1,\"subject\":\"Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "just realized the summer reading response is due sunday not next week. ugh i have not started it",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Summer reading response\",\"dueInDays\":3}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "we have a sub in spanish tmrw so the presentation moved to next wednesday but the vocab quiz is still tomorrow",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Presentation\",\"dueInDays\":6,\"subject\":\"Spanish\"},{\"title\":\"Vocabulary quiz\",\"dueInDays\":1,\"subject\":\"Spanish\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "text from mom - dont forget the dentist tomorrow at 4 and you need to bring the insurance card. the school forms are due monday too",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Dentist appointment\",\"dueInDays\":1},{\"title\":\"Bring the insurance card\",\"dueInDays\":1},{\"title\":\"School forms\",\"dueInDays\":4}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "study hall today was actually a study hall. no assignments went out in any class, everyone is just prepping for next week",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Canvas - New quiz available. AP Statistics, Chapter 7 Reading Check, closes Sunday at 1159pm",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Chapter 7 reading check\",\"dueInDays\":3,\"subject\":\"AP Statistics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "list - print the lab packet tonight - bio test tomorrow - order the club tshirt by monday - drop off the recycling saturday",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Print the lab packet\",\"dueInDays\":0},{\"title\":\"Test\",\"dueInDays\":1,\"subject\":\"Biology\"},{\"title\":\"Order the club tshirt\",\"dueInDays\":4},{\"title\":\"Drop off the recycling\",\"dueInDays\":2}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Model UN - position papers are due sunday night and the conference fee has to be paid by next tuesday. Practice debates are during lunch friday",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Position paper\",\"dueInDays\":3,\"subject\":\"Model UN\"},{\"title\":\"Pay the conference fee\",\"dueInDays\":5,\"subject\":\"Model UN\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "he said in calc that the only thing due this week is the ch 3 review so at least thats easy for once",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Chapter 3 review\",\"dueInDays\":1,\"subject\":\"Calculus\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "i keep forgeting - the goverment quiz is fridya and the artcile summry is due mondya morning",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Quiz\",\"dueInDays\":1,\"subject\":\"Government\"},{\"title\":\"Article summary\",\"dueInDays\":4,\"subject\":\"Government\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "she said the essay prompt wont be posted until next week so theres nothing to start yet. just read whatever you want tonight",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "ok what do we have. chem lab tomorrow, apush frq monday, spanish vocab tuesday, and the english book is supposed to be done by wednesday",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Lab\",\"dueInDays\":1,\"subject\":\"Chemistry\"},{\"title\":\"FRQ\",\"dueInDays\":4,\"subject\":\"AP US History\"},{\"title\":\"Vocabulary\",\"dueInDays\":5,\"subject\":\"Spanish\"},{\"title\":\"Finish the book\",\"dueInDays\":6,\"subject\":\"English\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "the counselor needs the schedule change form signed and back by the end of the day today or youre stuck in that class",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Signed schedule change form\",\"dueInDays\":0}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "hi honey, i paid the lunch account. can you please turn in the free lunch application tomorrow and clean the bathroom saturday",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Turn in the free lunch application\",\"dueInDays\":1},{\"title\":\"Clean the bathroom\",\"dueInDays\":2}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "anyone know what the hw is over the weekend. i think its the packet for gov due monday and thats it",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Packet\",\"dueInDays\":3,\"subject\":\"Government\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Your dads flight lands sunday. Please have the kitchen cleaned by then and take the trash out tonight. Also the school picture money is due tuesday",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Clean the kitchen\",\"dueInDays\":2},{\"title\":\"Take the trash out\",\"dueInDays\":0},{\"title\":\"School picture money\",\"dueInDays\":4}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "im so glad its friday. no homework this weekend in any class. sarah said the bio quiz got moved but she didnt say to when",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Canvas - Grade posted. World History Unit 4 exam, 82 out of 100. No action needed",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "the yearbook photo submission closes TODAY at midnight. upload your senior quote and photo before then or you get skipped",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Upload the senior photo and quote\",\"dueInDays\":0,\"subject\":\"Yearbook\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "weekend list - apush timeline due monday - read pg 88-104 in lit by tuesday - clean out my locker before monday - study for the calc quiz wednesday",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Timeline\",\"dueInDays\":3,\"subject\":\"AP US History\"},{\"title\":\"Read pages 88-104\",\"dueInDays\":4,\"subject\":\"Literature\"},{\"title\":\"Clean out my locker\",\"dueInDays\":3},{\"title\":\"Study for the quiz\",\"dueInDays\":5,\"subject\":\"Calculus\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Cross country - the invitational is saturday, meet at the school at 630am. Everyone still needs to hand in the athlete code of conduct by monday",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Athlete code of conduct\",\"dueInDays\":3,\"subject\":\"Cross Country\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "reminde me to prnit the reasearch paper befor school monday and bring the flash drieve",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Print the research paper\",\"dueInDays\":3},{\"title\":\"Bring the flash drive\",\"dueInDays\":3}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "in ap chem the mole lab is due tuesday. also for ap chem dont forget the mole lab needs the error analysis section",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Mole lab\",\"dueInDays\":4,\"subject\":\"AP Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "hey its ms tran, gentle reminder that the missing homework from unit 2 has to be submitted by monday to count for credit",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Unit 2 missing homework\",\"dueInDays\":3}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "group chat - homework check. gov reading monday, chem test tuesday, and the art project is due wednesday. anyone have the gov reading pages",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Reading\",\"dueInDays\":3,\"subject\":\"Government\"},{\"title\":\"Test\",\"dueInDays\":4,\"subject\":\"Chemistry\"},{\"title\":\"Project\",\"dueInDays\":5,\"subject\":\"Art\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "no hw this weekend she literally said enjoy your weekend. the only thing is the test but thats not till after break",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Canvas - Assignment posted in AP Biology. Cell Respiration Concept Map, due Tuesday at 8am",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Cell respiration concept map\",\"dueInDays\":4,\"subject\":\"AP Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "weekend - laundry today - econ ch 6 notes monday - fill out the job application by monday - practice the piano piece for the recital sunday - text coach tonight about the ride",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Do the laundry\",\"dueInDays\":0},{\"title\":\"Chapter 6 notes\",\"dueInDays\":3,\"subject\":\"Economics\"},{\"title\":\"Fill out the job application\",\"dueInDays\":3},{\"title\":\"Practice the recital piece\",\"dueInDays\":2},{\"title\":\"Text coach about the ride\",\"dueInDays\":0}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Wrestling - weigh in cards need to be signed by a parent and handed in monday. Open mat is saturday morning if you want extra reps",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Signed weigh in card\",\"dueInDays\":3,\"subject\":\"Wrestling\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "dont forgt - the histroy timeline is due mondya and the review packet is due tusday and i still need to buy poster boadr before monday",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Timeline\",\"dueInDays\":3,\"subject\":\"History\"},{\"title\":\"Review packet\",\"dueInDays\":4,\"subject\":\"History\"},{\"title\":\"Buy poster board\",\"dueInDays\":3}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "the club meeting got moved to next week and nothing is due. just think about what committee you want to be on",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "in ceramics we have to have the bowl trimmed by monday and the glaze test tile is due wednesday. also bring an apron tuesday",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Trim the bowl\",\"dueInDays\":3,\"subject\":\"Ceramics\"},{\"title\":\"Glaze test tile\",\"dueInDays\":5,\"subject\":\"Ceramics\"},{\"title\":\"Bring an apron\",\"dueInDays\":4,\"subject\":\"Ceramics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "the aftercare form is due today by 4 and the office closes then. my mom already signed it i just have to walk it over",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Turn in the aftercare form\",\"dueInDays\":0}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "reminder from dad - your car registration thing is monday, bring the paperwork. the registration paperwork is on the fridge. also mow saturday",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Bring the registration paperwork\",\"dueInDays\":3},{\"title\":\"Mow the lawn\",\"dueInDays\":1}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Google Classroom - Two assignments due soon in Spanish 3. Verb conjugation set due Monday and the cultural presentation due Wednesday",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Verb conjugation set\",\"dueInDays\":3,\"subject\":\"Spanish 3\"},{\"title\":\"Cultural presentation\",\"dueInDays\":5,\"subject\":\"Spanish 3\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "wait is the essay due sunday night or monday morning. its sunday night at 1159. i just checked classroom",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Essay\",\"dueInDays\":1}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Dont forget you said you would help me at the store tomorrow morning. And your permission form for the college visit is due wednesday",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Help at the store\",\"dueInDays\":1},{\"title\":\"College visit permission form\",\"dueInDays\":4}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "practice got moved to 9am instead of 8. nothing else to bring, coach has the water and the cones. see u there",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "sunday plan - finish the bio study guide today - apush notes due monday - text jordan about the group project meeting tomorrow - order the cap and gown by friday",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Study guide\",\"dueInDays\":0,\"subject\":\"Biology\"},{\"title\":\"Notes\",\"dueInDays\":2,\"subject\":\"AP US History\"},{\"title\":\"Text Jordan about the group project meeting\",\"dueInDays\":1},{\"title\":\"Order the cap and gown\",\"dueInDays\":6}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Debate - the tournament entry form is due next sunday, not this one. Bring a printed case to the meeting monday. Snacks are provided",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Tournament entry form\",\"dueInDays\":8,\"subject\":\"Debate\"},{\"title\":\"Bring a printed case\",\"dueInDays\":2,\"subject\":\"Debate\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "the fafsa thing my mom needs the tax doc TODAY she said. find it in the email and print it before she gets home",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Print the tax document\",\"dueInDays\":0}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Canvas - Reminder. Precalculus Honors, Chapter 6 review is due Monday at 8am. 0 of 30 questions submitted",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Chapter 6 review\",\"dueInDays\":2,\"subject\":\"Precalculus Honors\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "mom sadi the orthodntist is tueasday at 2 and i hve to give the note to the ofice monday",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Orthodontist appointment\",\"dueInDays\":3},{\"title\":\"Give the note to the office\",\"dueInDays\":2}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "so for anatomy we have to bring in a labeled diagram wednesday and the case study writeup is due next thursday",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Labeled diagram\",\"dueInDays\":4,\"subject\":\"Anatomy\"},{\"title\":\"Case study writeup\",\"dueInDays\":5,\"subject\":\"Anatomy\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "just remembered i have to finish the volunteer hours form and get it signed before monday or the honor society thing doesnt count",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Volunteer hours form\",\"dueInDays\":2,\"subject\":\"National Honor Society\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "yo did anyone do the bio hw. its the ch 4 questions due monday and theres also the vocab sheet due tuesday i think",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Chapter 4 questions\",\"dueInDays\":2,\"subject\":\"Biology\"},{\"title\":\"Vocabulary sheet\",\"dueInDays\":3,\"subject\":\"Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "practice was cancelled and coach said take the weekend off. nothing to turn in, no forms, just rest your legs and hydrate",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "please clean your room today before your aunt gets here. i am not asking again",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Clean your room\",\"dueInDays\":0}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "sunday - finish the apush reading tonight - lit essay due monday - permission slip due wednesday - study for the french test thursday",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Reading\",\"dueInDays\":0,\"subject\":\"AP US History\"},{\"title\":\"Essay\",\"dueInDays\":2,\"subject\":\"Literature\"},{\"title\":\"Permission slip\",\"dueInDays\":4},{\"title\":\"Study for the test\",\"dueInDays\":5,\"subject\":\"French\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Canvas - Reminder. Environmental Science, Watershed Field Report is due Wednesday at 1159pm",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Watershed field report\",\"dueInDays\":4,\"subject\":\"Environmental Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Drama - memorize act one by monday and the costume measurement form is due next friday. Set build is sunday afternoon in the shop",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Memorize act one\",\"dueInDays\":2,\"subject\":\"Drama\"},{\"title\":\"Costume measurement form\",\"dueInDays\":6,\"subject\":\"Drama\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "so the tournament is off, not enough teams signed up. nothing to bring monday and the entry fee is getting refunded",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "i have to fnish the chem prelab befor monday and the mah worksheet is due tusday and turn in the libary book sundya",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Prelab\",\"dueInDays\":2,\"subject\":\"Chemistry\"},{\"title\":\"Worksheet\",\"dueInDays\":3,\"subject\":\"Math\"},{\"title\":\"Turn in the library book\",\"dueInDays\":1}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "for ap lang the synthesis essay is due next sunday and the rhetorical terms quiz is monday. she also wants the article annotated by monday",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Synthesis essay\",\"dueInDays\":8,\"subject\":\"AP Language\"},{\"title\":\"Rhetorical terms quiz\",\"dueInDays\":2,\"subject\":\"AP Language\"},{\"title\":\"Annotate the article\",\"dueInDays\":2,\"subject\":\"AP Language\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "the scholarship portal closes tonight at midnight so i have to upload the transcript today no matter what",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Upload the transcript\",\"dueInDays\":0}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "hey your grandpa wants a call sunday. also the sports physical appointment is tuesday at 4 and the form has to go to the office wednesday",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Call grandpa\",\"dueInDays\":1},{\"title\":\"Sports physical appointment\",\"dueInDays\":3},{\"title\":\"Take the form to the office\",\"dueInDays\":4}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "does anybody have the hw for tmrw. i think its the ch 2 questions for bio and the math pset is due wed",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Chapter 2 questions\",\"dueInDays\":1,\"subject\":\"Biology\"},{\"title\":\"Problem set\",\"dueInDays\":3,\"subject\":\"Math\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Please get to bed early. Your permission slip and the 12 dollars are due tomorrow and I put them in your bag. Also call grandma tonight",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Turn in the permission slip and money\",\"dueInDays\":1},{\"title\":\"Call grandma\",\"dueInDays\":0}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "sunday scaries but i checked classroom and literally nothing is due tomorrow. the sub in gov didnt assign anything and lit was a work day",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "week ahead - chem test tuesday - english essay outline monday - band uniform fitting form due friday - mow the lawn today",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Test\",\"dueInDays\":2,\"subject\":\"Chemistry\"},{\"title\":\"Essay outline\",\"dueInDays\":1,\"subject\":\"English\"},{\"title\":\"Uniform fitting form\",\"dueInDays\":5,\"subject\":\"Band\"},{\"title\":\"Mow the lawn\",\"dueInDays\":0}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Basketball - tryouts start monday and you must have the physical packet turned in before you step on the court. Bring both shoes and a water bottle",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Physical packet\",\"dueInDays\":1,\"subject\":\"Basketball\"},{\"title\":\"Bring both shoes and a water bottle\",\"dueInDays\":1,\"subject\":\"Basketball\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "the online quiz for spanish closes tonight at 11. i forgot too, we can do it at the same time",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Online quiz\",\"dueInDays\":0,\"subject\":\"Spanish\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Google Classroom - Ms Whitfield posted Photosynthesis Lab Analysis in Biology I. Due Wednesday. Rubric attached",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Photosynthesis lab analysis\",\"dueInDays\":3,\"subject\":\"Biology I\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "i hvae to fnish the aprt of the slidedeck for the grp projct by tusday and send it to elena tonigt",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Finish my part of the slide deck\",\"dueInDays\":2},{\"title\":\"Send the slides to Elena\",\"dueInDays\":0}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "in world history the map quiz is thursday. also the map quiz is thursday not friday like ryan said in the chat",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Map quiz\",\"dueInDays\":4,\"subject\":\"World History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "coach texted the group. everyone needs to bring the signed concussion form to practice tomorrow no exceptions",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Bring the signed concussion form\",\"dueInDays\":1}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "ok tomorrow we have the geometry quiz and the history notes are due. also the science fair proposal is due friday",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Quiz\",\"dueInDays\":1,\"subject\":\"Geometry\"},{\"title\":\"Notes\",\"dueInDays\":1,\"subject\":\"History\"},{\"title\":\"Science fair proposal\",\"dueInDays\":5}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "i checked all three portals and nothing is assigned. the teachers are at a conference monday so its a half day and no classes after lunch",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "put the trash cans out tonight please and thank you. i left money for lunch on the table",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Put the trash cans out\",\"dueInDays\":0}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "week - bio notes monday - chem lab report tuesday - english essay wednesday - math test thursday - college visit form due friday",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Notes\",\"dueInDays\":1,\"subject\":\"Biology\"},{\"title\":\"Lab report\",\"dueInDays\":2,\"subject\":\"Chemistry\"},{\"title\":\"Essay\",\"dueInDays\":3,\"subject\":\"English\"},{\"title\":\"Test\",\"dueInDays\":4,\"subject\":\"Math\"},{\"title\":\"College visit form\",\"dueInDays\":5}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Baseball - the equipment deposit check is due monday at the first practice. Practice is 3 to 5 every day this week, bring your own water",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Equipment deposit check\",\"dueInDays\":1,\"subject\":\"Baseball\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "dont forgt the spansih projct is due wendesday and the vocab quzi is tomorow and i need to prnit the rubirc tonihgt",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Project\",\"dueInDays\":3,\"subject\":\"Spanish\"},{\"title\":\"Vocabulary quiz\",\"dueInDays\":1,\"subject\":\"Spanish\"},{\"title\":\"Print the rubric\",\"dueInDays\":0,\"subject\":\"Spanish\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "so we finished the unit friday and she said the new one starts monday with nothing to prepare. i just have to show up on time",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Canvas - Two items due this week in US History. Chapter 8 outline due Tuesday and the primary source analysis due Thursday",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Chapter 8 outline\",\"dueInDays\":2,\"subject\":\"US History\"},{\"title\":\"Primary source analysis\",\"dueInDays\":4,\"subject\":\"US History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "in physics the lab is due wednesday. i keep saying it bc i forgot last time. the physics lab is wednesday. also the pset is due tomorrow",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Lab\",\"dueInDays\":3,\"subject\":\"Physics\"},{\"title\":\"Problem set\",\"dueInDays\":1,\"subject\":\"Physics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "the online reading check closes today at 8pm and it doesnt reopen. do it before dinner seriously",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Online reading check\",\"dueInDays\":0}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "ok list from the group chat. calc quiz monday, apes lab tuesday, gov reading wednesday, and the art portfolio is due friday",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Quiz\",\"dueInDays\":1,\"subject\":\"Calculus\"},{\"title\":\"Lab\",\"dueInDays\":2,\"subject\":\"AP Environmental Science\"},{\"title\":\"Reading\",\"dueInDays\":3,\"subject\":\"Government\"},{\"title\":\"Portfolio\",\"dueInDays\":5,\"subject\":\"Art\"}]}"
+  }
+]

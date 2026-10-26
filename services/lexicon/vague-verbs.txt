@@ -1,0 +1,45 @@
+# Phrases a step title may not match. ON_DEVICE_MODEL.md section 6, check 4.2.
+#
+# These are the failures that make a breakdown useless to the person this app
+# is for. Schema validation catches malformed JSON; it does not catch
+# "Plan your essay", which is a well-formed instruction to do the exact thing
+# the student cannot start.
+#
+# Matched case-insensitively against the beginning of a step title, and as a
+# whole phrase anywhere in it. One phrase per line.
+plan
+think about
+think through
+consider
+decide
+brainstorm
+figure out
+work on
+start on
+prepare to
+get ready
+reflect on
+understand
+learn
+study for
+review your
+familiarise
+familiarize
+process
+digest
+absorb
+internalise
+internalize
+conceptualise
+conceptualize
+strategise
+strategize
+ideate
+mull over
+ponder
+contemplate
+determine
+assess
+evaluate
+analyse the
+analyze the

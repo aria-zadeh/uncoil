@@ -1,0 +1,1651 @@
+[
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a 5-paragraph essay on the causes of World War I",
+      "subject": "English 10",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and circle how many causes it asks for\",\"minutes\":5},{\"title\":\"List the three causes in the order you will argue them\",\"minutes\":15},{\"title\":\"Write the paragraph on the first cause without stopping to edit\",\"minutes\":20},{\"title\":\"Write the paragraphs on the second and third causes\",\"minutes\":35},{\"title\":\"Write an opening paragraph that names all three causes\",\"minutes\":20},{\"title\":\"Write a closing paragraph that ranks the causes by importance\",\"minutes\":15}],\"starterAction\":\"Open the assignment sheet and circle how many causes it asks for\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write an argumentative essay on whether school should start later",
+      "subject": "English 9",
+      "description": "Take a side and support it with three reasons.",
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down which side of the start-time debate you are taking\",\"minutes\":10},{\"title\":\"List the three reasons that back up your side\",\"minutes\":15},{\"title\":\"Write a paragraph on your strongest reason first\",\"minutes\":20},{\"title\":\"Write the paragraphs on your other two reasons\",\"minutes\":30},{\"title\":\"Write a closing paragraph that repeats your side in different words\",\"minutes\":20},{\"title\":\"Read the whole thing out loud to a family member and note their questions\",\"minutes\":15}],\"starterAction\":\"Write down which side of the start-time debate you are taking\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a synthesis essay using the three articles from class",
+      "subject": "AP Language and Composition",
+      "description": "Take a position and use all three sources.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the three articles and label each one A, B or C\",\"minutes\":10},{\"title\":\"Write down which article supports which part of your position\",\"minutes\":20},{\"title\":\"Write the paragraph built on article A\",\"minutes\":25},{\"title\":\"Write the paragraphs built on articles B and C\",\"minutes\":35},{\"title\":\"Write a closing paragraph that pulls all three articles together\",\"minutes\":20},{\"title\":\"Check every article is named the first time you use it\",\"minutes\":20}],\"starterAction\":\"Open the three articles and label each one A, B or C\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a rhetorical analysis of the assigned speech",
+      "subject": "AP Language and Composition",
+      "description": "Cover ethos, pathos and logos.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the speech and read it once through without stopping\",\"minutes\":15},{\"title\":\"Underline every place the speaker uses ethos, pathos or logos\",\"minutes\":25},{\"title\":\"Write down one example of each\",\"minutes\":15},{\"title\":\"Write the analysis in one sitting without editing\",\"minutes\":35},{\"title\":\"Count how many times each device shows up and note the ratio\",\"minutes\":15}],\"starterAction\":\"Open the speech and read it once through without stopping\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a 5-paragraph essay comparing two poems",
+      "subject": "English 11",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open both poems and list one similarity between them\",\"minutes\":10},{\"title\":\"List one difference between the poems underneath it\",\"minutes\":10},{\"title\":\"Write the paragraph on the similarity without stopping to edit\",\"minutes\":20},{\"title\":\"Write the paragraph on the difference without stopping to edit\",\"minutes\":20},{\"title\":\"Write an opening paragraph naming both poems and your point\",\"minutes\":15},{\"title\":\"Write a closing paragraph saying which poem makes the stronger case\",\"minutes\":15}],\"starterAction\":\"Open both poems and list one similarity between them\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write an essay arguing for or against year-round school",
+      "subject": "English 9",
+      "description": "Two pages, one clear position.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down your position on year-round school in one sentence\",\"minutes\":10},{\"title\":\"List three reasons that back up your position\",\"minutes\":15},{\"title\":\"Write the paragraph on your first reason\",\"minutes\":20},{\"title\":\"Write the two paragraphs covering your remaining reasons\",\"minutes\":30},{\"title\":\"Write a closing paragraph that answers the other side's best objection\",\"minutes\":20}],\"starterAction\":\"Write down your position on year-round school in one sentence\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a timed argumentative essay for the AP exam practice",
+      "subject": "AP Language and Composition",
+      "description": "Forty minutes, no notes.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the prompt and underline the exact claim it wants\",\"minutes\":5},{\"title\":\"Write down your claim in one sentence\",\"minutes\":5},{\"title\":\"Write two reasons in the margin before you start drafting\",\"minutes\":5},{\"title\":\"Write the whole essay start to finish without stopping\",\"minutes\":25},{\"title\":\"Time yourself and check you finished inside forty minutes\",\"minutes\":5}],\"starterAction\":\"Open the prompt and underline the exact claim it wants\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a synthesis essay on renewable energy sources",
+      "subject": "AP Language and Composition",
+      "description": "Use at least three of the packet sources.",
+      "duePhrase": "in 10 days",
+      "sessionMinutes": 60
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and number the sources one through however many there are\",\"minutes\":10},{\"title\":\"Write down which three sources you will use and why\",\"minutes\":20},{\"title\":\"Write the paragraph built on your strongest source\",\"minutes\":25},{\"title\":\"Write the remaining body paragraphs\",\"minutes\":40},{\"title\":\"Write a closing paragraph that says what should happen next\",\"minutes\":25},{\"title\":\"Check each source is cited the first time it appears\",\"minutes\":20}],\"starterAction\":\"Open the packet and number the sources one through however many there are\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a 5-paragraph essay on a book from the summer list",
+      "subject": "English 10",
+      "description": null,
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the one claim the essay has to prove\",\"minutes\":10},{\"title\":\"List the three pieces of evidence from the book that prove it\",\"minutes\":15},{\"title\":\"Write the paragraph on your first piece of evidence\",\"minutes\":20},{\"title\":\"Write the paragraphs on the other two pieces of evidence\",\"minutes\":30},{\"title\":\"Write an opening and closing paragraph back to back\",\"minutes\":25},{\"title\":\"Proofread the whole essay one paragraph at a time\",\"minutes\":15}],\"starterAction\":\"Write down the one claim the essay has to prove\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write an essay on the theme of ambition in the assigned play",
+      "subject": "Honors English",
+      "description": null,
+      "duePhrase": "Friday",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the theme of ambition in one sentence\",\"minutes\":10},{\"title\":\"Find three moments in the play that show that theme\",\"minutes\":25},{\"title\":\"Write the paragraph on the first moment\",\"minutes\":20},{\"title\":\"Write the paragraphs on the other two moments\",\"minutes\":30},{\"title\":\"Write a closing paragraph connecting all three moments\",\"minutes\":20}],\"starterAction\":\"Write down the theme of ambition in one sentence\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a literary analysis of the protagonist's development",
+      "subject": "English 11",
+      "description": "Two pages.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the novel to the first chapter you marked\",\"minutes\":10},{\"title\":\"List three moments where the protagonist changes\",\"minutes\":20},{\"title\":\"Write the paragraph on the earliest moment\",\"minutes\":20},{\"title\":\"Write the paragraphs on the later two moments\",\"minutes\":35},{\"title\":\"Write a closing paragraph on who the protagonist becomes by the end\",\"minutes\":20}],\"starterAction\":\"Open the novel to the first chapter you marked\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Complete a close reading of the assigned passage",
+      "subject": "English 12",
+      "description": "One page, quote-based.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the passage and read it twice without stopping\",\"minutes\":15},{\"title\":\"Underline every word that seems chosen on purpose\",\"minutes\":15},{\"title\":\"Write down what each underlined word adds to the meaning\",\"minutes\":25},{\"title\":\"Write the close reading in one sitting\",\"minutes\":30},{\"title\":\"Check every quote against the passage for accuracy\",\"minutes\":15}],\"starterAction\":\"Open the passage and read it twice without stopping\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a poetry explication of the assigned poem",
+      "subject": "Honors English",
+      "description": "Line by line, one page.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the poem and count how many lines it has\",\"minutes\":10},{\"title\":\"Underline every line that uses a comparison\",\"minutes\":15},{\"title\":\"Mark the lines where the tone shifts\",\"minutes\":15},{\"title\":\"Write the explication moving line by line in order\",\"minutes\":35},{\"title\":\"Read the explication out loud and check every line got covered\",\"minutes\":15}],\"starterAction\":\"Open the poem and count how many lines it has\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a rhetorical analysis of the op-ed from class",
+      "subject": "AP Language and Composition",
+      "description": "Focus on one device per paragraph.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the op-ed and read it once through\",\"minutes\":15},{\"title\":\"Circle every rhetorical device you can name\",\"minutes\":25},{\"title\":\"Sort the devices into the order you will write about them\",\"minutes\":15},{\"title\":\"Write one paragraph per device in that order\",\"minutes\":40},{\"title\":\"Check each paragraph names a different device\",\"minutes\":20}],\"starterAction\":\"Open the op-ed and read it once through\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Annotate the assigned chapter for symbols and motifs",
+      "subject": "English 11",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the chapter and skim the headings first\",\"minutes\":5},{\"title\":\"Read the first half and underline every symbol you notice\",\"minutes\":20},{\"title\":\"Read the second half and underline every symbol you notice\",\"minutes\":20},{\"title\":\"Write a note in the margin for each underline\",\"minutes\":20},{\"title\":\"Tally how many symbols you found per page\",\"minutes\":10}],\"starterAction\":\"Open the chapter and skim the headings first\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a close reading of the poem's final stanza",
+      "subject": "Honors English",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the poem and find the final stanza\",\"minutes\":5},{\"title\":\"Read the stanza five times in a row\",\"minutes\":15},{\"title\":\"Underline every word that changes the poem's tone\",\"minutes\":15},{\"title\":\"Write three sentences on what the stanza adds\",\"minutes\":20},{\"title\":\"Say your three sentences out loud and cut any that repeat\",\"minutes\":10}],\"starterAction\":\"Open the poem and find the final stanza\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Explicate the sonnet assigned for homework",
+      "subject": "AP Literature",
+      "description": "Cover the volta and the rhyme scheme.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the sonnet and read it aloud once\",\"minutes\":10},{\"title\":\"Mark where the rhyme scheme changes\",\"minutes\":15},{\"title\":\"Mark the line where the argument turns\",\"minutes\":15},{\"title\":\"Write one paragraph on the rhyme scheme and one on the volta\",\"minutes\":35},{\"title\":\"Check the explication against the sonnet line by line\",\"minutes\":15}],\"starterAction\":\"Open the sonnet and read it aloud once\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a rhetorical precis of the assigned essay",
+      "subject": "AP Language and Composition",
+      "description": "Four sentences, specific structure.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the essay and read it once through\",\"minutes\":10},{\"title\":\"Write down the essay's main claim in one sentence\",\"minutes\":10},{\"title\":\"Write down the essay's method in one sentence\",\"minutes\":10},{\"title\":\"Write down the essay's purpose and audience in one sentence\",\"minutes\":15},{\"title\":\"Type the four sentences together as a single paragraph\",\"minutes\":15},{\"title\":\"Read the paragraph aloud and check it flows as one piece\",\"minutes\":10}],\"starterAction\":\"Open the essay and read it once through\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Analyze symbolism in the assigned short story",
+      "subject": "English 10",
+      "description": "Two symbols, one page each.",
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the story and read it once through\",\"minutes\":15},{\"title\":\"Underline every mention of the first symbol\",\"minutes\":15},{\"title\":\"Underline every mention of the second symbol\",\"minutes\":15},{\"title\":\"Write the page on what the first symbol means\",\"minutes\":30},{\"title\":\"Write the page on what the second symbol means\",\"minutes\":30},{\"title\":\"Compare your two pages and cut anything that repeats\",\"minutes\":15}],\"starterAction\":\"Open the story and read it once through\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a close reading of the opening paragraph",
+      "subject": "English 9",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the book to the opening paragraph\",\"minutes\":5},{\"title\":\"Read the paragraph five times in a row\",\"minutes\":15},{\"title\":\"Circle every word that feels deliberate\",\"minutes\":15},{\"title\":\"Write four sentences on what those words add\",\"minutes\":20},{\"title\":\"Say your four sentences aloud and check each makes a different point\",\"minutes\":10}],\"starterAction\":\"Open the book to the opening paragraph\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a personal narrative about a turning point",
+      "subject": "Creative Writing",
+      "description": "Two to three pages.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the moment you want to tell in one sentence\",\"minutes\":10},{\"title\":\"List five details you remember from that moment\",\"minutes\":15},{\"title\":\"Write the scene leading up to the turning point\",\"minutes\":30},{\"title\":\"Write the turning point itself in slow motion\",\"minutes\":35},{\"title\":\"Write how things were different after\",\"minutes\":20},{\"title\":\"Read the whole draft out loud and mark anything unclear\",\"minutes\":15}],\"starterAction\":\"Write down the moment you want to tell in one sentence\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Draft a short story with a clear turning point",
+      "subject": "Creative Writing",
+      "description": "Fifteen hundred words.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 60
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the main character and what they want\",\"minutes\":15},{\"title\":\"List the three scenes the story needs\",\"minutes\":20},{\"title\":\"Write the scene that sets up the problem\",\"minutes\":40},{\"title\":\"Write the scene where the turning point happens\",\"minutes\":40},{\"title\":\"Write the scene that shows the aftermath\",\"minutes\":40},{\"title\":\"Count the words and check you are near fifteen hundred\",\"minutes\":20}],\"starterAction\":\"Write down the main character and what they want\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a short story draft for workshop",
+      "subject": "Creative Writing",
+      "description": "One thousand words.",
+      "duePhrase": "in 10 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the situation your character is stuck in\",\"minutes\":10},{\"title\":\"List three things that could go wrong for them\",\"minutes\":15},{\"title\":\"Write the opening paragraph without stopping to edit\",\"minutes\":20},{\"title\":\"Write the rest of the draft in one sitting\",\"minutes\":45},{\"title\":\"Print the draft so it is ready to bring to workshop\",\"minutes\":15}],\"starterAction\":\"Write down the situation your character is stuck in\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a personal narrative about a mistake you learned from",
+      "subject": "English 9",
+      "description": "One page.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down what happened in one sentence\",\"minutes\":10},{\"title\":\"List three details that made the moment memorable\",\"minutes\":15},{\"title\":\"Write the story in one sitting without editing\",\"minutes\":30},{\"title\":\"Read the ending out loud and check it says what you learned\",\"minutes\":15}],\"starterAction\":\"Write down what happened in one sentence\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Revise the short story draft using the workshop notes",
+      "subject": "Creative Writing",
+      "description": null,
+      "duePhrase": "Friday",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the draft and read every workshop note once\",\"minutes\":15},{\"title\":\"List the notes that repeat across readers\",\"minutes\":15},{\"title\":\"Rewrite the opening paragraph using the notes\",\"minutes\":30},{\"title\":\"Rewrite the ending using the notes\",\"minutes\":30},{\"title\":\"Compare the new draft to the old one and check every note got used\",\"minutes\":20}],\"starterAction\":\"Open the draft and read every workshop note once\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Revise the essay using the teacher's returned comments",
+      "subject": "English 10",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the returned draft and read every comment once\",\"minutes\":15},{\"title\":\"List the comments that repeat across the paper\",\"minutes\":15},{\"title\":\"Rewrite the first body paragraph using the notes\",\"minutes\":25},{\"title\":\"Rewrite the second body paragraph using the notes\",\"minutes\":25},{\"title\":\"Check every margin comment has been addressed\",\"minutes\":20}],\"starterAction\":\"Open the returned draft and read every comment once\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Peer review a classmate's essay draft",
+      "subject": "English 11",
+      "description": "Use the peer review sheet.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your partner's draft and read it once through\",\"minutes\":15},{\"title\":\"Underline the sentence that states the thesis\",\"minutes\":10},{\"title\":\"Write one thing that worked in the margin\",\"minutes\":10},{\"title\":\"Write one question the draft left you with\",\"minutes\":10},{\"title\":\"Hand the draft back with your notes attached\",\"minutes\":5}],\"starterAction\":\"Open your partner's draft and read it once through\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Revise the argumentative essay after the peer review",
+      "subject": "English 9",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your draft and read the peer review notes once\",\"minutes\":15},{\"title\":\"List the two biggest changes the notes suggest\",\"minutes\":15},{\"title\":\"Rewrite the paragraph the notes flagged most\",\"minutes\":30},{\"title\":\"Ask a friend to reread just that paragraph and say if it is clearer\",\"minutes\":20}],\"starterAction\":\"Open your draft and read the peer review notes once\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Peer review two classmates' short stories",
+      "subject": "Creative Writing",
+      "description": "Use the workshop sheet for each.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the first story and read it once through\",\"minutes\":15},{\"title\":\"Write two comments on the first workshop sheet\",\"minutes\":15},{\"title\":\"Open the second story and read it once through\",\"minutes\":15},{\"title\":\"Write two comments on the second workshop sheet\",\"minutes\":15},{\"title\":\"Hand both sheets back at the start of class\",\"minutes\":10}],\"starterAction\":\"Open the first story and read it once through\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Revise the personal narrative using peer feedback",
+      "subject": "English 10",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the draft and read the feedback once through\",\"minutes\":10},{\"title\":\"List the two comments that came up most\",\"minutes\":10},{\"title\":\"Rewrite the opening using the feedback\",\"minutes\":25},{\"title\":\"Read the new opening next to the old one and pick which is stronger\",\"minutes\":15}],\"starterAction\":\"Open the draft and read the feedback once through\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Fill in the reading log for this week's chapters",
+      "subject": "English 9",
+      "description": "Three entries.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the book to where you left off\",\"minutes\":5},{\"title\":\"Read for twenty minutes without stopping\",\"minutes\":20},{\"title\":\"Write one sentence saying what happened\",\"minutes\":5},{\"title\":\"Write down a question the pages raised\",\"minutes\":10},{\"title\":\"Fill in the reading log with tonight's entry\",\"minutes\":10}],\"starterAction\":\"Open the book to where you left off\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write this week's reading journal entry",
+      "subject": "English 11",
+      "description": "Half a page.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the page number where you stopped last time\",\"minutes\":5},{\"title\":\"Read for fifteen minutes without stopping\",\"minutes\":15},{\"title\":\"Write down one moment that stood out\",\"minutes\":10},{\"title\":\"Write the journal entry in one sitting\",\"minutes\":15},{\"title\":\"Count the sentences and check you have at least six\",\"minutes\":10}],\"starterAction\":\"Find the page number where you stopped last time\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Annotate chapters 7 and 8 for the discussion tomorrow",
+      "subject": "English 10",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the book to chapter 7\",\"minutes\":5},{\"title\":\"Read chapter 7 and underline the main claims\",\"minutes\":20},{\"title\":\"Read chapter 8 and underline the main claims\",\"minutes\":20},{\"title\":\"Write why each underline matters next to it\",\"minutes\":15},{\"title\":\"Tally how many annotations you made in each chapter\",\"minutes\":10}],\"starterAction\":\"Open the book to chapter 7\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Keep a reading log for the assigned novel this month",
+      "subject": "English 9",
+      "description": "One entry per reading session.",
+      "duePhrase": "next week",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write today's date at the top of a fresh log page\",\"minutes\":5},{\"title\":\"Read for twenty-five minutes without stopping\",\"minutes\":25},{\"title\":\"Write one sentence summing up the chapter\",\"minutes\":5},{\"title\":\"Write down a word you had to look up\",\"minutes\":10}],\"starterAction\":\"Write today's date at the top of a fresh log page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a dialectical journal entry for tonight's reading",
+      "subject": "Honors English",
+      "description": "Quote and response format.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Take out your notebook and turn to a blank page\",\"minutes\":5},{\"title\":\"Read the assigned pages without stopping\",\"minutes\":20},{\"title\":\"Find one quote worth responding to\",\"minutes\":10},{\"title\":\"Write your response next to the quote\",\"minutes\":15},{\"title\":\"Say your response out loud and cut anything vague\",\"minutes\":10}],\"starterAction\":\"Take out your notebook and turn to a blank page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Annotate the assigned article before the seminar",
+      "subject": "AP Literature",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the article or open it on a screen you can mark up\",\"minutes\":5},{\"title\":\"Read the article once through without marking anything\",\"minutes\":15},{\"title\":\"Reread it and underline every claim the writer makes\",\"minutes\":20},{\"title\":\"Write one question in the margin for each claim\",\"minutes\":20}],\"starterAction\":\"Print the article or open it on a screen you can mark up\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Complete the vocabulary unit for this week's word list",
+      "subject": "English 9",
+      "description": "Twenty words.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the first ten words on their own cards\",\"minutes\":15},{\"title\":\"Define the first ten words in your own words\",\"minutes\":20},{\"title\":\"Write the next ten words on their own cards\",\"minutes\":15},{\"title\":\"Define the next ten words in your own words\",\"minutes\":20},{\"title\":\"Answer all twenty cards without looking\",\"minutes\":15}],\"starterAction\":\"Write the first ten words on their own cards\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Complete the grammar worksheet on comma splices",
+      "subject": "English 10",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and put your name on it\",\"minutes\":5},{\"title\":\"Answer the first ten sentences in order\",\"minutes\":20},{\"title\":\"Answer the next ten sentences in order\",\"minutes\":20},{\"title\":\"Check your answers against the worked examples\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and put your name on it\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Study the spelling list for Friday's quiz",
+      "subject": "English 9",
+      "description": null,
+      "duePhrase": "Friday",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Copy this week's ten words onto index cards\",\"minutes\":15},{\"title\":\"Say each word aloud while you spell it\",\"minutes\":15},{\"title\":\"Cover the cards and write the words from memory\",\"minutes\":15},{\"title\":\"Check your spelling against the list\",\"minutes\":10}],\"starterAction\":\"Copy this week's ten words onto index cards\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Complete the grammar exercises on subject-verb agreement",
+      "subject": "English 9",
+      "description": "Odd numbers only.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and find question one\",\"minutes\":5},{\"title\":\"Answer the odd questions on the first page\",\"minutes\":20},{\"title\":\"Answer the odd questions on the second page\",\"minutes\":20},{\"title\":\"Check your answers against the answer key\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and find question one\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Practice this week's spelling words for the quiz",
+      "subject": "English 9",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Lay out this week's ten spelling words on the table\",\"minutes\":10},{\"title\":\"Ask someone to call out each word so you can spell it back\",\"minutes\":15},{\"title\":\"Sort the cards into words you know and words you don't\",\"minutes\":15},{\"title\":\"Practise the ones you don't know five times each\",\"minutes\":20}],\"starterAction\":\"Lay out this week's ten spelling words on the table\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Complete the vocabulary quiz corrections",
+      "subject": "English 11",
+      "description": "Every word you missed.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the quiz and circle every word you missed\",\"minutes\":10},{\"title\":\"Write the correct definition for each circled word\",\"minutes\":20},{\"title\":\"Write one sentence using each word correctly\",\"minutes\":20},{\"title\":\"Check each sentence against the definition\",\"minutes\":15}],\"starterAction\":\"Open the quiz and circle every word you missed\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Complete the grammar packet on punctuation",
+      "subject": "English 10",
+      "description": "Pages 1 to 3.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find page one in the packet and read the instructions\",\"minutes\":5},{\"title\":\"Answer every question on page one\",\"minutes\":20},{\"title\":\"Answer every question on page two\",\"minutes\":20},{\"title\":\"Answer every question on page three\",\"minutes\":20},{\"title\":\"Count how many questions you skipped and finish those last\",\"minutes\":15}],\"starterAction\":\"Find page one in the packet and read the instructions\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a book report on your independent reading novel",
+      "subject": "English 9",
+      "description": "One page, include a summary.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the bookmark and check how many pages are left\",\"minutes\":5},{\"title\":\"Finish the last fifty pages without stopping\",\"minutes\":40},{\"title\":\"Write down the ending in three sentences\",\"minutes\":10},{\"title\":\"Write the summary paragraph without stopping to edit\",\"minutes\":25},{\"title\":\"Write one paragraph on whether you would recommend it\",\"minutes\":20},{\"title\":\"Count the pages of your report and check it fills one page\",\"minutes\":15}],\"starterAction\":\"Find the bookmark and check how many pages are left\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a book report on the biography you chose",
+      "subject": "English 10",
+      "description": "Two pages.",
+      "duePhrase": "in 10 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the book and read the back cover again\",\"minutes\":5},{\"title\":\"Read fifty pages without stopping\",\"minutes\":40},{\"title\":\"Write down three facts that stood out\",\"minutes\":15},{\"title\":\"Write the summary section without stopping to edit\",\"minutes\":30},{\"title\":\"Write the section on what the person overcame\",\"minutes\":25},{\"title\":\"Check the report against the assignment sheet\",\"minutes\":15}],\"starterAction\":\"Open the book and read the back cover again\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Complete the book report form for the library unit",
+      "subject": "English 9",
+      "description": null,
+      "duePhrase": "next week",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the form and fill in the title and author\",\"minutes\":5},{\"title\":\"Write the summary section in your own words\",\"minutes\":25},{\"title\":\"Write the favorite-part section in your own words\",\"minutes\":20},{\"title\":\"Write the recommendation section in your own words\",\"minutes\":20},{\"title\":\"Check the form against the rubric\",\"minutes\":10}],\"starterAction\":\"Open the form and fill in the title and author\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Prepare discussion questions for the socratic seminar",
+      "subject": "Honors English",
+      "description": "Five questions minimum.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the reading and go through your notes once\",\"minutes\":10},{\"title\":\"Write down four moments that surprised you\",\"minutes\":15},{\"title\":\"Turn each moment into a question\",\"minutes\":15},{\"title\":\"Pick the five strongest questions\",\"minutes\":10},{\"title\":\"Read your questions aloud and check they make sense\",\"minutes\":10}],\"starterAction\":\"Open the reading and go through your notes once\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a claim and evidence for the socratic seminar",
+      "subject": "AP Literature",
+      "description": "One claim, two quotes.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the reading and find the chapter under discussion\",\"minutes\":10},{\"title\":\"Write down one claim you want to make\",\"minutes\":10},{\"title\":\"Find two quotes that support your claim\",\"minutes\":20},{\"title\":\"Write one sentence explaining how each quote helps\",\"minutes\":20},{\"title\":\"Read your claim and quotes back and check they connect\",\"minutes\":10}],\"starterAction\":\"Open the reading and find the chapter under discussion\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Memorize the assigned passage for recitation",
+      "subject": "English 10",
+      "description": "Fourteen lines.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the passage out by hand once\",\"minutes\":20},{\"title\":\"Read the first half aloud five times\",\"minutes\":20},{\"title\":\"Recite the first half without looking\",\"minutes\":15},{\"title\":\"Read the second half aloud five times\",\"minutes\":20},{\"title\":\"Recite the whole passage without looking\",\"minutes\":20}],\"starterAction\":\"Write the passage out by hand once\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Rehearse the memorized monologue for class",
+      "subject": "Honors English",
+      "description": "Ninety seconds.",
+      "duePhrase": "in 10 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the monologue out by hand once\",\"minutes\":20},{\"title\":\"Read it aloud slowly three times\",\"minutes\":15},{\"title\":\"Split the monologue into three chunks and recite the first from memory\",\"minutes\":20},{\"title\":\"Practise the second and third chunks out loud\",\"minutes\":20},{\"title\":\"Recite the whole monologue with a timer\",\"minutes\":15}],\"starterAction\":\"Write the monologue out by hand once\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Prepare for the socratic seminar on the assigned reading",
+      "subject": "English 12",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the reading and reread your annotations\",\"minutes\":10},{\"title\":\"Write down three questions the reading raised\",\"minutes\":15},{\"title\":\"Write one claim you are ready to defend\",\"minutes\":15},{\"title\":\"Find one quote that backs up your claim\",\"minutes\":15},{\"title\":\"Read your notes back one more time before class\",\"minutes\":10}],\"starterAction\":\"Open the reading and reread your annotations\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a news article for the school paper",
+      "subject": "Journalism",
+      "description": "Three hundred words, inverted pyramid.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the five questions the article has to answer\",\"minutes\":15},{\"title\":\"Write the headline and the byline\",\"minutes\":10},{\"title\":\"Write the lead paragraph without stopping to edit\",\"minutes\":20},{\"title\":\"Write the rest of the article in order\",\"minutes\":30},{\"title\":\"Count the words and check you are near three hundred\",\"minutes\":15}],\"starterAction\":\"Write down the five questions the article has to answer\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write the interview questions for the profile piece",
+      "subject": "Journalism",
+      "description": "Eight questions.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down what you want the profile to show\",\"minutes\":10},{\"title\":\"List eight questions that would show it\",\"minutes\":20},{\"title\":\"Sort the questions from easiest to hardest\",\"minutes\":10},{\"title\":\"Read the questions aloud and time how long they take\",\"minutes\":10}],\"starterAction\":\"Write down what you want the profile to show\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write up the interview for the newspaper",
+      "subject": "Journalism",
+      "description": "Five hundred words.",
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and find the best three quotes\",\"minutes\":15},{\"title\":\"Write your byline and draft three possible headlines\",\"minutes\":10},{\"title\":\"Write the lead paragraph using your strongest quote\",\"minutes\":20},{\"title\":\"Write the remaining paragraphs in the order they happen\",\"minutes\":35},{\"title\":\"Count the words and trim it down to five hundred\",\"minutes\":15}],\"starterAction\":\"Open your notes and find the best three quotes\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a podcast script for the class episode",
+      "subject": "Journalism",
+      "description": "Three minutes.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the topic in one sentence\",\"minutes\":10},{\"title\":\"List the three segments the episode needs\",\"minutes\":15},{\"title\":\"Write the opening lines you will say first\",\"minutes\":20},{\"title\":\"Write the rest of the script in order\",\"minutes\":35},{\"title\":\"Practise reading the script out loud with a timer\",\"minutes\":20}],\"starterAction\":\"Write down the topic in one sentence\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Record the podcast episode for journalism class",
+      "subject": "Journalism",
+      "description": "Three minutes.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the script or pull it up on a screen\",\"minutes\":10},{\"title\":\"Practise the first half out loud without notes\",\"minutes\":15},{\"title\":\"Practise the second half out loud without notes\",\"minutes\":15},{\"title\":\"Record the whole episode in one take\",\"minutes\":20},{\"title\":\"Play back the recording and note anything to fix\",\"minutes\":15}],\"starterAction\":\"Print the script or pull it up on a screen\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write the recap article for last week's game",
+      "subject": "Journalism",
+      "description": "Two hundred words.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the final score and three key moments\",\"minutes\":10},{\"title\":\"Write the lead paragraph using the score\",\"minutes\":15},{\"title\":\"Write the final two paragraphs wrapping up the recap\",\"minutes\":20},{\"title\":\"Count the words and check you are near two hundred\",\"minutes\":10}],\"starterAction\":\"Write down the final score and three key moments\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write the editorial for the next newspaper issue",
+      "subject": "Journalism",
+      "description": "One opinion, three reasons.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down your opinion in one sentence\",\"minutes\":10},{\"title\":\"List three reasons that support your opinion\",\"minutes\":15},{\"title\":\"Write the editorial in one sitting without editing\",\"minutes\":30},{\"title\":\"Read the editorial aloud and mark anything unclear\",\"minutes\":15}],\"starterAction\":\"Write down your opinion in one sentence\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Transcribe the recorded interview for the article",
+      "subject": "Journalism",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the recording and play the first five minutes\",\"minutes\":15},{\"title\":\"Type what you hear word for word\",\"minutes\":35},{\"title\":\"Play the rest of the recording in five-minute chunks\",\"minutes\":15},{\"title\":\"Type the remaining sections word for word\",\"minutes\":35},{\"title\":\"Check the transcript against the recording once more\",\"minutes\":20}],\"starterAction\":\"Open the recording and play the first five minutes\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write the opening statement for the debate round",
+      "subject": "Speech and Debate",
+      "description": "Two minutes.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down your position in one sentence\",\"minutes\":10},{\"title\":\"List three reasons that support your position\",\"minutes\":15},{\"title\":\"Write the opening statement in one sitting\",\"minutes\":25},{\"title\":\"Practise saying it out loud with a timer\",\"minutes\":20},{\"title\":\"Time yourself and check you are under two minutes\",\"minutes\":10}],\"starterAction\":\"Write down your position in one sentence\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Prepare rebuttal notes for the debate round",
+      "subject": "Speech and Debate",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the other side's strongest point\",\"minutes\":10},{\"title\":\"List two reasons that point is weak\",\"minutes\":15},{\"title\":\"Write one rebuttal sentence for each reason\",\"minutes\":20},{\"title\":\"Practise saying the rebuttal out loud\",\"minutes\":20}],\"starterAction\":\"Write down the other side's strongest point\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Memorize the opening lines of the persuasive speech",
+      "subject": "Speech and Debate",
+      "description": "First thirty seconds.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the opening lines out by hand\",\"minutes\":15},{\"title\":\"Read the lines aloud five times\",\"minutes\":15},{\"title\":\"Recite the lines without looking\",\"minutes\":15},{\"title\":\"Time yourself saying them and check you are near thirty seconds\",\"minutes\":15}],\"starterAction\":\"Write the opening lines out by hand\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Practise the persuasive speech for Friday's round",
+      "subject": "Speech and Debate",
+      "description": "Three minutes.",
+      "duePhrase": "Friday",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Set a timer for three minutes before you start\",\"minutes\":5},{\"title\":\"Practise the first half from memory\",\"minutes\":20},{\"title\":\"Practise the second half from memory\",\"minutes\":20},{\"title\":\"Say the whole speech start to finish without stopping\",\"minutes\":25},{\"title\":\"Check the timer and note if you ran long or short\",\"minutes\":15}],\"starterAction\":\"Set a timer for three minutes before you start\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write the closing statement for the debate round",
+      "subject": "Speech and Debate",
+      "description": "Ninety seconds.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the one point you most want the judges to remember\",\"minutes\":10},{\"title\":\"Write the closing statement in one sitting\",\"minutes\":20},{\"title\":\"Say it out loud twice and cut anything that rambles\",\"minutes\":15},{\"title\":\"Time yourself and check you are under ninety seconds\",\"minutes\":10}],\"starterAction\":\"Write down the one point you most want the judges to remember\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write evidence cards for the debate topic",
+      "subject": "Speech and Debate",
+      "description": "Four cards.",
+      "duePhrase": "in 10 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and find the first source\",\"minutes\":10},{\"title\":\"Write the first card with the quote and the citation\",\"minutes\":20},{\"title\":\"Write the second card with the quote and the citation\",\"minutes\":20},{\"title\":\"Write the third and fourth cards the same way\",\"minutes\":30},{\"title\":\"Count your four cards and check every one lists a page number\",\"minutes\":15}],\"starterAction\":\"Open the packet and find the first source\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write the captions for the fall sports spread",
+      "subject": "Yearbook",
+      "description": "Eight photos.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the layout and list what the spread still needs\",\"minutes\":10},{\"title\":\"Write the caption for the first four photos\",\"minutes\":20},{\"title\":\"Write the caption for the last four photos\",\"minutes\":20},{\"title\":\"Check the spelling of every name in every caption\",\"minutes\":15}],\"starterAction\":\"Open the layout and list what the spread still needs\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Collect quotes for the senior yearbook page",
+      "subject": "Yearbook",
+      "description": "Ten quotes.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the five people you still need to ask\",\"minutes\":10},{\"title\":\"Ask each person for a short quote\",\"minutes\":25},{\"title\":\"Write down each quote as they say it\",\"minutes\":20},{\"title\":\"Check the spelling of every name against the roster\",\"minutes\":15}],\"starterAction\":\"Write down the five people you still need to ask\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Lay out the club photos page for the yearbook",
+      "subject": "Yearbook",
+      "description": null,
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the layout file and list every photo it needs\",\"minutes\":10},{\"title\":\"Arrange the photos on the page in pencil first\",\"minutes\":25},{\"title\":\"Write the caption under each photo\",\"minutes\":25},{\"title\":\"Count the photos and check none are missing\",\"minutes\":15}],\"starterAction\":\"Open the layout file and list every photo it needs\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a film review of the assigned movie",
+      "subject": "Film Studies",
+      "description": "One page.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down three scenes that stood out\",\"minutes\":15},{\"title\":\"Write down what each scene added to the story\",\"minutes\":20},{\"title\":\"Write the paragraph on your first scene\",\"minutes\":20},{\"title\":\"Write the paragraphs on your other two scenes\",\"minutes\":30},{\"title\":\"Write a final paragraph giving the movie a rating and why\",\"minutes\":15}],\"starterAction\":\"Write down three scenes that stood out\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Complete the shot-analysis worksheet for the assigned scene",
+      "subject": "Film Studies",
+      "description": "One scene, five shots.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and find the scene it covers\",\"minutes\":5},{\"title\":\"Watch the scene once all the way through\",\"minutes\":10},{\"title\":\"Watch the scene again and note each shot\",\"minutes\":20},{\"title\":\"Write one sentence on what each shot shows\",\"minutes\":25},{\"title\":\"Check the worksheet against the rubric\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and find the scene it covers\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a comparison essay of the book and its film adaptation",
+      "subject": "Film Studies",
+      "description": "Two pages.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down three differences between the book and the film\",\"minutes\":20},{\"title\":\"Write the paragraph on the first difference\",\"minutes\":20},{\"title\":\"Write the paragraphs on the other two differences\",\"minutes\":35},{\"title\":\"Write a closing paragraph saying which version works better\",\"minutes\":20},{\"title\":\"Check every difference is explained with an example\",\"minutes\":15}],\"starterAction\":\"Write down three differences between the book and the film\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a summary of the assigned myth",
+      "subject": "Mythology",
+      "description": "One page.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the myth and read it once through\",\"minutes\":10},{\"title\":\"Write down the characters and what each one wants\",\"minutes\":15},{\"title\":\"List the main events in order\",\"minutes\":15},{\"title\":\"Write the summary in one sitting\",\"minutes\":20},{\"title\":\"Check the summary against the myth for anything missed\",\"minutes\":10}],\"starterAction\":\"Open the myth and read it once through\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Complete the character map for the assigned myth",
+      "subject": "Mythology",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the myth and list every character by name\",\"minutes\":10},{\"title\":\"Write one sentence on what each character wants\",\"minutes\":20},{\"title\":\"Draw a line between characters who interact\",\"minutes\":15},{\"title\":\"Check the map against the myth one more time\",\"minutes\":10}],\"starterAction\":\"Open the myth and list every character by name\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a comparison of two heroes from the mythology unit",
+      "subject": "Mythology",
+      "description": "One page.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down one trait each hero shares\",\"minutes\":15},{\"title\":\"Write down one trait that makes them different\",\"minutes\":15},{\"title\":\"Write the paragraph on what they share\",\"minutes\":20},{\"title\":\"Write the paragraph on how they differ\",\"minutes\":35},{\"title\":\"Write a closing sentence saying which hero you would rather be\",\"minutes\":15}],\"starterAction\":\"Write down one trait each hero shares\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Build the works cited page for the research essay",
+      "subject": "English 11",
+      "description": "Six sources, MLA format.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a blank document and list the sources you used\",\"minutes\":10},{\"title\":\"Write the citation for the first three sources\",\"minutes\":25},{\"title\":\"Write the citation for the last three sources\",\"minutes\":25},{\"title\":\"Sort all six citations into alphabetical order by author\",\"minutes\":15}],\"starterAction\":\"Open a blank document and list the sources you used\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write an annotated bibliography for the research paper",
+      "subject": "AP Language and Composition",
+      "description": "Five sources.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 60
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a blank document and paste in the five sources you have\",\"minutes\":10},{\"title\":\"Write the citation for each source in the order you found them\",\"minutes\":30},{\"title\":\"Write two sentences about your first two sources\",\"minutes\":20},{\"title\":\"Write two sentences about your last three sources\",\"minutes\":30},{\"title\":\"Check every citation matches the format guide exactly\",\"minutes\":20}],\"starterAction\":\"Open a blank document and paste in the five sources you have\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Practice in-text citation format for the essay draft",
+      "subject": "English 10",
+      "description": "Ten sentences.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and find the citation examples\",\"minutes\":10},{\"title\":\"Write the first five sentences with citations\",\"minutes\":20},{\"title\":\"Write the last five sentences with citations\",\"minutes\":20},{\"title\":\"Compare your citations to the examples in the packet\",\"minutes\":15}],\"starterAction\":\"Open the packet and find the citation examples\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a 5-paragraph essay on the American Dream in the assigned novel",
+      "subject": "English 11",
+      "description": null,
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and underline what the essay must argue\",\"minutes\":10},{\"title\":\"List the three pieces of evidence you will use\",\"minutes\":15},{\"title\":\"Write the paragraph built on your strongest piece of evidence\",\"minutes\":20},{\"title\":\"Write the paragraphs covering your remaining evidence\",\"minutes\":35},{\"title\":\"Write a paragraph introducing your claim and one wrapping it up\",\"minutes\":20},{\"title\":\"Highlight anything you are still unsure about\",\"minutes\":10}],\"starterAction\":\"Open the assignment sheet and underline what the essay must argue\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a compare-and-contrast essay on two characters",
+      "subject": "English 9",
+      "description": "Two characters, one novel.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down two traits each character shares\",\"minutes\":10},{\"title\":\"Write down two traits that make them different\",\"minutes\":10},{\"title\":\"Write the paragraph on what they have in common\",\"minutes\":20},{\"title\":\"Write the paragraph on where the two characters diverge\",\"minutes\":30},{\"title\":\"Write a closing paragraph on which character you relate to more\",\"minutes\":15},{\"title\":\"Count the paragraphs and confirm each has a topic sentence\",\"minutes\":10}],\"starterAction\":\"Write down two traits each character shares\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a cause-and-effect essay on a historical event from the reading",
+      "subject": "English 10",
+      "description": null,
+      "duePhrase": "Friday",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the event and its main cause in one sentence\",\"minutes\":10},{\"title\":\"List three effects the event had\",\"minutes\":15},{\"title\":\"Write the paragraph on the cause\",\"minutes\":20},{\"title\":\"Write the paragraphs on the three effects\",\"minutes\":35},{\"title\":\"Write a closing paragraph tying the cause back to the effects\",\"minutes\":15},{\"title\":\"Read the whole draft back and mark anything unclear\",\"minutes\":15}],\"starterAction\":\"Write down the event and its main cause in one sentence\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a definition essay on a word that matters to you",
+      "subject": "English 9",
+      "description": "One page.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the word and why you chose it\",\"minutes\":10},{\"title\":\"List three examples that show what the word means to you\",\"minutes\":15},{\"title\":\"Write the paragraph on your first example\",\"minutes\":20},{\"title\":\"Write the paragraphs on your other two examples\",\"minutes\":30},{\"title\":\"Write a closing paragraph defining the word in your own terms\",\"minutes\":15}],\"starterAction\":\"Write down the word and why you chose it\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a process essay explaining how to do something you know well",
+      "subject": "English 9",
+      "description": "Five steps minimum.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the five steps in order\",\"minutes\":15},{\"title\":\"Write the paragraph explaining why the steps matter\",\"minutes\":15},{\"title\":\"Write the steps section in order\",\"minutes\":35},{\"title\":\"Write a closing line telling the reader when they will know they succeeded\",\"minutes\":10},{\"title\":\"Say the steps out loud in order and check none got skipped\",\"minutes\":10}],\"starterAction\":\"Write down the five steps in order\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a literary analysis essay on the antagonist's motives",
+      "subject": "Honors English",
+      "description": "Two pages.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the novel and find the chapters that feature the antagonist\",\"minutes\":15},{\"title\":\"List three moments that reveal what the antagonist wants\",\"minutes\":20},{\"title\":\"Write the paragraph on the earliest motive\",\"minutes\":20},{\"title\":\"Write the paragraphs on the later two motives\",\"minutes\":40},{\"title\":\"Write a closing paragraph on whether the antagonist gets what they want\",\"minutes\":15}],\"starterAction\":\"Open the novel and find the chapters that feature the antagonist\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a character analysis of the narrator",
+      "subject": "English 12",
+      "description": "One page.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the book and find the passages narrated in first person\",\"minutes\":15},{\"title\":\"List three things the narrator's voice reveals\",\"minutes\":20},{\"title\":\"Write the paragraph on the first thing it reveals\",\"minutes\":20},{\"title\":\"Write the paragraphs on the other two things\",\"minutes\":30},{\"title\":\"Read the analysis out loud and check each paragraph covers a different point\",\"minutes\":15}],\"starterAction\":\"Open the book and find the passages narrated in first person\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write an essay on the setting's role in the novel",
+      "subject": "English 10",
+      "description": "One page.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down three details about the setting from the book\",\"minutes\":15},{\"title\":\"Write down what mood each detail creates\",\"minutes\":15},{\"title\":\"Write the paragraph connecting the setting to the mood\",\"minutes\":35},{\"title\":\"Count the details and check all three got used\",\"minutes\":15}],\"starterAction\":\"Write down three details about the setting from the book\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a thesis statement and outline for the research essay",
+      "subject": "AP Language and Composition",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and write the question you are answering\",\"minutes\":10},{\"title\":\"Write one sentence that answers the question\",\"minutes\":10},{\"title\":\"List the sections the essay needs\",\"minutes\":15},{\"title\":\"Write two bullet points under each section\",\"minutes\":20},{\"title\":\"Check the outline against the assignment sheet\",\"minutes\":10}],\"starterAction\":\"Open the assignment sheet and write the question you are answering\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write the outline for the argumentative essay",
+      "subject": "English 9",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the claim in one sentence\",\"minutes\":10},{\"title\":\"List the three reasons that support the claim\",\"minutes\":15},{\"title\":\"Write one piece of evidence under each reason\",\"minutes\":20},{\"title\":\"Number the reasons from strongest to weakest\",\"minutes\":10}],\"starterAction\":\"Write down the claim in one sentence\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Complete the grammar review packet before the unit test",
+      "subject": "English 10",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and find question one\",\"minutes\":5},{\"title\":\"Answer the first fifteen questions in order\",\"minutes\":25},{\"title\":\"Answer the remaining questions\",\"minutes\":25},{\"title\":\"Circle every question you were unsure about\",\"minutes\":15}],\"starterAction\":\"Open the packet and find question one\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a reflection on your progress as a writer this semester",
+      "subject": "English 11",
+      "description": "One page.",
+      "duePhrase": "next week",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your folder and reread two essays from this semester\",\"minutes\":15},{\"title\":\"Write down two things that improved\",\"minutes\":10},{\"title\":\"Write down one habit you want to fix next\",\"minutes\":10},{\"title\":\"Write the reflection in one sitting\",\"minutes\":20},{\"title\":\"Count how many times you used the word good and swap half of them out\",\"minutes\":10}],\"starterAction\":\"Open your folder and reread two essays from this semester\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a reflection on the group presentation",
+      "subject": "Speech and Debate",
+      "description": "Half a page.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the rubric and read what the reflection must cover\",\"minutes\":5},{\"title\":\"Write down two things that went well\",\"minutes\":10},{\"title\":\"Write down one thing you would change next time\",\"minutes\":10},{\"title\":\"Write the whole reflection without pausing to fix anything\",\"minutes\":20},{\"title\":\"Read it back to yourself and cut the longest sentence\",\"minutes\":10}],\"starterAction\":\"Open the rubric and read what the reflection must cover\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a two-page essay analyzing the poem's structure",
+      "subject": "AP Literature",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the poem and count the stanzas and lines\",\"minutes\":10},{\"title\":\"Mark where the meter or rhyme changes\",\"minutes\":20},{\"title\":\"Write down what the structure adds to the meaning\",\"minutes\":20},{\"title\":\"Write the essay in one sitting without editing\",\"minutes\":35},{\"title\":\"Check the essay against the poem line by line\",\"minutes\":15}],\"starterAction\":\"Open the poem and count the stanzas and lines\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a precis of the assigned nonfiction chapter",
+      "subject": "AP Language and Composition",
+      "description": "One paragraph.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the chapter and read it once through\",\"minutes\":10},{\"title\":\"Write down the main claim in one sentence\",\"minutes\":5},{\"title\":\"Write down the method and the purpose in one sentence each\",\"minutes\":15},{\"title\":\"Arrange your three sentences into a single paragraph\",\"minutes\":15},{\"title\":\"Count the sentences and confirm you kept it to a paragraph\",\"minutes\":10}],\"starterAction\":\"Open the chapter and read it once through\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a summary and response to the assigned article",
+      "subject": "English 12",
+      "description": "One page.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the article and read it once through\",\"minutes\":15},{\"title\":\"Write down the three main points in your own words\",\"minutes\":15},{\"title\":\"Write the summary half of the response without stopping\",\"minutes\":20},{\"title\":\"Write the response paragraph giving your own opinion\",\"minutes\":20},{\"title\":\"Read both paragraphs and check they don't repeat each other\",\"minutes\":15}],\"starterAction\":\"Open the article and read it once through\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Correct the returned essay using the rubric marks",
+      "subject": "English 9",
+      "description": "Every marked error.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the essay and circle every rubric mark\",\"minutes\":10},{\"title\":\"Rewrite the first flagged sentence correctly\",\"minutes\":15},{\"title\":\"Rewrite the second flagged sentence correctly\",\"minutes\":15},{\"title\":\"Rewrite the remaining flagged sentences correctly\",\"minutes\":20},{\"title\":\"Count the marks and check every one has been fixed\",\"minutes\":15}],\"starterAction\":\"Open the essay and circle every rubric mark\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Correct the grammar test you got back",
+      "subject": "English 10",
+      "description": "Redo every question you missed.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the test and circle every question you missed\",\"minutes\":10},{\"title\":\"Solve the first half of them again\",\"minutes\":15},{\"title\":\"Solve the second half of them again\",\"minutes\":15},{\"title\":\"Write one sentence on each about what went wrong\",\"minutes\":20}],\"starterAction\":\"Open the test and circle every question you missed\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write the introduction and thesis for the AP Lit essay",
+      "subject": "AP Literature",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the prompt and reread what the essay must argue\",\"minutes\":10},{\"title\":\"Write down the one sentence the essay has to prove\",\"minutes\":10},{\"title\":\"Write the whole introduction without stopping to edit\",\"minutes\":25},{\"title\":\"Read the introduction out loud and check it states your thesis clearly\",\"minutes\":15}],\"starterAction\":\"Open the prompt and reread what the essay must argue\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a one-page reflection after the socratic seminar",
+      "subject": "Honors English",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes from the seminar and reread them\",\"minutes\":10},{\"title\":\"Write down one point that changed your mind\",\"minutes\":10},{\"title\":\"Write down one point you still disagree with\",\"minutes\":10},{\"title\":\"Write the whole reflection without stopping once you start\",\"minutes\":20},{\"title\":\"Read it back and cut anything that repeats\",\"minutes\":10}],\"starterAction\":\"Open your notes from the seminar and reread them\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write discussion questions for tomorrow's seminar",
+      "subject": "English 11",
+      "description": "Five questions.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the reading and flip back through your notes\",\"minutes\":10},{\"title\":\"List four moments that surprised you\",\"minutes\":15},{\"title\":\"Rewrite each moment as a question\",\"minutes\":15},{\"title\":\"Rank the questions from strongest to weakest\",\"minutes\":10}],\"starterAction\":\"Open the reading and flip back through your notes\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a vocabulary sentence for each of this week's words",
+      "subject": "English 9",
+      "description": "Fifteen words.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the first five words on a sheet of paper\",\"minutes\":10},{\"title\":\"Write one sentence using each of the first five words\",\"minutes\":20},{\"title\":\"Write one sentence using each of the next five words\",\"minutes\":20},{\"title\":\"Write one sentence using each of the last five words\",\"minutes\":20},{\"title\":\"Count your fifteen sentences and check none repeat a structure\",\"minutes\":15}],\"starterAction\":\"Write the first five words on a sheet of paper\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Complete the grammar exercises on parallel structure",
+      "subject": "English 11",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the worksheet and read the instructions at the top\",\"minutes\":5},{\"title\":\"Answer the first eight questions in order\",\"minutes\":20},{\"title\":\"Answer whatever questions are left on the sheet\",\"minutes\":20},{\"title\":\"Rewrite two of your own sentences to fix the errors\",\"minutes\":20},{\"title\":\"Compare your fixes to the worked examples in the packet\",\"minutes\":15}],\"starterAction\":\"Find the worksheet and read the instructions at the top\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a yearbook theme pitch for the staff meeting",
+      "subject": "Yearbook",
+      "description": "One paragraph.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down three words that describe this school year\",\"minutes\":10},{\"title\":\"Write one sentence connecting the three words\",\"minutes\":15},{\"title\":\"Write the pitch paragraph in one sitting\",\"minutes\":20},{\"title\":\"Read the pitch aloud and time how long it takes\",\"minutes\":10}],\"starterAction\":\"Write down three words that describe this school year\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write the film analysis of the opening sequence",
+      "subject": "Film Studies",
+      "description": "One page.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Watch the opening sequence once all the way through\",\"minutes\":15},{\"title\":\"Watch it again and note every camera angle\",\"minutes\":20},{\"title\":\"Write down what each angle adds to the mood\",\"minutes\":20},{\"title\":\"Write the analysis connecting the angles to the mood\",\"minutes\":30},{\"title\":\"Count the angles you found and check you covered at least four\",\"minutes\":15}],\"starterAction\":\"Watch the opening sequence once all the way through\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a myth of your own modeled on the unit's readings",
+      "subject": "Mythology",
+      "description": "One page.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the lesson your myth will teach\",\"minutes\":10},{\"title\":\"Write down who your main character is and what they want most\",\"minutes\":15},{\"title\":\"Write the opening scene without stopping to edit\",\"minutes\":25},{\"title\":\"Write the rest of the myth in one sitting\",\"minutes\":40},{\"title\":\"Read it aloud and check the lesson comes through clearly\",\"minutes\":15}],\"starterAction\":\"Write down the lesson your myth will teach\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a short in-class response to the day's reading",
+      "subject": "English 10",
+      "description": "One paragraph.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the reading and find the passage discussed in class\",\"minutes\":5},{\"title\":\"Write down one question the passage raised\",\"minutes\":5},{\"title\":\"Write the response paragraph in one sitting\",\"minutes\":15},{\"title\":\"Count your sentences and check you have at least five\",\"minutes\":10}],\"starterAction\":\"Open the reading and find the passage discussed in class\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a full page of vocabulary flashcards for the unit",
+      "subject": "English 9",
+      "description": "Twenty words.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Set out twenty index cards on the table\",\"minutes\":15},{\"title\":\"Write one word on the front of each card\",\"minutes\":30},{\"title\":\"Write the definition on the back of each card\",\"minutes\":25},{\"title\":\"Split the cards into ones you know cold and ones you don't\",\"minutes\":15},{\"title\":\"Answer every one of the twenty cards from memory\",\"minutes\":20}],\"starterAction\":\"Set out twenty index cards on the table\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a timed in-class essay on the assigned prompt",
+      "subject": "English 12",
+      "description": "Forty-five minutes.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the prompt and underline what it asks you to argue\",\"minutes\":5},{\"title\":\"State your claim in one sentence before you start writing\",\"minutes\":5},{\"title\":\"Write the introduction and first body paragraph without stopping\",\"minutes\":20},{\"title\":\"Write the remaining paragraphs and conclusion without stopping\",\"minutes\":10},{\"title\":\"Time yourself and check you finished inside forty-five minutes\",\"minutes\":5}],\"starterAction\":\"Open the prompt and underline what it asks you to argue\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a timed literary analysis for AP Lit practice",
+      "subject": "AP Literature",
+      "description": "Forty minutes.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the prompt and underline the exact question it asks\",\"minutes\":5},{\"title\":\"Write down the claim you will argue\",\"minutes\":5},{\"title\":\"Write the body paragraphs without stopping to edit\",\"minutes\":25},{\"title\":\"Write a one-sentence conclusion as your last line\",\"minutes\":5},{\"title\":\"Check the clock and confirm you landed inside forty minutes\",\"minutes\":5}],\"starterAction\":\"Open the prompt and underline the exact question it asks\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Complete the interview transcript summary for class",
+      "subject": "Journalism",
+      "description": "One paragraph.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the transcript and read it once through\",\"minutes\":10},{\"title\":\"Underline the three strongest quotes\",\"minutes\":10},{\"title\":\"Write the summary paragraph using those quotes\",\"minutes\":20},{\"title\":\"Count your sentences and check you have at least four\",\"minutes\":10}],\"starterAction\":\"Open the transcript and read it once through\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a two-paragraph review of the class podcast episode",
+      "subject": "Journalism",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Watch or listen to the episode once all the way through\",\"minutes\":15},{\"title\":\"Write down two moments that worked well\",\"minutes\":10},{\"title\":\"Write down one moment that could improve\",\"minutes\":10},{\"title\":\"Write the two paragraphs back to back without stopping\",\"minutes\":20},{\"title\":\"Read it back and check you named a specific moment in each\",\"minutes\":10}],\"starterAction\":\"Watch or listen to the episode once all the way through\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a comparison of the myth and its modern retelling",
+      "subject": "Mythology",
+      "description": "One page.",
+      "duePhrase": "in 10 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down two things the retelling kept the same\",\"minutes\":15},{\"title\":\"Write down two things the retelling changed\",\"minutes\":15},{\"title\":\"Write the paragraph on what stayed the same\",\"minutes\":20},{\"title\":\"Write the paragraph on what changed\",\"minutes\":35},{\"title\":\"Write a closing line saying which version you prefer\",\"minutes\":15}],\"starterAction\":\"Write down two things the retelling kept the same\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Correct the peer-reviewed short story draft",
+      "subject": "Creative Writing",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the draft and read every peer comment once\",\"minutes\":15},{\"title\":\"List the comments that repeat across readers\",\"minutes\":15},{\"title\":\"Rewrite the opening scene using the notes\",\"minutes\":30},{\"title\":\"Rewrite the final scene using the notes\",\"minutes\":30},{\"title\":\"Compare the new draft to the old one line by line\",\"minutes\":20}],\"starterAction\":\"Open the draft and read every peer comment once\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a one-page rhetorical analysis of a print advertisement",
+      "subject": "AP Language and Composition",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Look at the advertisement for two full minutes\",\"minutes\":5},{\"title\":\"Write down every persuasion technique you can name\",\"minutes\":20},{\"title\":\"Write down which audience the ad is aimed at\",\"minutes\":15},{\"title\":\"Write the analysis connecting the techniques to the audience\",\"minutes\":30},{\"title\":\"Count the techniques you found and check you have at least three\",\"minutes\":15}],\"starterAction\":\"Look at the advertisement for two full minutes\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a short story opening line workshop draft",
+      "subject": "Creative Writing",
+      "description": "Five opening lines.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the genre and mood you want\",\"minutes\":10},{\"title\":\"Write five different opening lines for the same scene\",\"minutes\":20},{\"title\":\"Read all five aloud back to back\",\"minutes\":10},{\"title\":\"Circle the line that works best\",\"minutes\":10}],\"starterAction\":\"Write down the genre and mood you want\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Practise the speech for the class showcase",
+      "subject": "Speech and Debate",
+      "description": "Ninety seconds.",
+      "duePhrase": "next week",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the script and circle the three lines you tend to rush\",\"minutes\":10},{\"title\":\"Say the speech once through at half speed\",\"minutes\":15},{\"title\":\"Say the speech again at full speed with a timer\",\"minutes\":20},{\"title\":\"Record yourself saying it a third time\",\"minutes\":20},{\"title\":\"Note one thing from the recording to fix tomorrow\",\"minutes\":15}],\"starterAction\":\"Open the script and circle the three lines you tend to rush\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a two-page comparison essay of two poems from the unit",
+      "subject": "English 11",
+      "description": null,
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down one theme both poems share\",\"minutes\":15},{\"title\":\"Write down one way the poems handle that theme differently\",\"minutes\":20},{\"title\":\"Write the paragraph on the shared theme\",\"minutes\":20},{\"title\":\"Write the paragraph on how the poems diverge\",\"minutes\":35},{\"title\":\"Write a closing paragraph saying which poem affected you more\",\"minutes\":15}],\"starterAction\":\"Write down one theme both poems share\"}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "English 10: vocabulary quiz tomorrow, grammar packet due Friday, essay draft due in two weeks.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Vocabulary quiz\",\"dueInDays\":1,\"subject\":\"English 10\"},{\"title\":\"Grammar packet\",\"dueInDays\":4,\"subject\":\"English 10\"},{\"title\":\"Essay draft\",\"dueInDays\":14,\"subject\":\"English 10\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Reminder from Ms. Alvarez: reading log due Wednesday, book report due in three weeks, no class Monday for records day.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Reading log\",\"dueInDays\":2,\"subject\":\"English 9\"},{\"title\":\"Book report\",\"dueInDays\":21,\"subject\":\"English 9\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Journalism staff meeting notes: article drafts due Thursday, photo captions due Friday, layout review next Monday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Article drafts\",\"dueInDays\":3,\"subject\":\"Journalism\"},{\"title\":\"Photo captions\",\"dueInDays\":4,\"subject\":\"Journalism\"},{\"title\":\"Layout review\",\"dueInDays\":7,\"subject\":\"Journalism\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Group chat: Neesha: did anyone write down the AP Lit essay due date? Priya: Mr. Park said next Friday. Kayla: yeah and the annotated poem is due Monday",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"AP Lit essay\",\"dueInDays\":11},{\"title\":\"Annotated poem\",\"dueInDays\":7}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Syllabus excerpt, Creative Writing: workshop draft due next Monday, peer review the following Wednesday, revised draft due the Monday after that.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Workshop draft\",\"dueInDays\":7},{\"title\":\"Peer review\",\"dueInDays\":9},{\"title\":\"Revised draft\",\"dueInDays\":14}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Handout from the front office: Yearbook staff, photo submissions due Friday, caption sheet due the following Tuesday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Photo submissions\",\"dueInDays\":4,\"subject\":\"Yearbook\"},{\"title\":\"Caption sheet\",\"dueInDays\":8,\"subject\":\"Yearbook\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Ms. Kwan's announcement: Unit 4 vocabulary quiz Thursday, grammar packet due Friday, no quiz next week for the field trip.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Unit 4 vocabulary quiz\",\"dueInDays\":3,\"subject\":\"English 9\"},{\"title\":\"Grammar packet\",\"dueInDays\":4,\"subject\":\"English 9\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Sub plans left on the desk: silent reading for twenty minutes, then answer the comprehension questions on page 40, nothing to turn in today.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Text from Coach Reyes about speech and debate: evidence cards due Wednesday, practice round Friday after school, tournament in three weeks.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Evidence cards\",\"dueInDays\":2,\"subject\":\"Speech and Debate\"},{\"title\":\"Practice round\",\"dueInDays\":4,\"subject\":\"Speech and Debate\"},{\"title\":\"Tournament\",\"dueInDays\":21,\"subject\":\"Speech and Debate\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Film Studies handout: shot-analysis worksheet due Tuesday, film review due the following Monday, no class next Friday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Shot-analysis worksheet\",\"dueInDays\":1,\"subject\":\"Film Studies\"},{\"title\":\"Film review\",\"dueInDays\":7,\"subject\":\"Film Studies\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Announcement in class: Mythology quiz moved to Thursday, character map still due tomorrow, extra credit myth due whenever you want before finals.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Mythology quiz\",\"dueInDays\":3,\"subject\":\"Mythology\"},{\"title\":\"Character map\",\"dueInDays\":1,\"subject\":\"Mythology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Email from Mr. Diaz: AP Language synthesis essay due in two weeks, rhetorical precis due Friday, no homework this weekend.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Synthesis essay\",\"dueInDays\":14,\"subject\":\"AP Language and Composition\"},{\"title\":\"Rhetorical precis\",\"dueInDays\":4,\"subject\":\"AP Language and Composition\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Group chat: does anyone know when the poetry explication is due? i think its friday. no its due the following monday i checked the sheet",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Poetry explication\",\"dueInDays\":7}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Printed handout, English 11: annotated bibliography due in ten days, six sources minimum, library visit next Tuesday to find sources.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Annotated bibliography\",\"dueInDays\":10,\"subject\":\"English 11\"},{\"title\":\"Library visit\",\"dueInDays\":8,\"subject\":\"English 11\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Substitute note: no assignments today, just finish reading chapter 9 for tomorrow's discussion.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Finish reading chapter 9\",\"dueInDays\":1}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Announcement: book reports due next Wednesday, no extensions, bring the physical book to class that day.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Book report\",\"dueInDays\":9}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Newspaper staff group chat: headlines due tonight, captions due tomorrow, final layout due Friday for print.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Headlines\",\"dueInDays\":0,\"subject\":\"Journalism\"},{\"title\":\"Captions\",\"dueInDays\":1,\"subject\":\"Journalism\"},{\"title\":\"Final layout\",\"dueInDays\":4,\"subject\":\"Journalism\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Syllabus excerpt, AP Literature: timed essay practice every other Friday, first one this Friday, no other homework that week.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Timed essay practice\",\"dueInDays\":4,\"subject\":\"AP Literature\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Reminder: yearbook committee, theme pitches due Monday, sample spreads due the following Friday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Theme pitches\",\"dueInDays\":7,\"subject\":\"Yearbook\"},{\"title\":\"Sample spreads\",\"dueInDays\":11,\"subject\":\"Yearbook\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Text from a friend: hey did mr owens say the short story draft is due thursday or the workshop is thursday",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Short story draft\",\"dueInDays\":3}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Handout: Speech and Debate season kickoff, tournament packet due next week, first evidence cards due Friday, parent permission form due tomorrow.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Tournament packet\",\"dueInDays\":7,\"subject\":\"Speech and Debate\"},{\"title\":\"Evidence cards\",\"dueInDays\":4,\"subject\":\"Speech and Debate\"},{\"title\":\"Permission form\",\"dueInDays\":1,\"subject\":\"Speech and Debate\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Class announcement: no new reading tonight, just review your annotations for tomorrow's socratic seminar.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Group chat: podcast script due friday, recording due the following monday, dont forget headphones for the recording session",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Podcast script\",\"dueInDays\":4,\"subject\":\"Journalism\"},{\"title\":\"Recording\",\"dueInDays\":7,\"subject\":\"Journalism\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Printed handout: Mythology unit final, myth-of-your-own due in two weeks, character map extra credit due anytime before then.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Myth of your own\",\"dueInDays\":14,\"subject\":\"Mythology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Announcement: Film Studies, no film this Friday because of the assembly, review sheet for the midterm due the following Monday instead.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Review sheet\",\"dueInDays\":7,\"subject\":\"Film Studies\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Email from the teacher: grammar unit test Thursday, review packet due Wednesday, corrections due the following Monday if you fail.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Review packet\",\"dueInDays\":2,\"subject\":\"English 10\"},{\"title\":\"Grammar unit test\",\"dueInDays\":3,\"subject\":\"English 10\"},{\"title\":\"Corrections\",\"dueInDays\":7,\"subject\":\"English 10\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Group chat: is the peer review draft due tomorrow or is that just the outline. outline is tomorrow full draft is next monday",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Outline\",\"dueInDays\":1},{\"title\":\"Full draft\",\"dueInDays\":7}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Sub plans: class is watching the assigned scene today, no written work, discussion questions due when the teacher returns next week.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Discussion questions\",\"dueInDays\":7}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Announcement: Honors English, socratic seminar Thursday, discussion questions due Wednesday night, bring the annotated text.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Discussion questions\",\"dueInDays\":2,\"subject\":\"Honors English\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Text from mom: your english teacher emailed, book report due in three weeks and permission slip for the author visit due friday",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Book report\",\"dueInDays\":21,\"subject\":\"English 9\"},{\"title\":\"Permission slip\",\"dueInDays\":4,\"subject\":\"English 9\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Handout: spelling and vocabulary unit, quiz every Friday, this week's list is on the back, no other written homework.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Spelling quiz\",\"dueInDays\":4,\"subject\":\"English 9\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Announcement: no class today, enjoy the assembly, nothing due until further notice.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Deconstruct the gender dynamics in the assigned play",
+      "description": null
+    },
+    "completion": "{\"title\":\"Find how men and women are shown differently\",\"explanation\":\"Read through the play and mark every scene where a character's gender seems to affect how they act or how others treat them. Write one sentence for each moment saying what you noticed.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Contextualize the poem within its historical period",
+      "description": "The poem was written during wartime."
+    },
+    "completion": "{\"title\":\"Connect the poem to what was happening when it was written\",\"explanation\":\"Look up what the description tells you about when the poem was written. Then reread the poem and find two lines that seem to be reacting to that time period. Write a sentence about each one.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Problematize the protagonist's moral choices",
+      "description": null
+    },
+    "completion": "{\"title\":\"Find the choice that bothered you most\",\"explanation\":\"Reread the chapters where the protagonist makes a big decision. Pick the one choice that felt wrong or complicated to you, and write two sentences explaining why it bothered you.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Interrogate the reliability of the narrator",
+      "description": "The story is told in first person."
+    },
+    "completion": "{\"title\":\"Decide if you believe what the narrator tells you\",\"explanation\":\"Look for a moment where the narrator might be hiding something or seeing things wrong. Write down that moment and one sentence saying why you do or do not trust it.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Situate the essay's argument within the larger debate",
+      "description": null
+    },
+    "completion": "{\"title\":\"Say what side of the argument the essay is on\",\"explanation\":\"Read the essay once and find the sentence that states its main point. Write that sentence in your own words, then write one sentence saying which side of the debate it falls on.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Elucidate the symbolic function of the recurring image",
+      "description": "The image appears three times in the story."
+    },
+    "completion": "{\"title\":\"Say what the repeated image might mean\",\"explanation\":\"Find each of the three times the image shows up and write down what is happening around it. Then write one sentence guessing why the writer keeps bringing it back.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Juxtapose the two central characters' worldviews",
+      "description": null
+    },
+    "completion": "{\"title\":\"Put the two characters side by side\",\"explanation\":\"Pick one belief each character holds that the other would disagree with. Write one sentence for each character explaining what they believe and why.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Delineate the stages of the hero's journey in the myth",
+      "description": null
+    },
+    "completion": "{\"title\":\"List the myth's events in order\",\"explanation\":\"Read through the myth once and write down each major event as a short phrase. Put the phrases in the order they happen so you have a simple list of the story's stages.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Substantiate your claim with textual evidence",
+      "description": "Use at least two quotes."
+    },
+    "completion": "{\"title\":\"Back up what you think with quotes from the text\",\"explanation\":\"Write one sentence saying what you believe about the text. Then find two quotes that support it and write a sentence after each one explaining how it connects to your claim.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Critique the author's narrative choices",
+      "description": null
+    },
+    "completion": "{\"title\":\"Say what you would have done differently\",\"explanation\":\"Reread the chapter and find one choice the author made, like what to describe or leave out. Write two sentences saying what you would have changed and why.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Analyze the effectiveness of the speaker's tone",
+      "description": "The speech was given to a hostile crowd."
+    },
+    "completion": "{\"title\":\"Decide if the speaker's tone worked for the audience\",\"explanation\":\"Read the speech once and mark three places where the tone is especially calm, angry or friendly. Write a sentence for each saying whether that tone would have worked on a hostile crowd.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Interpret the ambiguous ending of the short story",
+      "description": null
+    },
+    "completion": "{\"title\":\"Pick one way to read the last page\",\"explanation\":\"Reread the last page twice. Write down two different things it could mean, then pick the one you find most convincing and explain your choice in two sentences.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Evaluate the credibility of each interview source",
+      "description": "Three sources total."
+    },
+    "completion": "{\"title\":\"Decide which answers you can trust\",\"explanation\":\"For each of the three sources, write one sentence saying whether their answer seemed honest, and one reason why or why not.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Articulate the central conflict of the narrative",
+      "description": null
+    },
+    "completion": "{\"title\":\"Say what the main problem in the story is\",\"explanation\":\"Write one sentence naming the two sides of the conflict, whether it is a person against another person, themselves, or something else. Then write one more sentence saying how it gets resolved.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Synthesize the class discussion into a written response",
+      "description": "Half a page."
+    },
+    "completion": "{\"title\":\"Turn today's discussion into notes\",\"explanation\":\"Look back at what you wrote during class and pick the three comments that stuck with you most. Write one sentence responding to each of the three.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Explicate the shift in tone between the poem's stanzas",
+      "description": "The poem has four stanzas."
+    },
+    "completion": "{\"title\":\"Find where the poem's mood changes\",\"explanation\":\"Read all four stanzas out loud. Mark the stanza where the mood feels different from the one before it, and write two sentences describing what changed.\"}"
+  }
+]

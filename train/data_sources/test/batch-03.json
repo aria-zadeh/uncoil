@@ -1,0 +1,226 @@
+[
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Compare two poems for the poetry unit",
+      "subject": "English 2H",
+      "description": "One page.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open both poems and read each one out loud once\",\"minutes\":15},{\"title\":\"Underline the lines that stood out in each\",\"minutes\":15},{\"title\":\"Write down two things they share and two they do not\",\"minutes\":20},{\"title\":\"Write the comparison in one sitting\",\"minutes\":35},{\"title\":\"Read it aloud and fix what sounds wrong\",\"minutes\":15}],\"starterAction\":\"Open both poems and read each one out loud once\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Chemistry homework on moles",
+      "subject": "Chemistry",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment and copy the conversion factors\",\"minutes\":10},{\"title\":\"Answer the first five problems in order\",\"minutes\":25},{\"title\":\"Answer the rest of the problems\",\"minutes\":25},{\"title\":\"Check every unit in every answer\",\"minutes\":15}],\"starterAction\":\"Open the assignment and copy the conversion factors\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write the conclusion for the history paper",
+      "subject": "AP US History",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Read the paper you have written so far\",\"minutes\":15},{\"title\":\"Write down the one point the conclusion has to land\",\"minutes\":10},{\"title\":\"Write the conclusion without stopping to edit\",\"minutes\":25},{\"title\":\"Read the last two paragraphs aloud together\",\"minutes\":10}],\"starterAction\":\"Read the paper you have written so far\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Practice the oral presentation",
+      "subject": "Spanish III",
+      "description": "Three minutes, no notes.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\": [{\"title\": \"Open your script and read it through once\", \"minutes\": 10}, {\"title\": \"Practise the first half out loud without looking\", \"minutes\": 15}, {\"title\": \"Practise the second half out loud without looking\", \"minutes\": 15}, {\"title\": \"Practise the whole thing with a timer\", \"minutes\": 15}, {\"title\": \"Mark the two sentences you keep forgetting\", \"minutes\": 10}], \"starterAction\": \"Open your script and read it through once\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Physics lab on pendulums",
+      "subject": "Physics",
+      "description": "Collect data and write it up.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the pendulum data\",\"minutes\":5},{\"title\":\"Copy the timings into the data table\",\"minutes\":25},{\"title\":\"Calculate the average for each length\",\"minutes\":30},{\"title\":\"Draw the graph from the averages\",\"minutes\":30},{\"title\":\"Write the conclusion using the graph\",\"minutes\":30},{\"title\":\"Check every unit and significant figure\",\"minutes\":15}],\"starterAction\":\"Open your lab notebook to the pendulum data\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Make a timeline of the French Revolution",
+      "subject": "World Literature",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the chapter and list every date it mentions\",\"minutes\":20},{\"title\":\"Put the dates in order on a blank page\",\"minutes\":15},{\"title\":\"Write one sentence for each date\",\"minutes\":30},{\"title\":\"Draw the timeline out neatly\",\"minutes\":30},{\"title\":\"Check the dates against the chapter again\",\"minutes\":10}],\"starterAction\":\"Open the chapter and list every date it mentions\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Statistics project on survey data",
+      "subject": "Statistics",
+      "description": "Collect twenty responses and analyse them.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and write your survey question\",\"minutes\":15},{\"title\":\"Write the five questions you will ask\",\"minutes\":25},{\"title\":\"Collect twenty responses\",\"minutes\":45},{\"title\":\"Enter the responses into a spreadsheet\",\"minutes\":35},{\"title\":\"Calculate the mean and spread for each question\",\"minutes\":40},{\"title\":\"Write up what the numbers showed\",\"minutes\":40}],\"starterAction\":\"Open the assignment sheet and write your survey question\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Rewrite the essay after peer review",
+      "subject": "English 2H",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the marked copy and read every comment\",\"minutes\":15},{\"title\":\"List the changes you actually agree with\",\"minutes\":15},{\"title\":\"Fix the paragraphs one at a time\",\"minutes\":40},{\"title\":\"Read the whole thing aloud and fix what sounds wrong\",\"minutes\":20}],\"starterAction\":\"Open the marked copy and read every comment\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Geometry worksheet on circles",
+      "subject": "Geometry",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and put your name on it\",\"minutes\":5},{\"title\":\"Copy the circle formulas onto the top of the page\",\"minutes\":10},{\"title\":\"Answer the first five questions in order\",\"minutes\":20},{\"title\":\"Answer the rest of the questions\",\"minutes\":20},{\"title\":\"Check your answers against the formulas\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and put your name on it\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Study guide for the government final",
+      "subject": "US Government",
+      "description": null,
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your binder and put every unit in order\",\"minutes\":20},{\"title\":\"Write one page of notes for the first three units\",\"minutes\":45},{\"title\":\"Write one page of notes for the last three units\",\"minutes\":45},{\"title\":\"Write twelve questions a final might ask\",\"minutes\":30},{\"title\":\"Answer your own questions without looking\",\"minutes\":45},{\"title\":\"Answer again the ones you got wrong\",\"minutes\":30}],\"starterAction\":\"Open your binder and put every unit in order\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Draw the cell diagram",
+      "subject": "Biology",
+      "description": "Label all organelles.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the textbook to the cell diagram\",\"minutes\":5},{\"title\":\"Sketch the outline in pencil first\",\"minutes\":15},{\"title\":\"Draw each part inside the outline\",\"minutes\":25},{\"title\":\"Label every part you drew\",\"minutes\":20},{\"title\":\"Check your labels against the textbook\",\"minutes\":10}],\"starterAction\":\"Open the textbook to the cell diagram\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a paragraph about the reading",
+      "subject": "Health",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the reading and skim it again\",\"minutes\":10},{\"title\":\"Write down the one idea you want to write about\",\"minutes\":5},{\"title\":\"Write the paragraph in one sitting\",\"minutes\":15},{\"title\":\"Read it aloud and fix what sounds wrong\",\"minutes\":5}],\"starterAction\":\"Open the reading and skim it again\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Prepare for the debate",
+      "subject": "US Government",
+      "description": "You are arguing the affirmative.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the topic sheet and write your position in one sentence\",\"minutes\":10},{\"title\":\"List the three strongest arguments for your side\",\"minutes\":20},{\"title\":\"Find one piece of evidence for each argument\",\"minutes\":35},{\"title\":\"Write down what the other side will say\",\"minutes\":20},{\"title\":\"Practise saying your opening out loud\",\"minutes\":15}],\"starterAction\":\"Open the topic sheet and write your position in one sentence\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Annotate the short story",
+      "subject": "World Literature",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the story and read it once without a pen\",\"minutes\":20},{\"title\":\"Read it again and underline as you go\",\"minutes\":25},{\"title\":\"Write a note in the margin every page\",\"minutes\":25},{\"title\":\"Write three sentences about what you noticed\",\"minutes\":10}],\"starterAction\":\"Open the story and read it once without a pen\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Correct the returned math test",
+      "subject": "Algebra II",
+      "description": "Redo every question you missed.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the test and circle every question you missed\",\"minutes\":10},{\"title\":\"Solve the first half of them again\",\"minutes\":25},{\"title\":\"Solve the second half of them again\",\"minutes\":25},{\"title\":\"Write one sentence on each about what went wrong\",\"minutes\":20}],\"starterAction\":\"Open the test and circle every question you missed\"}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Unit 5 begins Monday. Vocabulary quiz Tuesday. Essay outline due Thursday. Full draft due in two weeks."
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Vocabulary quiz\",\"dueInDays\":1},{\"title\":\"Essay outline\",\"dueInDays\":3},{\"title\":\"Full draft\",\"dueInDays\":14}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Please bring headphones tomorrow. The listening test is Friday. The written portion is the following Monday."
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Bring headphones\",\"dueInDays\":1},{\"title\":\"Listening test\",\"dueInDays\":4},{\"title\":\"Written portion\",\"dueInDays\":7}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Homework tonight: read pages 88 to 104 and answer questions 1 to 6."
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Read pages 88 to 104\",\"dueInDays\":0},{\"title\":\"Answer questions 1 to 6\",\"dueInDays\":0}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "The field trip is in three weeks. Permission slips are due by the end of this week. Payment is due in two weeks."
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Permission slip\",\"dueInDays\":5},{\"title\":\"Field trip payment\",\"dueInDays\":14},{\"title\":\"Field trip\",\"dueInDays\":21}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Congratulations on finishing the unit. Enjoy the long weekend."
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Articulate the thesis and defend it with textual evidence",
+      "description": null
+    },
+    "completion": "{\"title\":\"Say your point and prove it with quotes\",\"explanation\":\"Write one sentence saying what you think. Then find three places in the text that back it up, and after each quote write a sentence explaining how it helps your point.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Contextualize the event within the broader historical period",
+      "description": "About two paragraphs."
+    },
+    "completion": "{\"title\":\"Explain what else was going on at the time\",\"explanation\":\"Write about what was happening in the years around the event. Then say how those other things made this event more likely, or made it turn out the way it did.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Formulate a testable hypothesis",
+      "description": null
+    },
+    "completion": "{\"title\":\"Write a guess you can check\",\"explanation\":\"Write one sentence saying what you think will happen and why. Make sure it is written so that running the experiment could show you were wrong.\"}"
+  }
+]

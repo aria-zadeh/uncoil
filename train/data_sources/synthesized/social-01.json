@@ -1,0 +1,1517 @@
+[
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a DBQ essay on immigration in the late 1800s",
+      "subject": "US History",
+      "description": "Use the seven documents in the packet.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the immigration packet and read the first of the seven documents\",\"minutes\":5},{\"title\":\"Write down which document supports each cause of immigration\",\"minutes\":20},{\"title\":\"Write the introduction naming the argument the essay will make\",\"minutes\":15},{\"title\":\"Write the body paragraph covering the first four documents\",\"minutes\":30},{\"title\":\"Write the body paragraph covering the last three documents\",\"minutes\":25},{\"title\":\"Read the essay aloud and check every document is cited\",\"minutes\":15}],\"starterAction\":\"Open the immigration packet and read the first of the seven documents\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Timeline of events leading to the American Revolution",
+      "subject": "US History",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the reading and count how many years it covers\",\"minutes\":5},{\"title\":\"Write every date it mentions down the side of a page\",\"minutes\":20},{\"title\":\"Write one sentence next to each date saying what happened\",\"minutes\":25},{\"title\":\"Draw a line across the page and mark each date on it\",\"minutes\":20},{\"title\":\"Check the line against the reading for any date left out\",\"minutes\":15}],\"starterAction\":\"Open the reading and count how many years it covers\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Outline chapter 14 on the Great Depression",
+      "subject": "US History",
+      "description": "Cornell notes format.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open chapter 14 and count how many sections it has\",\"minutes\":5},{\"title\":\"Write the section headings down the left side of the page\",\"minutes\":15},{\"title\":\"List every bolded term next to its section\",\"minutes\":20},{\"title\":\"Write two sentences of notes under each heading\",\"minutes\":25},{\"title\":\"Check the outline covers every section in chapter 14\",\"minutes\":10}],\"starterAction\":\"Open chapter 14 and count how many sections it has\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Political cartoon analysis worksheet",
+      "subject": "US History",
+      "description": "One cartoon, five questions.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and count the labels drawn on the cartoon\",\"minutes\":5},{\"title\":\"Write down what each labeled symbol stands for\",\"minutes\":20},{\"title\":\"Answer the first three of the five questions\",\"minutes\":15},{\"title\":\"Answer the last two questions\",\"minutes\":15},{\"title\":\"Check every answer points back to a symbol in the cartoon\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and count the labels drawn on the cartoon\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Flashcards for the causes of World War II",
+      "subject": "US History",
+      "description": "Twenty terms.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the first ten of the twenty terms on cards\",\"minutes\":15},{\"title\":\"Answer those ten cards without looking\",\"minutes\":10},{\"title\":\"Write the remaining ten terms on cards\",\"minutes\":15},{\"title\":\"Answer all twenty cards without looking\",\"minutes\":15},{\"title\":\"Sort the cards you missed into a separate pile\",\"minutes\":10}],\"starterAction\":\"Write the first ten of the twenty terms on cards\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Interview a family member about a historical event",
+      "subject": "US History",
+      "description": "For the oral history project.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down five questions about the event you will ask\",\"minutes\":15},{\"title\":\"Pack a phone or recorder to capture the answers\",\"minutes\":5},{\"title\":\"Ask each of the five questions and write down the answers\",\"minutes\":35},{\"title\":\"Read back the answers and fix anything unclear\",\"minutes\":20},{\"title\":\"Write two sentences saying what surprised you\",\"minutes\":10}],\"starterAction\":\"Write down five questions about the event you will ask\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Study guide for the US History midterm",
+      "subject": "US History",
+      "description": null,
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Collect every quiz and handout from the semester into one pile\",\"minutes\":10},{\"title\":\"Sort the pile by the unit it belongs to\",\"minutes\":15},{\"title\":\"List each unit's key terms on its own page\",\"minutes\":25},{\"title\":\"Write eight questions the midterm might ask\",\"minutes\":20},{\"title\":\"Answer all eight from memory before checking your notes\",\"minutes\":25}],\"starterAction\":\"Collect every quiz and handout from the semester into one pile\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Research paper on the Industrial Revolution's effect on cities",
+      "subject": "US History",
+      "description": "Six pages with citations.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 60
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the research question at the top of a blank page\",\"minutes\":10},{\"title\":\"Find six sources and save them in one folder\",\"minutes\":40},{\"title\":\"List the six pages as section headings, one source each\",\"minutes\":25},{\"title\":\"Write the first three pages without stopping to edit\",\"minutes\":40},{\"title\":\"Write the last three pages without stopping to edit\",\"minutes\":40},{\"title\":\"Copy every citation into the format the rubric asks for\",\"minutes\":25},{\"title\":\"Read the paper aloud and check all six sources are cited\",\"minutes\":30}],\"starterAction\":\"Write the research question at the top of a blank page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write an LEQ on the causes of the American Revolution",
+      "subject": "AP US History",
+      "description": "One long essay question, no documents.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the LEQ prompt at the top of a blank page\",\"minutes\":5},{\"title\":\"List three causes of the Revolution from memory\",\"minutes\":15},{\"title\":\"Write one sentence of thesis naming all three causes\",\"minutes\":10},{\"title\":\"Write the paragraph for the first two causes\",\"minutes\":30},{\"title\":\"Write the paragraph for the third cause and a conclusion\",\"minutes\":30},{\"title\":\"Read the essay aloud and check the thesis matches the paragraphs\",\"minutes\":15}],\"starterAction\":\"Write the LEQ prompt at the top of a blank page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "DBQ packet analysis on Reconstruction",
+      "subject": "AP US History",
+      "description": "Seven documents.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the Reconstruction packet and count the seven documents\",\"minutes\":5},{\"title\":\"Underline the sentence in each document that states its point\",\"minutes\":25},{\"title\":\"Write the author and year next to each of the seven documents\",\"minutes\":20},{\"title\":\"Answer the questions printed after the last document\",\"minutes\":20},{\"title\":\"Check every one of the seven documents has a note beside it\",\"minutes\":10}],\"starterAction\":\"Open the Reconstruction packet and count the seven documents\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Annotated bibliography on the New Deal",
+      "subject": "AP US History",
+      "description": "Six sources.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a blank document and write New Deal as the title\",\"minutes\":10},{\"title\":\"Search the library database for two sources you still need\",\"minutes\":40},{\"title\":\"Write the citation for the first three of the six sources\",\"minutes\":30},{\"title\":\"Write the citation for the other three sources\",\"minutes\":30},{\"title\":\"Write two sentences about each source's argument\",\"minutes\":40},{\"title\":\"Check all six citations match the format guide\",\"minutes\":20}],\"starterAction\":\"Open a blank document and write New Deal as the title\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Map of the Cold War alliances",
+      "subject": "AP US History",
+      "description": "Label NATO and Warsaw Pact countries.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the blank world map and gather colored pencils\",\"minutes\":10},{\"title\":\"Trace the outline of every NATO country in blue pencil\",\"minutes\":25},{\"title\":\"Trace the outline of every Warsaw Pact country in red pencil\",\"minutes\":25},{\"title\":\"Label each country's name inside its outline\",\"minutes\":25},{\"title\":\"Add a key showing which color means which alliance\",\"minutes\":15},{\"title\":\"Check every labeled country matches the assignment's list\",\"minutes\":10}],\"starterAction\":\"Print the blank world map and gather colored pencils\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Research paper on the Civil Rights Movement",
+      "subject": "AP US History",
+      "description": "Eight pages with citations.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 60
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the specific question your paper will answer\",\"minutes\":10},{\"title\":\"Search the library database for two sources you still need\",\"minutes\":40},{\"title\":\"List the eight pages as section headings\",\"minutes\":25},{\"title\":\"Write the first four pages without stopping to edit\",\"minutes\":40},{\"title\":\"Write the last four pages without stopping to edit\",\"minutes\":40},{\"title\":\"Copy every citation into the format the rubric asks for\",\"minutes\":20},{\"title\":\"Read the paper aloud and count that it reaches eight pages\",\"minutes\":25}],\"starterAction\":\"Write down the specific question your paper will answer\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Debate prep on the Federalists and Anti-Federalists",
+      "subject": "AP US History",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write your assigned side at the top of your notes\",\"minutes\":5},{\"title\":\"List three arguments your side can make\",\"minutes\":20},{\"title\":\"List two arguments the other side will probably make\",\"minutes\":15},{\"title\":\"Write one rebuttal under each of those two arguments\",\"minutes\":20},{\"title\":\"Practise saying your three arguments out loud with a timer\",\"minutes\":15}],\"starterAction\":\"Write your assigned side at the top of your notes\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Study guide for the APUSH unit test on Reconstruction",
+      "subject": "AP US History",
+      "description": null,
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Gather every Reconstruction quiz and handout into one stack\",\"minutes\":10},{\"title\":\"Sort the stack in the order the unit covered it\",\"minutes\":15},{\"title\":\"List the unit's key terms on one page\",\"minutes\":20},{\"title\":\"Write eight questions about Reconstruction the test might ask\",\"minutes\":20},{\"title\":\"Answer your own eight questions without looking at notes\",\"minutes\":25}],\"starterAction\":\"Gather every Reconstruction quiz and handout into one stack\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Flashcards for the constitutional amendments",
+      "subject": "AP US History",
+      "description": "First ten amendments.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the first five of the ten amendments on cards\",\"minutes\":10},{\"title\":\"Answer those five cards without looking\",\"minutes\":15},{\"title\":\"Write the remaining five amendments on cards\",\"minutes\":20},{\"title\":\"Answer all ten cards without looking\",\"minutes\":20},{\"title\":\"Set the missed cards in a pile of their own\",\"minutes\":10}],\"starterAction\":\"Write the first five of the ten amendments on cards\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Timeline of the fall of Rome",
+      "subject": "World History",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the reading and count how many centuries it spans\",\"minutes\":5},{\"title\":\"Write every date it mentions down the side of a page\",\"minutes\":20},{\"title\":\"Write one sentence next to each date saying what happened\",\"minutes\":20},{\"title\":\"Draw a line across the page and mark each date on it\",\"minutes\":15},{\"title\":\"Check the line against the reading for any date left out\",\"minutes\":10}],\"starterAction\":\"Open the reading and count how many centuries it spans\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Map of ancient trade routes",
+      "subject": "World History",
+      "description": "Label the Silk Road and its major stops.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the blank map and find where the Silk Road begins\",\"minutes\":10},{\"title\":\"Trace the Silk Road route in pencil first\",\"minutes\":20},{\"title\":\"Mark every major stop along the route with a dot\",\"minutes\":15},{\"title\":\"Label each stop by name\",\"minutes\":25},{\"title\":\"Add a key explaining the dots and the line\",\"minutes\":15},{\"title\":\"Check every labeled stop matches the assignment's list\",\"minutes\":10}],\"starterAction\":\"Print the blank map and find where the Silk Road begins\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Outline the chapter on feudalism",
+      "subject": "World History",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the chapter and count how many sections it has\",\"minutes\":5},{\"title\":\"Write the section headings down the left side of the page\",\"minutes\":15},{\"title\":\"List every bolded term next to its section\",\"minutes\":20},{\"title\":\"Write two sentences of notes under each heading\",\"minutes\":20},{\"title\":\"Check the outline covers every section in the chapter\",\"minutes\":10}],\"starterAction\":\"Open the chapter and count how many sections it has\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Source packet analysis on the Renaissance",
+      "subject": "World History",
+      "description": "Four documents.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the Renaissance packet and count the four documents\",\"minutes\":5},{\"title\":\"Underline the sentence in each document that states its point\",\"minutes\":20},{\"title\":\"Write the author and year next to each of the four documents\",\"minutes\":20},{\"title\":\"Answer the questions printed after the last document\",\"minutes\":20},{\"title\":\"Check every one of the four documents has a note beside it\",\"minutes\":10}],\"starterAction\":\"Open the Renaissance packet and count the four documents\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Model UN position paper for the World History simulation",
+      "subject": "World History",
+      "description": "Represent one assigned country.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write your assigned country's name at the top of a page\",\"minutes\":5},{\"title\":\"List three positions your country holds on the topic\",\"minutes\":20},{\"title\":\"Find one fact from the packet backing each position\",\"minutes\":25},{\"title\":\"Write the position paper without stopping to edit\",\"minutes\":30},{\"title\":\"Practise reading the opening paragraph out loud with a timer\",\"minutes\":20},{\"title\":\"Check the paper states your country's name and all three positions\",\"minutes\":10}],\"starterAction\":\"Write your assigned country's name at the top of a page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Reading response on the Code of Hammurabi",
+      "subject": null,
+      "description": "One page.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the reading and count how many laws are listed\",\"minutes\":10},{\"title\":\"Write down the three laws that struck you most\",\"minutes\":15},{\"title\":\"Write the response explaining why those three stood out\",\"minutes\":25},{\"title\":\"Read the response aloud and fix what sounds wrong\",\"minutes\":10}],\"starterAction\":\"Open the reading and count how many laws are listed\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Flashcards for World History vocabulary terms",
+      "subject": "World History",
+      "description": "Thirty vocabulary words.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the first fifteen words on cards\",\"minutes\":15},{\"title\":\"Recite those fifteen words without looking\",\"minutes\":10},{\"title\":\"Write the last fifteen words on cards\",\"minutes\":15},{\"title\":\"Recite all thirty words without looking\",\"minutes\":15},{\"title\":\"Set aside the cards you got wrong\",\"minutes\":10}],\"starterAction\":\"Write the first fifteen words on cards\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "DBQ essay on the Columbian Exchange",
+      "subject": "AP World History",
+      "description": "Six documents.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the Columbian Exchange packet and count the six documents\",\"minutes\":5},{\"title\":\"Underline the sentence in each document that states its point\",\"minutes\":20},{\"title\":\"Write the thesis naming which documents support it\",\"minutes\":15},{\"title\":\"Write the paragraph covering the first three documents\",\"minutes\":30},{\"title\":\"Write the paragraph covering the last three documents\",\"minutes\":30},{\"title\":\"Read the essay aloud and check all six documents are cited\",\"minutes\":20}],\"starterAction\":\"Open the Columbian Exchange packet and count the six documents\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Map of empires from 1450 to 1750",
+      "subject": "AP World History",
+      "description": "Label six empires.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the blank map and count the six empires you must draw\",\"minutes\":10},{\"title\":\"Trace the border of each of the six empires in pencil\",\"minutes\":25},{\"title\":\"Shade each empire a different color\",\"minutes\":20},{\"title\":\"Label each empire by name\",\"minutes\":20},{\"title\":\"Check all six empires from the list are shaded and labeled\",\"minutes\":10}],\"starterAction\":\"Print the blank map and count the six empires you must draw\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Annotated bibliography on the Mongol Empire",
+      "subject": "AP World History",
+      "description": "Six sources.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a blank document and write Mongol Empire as the title\",\"minutes\":10},{\"title\":\"Search the library database for two sources you still need\",\"minutes\":35},{\"title\":\"Write the citations for half the sources in the right format\",\"minutes\":25},{\"title\":\"Write the citations for the remaining sources\",\"minutes\":25},{\"title\":\"Write two sentences summarizing what each source claims\",\"minutes\":35},{\"title\":\"Compare every citation against the format guide\",\"minutes\":20}],\"starterAction\":\"Open a blank document and write Mongol Empire as the title\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Timeline of the Age of Exploration",
+      "subject": "AP World History",
+      "description": null,
+      "duePhrase": "in 10 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the reading and count how many decades it covers\",\"minutes\":10},{\"title\":\"Write every date it mentions down the side of a page\",\"minutes\":15},{\"title\":\"Write one sentence next to each date saying what happened\",\"minutes\":25},{\"title\":\"Draw a line across the page and mark each date on it\",\"minutes\":20},{\"title\":\"Check the line against the reading for any date left out\",\"minutes\":15}],\"starterAction\":\"Open the reading and count how many decades it covers\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Research paper comparing two revolutions",
+      "subject": "AP World History",
+      "description": "Seven pages with citations.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 60
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the two revolutions you are comparing at the top of a page\",\"minutes\":10},{\"title\":\"Find six sources, three on each revolution\",\"minutes\":40},{\"title\":\"List the seven pages as section headings\",\"minutes\":25},{\"title\":\"Write pages one through four without stopping to edit\",\"minutes\":40},{\"title\":\"Write the final three pages without stopping to edit\",\"minutes\":40},{\"title\":\"Format every citation the way the rubric requires\",\"minutes\":20},{\"title\":\"Read the paper aloud and count that it reaches seven pages\",\"minutes\":25}],\"starterAction\":\"Write the two revolutions you are comparing at the top of a page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Study guide for the AP World History unit test",
+      "subject": "AP World History",
+      "description": null,
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Stack every quiz and handout from the unit in order\",\"minutes\":10},{\"title\":\"Sort the stack by which region each note covers\",\"minutes\":25},{\"title\":\"List the unit's key terms on one page\",\"minutes\":20},{\"title\":\"Write eight questions the unit test might ask\",\"minutes\":20},{\"title\":\"Answer all eight questions closed-note, then check\",\"minutes\":15}],\"starterAction\":\"Stack every quiz and handout from the unit in order\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Political cartoon analysis on imperialism",
+      "subject": null,
+      "description": "One cartoon.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the cartoon and count how many labeled symbols it has\",\"minutes\":5},{\"title\":\"Write down what each symbol probably represents\",\"minutes\":15},{\"title\":\"Write one sentence saying what the cartoonist thinks about imperialism\",\"minutes\":15},{\"title\":\"Check your answer names every labeled symbol\",\"minutes\":10}],\"starterAction\":\"Open the cartoon and count how many labeled symbols it has\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write an LEQ on the causes of World War I",
+      "subject": "AP European History",
+      "description": "One long essay question.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write World War I at the top of a blank page\",\"minutes\":5},{\"title\":\"List three causes of the war from memory\",\"minutes\":15},{\"title\":\"Write one sentence of thesis naming all three causes\",\"minutes\":10},{\"title\":\"Write the paragraph for the first two causes\",\"minutes\":35},{\"title\":\"Write the paragraph for the third cause and a conclusion\",\"minutes\":35},{\"title\":\"Read the essay aloud and check the thesis matches the paragraphs\",\"minutes\":15}],\"starterAction\":\"Write World War I at the top of a blank page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Source packet analysis on the Enlightenment",
+      "subject": "AP European History",
+      "description": "Five documents.",
+      "duePhrase": "Friday",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the Enlightenment packet and count the five documents\",\"minutes\":5},{\"title\":\"Underline the sentence in each document that states its point\",\"minutes\":25},{\"title\":\"Write the author and year next to each of the five documents\",\"minutes\":20},{\"title\":\"Answer the questions printed after the last document\",\"minutes\":20},{\"title\":\"Check every one of the five documents has a note beside it\",\"minutes\":15}],\"starterAction\":\"Open the Enlightenment packet and count the five documents\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Map of European borders after the peace treaty",
+      "subject": "AP European History",
+      "description": "Label the new and former borders.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the blank map showing borders before the treaty\",\"minutes\":10},{\"title\":\"Trace the former borders in one color\",\"minutes\":20},{\"title\":\"Trace the new borders in a second color\",\"minutes\":20},{\"title\":\"Label every country that changed shape\",\"minutes\":25},{\"title\":\"Add a key showing which color means which border\",\"minutes\":15},{\"title\":\"Check the map shows both the new and former borders\",\"minutes\":10}],\"starterAction\":\"Print the blank map showing borders before the treaty\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Outline the chapter on the Protestant Reformation",
+      "subject": "AP European History",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Skim the chapter once and count how many sections it has\",\"minutes\":5},{\"title\":\"Write the section headings down the left side of the page\",\"minutes\":15},{\"title\":\"List every bolded term next to its section\",\"minutes\":20},{\"title\":\"Write two sentences of notes under each heading\",\"minutes\":20},{\"title\":\"Check the outline covers every section in the chapter\",\"minutes\":10}],\"starterAction\":\"Skim the chapter once and count how many sections it has\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Annotated bibliography on the French Revolution",
+      "subject": "AP European History",
+      "description": "Six sources.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a blank document and write French Revolution as the title\",\"minutes\":10},{\"title\":\"Search the library database for two sources you still need\",\"minutes\":35},{\"title\":\"Write out three citations, then check the format guide\",\"minutes\":25},{\"title\":\"Write out the last three citations the same way\",\"minutes\":25},{\"title\":\"Write two sentences about what each source contributes\",\"minutes\":35},{\"title\":\"Check that all six citations follow the format guide\",\"minutes\":15}],\"starterAction\":\"Open a blank document and write French Revolution as the title\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Flashcards for AP European History vocabulary terms",
+      "subject": "AP European History",
+      "description": "Unit 4 terms.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the first half of unit four's terms on cards\",\"minutes\":15},{\"title\":\"Answer those cards without looking\",\"minutes\":10},{\"title\":\"Write the second half of unit four's terms on cards\",\"minutes\":15},{\"title\":\"Answer all of unit four's cards without looking\",\"minutes\":15},{\"title\":\"Put every missed card into its own pile\",\"minutes\":10}],\"starterAction\":\"Write the first half of unit four's terms on cards\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Study guide for the midterm on absolutism",
+      "subject": "AP European History",
+      "description": null,
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Gather every quiz and handout on absolutism into one stack\",\"minutes\":10},{\"title\":\"Sort the stack by which monarch each note covers\",\"minutes\":20},{\"title\":\"List every absolute monarch's name on one page\",\"minutes\":20},{\"title\":\"Write eight questions the midterm might ask about them\",\"minutes\":20},{\"title\":\"Answer your eight questions with the notes put away\",\"minutes\":15}],\"starterAction\":\"Gather every quiz and handout on absolutism into one stack\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Prepare the opening statement for mock trial",
+      "subject": "US Government",
+      "description": "You are the prosecution.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write prosecution at the top of a blank page\",\"minutes\":5},{\"title\":\"List the three points the prosecution has to prove\",\"minutes\":20},{\"title\":\"Find one piece of evidence backing each of the three points\",\"minutes\":25},{\"title\":\"Write the opening statement without stopping to edit\",\"minutes\":35},{\"title\":\"Practise saying it out loud with a timer\",\"minutes\":25}],\"starterAction\":\"Write prosecution at the top of a blank page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Reading response on the separation of powers",
+      "subject": null,
+      "description": "One page.",
+      "duePhrase": "Friday",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the reading and count how many branches it discusses\",\"minutes\":15},{\"title\":\"Write down the three facts about their powers that stood out\",\"minutes\":15},{\"title\":\"Write the response explaining how the branches check each other\",\"minutes\":25},{\"title\":\"Read it back once and smooth out any awkward lines\",\"minutes\":15}],\"starterAction\":\"Open the reading and count how many branches it discusses\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Debate prep on federalism",
+      "subject": "US Government",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down which side of the federalism debate you were assigned\",\"minutes\":5},{\"title\":\"List three arguments your side can make\",\"minutes\":20},{\"title\":\"List two arguments the other side will probably make\",\"minutes\":20},{\"title\":\"Practise saying your three arguments out loud with a timer\",\"minutes\":15}],\"starterAction\":\"Write down which side of the federalism debate you were assigned\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Political cartoon analysis on the branches of government",
+      "subject": null,
+      "description": "One cartoon.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the cartoon and count how many labeled figures it has\",\"minutes\":5},{\"title\":\"Write down which branch of government each figure represents\",\"minutes\":15},{\"title\":\"Write one sentence saying what the cartoonist thinks about the branches\",\"minutes\":15},{\"title\":\"Check your answer names every labeled figure\",\"minutes\":10}],\"starterAction\":\"Open the cartoon and count how many labeled figures it has\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Case study on a landmark Supreme Court case",
+      "subject": "US Government",
+      "description": "Read the case summary first.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the case summary and write down the year it was decided\",\"minutes\":10},{\"title\":\"List the two sides of the case in your own words\",\"minutes\":10},{\"title\":\"Answer each question using a detail from the summary\",\"minutes\":30},{\"title\":\"Read your answers aloud and fix what sounds wrong\",\"minutes\":15}],\"starterAction\":\"Open the case summary and write down the year it was decided\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Survey design on local political opinions",
+      "subject": "US Government",
+      "description": "Ten classmates minimum.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the one question your survey has to answer\",\"minutes\":10},{\"title\":\"List five smaller questions that could answer it\",\"minutes\":15},{\"title\":\"Count out ten classmates you will ask\",\"minutes\":10},{\"title\":\"Print the survey and staple the pages in order\",\"minutes\":10},{\"title\":\"Check every question is easy to answer in one line\",\"minutes\":15}],\"starterAction\":\"Write the one question your survey has to answer\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Study guide for the Government midterm",
+      "subject": "US Government",
+      "description": null,
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the units the midterm covers across the top of a page\",\"minutes\":10},{\"title\":\"Collect the quiz from each unit and stack them below its heading\",\"minutes\":20},{\"title\":\"List each unit's key terms on its own page\",\"minutes\":25},{\"title\":\"Write eight questions the midterm might ask\",\"minutes\":25},{\"title\":\"Answer the eight questions without peeking at your notes\",\"minutes\":15}],\"starterAction\":\"Write the units the midterm covers across the top of a page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Flashcards for the branches of government vocabulary",
+      "subject": "US Government",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the legislative and executive terms on cards first\",\"minutes\":15},{\"title\":\"Recite those branch terms from memory\",\"minutes\":10},{\"title\":\"Write the judicial branch terms on the remaining cards\",\"minutes\":15},{\"title\":\"Answer all the cards without looking\",\"minutes\":15},{\"title\":\"Put the missed cards into a separate stack\",\"minutes\":10}],\"starterAction\":\"Write the legislative and executive terms on cards first\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Worksheet on how a bill becomes a law",
+      "subject": "Civics",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and count how many steps the diagram shows\",\"minutes\":5},{\"title\":\"Answer the questions for the first half of the steps\",\"minutes\":20},{\"title\":\"Answer the questions for the second half of the steps\",\"minutes\":20},{\"title\":\"Check every step on the worksheet has an answer\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and count how many steps the diagram shows\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Interview a local government official",
+      "subject": null,
+      "description": "For the civic engagement project.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down five questions about their job you will ask\",\"minutes\":20},{\"title\":\"Pack a phone or recorder to capture the answers\",\"minutes\":5},{\"title\":\"Ask each of the five questions and write down the answers\",\"minutes\":30},{\"title\":\"Read back the answers and fix anything unclear\",\"minutes\":15},{\"title\":\"Write two sentences saying what surprised you\",\"minutes\":15}],\"starterAction\":\"Write down five questions about their job you will ask\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Reading response on civic duties",
+      "subject": "Civics",
+      "description": "One page.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the reading and count how many duties it lists\",\"minutes\":15},{\"title\":\"Write down the two duties you already practise\",\"minutes\":10},{\"title\":\"Write the response explaining why the other duties matter too\",\"minutes\":20},{\"title\":\"Read the page aloud and fix anything unclear\",\"minutes\":10}],\"starterAction\":\"Open the reading and count how many duties it lists\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Group presentation on local government structure",
+      "subject": "Civics",
+      "description": "Five minutes.",
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the three levels of local government the slides must cover\",\"minutes\":10},{\"title\":\"List one slide title for each level\",\"minutes\":15},{\"title\":\"Find one fact or image for each of the three levels\",\"minutes\":25},{\"title\":\"Build the slides for the first two levels\",\"minutes\":30},{\"title\":\"Build the slide for the third level and a closing slide\",\"minutes\":30},{\"title\":\"Time yourself saying the whole thing once\",\"minutes\":20}],\"starterAction\":\"Write down the three levels of local government the slides must cover\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Debate prep on lowering the voting age",
+      "subject": "Civics",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down which side of the voting age debate you were assigned\",\"minutes\":5},{\"title\":\"List three arguments your side can make\",\"minutes\":20},{\"title\":\"List two arguments the other side will probably make\",\"minutes\":20},{\"title\":\"Practise saying your three arguments out loud with a timer\",\"minutes\":15}],\"starterAction\":\"Write down which side of the voting age debate you were assigned\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Timeline of the amendment process",
+      "subject": null,
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the reading and count how many steps it lists\",\"minutes\":5},{\"title\":\"Write each step down the side of a page in order\",\"minutes\":15},{\"title\":\"Write one sentence explaining what happens at each step\",\"minutes\":20},{\"title\":\"Check the steps are listed in the right order\",\"minutes\":15}],\"starterAction\":\"Open the reading and count how many steps it lists\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Supply and demand problem set",
+      "subject": "Economics",
+      "description": "Problems 1 to 20.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and find problem number one\",\"minutes\":5},{\"title\":\"Answer problems one through ten in order\",\"minutes\":30},{\"title\":\"Answer problems eleven through twenty\",\"minutes\":30},{\"title\":\"Draw the supply and demand graph problem twenty asks for\",\"minutes\":20},{\"title\":\"Check your answers against the worked example\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and find problem number one\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Personal budget worksheet",
+      "subject": "Economics",
+      "description": "Use the sample pay stub.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the pay amount from the sample stub\",\"minutes\":5},{\"title\":\"List every expense category the worksheet names\",\"minutes\":10},{\"title\":\"Fill in an amount for each expense category\",\"minutes\":25},{\"title\":\"Add up the totals and compare income to spending\",\"minutes\":25},{\"title\":\"Check the totals match what the worksheet asks for\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the pay amount from the sample stub\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Case study on a market failure",
+      "subject": "Economics",
+      "description": "Read the case summary first.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the case summary and write down which market it covers\",\"minutes\":10},{\"title\":\"List who gains and who loses in the case\",\"minutes\":10},{\"title\":\"Answer each question with a detail pulled from the summary\",\"minutes\":30},{\"title\":\"Read your answers back and fix what sounds wrong\",\"minutes\":15}],\"starterAction\":\"Open the case summary and write down which market it covers\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Reading response on scarcity and opportunity cost",
+      "subject": "Economics",
+      "description": "One page.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the reading and write down its definition of scarcity\",\"minutes\":15},{\"title\":\"Write down one opportunity cost from your own life\",\"minutes\":10},{\"title\":\"Write the response connecting your example to the reading\",\"minutes\":20},{\"title\":\"Read it aloud once and tighten any weak sentences\",\"minutes\":10}],\"starterAction\":\"Open the reading and write down its definition of scarcity\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Group presentation on types of economic systems",
+      "subject": "Economics",
+      "description": "Five minutes.",
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the economic systems the slides must compare\",\"minutes\":15},{\"title\":\"List one slide title for each system\",\"minutes\":20},{\"title\":\"Find one fact or image for each system\",\"minutes\":30},{\"title\":\"Build the slides for the first two systems\",\"minutes\":35},{\"title\":\"Build the slide for the last system and a closing slide\",\"minutes\":35},{\"title\":\"Run through the slides out loud once with a timer\",\"minutes\":15}],\"starterAction\":\"Write down the economic systems the slides must compare\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Flashcards for economics vocabulary terms",
+      "subject": "Economics",
+      "description": "Unit 2 terms.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the first half of unit two's terms on cards\",\"minutes\":15},{\"title\":\"Answer that first half of the cards without peeking\",\"minutes\":10},{\"title\":\"Write the second half of unit two's terms on cards\",\"minutes\":15},{\"title\":\"Answer all of unit two's cards without looking\",\"minutes\":15},{\"title\":\"Place the missed cards into their own pile\",\"minutes\":10}],\"starterAction\":\"Write the first half of unit two's terms on cards\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Study guide for the economics unit test",
+      "subject": "Economics",
+      "description": null,
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Skim the whole economics unit and list its topics down a page\",\"minutes\":15},{\"title\":\"Collect the quiz from each topic and stack them in order\",\"minutes\":15},{\"title\":\"List the unit's key terms on one page\",\"minutes\":20},{\"title\":\"Write eight questions the unit test might ask\",\"minutes\":25},{\"title\":\"Answer all eight from memory, no notes allowed\",\"minutes\":15}],\"starterAction\":\"Skim the whole economics unit and list its topics down a page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Problem set on GDP calculations",
+      "subject": "AP Macroeconomics",
+      "description": "Problems 1 to 15.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the GDP formula at the top\",\"minutes\":5},{\"title\":\"Answer problems one through eight in order\",\"minutes\":30},{\"title\":\"Answer problems nine through fifteen\",\"minutes\":30},{\"title\":\"Check your answers against the worked example\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the GDP formula at the top\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Graphing exercise on aggregate supply and demand",
+      "subject": "AP Macroeconomics",
+      "description": "Four graphs.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and find the first of the four graphs\",\"minutes\":5},{\"title\":\"Draw the aggregate supply curve on the first graph\",\"minutes\":20},{\"title\":\"Draw the aggregate demand curve on the second graph\",\"minutes\":20},{\"title\":\"Draw the shift described in graphs three and four\",\"minutes\":20},{\"title\":\"Check your answers against the worked example\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and find the first of the four graphs\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Reading response on fiscal policy",
+      "subject": "AP Macroeconomics",
+      "description": "One page.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the reading and write down its definition of fiscal policy\",\"minutes\":15},{\"title\":\"Write down one real example the reading gives\",\"minutes\":10},{\"title\":\"Write the response explaining the example in your own words\",\"minutes\":20},{\"title\":\"Read the paragraph back and fix what sounds off\",\"minutes\":10}],\"starterAction\":\"Open the reading and write down its definition of fiscal policy\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Study guide for the AP Macro unit test",
+      "subject": "AP Macroeconomics",
+      "description": null,
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Highlight every boldfaced term across the AP Macro unit's handouts\",\"minutes\":15},{\"title\":\"List those highlighted terms on one page\",\"minutes\":20},{\"title\":\"Write eight questions the unit test might ask\",\"minutes\":25},{\"title\":\"Answer your own eight questions without looking at notes\",\"minutes\":20},{\"title\":\"Answer again the ones you missed the first time\",\"minutes\":15}],\"starterAction\":\"Highlight every boldfaced term across the AP Macro unit's handouts\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Flashcards for AP Macro vocabulary terms",
+      "subject": "AP Macroeconomics",
+      "description": "Twenty-five vocabulary words.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the first half of the twenty-five words on cards\",\"minutes\":15},{\"title\":\"Recite that first half without looking\",\"minutes\":10},{\"title\":\"Write the second half of the words on cards\",\"minutes\":15},{\"title\":\"Recite all twenty-five words without looking\",\"minutes\":15},{\"title\":\"Set aside the cards you missed\",\"minutes\":10}],\"starterAction\":\"Write the first half of the twenty-five words on cards\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Case study on inflation",
+      "subject": "AP Macroeconomics",
+      "description": "Read the case summary first.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the case summary and write down the inflation rate it gives\",\"minutes\":10},{\"title\":\"List who is helped and who is hurt by that rate\",\"minutes\":10},{\"title\":\"Answer every question using a fact from the summary\",\"minutes\":30},{\"title\":\"Read your answers aloud and clean up anything unclear\",\"minutes\":15}],\"starterAction\":\"Open the case summary and write down the inflation rate it gives\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Case study on a classic psychology experiment",
+      "subject": "AP Psychology",
+      "description": "Read the case summary first.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the case summary and write down who ran the experiment\",\"minutes\":15},{\"title\":\"Underline the sentence that states the experiment's result\",\"minutes\":15},{\"title\":\"List the questions the assignment asks about it\",\"minutes\":10},{\"title\":\"Answer each question, citing a detail from the summary\",\"minutes\":30},{\"title\":\"Read your answers aloud and fix any weak sentences\",\"minutes\":15}],\"starterAction\":\"Open the case summary and write down who ran the experiment\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Research paper on nature versus nurture",
+      "subject": "AP Psychology",
+      "description": "Five pages with citations.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 60
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write nature versus nurture at the top of a blank page\",\"minutes\":10},{\"title\":\"Find six sources, three for each side of the debate\",\"minutes\":40},{\"title\":\"List the five pages as section headings\",\"minutes\":25},{\"title\":\"Write the opening three pages without stopping to edit\",\"minutes\":40},{\"title\":\"Write the closing two pages without stopping to edit\",\"minutes\":40},{\"title\":\"Copy every citation into the format the rubric asks for\",\"minutes\":20},{\"title\":\"Read the paper aloud and count that it reaches five pages\",\"minutes\":25}],\"starterAction\":\"Write nature versus nurture at the top of a blank page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Flashcards for AP Psychology vocabulary terms",
+      "subject": "AP Psychology",
+      "description": "Unit 6 terms.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the first half of unit six's terms on cards\",\"minutes\":15},{\"title\":\"Recite those cards from memory before flipping them\",\"minutes\":10},{\"title\":\"Write the second half of unit six's terms on cards\",\"minutes\":15},{\"title\":\"Answer all of unit six's cards without looking\",\"minutes\":15},{\"title\":\"Stack the missed cards apart from the rest\",\"minutes\":10}],\"starterAction\":\"Write the first half of unit six's terms on cards\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Study guide for the AP Psych unit test on memory",
+      "subject": "AP Psychology",
+      "description": null,
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Circle every boldfaced memory term across the chapter\",\"minutes\":15},{\"title\":\"List those circled terms on one page\",\"minutes\":20},{\"title\":\"Write eight questions the unit test might ask about memory\",\"minutes\":20},{\"title\":\"Answer your own eight questions without looking at notes\",\"minutes\":25},{\"title\":\"Answer again the ones you missed the first time\",\"minutes\":15}],\"starterAction\":\"Circle every boldfaced memory term across the chapter\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Group presentation on a psychological perspective",
+      "subject": "AP Psychology",
+      "description": "Five minutes.",
+      "duePhrase": "next week",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"List the psychological perspective's three main ideas\",\"minutes\":10},{\"title\":\"Write one slide title for each idea\",\"minutes\":10},{\"title\":\"Find one example or image for each idea\",\"minutes\":20},{\"title\":\"Build the first two slides all the way through\",\"minutes\":25},{\"title\":\"Build the last slide and a closing slide\",\"minutes\":25},{\"title\":\"Rehearse the whole thing out loud once\",\"minutes\":15}],\"starterAction\":\"List the psychological perspective's three main ideas\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Reflection on the group project",
+      "subject": "AP Psychology",
+      "description": "Half a page.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down two things your group did well\",\"minutes\":10},{\"title\":\"Write down two things you would change next time\",\"minutes\":10},{\"title\":\"Write down which teammate helped you most and how\",\"minutes\":10},{\"title\":\"Write the reflection in one sitting without editing\",\"minutes\":20},{\"title\":\"Read it aloud and fix what sounds wrong\",\"minutes\":10}],\"starterAction\":\"Write down two things your group did well\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Survey design on sleep habits",
+      "subject": "AP Psychology",
+      "description": "Twenty classmates.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the one question your sleep survey has to answer\",\"minutes\":15},{\"title\":\"List five smaller questions about sleep that could answer it\",\"minutes\":20},{\"title\":\"Count out twenty classmates you will ask\",\"minutes\":10},{\"title\":\"Print the survey and staple the pages in order\",\"minutes\":5},{\"title\":\"Check every question is easy to answer in one line\",\"minutes\":15}],\"starterAction\":\"Write the one question your sleep survey has to answer\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Outline the chapter on cognitive biases",
+      "subject": "AP Psychology",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the chapter and count how many biases it names\",\"minutes\":10},{\"title\":\"Write each bias's name down the left side of a page\",\"minutes\":10},{\"title\":\"Write a one-sentence example under each bias\",\"minutes\":20},{\"title\":\"Write the outline as a list of section headings\",\"minutes\":15},{\"title\":\"Check every bias named in the chapter has an example\",\"minutes\":15}],\"starterAction\":\"Open the chapter and count how many biases it names\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Case study on a social institution",
+      "subject": "Sociology",
+      "description": "Read the case summary first.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Read the case summary and underline which institution it covers\",\"minutes\":15},{\"title\":\"Write down two roles that institution plays in society\",\"minutes\":15},{\"title\":\"List the questions the assignment asks about it\",\"minutes\":10},{\"title\":\"Answer each question with a detail drawn from the summary\",\"minutes\":30},{\"title\":\"Read your answers back and smooth out rough spots\",\"minutes\":15}],\"starterAction\":\"Read the case summary and underline which institution it covers\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Survey design on social media habits among teens",
+      "subject": "Sociology",
+      "description": "Thirty classmates.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the one question your social media survey has to answer\",\"minutes\":10},{\"title\":\"List five smaller questions about habits that could answer it\",\"minutes\":20},{\"title\":\"Count out thirty classmates you will ask\",\"minutes\":15},{\"title\":\"Print the survey and staple the pages in order\",\"minutes\":10},{\"title\":\"Check every question is easy to answer in one line\",\"minutes\":10}],\"starterAction\":\"Write the one question your social media survey has to answer\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Interview someone from a different generation",
+      "subject": "Sociology",
+      "description": "For the oral history project.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down five questions about their generation you will ask\",\"minutes\":20},{\"title\":\"Pack a phone or recorder to capture the answers\",\"minutes\":10},{\"title\":\"Ask each of the five questions and write down the answers\",\"minutes\":30},{\"title\":\"Read back the answers and fix anything unclear\",\"minutes\":15},{\"title\":\"Write two sentences saying what surprised you\",\"minutes\":10}],\"starterAction\":\"Write down five questions about their generation you will ask\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Reading response on a sociological theory",
+      "subject": "Sociology",
+      "description": "One page.",
+      "duePhrase": "in 10 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the reading and write down the theory's name\",\"minutes\":15},{\"title\":\"List two examples the reading uses to explain it\",\"minutes\":15},{\"title\":\"Write a response applying the theory to your own life\",\"minutes\":20},{\"title\":\"Read it aloud and check the example still makes sense\",\"minutes\":10}],\"starterAction\":\"Open the reading and write down the theory's name\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Group presentation on social stratification",
+      "subject": "Sociology",
+      "description": "Five minutes.",
+      "duePhrase": "next week",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down three examples of stratification from daily life\",\"minutes\":10},{\"title\":\"List one slide title for each example\",\"minutes\":20},{\"title\":\"Find an image for each of the three examples\",\"minutes\":30},{\"title\":\"Build the first two slides all the way through\",\"minutes\":25},{\"title\":\"Build the last slide and a closing slide\",\"minutes\":25},{\"title\":\"Practise the whole presentation once against a clock\",\"minutes\":20}],\"starterAction\":\"Write down three examples of stratification from daily life\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Flashcards for sociology vocabulary terms",
+      "subject": "Sociology",
+      "description": "Unit 1 terms.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the first half of unit one's terms on cards\",\"minutes\":15},{\"title\":\"Answer that first half without checking the answer\",\"minutes\":10},{\"title\":\"Write the second half of unit one's terms on cards\",\"minutes\":15},{\"title\":\"Answer all of unit one's cards without looking\",\"minutes\":15},{\"title\":\"Set aside every card you answered wrong\",\"minutes\":10}],\"starterAction\":\"Write the first half of unit one's terms on cards\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Study guide for the sociology unit test on socialization",
+      "subject": "Sociology",
+      "description": null,
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write socialization across the top of a page and list its key ideas below\",\"minutes\":15},{\"title\":\"Collect the quiz from the unit and set it beside the page\",\"minutes\":10},{\"title\":\"List the unit's key terms on one page\",\"minutes\":20},{\"title\":\"Write eight questions the unit test might ask\",\"minutes\":25},{\"title\":\"Answer your eight questions before checking the notes\",\"minutes\":20}],\"starterAction\":\"Write socialization across the top of a page and list its key ideas below\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Map of the world's climate regions",
+      "subject": "Human Geography",
+      "description": "Label six climate zones.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the blank map and count the six climate zones you must shade\",\"minutes\":10},{\"title\":\"Draw the outline of each climate zone in pencil\",\"minutes\":20},{\"title\":\"Shade each zone a different color\",\"minutes\":25},{\"title\":\"Label each zone by name\",\"minutes\":20},{\"title\":\"Add a key showing which color means which zone\",\"minutes\":15},{\"title\":\"Check the map against the list one more time\",\"minutes\":10}],\"starterAction\":\"Print the blank map and count the six climate zones you must shade\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Case study on urbanization in a growing city",
+      "subject": "Human Geography",
+      "description": "Read the case summary first.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the case summary and circle the name of the city it covers\",\"minutes\":10},{\"title\":\"Write down two reasons the city grew from the summary\",\"minutes\":10},{\"title\":\"Answer every question using a detail from the case\",\"minutes\":30},{\"title\":\"Read your answers aloud and tighten any weak lines\",\"minutes\":15}],\"starterAction\":\"Open the case summary and circle the name of the city it covers\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Reading response on population growth",
+      "subject": "Human Geography",
+      "description": "One page.",
+      "duePhrase": "Friday",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Skim the reading and circle every statistic it gives\",\"minutes\":15},{\"title\":\"Write down the two statistics that surprised you most\",\"minutes\":10},{\"title\":\"Write the response explaining why those numbers stood out\",\"minutes\":20},{\"title\":\"Read the response back and clean up any rough lines\",\"minutes\":10}],\"starterAction\":\"Skim the reading and circle every statistic it gives\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Group presentation on cultural diffusion",
+      "subject": "Human Geography",
+      "description": "Five minutes.",
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down three examples of cultural diffusion you can research\",\"minutes\":15},{\"title\":\"List one slide title for each example\",\"minutes\":15},{\"title\":\"Find an image showing each example spreading\",\"minutes\":25},{\"title\":\"Build the first two slides all the way through\",\"minutes\":30},{\"title\":\"Build the last slide and a closing slide\",\"minutes\":30},{\"title\":\"Time yourself presenting the whole thing once\",\"minutes\":15}],\"starterAction\":\"Write down three examples of cultural diffusion you can research\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Flashcards for human geography vocabulary terms",
+      "subject": "Human Geography",
+      "description": "Forty vocabulary words.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the first twenty words on cards\",\"minutes\":15},{\"title\":\"Recite those twenty words without looking\",\"minutes\":10},{\"title\":\"Write the last twenty words on cards\",\"minutes\":15},{\"title\":\"Recite all forty words without looking\",\"minutes\":15},{\"title\":\"Set those missed cards apart from the rest\",\"minutes\":10}],\"starterAction\":\"Write the first twenty words on cards\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Study guide for the AP Human Geography unit test on migration",
+      "subject": "Human Geography",
+      "description": null,
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Skim the migration unit and list its key ideas down a page\",\"minutes\":15},{\"title\":\"Collect the quiz from the unit and set it beside the page\",\"minutes\":10},{\"title\":\"List the unit's key terms on one page\",\"minutes\":20},{\"title\":\"Write eight questions the unit test might ask about migration\",\"minutes\":25},{\"title\":\"Answer the eight migration questions without checking notes\",\"minutes\":20}],\"starterAction\":\"Skim the migration unit and list its key ideas down a page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Interview a family member about their heritage",
+      "subject": "Ethnic Studies",
+      "description": "For the oral history project.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"List three parts of your heritage you want to ask about\",\"minutes\":15},{\"title\":\"Turn each of the three parts into a question\",\"minutes\":15},{\"title\":\"Pack a phone or recorder to capture the answers\",\"minutes\":10},{\"title\":\"Ask all three questions and write down the answers\",\"minutes\":35},{\"title\":\"Write two sentences saying what surprised you\",\"minutes\":10}],\"starterAction\":\"List three parts of your heritage you want to ask about\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Reading response on an assigned essay about identity",
+      "subject": "Ethnic Studies",
+      "description": "One page.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the essay and underline every sentence about identity\",\"minutes\":15},{\"title\":\"Write down the line that struck you most\",\"minutes\":10},{\"title\":\"Write the response connecting that line to your own experience\",\"minutes\":20},{\"title\":\"Read it aloud once and fix any lines that stumble\",\"minutes\":10}],\"starterAction\":\"Open the essay and underline every sentence about identity\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Research paper on a movement for civil rights",
+      "subject": "Ethnic Studies",
+      "description": "Six pages with citations.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 60
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the movement you are researching at the top of a page\",\"minutes\":10},{\"title\":\"Find six sources about the movement and save them in one folder\",\"minutes\":40},{\"title\":\"List the six pages as section headings\",\"minutes\":25},{\"title\":\"Write the first half of the paper without stopping to edit\",\"minutes\":45},{\"title\":\"Write the second half of the paper without stopping to edit\",\"minutes\":35},{\"title\":\"Copy every citation into the format the rubric asks for\",\"minutes\":20},{\"title\":\"Read the paper aloud and check all six sources are cited\",\"minutes\":25}],\"starterAction\":\"Write the movement you are researching at the top of a page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Group presentation on a cultural tradition",
+      "subject": "Ethnic Studies",
+      "description": "Five minutes.",
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the tradition you will present\",\"minutes\":10},{\"title\":\"List three facts about its history\",\"minutes\":15},{\"title\":\"Find one image showing the tradition\",\"minutes\":25},{\"title\":\"Build the slides explaining its history\",\"minutes\":30},{\"title\":\"Build the slide explaining why it still matters\",\"minutes\":30},{\"title\":\"Practise presenting it once with a timer running\",\"minutes\":20}],\"starterAction\":\"Write down the tradition you will present\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Timeline of a social movement's key events",
+      "subject": null,
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the reading and count how many key events it lists\",\"minutes\":5},{\"title\":\"Write every event down the side of a page in order\",\"minutes\":15},{\"title\":\"Write one sentence next to each event saying why it mattered\",\"minutes\":20},{\"title\":\"Check the events are listed in the order they happened\",\"minutes\":15}],\"starterAction\":\"Open the reading and count how many key events it lists\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Annotated bibliography on immigration history",
+      "subject": "Ethnic Studies",
+      "description": "Six sources.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a blank document and write immigration history as the title\",\"minutes\":10},{\"title\":\"Search the library database for two sources you still need\",\"minutes\":35},{\"title\":\"Write the first three citations in the bibliography format\",\"minutes\":25},{\"title\":\"Copy the last three citations in the same format\",\"minutes\":25},{\"title\":\"Write two sentences connecting each source to your topic\",\"minutes\":35},{\"title\":\"Check the citations one more time against the format guide\",\"minutes\":15}],\"starterAction\":\"Open a blank document and write immigration history as the title\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Reading response on an assigned philosophical text",
+      "subject": null,
+      "description": "One page.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the text and circle every claim the author makes\",\"minutes\":15},{\"title\":\"Write down the claim you agree with least\",\"minutes\":10},{\"title\":\"Write the response explaining why you disagree\",\"minutes\":20},{\"title\":\"Read the page back and sharpen any vague sentences\",\"minutes\":10}],\"starterAction\":\"Open the text and circle every claim the author makes\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Essay on whether free will exists",
+      "subject": "Philosophy",
+      "description": "Three pages.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down your answer to whether free will exists\",\"minutes\":5},{\"title\":\"List three reasons that support your answer\",\"minutes\":15},{\"title\":\"Write the introduction stating your answer plainly\",\"minutes\":20},{\"title\":\"Write the first page and a half of the body\",\"minutes\":30},{\"title\":\"Write the last page and a half of the body\",\"minutes\":30},{\"title\":\"Read the essay aloud and fix what sounds wrong\",\"minutes\":15}],\"starterAction\":\"Write down your answer to whether free will exists\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Debate prep on the trolley problem",
+      "subject": "Philosophy",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down which choice you would make in the trolley problem\",\"minutes\":5},{\"title\":\"List two reasons that support your choice\",\"minutes\":20},{\"title\":\"List two reasons someone might choose differently\",\"minutes\":20},{\"title\":\"Practise saying your reasons out loud with a timer\",\"minutes\":15}],\"starterAction\":\"Write down which choice you would make in the trolley problem\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Outline the chapter on ethical theories",
+      "subject": "Philosophy",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the chapter and count how many theories it covers\",\"minutes\":5},{\"title\":\"Write each theory's name down the left side of a page\",\"minutes\":15},{\"title\":\"Write one example under each theory\",\"minutes\":20},{\"title\":\"Write the outline as a list of section headings\",\"minutes\":20},{\"title\":\"Check every theory named in the chapter has an example\",\"minutes\":10}],\"starterAction\":\"Open the chapter and count how many theories it covers\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Flashcards for philosophy vocabulary terms",
+      "subject": "Philosophy",
+      "description": "Unit 5 terms.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the first half of unit five's terms on cards\",\"minutes\":15},{\"title\":\"Recite those cards once before checking them\",\"minutes\":10},{\"title\":\"Write the second half of unit five's terms on cards\",\"minutes\":15},{\"title\":\"Answer all of unit five's cards without looking\",\"minutes\":15},{\"title\":\"Group the cards you missed away from the rest\",\"minutes\":10}],\"starterAction\":\"Write the first half of unit five's terms on cards\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Study guide for the philosophy midterm",
+      "subject": "Philosophy",
+      "description": null,
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Stack every quiz and handout from the semester in order\",\"minutes\":10},{\"title\":\"Sort the stack by which philosopher each note covers\",\"minutes\":20},{\"title\":\"List each philosopher's key idea on one page\",\"minutes\":25},{\"title\":\"Write eight questions the midterm might ask\",\"minutes\":20},{\"title\":\"Answer all eight questions with your notes closed\",\"minutes\":15}],\"starterAction\":\"Stack every quiz and handout from the semester in order\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Current-event summary on a news article",
+      "subject": "Current Events",
+      "description": "One page.",
+      "duePhrase": "Friday",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the article and circle the who, what, when and where\",\"minutes\":5},{\"title\":\"Write down the one sentence that best sums up the story\",\"minutes\":15},{\"title\":\"Write the summary in one sitting without editing\",\"minutes\":20},{\"title\":\"Read it aloud and fix what sounds wrong\",\"minutes\":10}],\"starterAction\":\"Open the article and circle the who, what, when and where\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Political cartoon analysis on a current issue",
+      "subject": null,
+      "description": "One cartoon.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the cartoon and list every label it uses\",\"minutes\":5},{\"title\":\"Write down what each label probably means\",\"minutes\":15},{\"title\":\"Write one sentence saying what point the cartoonist makes\",\"minutes\":15},{\"title\":\"Check your answer accounts for every label\",\"minutes\":10}],\"starterAction\":\"Open the cartoon and list every label it uses\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Debate prep on a current-events topic",
+      "subject": null,
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the current event topic and your assigned side\",\"minutes\":5},{\"title\":\"List three arguments your side can make\",\"minutes\":20},{\"title\":\"List two arguments the other side will probably make\",\"minutes\":20},{\"title\":\"Practise saying your three arguments out loud with a timer\",\"minutes\":15}],\"starterAction\":\"Write down the current event topic and your assigned side\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Group presentation on a current event",
+      "subject": "Current Events",
+      "description": "Five minutes.",
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the current event the slides must explain\",\"minutes\":10},{\"title\":\"List three facts about what happened\",\"minutes\":15},{\"title\":\"Find one image or headline about the event\",\"minutes\":25},{\"title\":\"Build the slides explaining what happened\",\"minutes\":30},{\"title\":\"Build the slide explaining why it matters\",\"minutes\":30},{\"title\":\"Rehearse the presentation once from start to finish\",\"minutes\":20}],\"starterAction\":\"Write down the current event the slides must explain\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Survey design on classmates' opinions of a current issue",
+      "subject": "Current Events",
+      "description": "Twenty-five classmates.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the one question your opinion survey has to answer\",\"minutes\":10},{\"title\":\"List five smaller questions about the issue that could answer it\",\"minutes\":20},{\"title\":\"Count out twenty-five classmates you will ask\",\"minutes\":15},{\"title\":\"Print the survey and staple the pages in order\",\"minutes\":10},{\"title\":\"Check every question is easy to answer in one line\",\"minutes\":10}],\"starterAction\":\"Write the one question your opinion survey has to answer\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Reading response on an editorial",
+      "subject": "Current Events",
+      "description": "One page.",
+      "duePhrase": "Friday",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the editorial and underline its main argument\",\"minutes\":15},{\"title\":\"Write down one piece of evidence the writer uses\",\"minutes\":10},{\"title\":\"Write the response saying whether the evidence convinced you\",\"minutes\":20},{\"title\":\"Read it aloud and check the argument still holds up\",\"minutes\":10}],\"starterAction\":\"Open the editorial and underline its main argument\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Timeline of a developing news story",
+      "subject": "Current Events",
+      "description": null,
+      "duePhrase": "in 10 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the article and count how many days the story has been developing\",\"minutes\":10},{\"title\":\"Write every date it mentions down the side of a page\",\"minutes\":15},{\"title\":\"Write one sentence next to each date saying what happened\",\"minutes\":20},{\"title\":\"Check the dates are listed in the order they happened\",\"minutes\":15}],\"starterAction\":\"Open the article and count how many days the story has been developing\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Case study on the background of a current event",
+      "subject": null,
+      "description": "Read the case summary first.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the case summary and write down the date the event happened\",\"minutes\":10},{\"title\":\"List the people or groups the summary names\",\"minutes\":10},{\"title\":\"Answer each question with a fact taken from the summary\",\"minutes\":30},{\"title\":\"Read your answers aloud and check they all make sense\",\"minutes\":15}],\"starterAction\":\"Open the case summary and write down the date the event happened\"}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "AP US History: DBQ rough draft due Friday. Final draft due the following Wednesday. Bring your sources to class tomorrow.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"DBQ rough draft\",\"dueInDays\":4,\"subject\":\"AP US History\"},{\"title\":\"Final draft\",\"dueInDays\":9,\"subject\":\"AP US History\"},{\"title\":\"Bring your sources\",\"dueInDays\":1,\"subject\":\"AP US History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "US Government: mock trial roles assigned today. Opening statements due next Tuesday. Practice trial is in two weeks.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Opening statements\",\"dueInDays\":8,\"subject\":\"US Government\"},{\"title\":\"Practice trial\",\"dueInDays\":14,\"subject\":\"US Government\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "World History: read chapter 22 tonight. Map quiz on trade routes Friday. Unit test in ten days.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Read chapter 22\",\"dueInDays\":0,\"subject\":\"World History\"},{\"title\":\"Map quiz\",\"dueInDays\":4,\"subject\":\"World History\"},{\"title\":\"Unit test\",\"dueInDays\":10,\"subject\":\"World History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "No class Monday, school holiday. Current events summary still due Wednesday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Current events summary\",\"dueInDays\":2,\"subject\":\"Current Events\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Psych: case study questions due tomorrow. Study guide for the memory unit test posted, test is next week.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Case study questions\",\"dueInDays\":1,\"subject\":\"AP Psychology\"},{\"title\":\"Memory unit test\",\"dueInDays\":7,\"subject\":\"AP Psychology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Reminder from Ms. Reyes: annotated bibliography sources list due Wednesday, six sources minimum. Full bibliography due the following week.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Sources list\",\"dueInDays\":2},{\"title\":\"Full bibliography\",\"dueInDays\":9}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Econ: supply and demand worksheet due tomorrow. Quiz Thursday. No other assignments this week.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Supply and demand worksheet\",\"dueInDays\":1,\"subject\":\"Economics\"},{\"title\":\"Quiz\",\"dueInDays\":3,\"subject\":\"Economics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Sociology group chat: survey has to go out by Friday, responses due Monday after, presentation the following week.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Send out the survey\",\"dueInDays\":4,\"subject\":\"Sociology\"},{\"title\":\"Collect survey responses\",\"dueInDays\":7,\"subject\":\"Sociology\"},{\"title\":\"Presentation\",\"dueInDays\":14,\"subject\":\"Sociology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Human Geography: bring your completed climate map tomorrow. Population unit test in five days.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Climate map\",\"dueInDays\":1,\"subject\":\"Human Geography\"},{\"title\":\"Population unit test\",\"dueInDays\":5,\"subject\":\"Human Geography\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Ethnic Studies: interview project proposal due Friday, the interview itself due in three weeks, reflection due two days after that.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Interview proposal\",\"dueInDays\":4,\"subject\":\"Ethnic Studies\"},{\"title\":\"Interview\",\"dueInDays\":21,\"subject\":\"Ethnic Studies\"},{\"title\":\"Reflection\",\"dueInDays\":23,\"subject\":\"Ethnic Studies\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Philosophy: reading response on free will due tomorrow. Midterm essay prompt posted, essay due in two weeks.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Reading response\",\"dueInDays\":1,\"subject\":\"Philosophy\"},{\"title\":\"Midterm essay\",\"dueInDays\":14,\"subject\":\"Philosophy\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "AP Euro: bring your Enlightenment packet to class tomorrow. Essay due Friday. No quiz this week.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Enlightenment packet\",\"dueInDays\":1,\"subject\":\"AP European History\"},{\"title\":\"Essay\",\"dueInDays\":4,\"subject\":\"AP European History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "AP World: map work due Wednesday. DBQ outline due Friday, full DBQ the following Monday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Map work\",\"dueInDays\":2,\"subject\":\"AP World History\"},{\"title\":\"DBQ outline\",\"dueInDays\":4,\"subject\":\"AP World History\"},{\"title\":\"Full DBQ\",\"dueInDays\":7,\"subject\":\"AP World History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "US Gov group chat: does anyone know if the political cartoon analysis is due tomorrow or Friday? yes tomorrow, teacher confirmed it in class.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Political cartoon analysis\",\"dueInDays\":1,\"subject\":\"US Government\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Civics: bill-to-law worksheet due Thursday. Bring a current event article Friday. Debate prep due next Wednesday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Bill to law worksheet\",\"dueInDays\":3,\"subject\":\"Civics\"},{\"title\":\"Current event article\",\"dueInDays\":4,\"subject\":\"Civics\"},{\"title\":\"Debate prep\",\"dueInDays\":9,\"subject\":\"Civics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "No homework this week, enjoy the long weekend.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "AP Macro: graphing homework due tomorrow. Unit test on fiscal policy next Tuesday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Graphing homework\",\"dueInDays\":1,\"subject\":\"AP Macroeconomics\"},{\"title\":\"Fiscal policy unit test\",\"dueInDays\":8,\"subject\":\"AP Macroeconomics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Reminder: field trip permission slips for the courthouse visit due Friday. No other US Government work this week.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Permission slip\",\"dueInDays\":4,\"subject\":\"US Government\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "World History group chat: is the Silk Road map due tomorrow?? yes and bring colored pencils",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Silk Road map\",\"dueInDays\":1,\"subject\":\"World History\"},{\"title\":\"Bring colored pencils\",\"dueInDays\":1,\"subject\":\"World History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Current Events: article summary due every Friday this month. Presentation sign-ups close Wednesday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Article summary\",\"dueInDays\":4,\"subject\":\"Current Events\"},{\"title\":\"Presentation sign-up\",\"dueInDays\":2,\"subject\":\"Current Events\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "AP US History: annotated bibliography due in one week. Rough draft of the research paper due in three weeks.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Annotated bibliography\",\"dueInDays\":7,\"subject\":\"AP US History\"},{\"title\":\"Research paper rough draft\",\"dueInDays\":21,\"subject\":\"AP US History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Sociology: read the chapter on socialization tonight. Reading response due Friday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Read the chapter on socialization\",\"dueInDays\":0,\"subject\":\"Sociology\"},{\"title\":\"Reading response\",\"dueInDays\":4,\"subject\":\"Sociology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Economics: personal budget project due in two weeks. Bring your pay stub example tomorrow for reference.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Budget project\",\"dueInDays\":14,\"subject\":\"Economics\"},{\"title\":\"Pay stub example\",\"dueInDays\":1,\"subject\":\"Economics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Psych group chat: sleep survey has to be out by tomorrow, we need forty responses by Friday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Send out the sleep survey\",\"dueInDays\":1,\"subject\":\"AP Psychology\"},{\"title\":\"Collect forty survey responses\",\"dueInDays\":4,\"subject\":\"AP Psychology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "US Government: mock trial witness statements due Wednesday. Full mock trial is in two weeks.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Witness statements\",\"dueInDays\":2,\"subject\":\"US Government\"},{\"title\":\"Mock trial\",\"dueInDays\":14,\"subject\":\"US Government\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "US History: flashcards for the World War II unit due tomorrow, quiz Friday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Flashcards\",\"dueInDays\":1,\"subject\":\"US History\"},{\"title\":\"Quiz\",\"dueInDays\":4,\"subject\":\"US History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Ethnic Studies: bring three interview questions tomorrow. Full interview transcript due next week.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Interview questions\",\"dueInDays\":1,\"subject\":\"Ethnic Studies\"},{\"title\":\"Interview transcript\",\"dueInDays\":7,\"subject\":\"Ethnic Studies\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Philosophy group chat: is the trolley problem debate prep due tomorrow or Thursday? tomorrow, don't forget your notecards",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Trolley problem debate prep\",\"dueInDays\":1,\"subject\":\"Philosophy\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Human Geography: population pyramid worksheet due tomorrow. Migration case study due in ten days.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Population pyramid worksheet\",\"dueInDays\":1,\"subject\":\"Human Geography\"},{\"title\":\"Migration case study\",\"dueInDays\":10,\"subject\":\"Human Geography\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "AP European History: absolutism study guide posted, test is Friday. Map of European borders due the following Monday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Absolutism study guide\",\"dueInDays\":4,\"subject\":\"AP European History\"},{\"title\":\"Map of European borders\",\"dueInDays\":7,\"subject\":\"AP European History\"}]}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Contextualize the primary source within its historical period",
+      "description": null
+    },
+    "completion": "{\"title\":\"Find out when the source was made\",\"explanation\":\"Look at the source and find the date or the events it mentions. Write down what else was happening around that time, so you know what the writer already knew.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Corroborate the claims across multiple primary sources",
+      "description": "Check at least three documents."
+    },
+    "completion": "{\"title\":\"Check if the sources agree\",\"explanation\":\"Read what each source says about the same event. Write down whether they agree, and if they do not, write one sentence about where they differ.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Synthesize perspectives from the assigned secondary sources",
+      "description": null
+    },
+    "completion": "{\"title\":\"Put the writers in conversation\",\"explanation\":\"Read what each writer says about the topic. Write down one place they agree and one place they disagree, then say which side you find more convincing.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Formulate a defensible thesis supported by the document-based evidence",
+      "description": null
+    },
+    "completion": "{\"title\":\"Write one sentence saying what you think\",\"explanation\":\"Read back over the sources and pick the one idea you keep coming back to. Write it as a single sentence, then find two sources that back it up.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Deconstruct the rhetorical strategies employed in the political cartoon",
+      "description": null
+    },
+    "completion": "{\"title\":\"Find the tricks the cartoonist used\",\"explanation\":\"Look at the cartoon and list every symbol, label, and exaggeration you can see. For each one, write a sentence about what it is trying to make you feel.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Interrogate the underlying assumptions of the economic model",
+      "description": "Use the supply and demand graph."
+    },
+    "completion": "{\"title\":\"Find what the model takes for granted\",\"explanation\":\"Look at the graph and the rules it assumes are true. Write down two of those rules, and say whether you think they hold up in real life.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Substantiate your argument with corroborating evidence from the case study",
+      "description": null
+    },
+    "completion": "{\"title\":\"Back up your point with one detail\",\"explanation\":\"Write the one sentence you are trying to prove. Then find a detail in the case study that supports it and write it underneath.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Critique the methodology of the survey instrument",
+      "description": null
+    },
+    "completion": "{\"title\":\"Find the flaw in how the survey was written\",\"explanation\":\"Read through the survey questions one at a time. Write down any question that could confuse someone or lead them toward one answer, and say why.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Situate the reading within the broader sweep of world history",
+      "description": null
+    },
+    "completion": "{\"title\":\"Say what era the reading belongs to\",\"explanation\":\"Look for dates, names, or events in the reading that place it in time. Write down the era it belongs to and one other event happening around then.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Delineate the branches of government and their checks on one another",
+      "description": null
+    },
+    "completion": "{\"title\":\"List the branches and what each one can block\",\"explanation\":\"Write down the three branches of government. Next to each one, write a sentence about one power it has to stop another branch.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Articulate the ethical implications of the philosophical thought experiment",
+      "description": "The trolley problem."
+    },
+    "completion": "{\"title\":\"Say what you would do and why\",\"explanation\":\"Read the thought experiment once. Write down the choice you would make, then write one sentence about the value that choice protects.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Evaluate the socioeconomic factors driving urbanization",
+      "description": null
+    },
+    "completion": "{\"title\":\"List the reasons people move to cities\",\"explanation\":\"Look at the reading for reasons people leave rural areas for cities. Write down three of those reasons in your own words.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Analyze the causal relationship between the treaty and the outbreak of war",
+      "description": null
+    },
+    "completion": "{\"title\":\"Say how the treaty led to the war\",\"explanation\":\"Look at what the treaty required and when the war started. Write one sentence connecting the two, using a date from each.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Assess the cultural impact of the social movement on subsequent generations",
+      "description": null
+    },
+    "completion": "{\"title\":\"Write down one lasting effect of the movement\",\"explanation\":\"Look at the reading for something that changed because of the movement. Write one sentence about that change and who it affected.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Problematize the dominant narrative presented in the textbook chapter",
+      "description": null
+    },
+    "completion": "{\"title\":\"Find what the chapter leaves out\",\"explanation\":\"Reread the chapter and notice whose story is missing or told quickly. Write down one group or event you think deserved more space.\"}"
+  }
+]

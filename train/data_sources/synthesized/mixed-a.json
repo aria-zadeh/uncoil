@@ -1,0 +1,862 @@
+[
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Fraction word problem worksheet",
+      "subject": "6th Grade Math",
+      "description": "Problems 1 to 12.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and write your name at the top\",\"minutes\":5},{\"title\":\"Answer problems 1 through 4\",\"minutes\":15},{\"title\":\"Answer problems 5 through 8\",\"minutes\":15},{\"title\":\"Answer problems 9 through 12\",\"minutes\":15},{\"title\":\"Check your answers against the fraction chart in your binder\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and write your name at the top\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Integer operations packet",
+      "subject": "7th Grade Math",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet to the first page\",\"minutes\":5},{\"title\":\"Answer the addition problems in the top box\",\"minutes\":20},{\"title\":\"Answer the subtraction problems in the middle box\",\"minutes\":20},{\"title\":\"Answer the multiplication and division problems at the bottom\",\"minutes\":25},{\"title\":\"Circle every negative answer in red\",\"minutes\":10},{\"title\":\"Compare your circled answers to the key on the back page\",\"minutes\":10}],\"starterAction\":\"Open the packet to the first page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Two-step equation flashcards",
+      "subject": "8th Grade Math",
+      "description": "Make 15 cards.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Take out fifteen index cards and a marker\",\"minutes\":5},{\"title\":\"Write one equation on the front of each of the first eight cards\",\"minutes\":20},{\"title\":\"Write the answer on the back of those eight cards\",\"minutes\":15},{\"title\":\"Write equations on the front of the last seven cards\",\"minutes\":15},{\"title\":\"Write the answers on the back of the last seven\",\"minutes\":15},{\"title\":\"Sort the deck into cards you know and cards to redo\",\"minutes\":10}],\"starterAction\":\"Take out fifteen index cards and a marker\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Order of operations worksheet",
+      "subject": "Pre-Algebra",
+      "description": null,
+      "duePhrase": "Friday",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and circle every set of parentheses\",\"minutes\":10},{\"title\":\"Solve problems 1 through 5 in order\",\"minutes\":20},{\"title\":\"Solve problems 6 through 10 in order\",\"minutes\":20},{\"title\":\"Underline the operation you did first in each answer\",\"minutes\":15},{\"title\":\"Check the last five answers against a calculator\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and circle every set of parentheses\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Cell parts flashcards",
+      "subject": "Life Science",
+      "description": "Twelve organelles.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Cut twelve index cards in half if they are not already small\",\"minutes\":10},{\"title\":\"Write one organelle name on the front of six cards\",\"minutes\":15},{\"title\":\"Draw a small picture of each organelle on the back\",\"minutes\":20},{\"title\":\"Write the other six organelle names on new cards\",\"minutes\":15},{\"title\":\"Draw pictures for those six on the back\",\"minutes\":20},{\"title\":\"Answer each card out loud without peeking at the picture\",\"minutes\":15}],\"starterAction\":\"Cut twelve index cards in half if they are not already small\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Ecosystem vocabulary list",
+      "subject": "Life Science",
+      "description": "Ten terms.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the vocabulary list and read each term once\",\"minutes\":5},{\"title\":\"Write the definition for the first five terms in your own words\",\"minutes\":20},{\"title\":\"Write the definition for the last five terms\",\"minutes\":20},{\"title\":\"Draw one small symbol next to each term to help you remember it\",\"minutes\":15},{\"title\":\"Cover the definitions and say what each term means\",\"minutes\":10}],\"starterAction\":\"Open the vocabulary list and read each term once\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Periodic table element flashcards",
+      "subject": "Physical Science",
+      "description": "First twenty elements.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the first ten element symbols on separate cards\",\"minutes\":15},{\"title\":\"Write the element name on the back of each of those ten\",\"minutes\":15},{\"title\":\"Write the next ten element symbols on new cards\",\"minutes\":15},{\"title\":\"Write the element name on the back of those ten\",\"minutes\":15},{\"title\":\"Sort all twenty cards into a pile you know and a pile to redo\",\"minutes\":15}],\"starterAction\":\"Write the first ten element symbols on separate cards\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Rock cycle diagram worksheet",
+      "subject": "Earth Science",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and find the blank diagram\",\"minutes\":5},{\"title\":\"Label the three rock types in the correct boxes\",\"minutes\":15},{\"title\":\"Draw an arrow showing each change from one rock type to another\",\"minutes\":20},{\"title\":\"Write the name of the change next to its arrow\",\"minutes\":15},{\"title\":\"Check every arrow against the textbook diagram\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and find the blank diagram\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Ancient Egypt group poster",
+      "subject": "6th Grade Social Studies",
+      "description": "Share with two partners.",
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down which of the four topics is yours\",\"minutes\":5},{\"title\":\"Print the pictures for your topic\",\"minutes\":15},{\"title\":\"Cut out the pictures and arrange them on the poster board\",\"minutes\":20},{\"title\":\"Attach the pictures in the layout you chose\",\"minutes\":20},{\"title\":\"Write the labels under each picture\",\"minutes\":20},{\"title\":\"Show the finished section to a partner before Friday\",\"minutes\":10}],\"starterAction\":\"Write down which of the four topics is yours\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Africa geography map packet",
+      "subject": "7th Grade Social Studies",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and find the blank map of Africa\",\"minutes\":5},{\"title\":\"Trace the outline of five countries in pencil\",\"minutes\":20},{\"title\":\"Label those five countries by name\",\"minutes\":15},{\"title\":\"Trace and label five more countries\",\"minutes\":25},{\"title\":\"Colour each region a different colour using the key\",\"minutes\":20},{\"title\":\"Check every label against the packet's answer list\",\"minutes\":10}],\"starterAction\":\"Open the packet and find the blank map of Africa\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "US Constitution study guide",
+      "subject": "8th Grade Social Studies",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and put them in order by article number\",\"minutes\":10},{\"title\":\"List the seven articles on one page\",\"minutes\":20},{\"title\":\"Write one sentence explaining what each article covers\",\"minutes\":25},{\"title\":\"Write the first three amendments and what each protects\",\"minutes\":20},{\"title\":\"Answer the five review questions at the end of the chapter\",\"minutes\":20},{\"title\":\"Answer again the ones you got wrong\",\"minutes\":10}],\"starterAction\":\"Open your notes and put them in order by article number\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Vocabulary list quiz prep",
+      "subject": "6th Grade Language Arts",
+      "description": "Fifteen words.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the vocabulary list and read every word once\",\"minutes\":5},{\"title\":\"Write the definition next to the first eight words\",\"minutes\":20},{\"title\":\"Write the definition next to the last seven words\",\"minutes\":20},{\"title\":\"Cover the definitions and answer each word out loud\",\"minutes\":15},{\"title\":\"Mark the ones you missed with a star\",\"minutes\":10}],\"starterAction\":\"Open the vocabulary list and read every word once\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Reading log, twenty pages a night",
+      "subject": "Reading",
+      "description": null,
+      "duePhrase": "Friday",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the book to the bookmark\",\"minutes\":5},{\"title\":\"Read twenty pages without stopping\",\"minutes\":20},{\"title\":\"Write tonight's date and page number on the log sheet\",\"minutes\":5},{\"title\":\"Write one sentence about what happened\",\"minutes\":10}],\"starterAction\":\"Open the book to the bookmark\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Spelling list practice, unit 4",
+      "subject": "Spelling",
+      "description": "Fifteen words.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write each of the fifteen words once on scratch paper\",\"minutes\":15},{\"title\":\"Spell the first five words out loud without looking\",\"minutes\":10},{\"title\":\"Spell the next five words out loud\",\"minutes\":10},{\"title\":\"Spell the last five words out loud\",\"minutes\":10},{\"title\":\"Circle any word you missed and write it three more times\",\"minutes\":15}],\"starterAction\":\"Write each of the fifteen words once on scratch paper\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Nutrition food label worksheet",
+      "subject": "Health",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find a food package from the kitchen with a label on it\",\"minutes\":5},{\"title\":\"Copy the serving size onto the worksheet\",\"minutes\":10},{\"title\":\"Copy the calories and sugar grams into the table\",\"minutes\":15},{\"title\":\"Answer the three questions about the label\",\"minutes\":15},{\"title\":\"Check that every blank on the worksheet is filled in\",\"minutes\":5}],\"starterAction\":\"Find a food package from the kitchen with a label on it\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Typing practice, home row keys",
+      "subject": "Technology",
+      "description": "Fifteen minutes logged.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the typing program on the school laptop\",\"minutes\":5},{\"title\":\"Type the home row drill twice in a row\",\"minutes\":10},{\"title\":\"Record your words-per-minute score in the log\",\"minutes\":5},{\"title\":\"Type the drill one more time to beat that score\",\"minutes\":10},{\"title\":\"Write your best score on the sheet by the door\",\"minutes\":5}],\"starterAction\":\"Open the typing program on the school laptop\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Career interest inventory worksheet",
+      "subject": "Careers",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and read the instructions once\",\"minutes\":5},{\"title\":\"Answer the first ten interest questions\",\"minutes\":15},{\"title\":\"Answer the last ten interest questions\",\"minutes\":15},{\"title\":\"Circle your top three results at the bottom\",\"minutes\":10},{\"title\":\"Write two sentences about why one result fits you\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and read the instructions once\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Binder organization for study skills",
+      "subject": "Study Skills",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Take every loose paper out of your backpack and stack it on the table\",\"minutes\":10},{\"title\":\"Sort the stack into each subject's pile\",\"minutes\":15},{\"title\":\"Punch holes in any paper that is missing them\",\"minutes\":10},{\"title\":\"Put each pile behind its subject tab in order\",\"minutes\":15},{\"title\":\"Tidy the front pocket so only pencils and a calculator are inside\",\"minutes\":10}],\"starterAction\":\"Take every loose paper out of your backpack and stack it on the table\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Goal-setting worksheet for advisory",
+      "subject": "Advisory",
+      "description": "One academic goal.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and read the three example goals\",\"minutes\":5},{\"title\":\"Write down one grade you want to raise this quarter\",\"minutes\":10},{\"title\":\"List two things you will do differently to raise it\",\"minutes\":15},{\"title\":\"Write the date you will check your progress\",\"minutes\":5}],\"starterAction\":\"Open the worksheet and read the three example goals\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Graphing linear functions packet",
+      "subject": "Algebra I",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and find the blank grid for problem 1\",\"minutes\":5},{\"title\":\"Plot the points for the first three equations\",\"minutes\":25},{\"title\":\"Draw the line through each set of points\",\"minutes\":20},{\"title\":\"Plot the points for the next three equations\",\"minutes\":25},{\"title\":\"Draw those three lines\",\"minutes\":20},{\"title\":\"Label the slope of each line on the grid\",\"minutes\":15}],\"starterAction\":\"Open the packet and find the blank grid for problem 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Multiplication fact drill, sixes and sevens",
+      "subject": "6th Grade Math",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the numbers 1 through 12 down the side of a page\",\"minutes\":5},{\"title\":\"Answer all twelve sixes facts with a timer running\",\"minutes\":10},{\"title\":\"Record your time at the bottom of the sixes column\",\"minutes\":5},{\"title\":\"Answer all twelve sevens facts with the timer running\",\"minutes\":10},{\"title\":\"Record that time too and circle whichever was faster\",\"minutes\":10}],\"starterAction\":\"Write the numbers 1 through 12 down the side of a page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Ratio word problem worksheet",
+      "subject": "7th Grade Math",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and underline the ratio in problem 1\",\"minutes\":5},{\"title\":\"Answer problems 1 through 5\",\"minutes\":20},{\"title\":\"Answer problems 6 through 10\",\"minutes\":20},{\"title\":\"Circle the simplified form of each ratio\",\"minutes\":10},{\"title\":\"Check your simplified ratios against the answer key\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and underline the ratio in problem 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Probability packet, dice and spinners",
+      "subject": "8th Grade Math",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and find the dice problems section\",\"minutes\":5},{\"title\":\"Answer the six dice probability problems\",\"minutes\":25},{\"title\":\"Answer the six spinner probability problems\",\"minutes\":25},{\"title\":\"Convert each answer into a percent\",\"minutes\":20},{\"title\":\"Check five of your percents with a calculator\",\"minutes\":10}],\"starterAction\":\"Open the packet and find the dice problems section\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Integer flashcards, adding and subtracting",
+      "subject": "Pre-Algebra",
+      "description": "Twenty cards.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Cut twenty small rectangles from an index card sheet\",\"minutes\":10},{\"title\":\"Write one addition problem on the front of ten cards\",\"minutes\":15},{\"title\":\"Write the answer on the back of those ten\",\"minutes\":10},{\"title\":\"Write one subtraction problem on the front of the other ten\",\"minutes\":15},{\"title\":\"Write the answer on the back of the last ten\",\"minutes\":10},{\"title\":\"Answer all twenty cards and sort out the ones you missed\",\"minutes\":15}],\"starterAction\":\"Cut twenty small rectangles from an index card sheet\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Ocean habitat diorama",
+      "subject": "Life Science",
+      "description": "Use a shoebox.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Bring an empty shoebox and craft supplies to the table\",\"minutes\":10},{\"title\":\"Colour the inside of the box blue for the water\",\"minutes\":20},{\"title\":\"Cut out three fish shapes from construction paper\",\"minutes\":20},{\"title\":\"Colour the fish and let them dry\",\"minutes\":15},{\"title\":\"Attach the fish to the inside of the box with thread\",\"minutes\":25},{\"title\":\"Label the front of the box with the habitat's name\",\"minutes\":10}],\"starterAction\":\"Bring an empty shoebox and craft supplies to the table\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Plant growth science fair board",
+      "subject": "Life Science",
+      "description": "Three plants, two weeks of data.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Gather the three plant pots and the data log from the windowsill\",\"minutes\":10},{\"title\":\"Copy the two weeks of height measurements onto the board\",\"minutes\":25},{\"title\":\"Graph the growth of each plant in a different colour\",\"minutes\":30},{\"title\":\"Write the question and hypothesis in the top corner\",\"minutes\":20},{\"title\":\"Staple the printed photos along the bottom row\",\"minutes\":15},{\"title\":\"Check every number on the board against your log\",\"minutes\":15}],\"starterAction\":\"Gather the three plant pots and the data log from the windowsill\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Chemistry lab safety contract",
+      "subject": "Physical Science",
+      "description": "Sign and return.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Take the safety contract out of your science folder\",\"minutes\":5},{\"title\":\"Read every rule on the front page\",\"minutes\":15},{\"title\":\"Read the two rules on the back page\",\"minutes\":10},{\"title\":\"Show the contract to a parent tonight and ask them to sign it\",\"minutes\":10},{\"title\":\"Put the signed contract in the folder by the door\",\"minutes\":5}],\"starterAction\":\"Take the safety contract out of your science folder\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Weather journal, five entries",
+      "subject": "Earth Science",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the journal to the next blank page\",\"minutes\":5},{\"title\":\"Record today's temperature and cloud cover\",\"minutes\":10},{\"title\":\"Sketch today's cloud type in the small box\",\"minutes\":10},{\"title\":\"Write two sentences about how the sky looked\",\"minutes\":10},{\"title\":\"Check that yesterday's entry has a date on it\",\"minutes\":5}],\"starterAction\":\"Open the journal to the next blank page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Current event write-up on a local news story",
+      "subject": "6th Grade Social Studies",
+      "description": "One page.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find one local news story from this week and print it\",\"minutes\":10},{\"title\":\"Underline the who, what, when and where in the article\",\"minutes\":15},{\"title\":\"Write down two questions the story raised for you\",\"minutes\":15},{\"title\":\"Write the summary paragraph in one sitting\",\"minutes\":25},{\"title\":\"Read it aloud and fix what sounds wrong\",\"minutes\":10}],\"starterAction\":\"Find one local news story from this week and print it\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Historical fiction book report",
+      "subject": "7th Grade Social Studies",
+      "description": "Two pages.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the book on your shelf and open it to the last page you read\",\"minutes\":5},{\"title\":\"Finish the remaining chapters, thirty pages at a time\",\"minutes\":45},{\"title\":\"Write down the three main events in order\",\"minutes\":20},{\"title\":\"Write the summary paragraph\",\"minutes\":30},{\"title\":\"Write the paragraph about the historical setting\",\"minutes\":30},{\"title\":\"Read the whole report aloud and fix what sounds wrong\",\"minutes\":20}],\"starterAction\":\"Find the book on your shelf and open it to the last page you read\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Oral presentation on the Declaration of Independence",
+      "subject": "8th Grade Social Studies",
+      "description": "Three minutes.",
+      "duePhrase": "next week",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the three points your presentation must cover\",\"minutes\":10},{\"title\":\"Write four sentences about the first point\",\"minutes\":15},{\"title\":\"Write four sentences about the second and third points\",\"minutes\":20},{\"title\":\"Practise saying the whole thing out loud once\",\"minutes\":20},{\"title\":\"Practise again with a timer running\",\"minutes\":20},{\"title\":\"Time the final run-through and check it is under three minutes\",\"minutes\":10}],\"starterAction\":\"Write down the three points your presentation must cover\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Book report on a novel of your choice",
+      "subject": "6th Grade Language Arts",
+      "description": "One page.",
+      "duePhrase": "in 10 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the novel and open it to where your bookmark is\",\"minutes\":5},{\"title\":\"Finish the last three chapters\",\"minutes\":40},{\"title\":\"Write down the main character and the problem they face\",\"minutes\":15},{\"title\":\"Write the summary paragraph\",\"minutes\":25},{\"title\":\"Write your opinion paragraph\",\"minutes\":20},{\"title\":\"Read it aloud and fix what sounds wrong\",\"minutes\":10}],\"starterAction\":\"Find the novel and open it to where your bookmark is\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Memorized poem recitation",
+      "subject": "Reading",
+      "description": "Eight lines.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the eight lines on an index card\",\"minutes\":10},{\"title\":\"Read the card out loud three times\",\"minutes\":10},{\"title\":\"Cover the last four lines and recite the first four\",\"minutes\":10},{\"title\":\"Cover the whole card and recite all eight\",\"minutes\":15},{\"title\":\"Recite it once more for a family member\",\"minutes\":10}],\"starterAction\":\"Write the eight lines on an index card\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Spelling bee word list practice",
+      "subject": "Spelling",
+      "description": "Twenty words.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the first ten spelling bee words on cards\",\"minutes\":15},{\"title\":\"Spell each of those ten out loud without looking\",\"minutes\":15},{\"title\":\"Write the next ten words on cards\",\"minutes\":15},{\"title\":\"Spell each of those ten out loud\",\"minutes\":15},{\"title\":\"Ask a family member to call out all twenty in random order\",\"minutes\":15},{\"title\":\"Spell the ones you missed three more times each\",\"minutes\":20}],\"starterAction\":\"Write the first ten spelling bee words on cards\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "PE fitness safety contract",
+      "subject": "Health",
+      "description": "Sign and return.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Take the fitness contract out of your PE folder\",\"minutes\":5},{\"title\":\"Read the equipment rules on the first page\",\"minutes\":10},{\"title\":\"Read the injury reporting rules on the second page\",\"minutes\":10},{\"title\":\"Show it to a parent and ask them to sign the bottom line\",\"minutes\":10},{\"title\":\"Put the signed form in your PE bag\",\"minutes\":5}],\"starterAction\":\"Take the fitness contract out of your PE folder\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Intro to Scratch coding tutorial",
+      "subject": "Technology",
+      "description": "Build one animation.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the Scratch website on the school laptop\",\"minutes\":5},{\"title\":\"Click through the first three tutorial steps\",\"minutes\":15},{\"title\":\"Add a background and one sprite to your project\",\"minutes\":20},{\"title\":\"Add the move and turn blocks to the sprite\",\"minutes\":25},{\"title\":\"Run the animation and watch it play once\",\"minutes\":10},{\"title\":\"Save your project with your name in the title\",\"minutes\":10}],\"starterAction\":\"Open the Scratch website on the school laptop\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Career portfolio assembly",
+      "subject": "Careers",
+      "description": "Collect four work samples.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Gather your four best work samples from this quarter\",\"minutes\":10},{\"title\":\"Paste each sample onto its own portfolio page\",\"minutes\":25},{\"title\":\"Write one caption under each sample\",\"minutes\":20},{\"title\":\"Number the pages in the bottom corner\",\"minutes\":10},{\"title\":\"Check the portfolio against the four-item checklist\",\"minutes\":10}],\"starterAction\":\"Gather your four best work samples from this quarter\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Missing assignment catch-up list",
+      "subject": "Study Skills",
+      "description": "Three assignments overdue.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the online gradebook and list every missing assignment\",\"minutes\":10},{\"title\":\"Find the paper copy or file for the first missing assignment\",\"minutes\":10},{\"title\":\"Finish that first assignment\",\"minutes\":35},{\"title\":\"Finish the second missing assignment\",\"minutes\":30},{\"title\":\"Finish the third missing assignment\",\"minutes\":30},{\"title\":\"Check the gradebook list again to confirm all three are turned in\",\"minutes\":10}],\"starterAction\":\"Open the online gradebook and list every missing assignment\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Self-assessment sheet for advisory",
+      "subject": "Advisory",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the sheet and read all six rating questions\",\"minutes\":5},{\"title\":\"Rank yourself on the first three questions\",\"minutes\":10},{\"title\":\"Rank yourself on the last three questions\",\"minutes\":10},{\"title\":\"Write one sentence about your strongest area\",\"minutes\":10},{\"title\":\"Write one sentence about the area you want to improve\",\"minutes\":10}],\"starterAction\":\"Open the sheet and read all six rating questions\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Measurement conversion worksheet",
+      "subject": "Physical Science 9",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and find the metric conversion table\",\"minutes\":5},{\"title\":\"Answer the length conversion problems\",\"minutes\":15},{\"title\":\"Answer the mass conversion problems\",\"minutes\":15},{\"title\":\"Answer the volume conversion problems\",\"minutes\":15},{\"title\":\"Check every unit label against the conversion table\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and find the metric conversion table\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Geometry shape flashcards",
+      "subject": "6th Grade Math",
+      "description": "Ten shapes.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the name of one shape on the front of ten cards\",\"minutes\":15},{\"title\":\"Draw that shape below its name on each card\",\"minutes\":20},{\"title\":\"Write the number of sides and angles on the back of each card\",\"minutes\":20},{\"title\":\"Sort the cards into a pile you know and a pile to redo\",\"minutes\":10}],\"starterAction\":\"Write the name of one shape on the front of ten cards\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Word problem packet, two-step problems",
+      "subject": "7th Grade Math",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and read problem 1 out loud\",\"minutes\":5},{\"title\":\"Answer problems 1 through 5\",\"minutes\":25},{\"title\":\"Answer problems 6 through 10\",\"minutes\":25},{\"title\":\"Underline the operation you used first in each answer\",\"minutes\":15},{\"title\":\"Check your last five answers with a calculator\",\"minutes\":10}],\"starterAction\":\"Open the packet and read problem 1 out loud\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Placement test review packet",
+      "subject": "8th Grade Math",
+      "description": "Covers the whole year.",
+      "duePhrase": "in 10 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and sort the pages by topic\",\"minutes\":10},{\"title\":\"Answer the fraction and decimal review problems\",\"minutes\":30},{\"title\":\"Answer the equation review problems\",\"minutes\":30},{\"title\":\"Answer the geometry review problems\",\"minutes\":30},{\"title\":\"Circle every problem you got wrong on a first pass\",\"minutes\":15},{\"title\":\"Rewrite just the circled problems and solve them again\",\"minutes\":30}],\"starterAction\":\"Open the packet and sort the pages by topic\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Math journal entry on negative numbers",
+      "subject": "Pre-Algebra",
+      "description": "Half a page.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the journal to the next blank page\",\"minutes\":5},{\"title\":\"Write two examples of negative numbers from real life\",\"minutes\":15},{\"title\":\"Write one sentence about what a negative number means\",\"minutes\":15},{\"title\":\"Solve the three practice problems at the bottom of the page\",\"minutes\":20},{\"title\":\"Check your three answers with a calculator\",\"minutes\":10}],\"starterAction\":\"Open the journal to the next blank page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Classroom hamster care rota",
+      "subject": "Life Science",
+      "description": "Your week on the chart.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find your name on the care chart by the cage\",\"minutes\":5},{\"title\":\"Fill the water bottle at the sink\",\"minutes\":5},{\"title\":\"Measure one scoop of food into the bowl\",\"minutes\":5},{\"title\":\"Record the date and your initials on the chart\",\"minutes\":5},{\"title\":\"Check that the cage door is latched\",\"minutes\":5}],\"starterAction\":\"Find your name on the care chart by the cage\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Dissection lab safety contract",
+      "subject": "Life Science",
+      "description": "Sign and return.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Take the dissection contract out of your science folder\",\"minutes\":5},{\"title\":\"Read the four safety rules on the front\",\"minutes\":15},{\"title\":\"Read the cleanup rule on the back\",\"minutes\":5},{\"title\":\"Show the contract to a parent and ask them to sign it\",\"minutes\":10},{\"title\":\"Put the signed contract in your folder by the door\",\"minutes\":5}],\"starterAction\":\"Take the dissection contract out of your science folder\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Simple circuit science fair board",
+      "subject": "Physical Science",
+      "description": "Photos of three circuit setups.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Gather the three circuit photos and your data sheet\",\"minutes\":10},{\"title\":\"Print the three photos at the library or at home\",\"minutes\":15},{\"title\":\"Attach the photos in a row across the middle of the board\",\"minutes\":20},{\"title\":\"Write the question and hypothesis at the top\",\"minutes\":20},{\"title\":\"Graph the brightness results from your data sheet\",\"minutes\":25},{\"title\":\"Check every label on the board against your notes\",\"minutes\":15}],\"starterAction\":\"Gather the three circuit photos and your data sheet\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Rock and mineral flashcards",
+      "subject": "Earth Science",
+      "description": "Twelve minerals.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write one mineral name on the front of each of twelve cards\",\"minutes\":15},{\"title\":\"Write its hardness number on the back of the first six\",\"minutes\":15},{\"title\":\"Write its hardness number on the back of the last six\",\"minutes\":15},{\"title\":\"Sort the cards from softest to hardest\",\"minutes\":15},{\"title\":\"Answer all twelve cards without looking at your notes\",\"minutes\":15}],\"starterAction\":\"Write one mineral name on the front of each of twelve cards\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Museum field trip permission and prep",
+      "subject": "6th Grade Social Studies",
+      "description": "Bring a signed slip and a notebook.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the permission slip in your backpack\",\"minutes\":5},{\"title\":\"Fill in the emergency contact box\",\"minutes\":5},{\"title\":\"Ask a parent to sign the bottom line tonight\",\"minutes\":5},{\"title\":\"Pack a small notebook and pencil for the trip\",\"minutes\":5},{\"title\":\"Put the signed slip in the folder by the door\",\"minutes\":5}],\"starterAction\":\"Find the permission slip in your backpack\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Trade routes group poster",
+      "subject": "7th Grade Social Studies",
+      "description": "Share with three partners.",
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down which trade route your group assigned to you\",\"minutes\":5},{\"title\":\"Print the map section for your route\",\"minutes\":15},{\"title\":\"Trace your route on the poster in a bright colour\",\"minutes\":20},{\"title\":\"Label the three goods traded along your route\",\"minutes\":20},{\"title\":\"Attach your section next to your partners' sections\",\"minutes\":20},{\"title\":\"Show the group the finished poster before Friday\",\"minutes\":10}],\"starterAction\":\"Write down which trade route your group assigned to you\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Preamble recitation",
+      "subject": "8th Grade Social Studies",
+      "description": "Word for word.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the preamble out by hand once\",\"minutes\":15},{\"title\":\"Read it aloud slowly three times\",\"minutes\":15},{\"title\":\"Cover the page and recite the first half\",\"minutes\":15},{\"title\":\"Cover the page and recite the second half\",\"minutes\":15},{\"title\":\"Recite the whole thing without looking\",\"minutes\":20},{\"title\":\"Recite it once more for a family member\",\"minutes\":10}],\"starterAction\":\"Write the preamble out by hand once\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Poetry recitation, one stanza",
+      "subject": "7th Grade Language Arts",
+      "description": "Four lines.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the four lines on an index card\",\"minutes\":10},{\"title\":\"Read the card out loud twice\",\"minutes\":10},{\"title\":\"Cover two lines and say the whole stanza from memory\",\"minutes\":15},{\"title\":\"Recite it once with no card at all\",\"minutes\":10},{\"title\":\"Recite it again for a family member\",\"minutes\":10}],\"starterAction\":\"Write the four lines on an index card\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Book report diorama of the final scene",
+      "subject": "Reading",
+      "description": "Use a shoebox.",
+      "duePhrase": "in 10 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the shoebox and craft supplies in your closet\",\"minutes\":10},{\"title\":\"Sketch the final scene's setting in pencil on paper\",\"minutes\":20},{\"title\":\"Cut out the two main characters from construction paper\",\"minutes\":25},{\"title\":\"Colour both characters to match the book's description\",\"minutes\":20},{\"title\":\"Attach both characters inside the shoebox scene\",\"minutes\":20},{\"title\":\"Check the diorama against the chapter one more time\",\"minutes\":15}],\"starterAction\":\"Find the shoebox and craft supplies in your closet\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Root word vocabulary flashcards",
+      "subject": "Spelling",
+      "description": "Ten root words.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write one root word on the front of each of ten cards\",\"minutes\":15},{\"title\":\"Write its meaning on the back of the first five\",\"minutes\":15},{\"title\":\"Write its meaning on the back of the last five\",\"minutes\":15},{\"title\":\"List one full word that uses each root\",\"minutes\":20},{\"title\":\"Answer all ten cards without checking the back\",\"minutes\":15}],\"starterAction\":\"Write one root word on the front of each of ten cards\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Fitness goal-setting worksheet",
+      "subject": "Health",
+      "description": "One activity goal.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and read the two example goals\",\"minutes\":5},{\"title\":\"Write down one activity you want to do more often\",\"minutes\":10},{\"title\":\"List two days this week you will do it\",\"minutes\":10},{\"title\":\"Write the date you will check your progress\",\"minutes\":5}],\"starterAction\":\"Open the worksheet and read the two example goals\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Typing test practice, top row keys",
+      "subject": "Technology",
+      "description": "Ten minutes logged.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the typing program and select the top row lesson\",\"minutes\":5},{\"title\":\"Type the top row drill once all the way through\",\"minutes\":10},{\"title\":\"Record your accuracy score in the log\",\"minutes\":5},{\"title\":\"Type the drill a second time to raise the score\",\"minutes\":10},{\"title\":\"Write the higher of your two scores on the sheet by the door\",\"minutes\":5}],\"starterAction\":\"Open the typing program and select the top row lesson\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Job shadow reflection write-up",
+      "subject": "Careers",
+      "description": "Half a page.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find your notes from the job shadow day\",\"minutes\":5},{\"title\":\"Write down three tasks you watched the person do\",\"minutes\":15},{\"title\":\"Write down one thing that surprised you\",\"minutes\":10},{\"title\":\"Write the reflection paragraph in one sitting\",\"minutes\":20},{\"title\":\"Read it aloud and fix what sounds wrong\",\"minutes\":10}],\"starterAction\":\"Find your notes from the job shadow day\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Locker organization",
+      "subject": "Study Skills",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Take everything out of the locker and stack it on the floor\",\"minutes\":10},{\"title\":\"Sort the stack into books, folders and gym clothes\",\"minutes\":15},{\"title\":\"Stack the books on the shelf in class order\",\"minutes\":15},{\"title\":\"Hang the gym clothes on the hook\",\"minutes\":10},{\"title\":\"Tidy the floor of the locker so nothing is loose\",\"minutes\":10}],\"starterAction\":\"Take everything out of the locker and stack it on the floor\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "End of quarter portfolio assembly",
+      "subject": "Advisory",
+      "description": "Five pieces of work.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Gather your five best assignments from this quarter\",\"minutes\":15},{\"title\":\"Order the five pieces from oldest to newest\",\"minutes\":10},{\"title\":\"Paste each piece onto its own portfolio page\",\"minutes\":25},{\"title\":\"Write one caption under each piece\",\"minutes\":20},{\"title\":\"Number the pages in the bottom corner\",\"minutes\":10}],\"starterAction\":\"Gather your five best assignments from this quarter\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Spanish vocabulary flashcards, unit 2",
+      "subject": "Spanish I",
+      "description": "Fifteen words, English to Spanish.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write one Spanish word on the front of each of fifteen cards\",\"minutes\":15},{\"title\":\"Write the English meaning on the back of the first eight\",\"minutes\":15},{\"title\":\"Write the English meaning on the back of the last seven\",\"minutes\":15},{\"title\":\"Sort the cards into a pile you know and a pile to redo\",\"minutes\":15},{\"title\":\"Answer the redo pile out loud one more time\",\"minutes\":10}],\"starterAction\":\"Write one Spanish word on the front of each of fifteen cards\"}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Room 14 weekly newsletter, September 4: Spelling test this Friday. Book report due in two weeks. Field trip permission slip due Wednesday. Picture day is next Tuesday, no forms needed.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Spelling test\",\"dueInDays\":4},{\"title\":\"Book report\",\"dueInDays\":14},{\"title\":\"Permission slip\",\"dueInDays\":2}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Monday: read ch 3. Tuesday: worksheet pg 12. Wednesday: no HW. Thursday: study for quiz. Friday: quiz.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Read chapter 3\",\"dueInDays\":0},{\"title\":\"Worksheet page 12\",\"dueInDays\":1},{\"title\":\"Quiz\",\"dueInDays\":3}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Gradebook update: Math homework 8.2 is missing, originally due last Friday. Science lab report posted, due in one week. Current grade in Language Arts: B+.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Math homework 8.2\",\"dueInDays\":0,\"subject\":\"Math\"},{\"title\":\"Science lab report\",\"dueInDays\":7,\"subject\":\"Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Please remind your child to bring sneakers for PE tomorrow and return the signed reading log by Friday. We are also collecting canned goods for the food drive through next week, no obligation.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Bring sneakers for PE\",\"dueInDays\":1},{\"title\":\"Return reading log\",\"dueInDays\":4}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Whiteboard, back row: HW - pg 45 #1-20 due tmrw. Quiz Fri. Bring calculator every day. Project due 12/5, in about 10 days.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Page 45 #1-20\",\"dueInDays\":1,\"subject\":\"Math\"},{\"title\":\"Quiz\",\"dueInDays\":4,\"subject\":\"Math\"},{\"title\":\"Project\",\"dueInDays\":10,\"subject\":\"Math\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "PE newsletter: uniforms need to be washed and brought back by Monday. Health worksheet on sleep due in three days. Fitness log due at the end of the month, about three weeks out.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Wash and bring back uniform\",\"dueInDays\":7},{\"title\":\"Health worksheet\",\"dueInDays\":3},{\"title\":\"Fitness log\",\"dueInDays\":21}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "This week's planner: independent reading only, no written homework. Enjoy the long weekend!",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Portal update: missing assignment, Earth Science journal entries, 2 overdue. Upcoming: Social Studies current event due Friday, Language Arts vocabulary quiz next Monday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Earth Science journal entries\",\"dueInDays\":0,\"subject\":\"Earth Science\"},{\"title\":\"Current event\",\"dueInDays\":4,\"subject\":\"Social Studies\"},{\"title\":\"Vocabulary quiz\",\"dueInDays\":7,\"subject\":\"Language Arts\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Reminder: the museum field trip permission slip and eight dollars are due this Wednesday. Please also pack a bag lunch the morning of the trip, which is in ten days.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Permission slip and eight dollars\",\"dueInDays\":2},{\"title\":\"Pack a bag lunch\",\"dueInDays\":10}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Board: spelling bee practice list, go over 10 words a night. School bee is in two weeks. Bring your library book Thursday for silent reading.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Spelling bee practice\",\"dueInDays\":14},{\"title\":\"Bring library book\",\"dueInDays\":3}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Classroom news: garden watering rota starts Monday, check the chart by the door for your day. Also, book orders are due Friday if you want to order.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Check garden watering chart\",\"dueInDays\":7},{\"title\":\"Book order\",\"dueInDays\":4}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Planner: math worksheet tonight. Vocabulary flashcards due Wednesday. Science safety contract signed and returned tomorrow. Reading log every night, no due date.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Math worksheet\",\"dueInDays\":0,\"subject\":\"Math\"},{\"title\":\"Vocabulary flashcards\",\"dueInDays\":2},{\"title\":\"Safety contract\",\"dueInDays\":1,\"subject\":\"Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Attendance and grades update: three assignments are marked missing in Pre-Algebra, worksheet 4.1, worksheet 4.2, and the unit review. Teacher requests these by Friday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Worksheet 4.1\",\"dueInDays\":4,\"subject\":\"Pre-Algebra\"},{\"title\":\"Worksheet 4.2\",\"dueInDays\":4,\"subject\":\"Pre-Algebra\"},{\"title\":\"Unit review\",\"dueInDays\":4,\"subject\":\"Pre-Algebra\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Note from the teacher: no homework over midterm break. Have a restful week and we will pick back up when you return.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Computer lab board: finish typing test by end of class Friday. Save your Scratch project before you log off today.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Finish typing test\",\"dueInDays\":4},{\"title\":\"Save Scratch project\",\"dueInDays\":0,\"subject\":\"Technology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Advisory update: quarter portfolios are due in five days, bring all four pieces. Self-assessment sheet due the same day. Goal sheets were collected already, nothing more needed there.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Portfolio\",\"dueInDays\":5,\"subject\":\"Advisory\"},{\"title\":\"Self-assessment sheet\",\"dueInDays\":5,\"subject\":\"Advisory\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "This week in specials: Careers interest inventory due next week. Health quiz moved to Monday, in six days. PE uniform check is ongoing, no new action needed.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Interest inventory\",\"dueInDays\":7,\"subject\":\"Careers\"},{\"title\":\"Health quiz\",\"dueInDays\":6,\"subject\":\"Health\"}]}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Synthesize evidence from primary and secondary sources into a cohesive argument",
+      "description": null
+    },
+    "completion": "{\"title\":\"Put your sources together into one argument\",\"explanation\":\"Look at each source you found and decide what point it supports. Then write your argument using facts from more than one source to back it up.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Compile a comprehensive glossary of unit vocabulary with etymological notes",
+      "description": "Ten terms, Life Science unit 3."
+    },
+    "completion": "{\"title\":\"Make a word list with word origins\",\"explanation\":\"Write down the ten vocabulary words from the unit. For each one, look up where the word comes from and add a short note about its origin next to the definition.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Curate a portfolio artifact selection representative of quarterly growth",
+      "description": null
+    },
+    "completion": "{\"title\":\"Pick your best work to put in the portfolio\",\"explanation\":\"Look through everything you did this quarter and choose the pieces that show how much you improved. Put those pieces together for your portfolio.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Formulate a hypothesis and design a controlled experiment for the science fair",
+      "description": "Plant growth unit."
+    },
+    "completion": "{\"title\":\"Make a guess and plan a fair test for your plants\",\"explanation\":\"Decide what you think will happen to your plants and why. Then set up your experiment so only one thing changes between your plant groups, and everything else stays the same.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Conduct a critical evaluation of primary source reliability for the DBQ",
+      "description": "Document-based question, US history."
+    },
+    "completion": "{\"title\":\"Decide how much you can trust each document\",\"explanation\":\"For each document, check who wrote it and when. Then decide whether you think it gives an honest, accurate picture, and write one sentence saying why.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Deliver an extemporaneous oral presentation demonstrating command of the subject matter",
+      "description": "Careers unit, three minutes, no notecards."
+    },
+    "completion": "{\"title\":\"Give a three minute talk without reading from notes\",\"explanation\":\"Pick your topic and practice saying it out loud until you do not need to look at anything written down. Then give the talk from memory in under three minutes.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Execute a longitudinal phenological observation log documenting seasonal change",
+      "description": "Weather journal, five entries, Earth Science."
+    },
+    "completion": "{\"title\":\"Keep a five day weather journal\",\"explanation\":\"Each day, write down the temperature and what the sky looks like outside. Do this for five days in a row so you can see how the weather changes.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Assemble a multimedia presentation synthesizing research on an assigned historical figure",
+      "description": "Social Studies, one figure, slides encouraged."
+    },
+    "completion": "{\"title\":\"Build a slideshow about your assigned person\",\"explanation\":\"Pick the important facts you found about your historical figure. Put them on slides in an order that tells their story, from early life to why they mattered.\"}"
+  }
+]

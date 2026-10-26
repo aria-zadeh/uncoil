@@ -1,0 +1,75 @@
+# dependencies
+node_modules/
+
+# Expo
+.expo/
+dist/
+expo-env.d.ts
+.metro-health-check*
+
+# generated native projects
+/ios
+/android
+
+# native signing material — never commit
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.pem
+*.orig.*
+
+# environment and secrets — never commit
+.env
+.env.*
+*.env
+.secrets
+secrets.json
+
+# typescript
+*.tsbuildinfo
+
+# training artifacts (large, regenerable — see docs/FINE_TUNING.md)
+# train/data_sources/ is NOT ignored: the hand-authored samples are the asset.
+train/.venv/
+# The export toolchain lives in its own venv: executorch pins its own torch
+# build, and resolving it inside train/.venv could change the torch the
+# fine-tune runs on. See train/export.py.
+train/.venv-export/
+# Catch-all for every venv under train/, named or renamed: the two explicit
+# entries above only ever matched their own literal name, so a differently
+# numbered retry venv (train/.venv-export12/, seen mid-session) matched
+# neither and was scanned as ordinary source by check 10's git-ls-files-based
+# walk (scripts/verify/walk.mjs) -- exactly the files git ls-files
+# --exclude-standard is supposed to keep invisible. Kept alongside, not
+# instead of, the two specific entries above for their documented reasons.
+train/.venv*/
+train/data/
+train/out/
+train/checkpoints/
+train/**/__pycache__/
+.pytest_cache/
+*.safetensors
+*.bin
+
+# output of the metro bundle check (verify check 8)
+.expo-export-check/
+
+# local editor state
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# per-run pool builds on the Mac (train/data-v4pool etc.), same class of artifact as train/data/
+train/data-*/
+
+# development notes, specs and evaluation output stay local
+*.md
+!/README.md
+docs/
+NOTES/
+train/reports/
+train/data_sources/synthesized/review-*.json

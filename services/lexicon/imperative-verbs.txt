@@ -1,0 +1,232 @@
+# Verbs a step title may begin with. ON_DEVICE_MODEL.md section 6, check 4.1.
+#
+# The test is that the first word of a step is a physical action a student can
+# start without deciding anything first. This list is the shared source: it is
+# read directly by train/validate.py and compiled into
+# services/lexicon.generated.ts for the app, so the two cannot drift.
+#
+# One lowercase verb per line. Lines starting with # are comments.
+#
+# 2026-08-30: widened after hand-authoring ~250 samples for the dataset hit
+# five false rejections in a row on verbs that are unambiguously physical:
+# balance, play, lay, note, say. An allow-list that rejects "Balance the
+# equations" is under-inclusive, and would have cost metric 5 on the fine-tuned
+# model for no quality reason.
+#
+# This widens the ALLOW list only. The vague-verb deny list and the other four
+# semantic checks are untouched, and nothing abstract was added: every verb
+# below names something an observer could watch a student do. Verbs that name a
+# mental state -- consider, understand, evaluate, assess -- stay out, and
+# several are on the deny list precisely because they are the failure this
+# check exists to catch.
+#
+# 2026-09-05: "review" and "verify" were added in this widening and then
+# removed the same day. Both contradict vague-verbs.txt's "review your" entry
+# and this file's own physical-action test: reviewing or verifying something
+# is not an observable action distinct from reading or checking it. The other
+# twelve additions from the same widening stay.
+#
+# 2026-09-07: eleven more, found the same way as the 2026-08-30 set. The
+# v9-360m CPU eval rejected four otherwise-valid breakdowns whose steps opened
+# with test, shape, brush, shoot, hold or stretch ("Test the page for any
+# broken links", "Brush the glaze over the surface", "Hold the stretch for ten
+# seconds"), and the distillation batch writers were rejected on punctuate,
+# retype, square, round and decode ("Square both sides", "Round each answer to
+# two decimals"). Every one names something an observer could watch a student
+# do. "reflect" was hit too and stays out: it is the vague-verbs.txt
+# "reflect on" entry.
+#
+# 2026-09-09: widened again for the v12 arts and shop slices, found the same
+# way as the earlier widenings: the arts batch writer was rejected on paint,
+# crop, trim, wrap, tune, ink, coat, roll, wash, smooth, pull, throw, layer,
+# load, export, clap, expose, darken, every one an action an observer could
+# watch a student do at an easel, a wheel, a darkroom, a music stand or a
+# lathe. Verbs the writer also reached for that name a state or a decision
+# (develop, move, stand, listen, center, empty, shuffle) were not added. The
+# deny list is untouched; earlier eval rows are re-scored from their dumps.
+add
+annotate
+answer
+arrange
+ask
+assemble
+attach
+balance
+bring
+brush
+build
+bullet
+calculate
+check
+circle
+cite
+clap
+clean
+click
+close
+coat
+collect
+color
+colour
+compare
+complete
+conjugate
+convert
+copy
+correct
+count
+cover
+create
+crop
+cross
+cut
+darken
+decode
+define
+derive
+describe
+diagram
+divide
+download
+draft
+draw
+edit
+email
+enter
+erase
+explain
+export
+expose
+factor
+fill
+find
+finish
+fix
+fold
+format
+gather
+glaze
+glue
+graph
+group
+hand
+hang
+highlight
+hold
+import
+ink
+insert
+label
+lay
+layer
+list
+load
+look
+make
+mark
+match
+measure
+memorise
+memorize
+mix
+name
+note
+number
+open
+order
+outline
+pack
+paint
+paste
+pause
+photograph
+pick
+place
+play
+plot
+pour
+practice
+practise
+press
+print
+proofread
+prove
+pull
+punch
+punctuate
+put
+quiz
+rank
+read
+recite
+record
+rehearse
+remove
+rename
+reorder
+repeat
+rephrase
+replay
+reread
+retype
+revise
+rewrite
+roll
+round
+run
+save
+say
+scan
+search
+select
+send
+set
+shade
+shape
+shoot
+show
+sign
+simplify
+sing
+sketch
+skim
+smooth
+solve
+sort
+speak
+spell
+split
+square
+stack
+staple
+state
+stick
+stretch
+submit
+summarise
+summarize
+tag
+take
+tally
+tap
+tape
+test
+throw
+tick
+tidy
+time
+title
+trace
+translate
+trim
+tune
+turn
+type
+underline
+update
+upload
+wash
+watch
+weigh
+wrap
+write

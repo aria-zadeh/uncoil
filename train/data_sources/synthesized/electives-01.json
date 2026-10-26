@@ -1,0 +1,1640 @@
+[
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write ten sentences about your daily routine",
+      "subject": "Spanish I",
+      "description": "Use present tense.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notebook and write today's date at the top\",\"minutes\":5},{\"title\":\"List ten daily activities you do every day\",\"minutes\":15},{\"title\":\"Translate each activity into Spanish using present tense\",\"minutes\":20},{\"title\":\"Write the ten sentences in order on the page\",\"minutes\":15},{\"title\":\"Check every verb ending against your notes\",\"minutes\":10}],\"starterAction\":\"Open your notebook and write today's date at the top\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Vocabulary quiz study cards for unit 3",
+      "subject": "Spanish I",
+      "description": "Twenty words.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the unit 3 vocabulary list and count the words\",\"minutes\":5},{\"title\":\"Write the first ten words on index cards\",\"minutes\":20},{\"title\":\"Write the last ten words on index cards\",\"minutes\":20},{\"title\":\"Sort the cards into ones you know and ones you don't\",\"minutes\":15},{\"title\":\"Say each card out loud and check the answer\",\"minutes\":15}],\"starterAction\":\"Open the unit 3 vocabulary list and count the words\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Record a one-minute video introducing yourself",
+      "subject": "Spanish I",
+      "description": null,
+      "duePhrase": "Friday",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write six sentences introducing yourself in Spanish\",\"minutes\":15},{\"title\":\"Read the sentences out loud twice for practice\",\"minutes\":10},{\"title\":\"Time yourself saying the whole thing once\",\"minutes\":5},{\"title\":\"Record the video on your phone\",\"minutes\":10},{\"title\":\"Watch the playback and check your pronunciation\",\"minutes\":10}],\"starterAction\":\"Write six sentences introducing yourself in Spanish\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a paragraph about last weekend",
+      "subject": "Spanish II",
+      "description": "Use preterite tense, eight sentences.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"List eight things you did last weekend\",\"minutes\":10},{\"title\":\"Find the preterite ending for each verb in your notes\",\"minutes\":15},{\"title\":\"Translate the first four sentences into Spanish\",\"minutes\":20},{\"title\":\"Translate the last four sentences into Spanish\",\"minutes\":20},{\"title\":\"Check every preterite ending against your notes\",\"minutes\":15}],\"starterAction\":\"List eight things you did last weekend\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Prepare flashcards for the ser vs estar quiz",
+      "subject": "Spanish II",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes to the ser and estar rules\",\"minutes\":5},{\"title\":\"Write eight example sentences using ser\",\"minutes\":15},{\"title\":\"Write eight example sentences using estar\",\"minutes\":15},{\"title\":\"Sort all sixteen cards by which verb they use\",\"minutes\":15},{\"title\":\"Say each card out loud and check the rule\",\"minutes\":15}],\"starterAction\":\"Open your notes to the ser and estar rules\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Reading response to the short story assigned in class",
+      "subject": "Spanish II",
+      "description": "Half a page in Spanish.",
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the story and read the first page straight through\",\"minutes\":15},{\"title\":\"Read the second page straight through\",\"minutes\":15},{\"title\":\"Write down three new words you did not know\",\"minutes\":10},{\"title\":\"Write four sentences in Spanish about what happened\",\"minutes\":25},{\"title\":\"Check every verb ending against your notes\",\"minutes\":15}],\"starterAction\":\"Open the story and read the first page straight through\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Persuasive essay on a school issue",
+      "subject": "Spanish III",
+      "description": "One page, subjunctive required.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a blank document and write the issue in one sentence\",\"minutes\":10},{\"title\":\"List three reasons that support your opinion\",\"minutes\":15},{\"title\":\"Find the subjunctive trigger phrases in your notes\",\"minutes\":15},{\"title\":\"Write the essay in Spanish without stopping to edit\",\"minutes\":40},{\"title\":\"Underline every subjunctive verb you used\",\"minutes\":15},{\"title\":\"Read it aloud and fix what sounds wrong\",\"minutes\":20}],\"starterAction\":\"Open a blank document and write the issue in one sentence\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Prepare cue cards for the class debate",
+      "subject": "Spanish III",
+      "description": "Topic: school uniforms.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write your position on school uniforms in one sentence\",\"minutes\":10},{\"title\":\"List four arguments in Spanish that support it\",\"minutes\":20},{\"title\":\"Write a rebuttal for the strongest opposing argument\",\"minutes\":20},{\"title\":\"Say your points out loud with a timer\",\"minutes\":15},{\"title\":\"Time yourself and trim anything over two minutes\",\"minutes\":10}],\"starterAction\":\"Write your position on school uniforms in one sentence\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Short story rewrite in the past tense",
+      "subject": "Spanish III",
+      "description": "Rewrite the fable using preterite and imperfect.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the fable and read it once straight through\",\"minutes\":15},{\"title\":\"Underline every verb in the original fable\",\"minutes\":15},{\"title\":\"Sort the underlined verbs into preterite and imperfect\",\"minutes\":20},{\"title\":\"Rewrite the first half of the fable in the past tense\",\"minutes\":25},{\"title\":\"Rewrite the second half of the fable in the past tense\",\"minutes\":25},{\"title\":\"Read the new version aloud and check the tenses\",\"minutes\":15}],\"starterAction\":\"Open the fable and read it once straight through\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Analytical response to a Spanish-language film",
+      "subject": "Spanish IV",
+      "description": "One page, in Spanish.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Watch the film with Spanish subtitles on\",\"minutes\":45},{\"title\":\"Write down three scenes that stood out\",\"minutes\":15},{\"title\":\"List two themes the film kept returning to\",\"minutes\":15},{\"title\":\"Write the response in Spanish without stopping to edit\",\"minutes\":40},{\"title\":\"Read it aloud and fix what sounds wrong\",\"minutes\":20}],\"starterAction\":\"Watch the film with Spanish subtitles on\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Timed writing practice for the AP-style exam",
+      "subject": "Spanish IV",
+      "description": "Argumentative, 40 minutes.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the prompt and underline what it is asking\",\"minutes\":5},{\"title\":\"List three points in Spanish before you start writing\",\"minutes\":15},{\"title\":\"Write the essay with a 40-minute timer running\",\"minutes\":40},{\"title\":\"Set the timer down and count your total words\",\"minutes\":5},{\"title\":\"Read it aloud once and mark two things to fix next time\",\"minutes\":15}],\"starterAction\":\"Open the prompt and underline what it is asking\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a postcard from a French city",
+      "subject": "French I",
+      "description": "Eight sentences, present tense.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Pick a French city and write its name at the top\",\"minutes\":5},{\"title\":\"List four things you would do there\",\"minutes\":10},{\"title\":\"Translate the four activities into French\",\"minutes\":20},{\"title\":\"Write four more sentences describing the city\",\"minutes\":20},{\"title\":\"Check every accent mark against your notes\",\"minutes\":10}],\"starterAction\":\"Pick a French city and write its name at the top\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Oral presentation on a French-speaking country",
+      "subject": "French II",
+      "description": "Three minutes.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and list what to cover\",\"minutes\":10},{\"title\":\"Write six facts about the country in French\",\"minutes\":25},{\"title\":\"Write the sentence that opens the presentation\",\"minutes\":10},{\"title\":\"Practice saying it out loud without notes\",\"minutes\":20},{\"title\":\"Time yourself with a stopwatch\",\"minutes\":10},{\"title\":\"Practice the whole thing once more at full speed\",\"minutes\":15}],\"starterAction\":\"Open the assignment sheet and list what to cover\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Grammar worksheet on the passe compose",
+      "subject": "French II",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and put your name on it\",\"minutes\":5},{\"title\":\"Answer the first ten questions in order\",\"minutes\":20},{\"title\":\"Answer the next ten questions in order\",\"minutes\":20},{\"title\":\"Check your answers against the verb chart\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and put your name on it\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Vocabulary poster for household items",
+      "subject": "German I",
+      "description": "Fifteen words with pictures.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"List fifteen household items you know\",\"minutes\":10},{\"title\":\"Find the German word for each item\",\"minutes\":20},{\"title\":\"Sketch or find a small picture for each word\",\"minutes\":30},{\"title\":\"Write each word under its picture on the poster\",\"minutes\":25},{\"title\":\"Check every spelling against your notes\",\"minutes\":15}],\"starterAction\":\"List fifteen household items you know\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Dialogue practice for ordering food",
+      "subject": "German I",
+      "description": "Partner dialogue, one minute.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write six lines of dialogue for ordering food\",\"minutes\":20},{\"title\":\"Underline the new vocabulary words in your lines\",\"minutes\":10},{\"title\":\"Recite your lines out loud twice\",\"minutes\":15},{\"title\":\"Practice the dialogue with a partner or a mirror\",\"minutes\":20},{\"title\":\"Time the dialogue with a stopwatch\",\"minutes\":10}],\"starterAction\":\"Write six lines of dialogue for ordering food\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Grammar packet on modal verbs",
+      "subject": "German II",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and find the modal verb chart\",\"minutes\":5},{\"title\":\"Answer the first eight questions in order\",\"minutes\":20},{\"title\":\"Answer the remaining questions\",\"minutes\":20},{\"title\":\"Check your answers against the chart\",\"minutes\":10}],\"starterAction\":\"Open the packet and find the modal verb chart\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Translation of a passage from the reader",
+      "subject": "Latin II",
+      "description": "Twelve lines, translate into English.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the reader to the assigned passage\",\"minutes\":5},{\"title\":\"Underline every verb in the twelve lines\",\"minutes\":15},{\"title\":\"Look up the meaning of each underlined verb\",\"minutes\":25},{\"title\":\"Translate the first six lines into English\",\"minutes\":25},{\"title\":\"Translate the last six lines into English\",\"minutes\":25},{\"title\":\"Read your translation and check it makes sense\",\"minutes\":15}],\"starterAction\":\"Open the reader to the assigned passage\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Study cards for the noun declension quiz",
+      "subject": "Latin I",
+      "description": "First and second declension.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the first declension endings on one card\",\"minutes\":10},{\"title\":\"Write the second declension endings on another card\",\"minutes\":10},{\"title\":\"Copy five practice nouns onto separate cards\",\"minutes\":15},{\"title\":\"Sort the five nouns by which declension they use\",\"minutes\":15},{\"title\":\"Say each ending out loud without looking\",\"minutes\":15}],\"starterAction\":\"Write the first declension endings on one card\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Character writing practice for unit 4",
+      "subject": "Mandarin I",
+      "description": "Twelve characters.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the character list for unit 4\",\"minutes\":5},{\"title\":\"Trace each character five times on the grid paper\",\"minutes\":25},{\"title\":\"Write the first six characters from memory\",\"minutes\":15},{\"title\":\"Write the last six characters from memory\",\"minutes\":15},{\"title\":\"Check each character against the list\",\"minutes\":10}],\"starterAction\":\"Open the character list for unit 4\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Recording of the unit 4 dialogue for practice",
+      "subject": "Mandarin I",
+      "description": null,
+      "duePhrase": "Friday",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Read the dialogue script through once silently\",\"minutes\":10},{\"title\":\"Say each line out loud and check the tones\",\"minutes\":15},{\"title\":\"Record yourself reading the whole dialogue\",\"minutes\":10},{\"title\":\"Watch the recording and mark two lines to fix\",\"minutes\":10},{\"title\":\"Record the dialogue a second time\",\"minutes\":10}],\"starterAction\":\"Read the dialogue script through once silently\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Hiragana chart quiz preparation",
+      "subject": "Japanese I",
+      "description": "Rows a through na.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Copy the hiragana chart onto blank paper\",\"minutes\":15},{\"title\":\"Cover the chart and write the a row from memory\",\"minutes\":10},{\"title\":\"Write the ka and sa rows from memory\",\"minutes\":15},{\"title\":\"Write the ta and na rows from memory\",\"minutes\":15},{\"title\":\"Check every character against the original chart\",\"minutes\":15}],\"starterAction\":\"Copy the hiragana chart onto blank paper\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Self-introduction speech for the class",
+      "subject": "Japanese I",
+      "description": "One minute.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write six sentences introducing yourself\",\"minutes\":15},{\"title\":\"Underline the new grammar pattern in each sentence\",\"minutes\":10},{\"title\":\"Practice reading the speech out loud twice\",\"minutes\":15},{\"title\":\"Time yourself with a stopwatch\",\"minutes\":5},{\"title\":\"Record the speech once on your phone\",\"minutes\":10}],\"starterAction\":\"Write six sentences introducing yourself\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Practice video for classifier signs",
+      "subject": "ASL I",
+      "description": "Five classifiers.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and list the five classifiers\",\"minutes\":10},{\"title\":\"Practice each classifier sign in front of a mirror\",\"minutes\":20},{\"title\":\"Record yourself signing all five in order\",\"minutes\":15},{\"title\":\"Watch the recording and mark any unclear signs\",\"minutes\":15},{\"title\":\"Record the video a second time\",\"minutes\":15}],\"starterAction\":\"Open your notes and list the five classifiers\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Fingerspelling drill for vocabulary words",
+      "subject": "ASL I",
+      "description": "Twenty words.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the twenty vocabulary words on one page\",\"minutes\":10},{\"title\":\"Practice fingerspelling the first ten words\",\"minutes\":15},{\"title\":\"Practice fingerspelling the last ten words\",\"minutes\":15},{\"title\":\"Record yourself fingerspelling five words at random\",\"minutes\":10},{\"title\":\"Watch the recording and check each letter\",\"minutes\":10}],\"starterAction\":\"Write the twenty vocabulary words on one page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Debug the sorting method for the array project",
+      "subject": "AP Computer Science A",
+      "description": "Method returns wrong order.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the project file and find the sorting method\",\"minutes\":5},{\"title\":\"Run the program and copy down the wrong output\",\"minutes\":10},{\"title\":\"Read through the loop line by line on paper\",\"minutes\":15},{\"title\":\"Fix the comparison in the loop condition\",\"minutes\":15},{\"title\":\"Run the program again and check the output\",\"minutes\":15}],\"starterAction\":\"Open the project file and find the sorting method\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write the Student class for the roster project",
+      "subject": "AP Computer Science A",
+      "description": "Fields for name, grade and ID number; constructor; two methods.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a new file and name it Student\",\"minutes\":5},{\"title\":\"Add the three fields for name, grade and ID number\",\"minutes\":15},{\"title\":\"Write the constructor that sets all three fields\",\"minutes\":20},{\"title\":\"Write the two methods the assignment lists\",\"minutes\":25},{\"title\":\"Run the program and check it compiles\",\"minutes\":15}],\"starterAction\":\"Open a new file and name it Student\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Practice problems on loops and arrays",
+      "subject": "AP Computer Science A",
+      "description": "Textbook problems 1 to 8.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the textbook and find problem 1\",\"minutes\":5},{\"title\":\"Solve problems 1 through 4 in order\",\"minutes\":35},{\"title\":\"Solve problems 5 through 8 in order\",\"minutes\":35},{\"title\":\"Run each program and check the output\",\"minutes\":25}],\"starterAction\":\"Open the textbook and find problem 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Build a simple calculator program",
+      "subject": "Intro to Programming",
+      "description": "Add, subtract, multiply, divide.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a new file and save it as calculator\",\"minutes\":5},{\"title\":\"Type the code that reads two numbers\",\"minutes\":15},{\"title\":\"Write the four operations one at a time\",\"minutes\":35},{\"title\":\"Run the program and try each operation\",\"minutes\":20},{\"title\":\"Fix any operation that gives the wrong answer\",\"minutes\":20}],\"starterAction\":\"Open a new file and save it as calculator\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Worksheet on if-else statements",
+      "subject": "Intro to Programming",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and read the first example\",\"minutes\":5},{\"title\":\"Answer the first five questions in order\",\"minutes\":20},{\"title\":\"Answer the remaining questions\",\"minutes\":20},{\"title\":\"Check your answers against the answer key\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and read the first example\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Build the homepage for the portfolio site project",
+      "subject": "Web Design",
+      "description": "Header, nav bar, three sections.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the project folder and open the blank homepage file\",\"minutes\":5},{\"title\":\"Type the header and the site title\",\"minutes\":15},{\"title\":\"Build the nav bar with three links\",\"minutes\":25},{\"title\":\"Build the three content sections below it\",\"minutes\":35},{\"title\":\"Save the file and open it in a browser to check it\",\"minutes\":15}],\"starterAction\":\"Open the project folder and open the blank homepage file\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Style sheet for the portfolio site",
+      "subject": "Web Design",
+      "description": "Colors, fonts, spacing.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the style sheet file you started\",\"minutes\":5},{\"title\":\"Set the font for the whole page first\",\"minutes\":15},{\"title\":\"Set the colors for the header and background\",\"minutes\":20},{\"title\":\"Add spacing between each of the three sections\",\"minutes\":20},{\"title\":\"Save the file and check it in the browser\",\"minutes\":15}],\"starterAction\":\"Open the style sheet file you started\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Wire the light sensor to the robot controller",
+      "subject": "Robotics",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the parts box and find the light sensor\",\"minutes\":5},{\"title\":\"Attach the sensor cable to the controller\",\"minutes\":15},{\"title\":\"Attach the sensor to the front of the robot\",\"minutes\":20},{\"title\":\"Run the test program and check the sensor reading\",\"minutes\":20},{\"title\":\"Record the reading in your build notebook\",\"minutes\":10}],\"starterAction\":\"Open the parts box and find the light sensor\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Program the robot to follow a black line",
+      "subject": "Robotics",
+      "description": "Line-following challenge.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the robot's code file and find the drive loop\",\"minutes\":5},{\"title\":\"Type the code that reads the line sensor\",\"minutes\":20},{\"title\":\"Type the code that steers left when the line drifts\",\"minutes\":25},{\"title\":\"Type the code that steers right when the line drifts\",\"minutes\":25},{\"title\":\"Run the robot on the track and time how far it gets\",\"minutes\":25},{\"title\":\"Fix the steering values and run it again\",\"minutes\":30}],\"starterAction\":\"Open the robot's code file and find the drive loop\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Build the gear train for the drivetrain project",
+      "subject": "Robotics",
+      "description": "Two gears, one axle.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the parts box and count out both gears\",\"minutes\":5},{\"title\":\"Attach the first gear to the axle\",\"minutes\":15},{\"title\":\"Attach the second gear so the teeth mesh\",\"minutes\":20},{\"title\":\"Turn the axle by hand and watch the gears move\",\"minutes\":15},{\"title\":\"Record whether the gears turned smoothly\",\"minutes\":10}],\"starterAction\":\"Open the parts box and count out both gears\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Design brief for the bridge-building challenge",
+      "subject": "Engineering",
+      "description": "Stick bridge, must hold one pound.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and list the load requirement\",\"minutes\":10},{\"title\":\"Sketch three possible truss shapes on paper\",\"minutes\":20},{\"title\":\"Pick the strongest-looking shape from the three\",\"minutes\":10},{\"title\":\"Label the load path on your chosen sketch\",\"minutes\":15},{\"title\":\"Write two sentences explaining why the shape holds weight\",\"minutes\":15}],\"starterAction\":\"Open the assignment sheet and list the load requirement\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Build and test the stick bridge",
+      "subject": "Engineering",
+      "description": "Must span 12 inches and hold one pound.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Gather the sticks and glue from the supply bin\",\"minutes\":10},{\"title\":\"Measure and cut the sticks to the lengths on your sketch\",\"minutes\":35},{\"title\":\"Assemble the truss shape flat on the table\",\"minutes\":35},{\"title\":\"Attach the second layer to match the first\",\"minutes\":35},{\"title\":\"Weigh the bridge once the glue has dried\",\"minutes\":10},{\"title\":\"Run the load test and record how much it held\",\"minutes\":20}],\"starterAction\":\"Gather the sticks and glue from the supply bin\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Lab write-up for the egg drop project",
+      "subject": "Engineering",
+      "description": "Include the design sketch and the result.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes from the egg drop test\",\"minutes\":5},{\"title\":\"Sketch the final design from memory\",\"minutes\":20},{\"title\":\"Write the materials list you actually used\",\"minutes\":15},{\"title\":\"Write what happened when the egg dropped\",\"minutes\":20},{\"title\":\"Write two sentences on what you would change\",\"minutes\":15},{\"title\":\"Read the write-up aloud and fix what sounds wrong\",\"minutes\":15}],\"starterAction\":\"Open your notes from the egg drop test\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Self-portrait drawing in charcoal",
+      "subject": "Studio Art",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Set up the mirror and the charcoal at your table\",\"minutes\":5},{\"title\":\"Sketch the basic head shape and shoulders\",\"minutes\":20},{\"title\":\"Mark where the eyes, nose and mouth line up\",\"minutes\":15},{\"title\":\"Shade the darkest shadows first\",\"minutes\":30},{\"title\":\"Shade the mid-tones and blend them\",\"minutes\":30},{\"title\":\"Look at the drawing from across the room and check the proportions\",\"minutes\":15}],\"starterAction\":\"Set up the mirror and the charcoal at your table\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Color theory worksheet",
+      "subject": "Studio Art",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and read the color wheel diagram\",\"minutes\":5},{\"title\":\"Answer the first six questions in order\",\"minutes\":20},{\"title\":\"Answer the remaining questions\",\"minutes\":15},{\"title\":\"Check your answers against the color wheel\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and read the color wheel diagram\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Final project: still life painting",
+      "subject": "Studio Art",
+      "description": "Acrylic, 16 by 20 inches.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Set up the still life objects on the table\",\"minutes\":10},{\"title\":\"Sketch the composition lightly in pencil first\",\"minutes\":25},{\"title\":\"Mix the colors you will need on your palette\",\"minutes\":15},{\"title\":\"Cover the background of the canvas first\",\"minutes\":30},{\"title\":\"Shade in the main objects with their base colors\",\"minutes\":35},{\"title\":\"Shade the final shadows and highlights\",\"minutes\":30},{\"title\":\"Look at the painting from across the room and check the balance\",\"minutes\":15}],\"starterAction\":\"Set up the still life objects on the table\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Pinch pot with a lid",
+      "subject": "Ceramics",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Weigh out one pound of clay on the scale\",\"minutes\":10},{\"title\":\"Press your thumb into the center of the ball\",\"minutes\":10},{\"title\":\"Press the walls thinner as you turn the pot\",\"minutes\":25},{\"title\":\"Weigh out a smaller ball of clay for the lid\",\"minutes\":10},{\"title\":\"Press the lid piece into a flat disc\",\"minutes\":15},{\"title\":\"Check that the lid fits the pot's opening\",\"minutes\":10}],\"starterAction\":\"Weigh out one pound of clay on the scale\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Glaze the bisque-fired mug",
+      "subject": "Ceramics",
+      "description": "Two coats.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Clean the dust off the mug with a damp sponge\",\"minutes\":5},{\"title\":\"Mix the glaze and stir it well\",\"minutes\":10},{\"title\":\"Pour the first coat over the outside of the mug\",\"minutes\":15},{\"title\":\"Pour the second coat once the first one dries\",\"minutes\":15},{\"title\":\"Check every surface is covered evenly\",\"minutes\":10}],\"starterAction\":\"Clean the dust off the mug with a damp sponge\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Sketch three design ideas for the final ceramics project",
+      "subject": "Ceramics",
+      "description": "Bowl, mug or vase.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"List the three shapes you are choosing between\",\"minutes\":5},{\"title\":\"Sketch the bowl idea from two angles\",\"minutes\":15},{\"title\":\"Sketch the mug idea from two angles\",\"minutes\":15},{\"title\":\"Sketch the vase idea from two angles\",\"minutes\":15},{\"title\":\"Pick your favorite and write one reason why\",\"minutes\":10}],\"starterAction\":\"List the three shapes you are choosing between\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Portrait series using natural light",
+      "subject": "Photography",
+      "description": "Five photos, one subject.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find a spot in the house with window light\",\"minutes\":10},{\"title\":\"Photograph the subject facing the light\",\"minutes\":10},{\"title\":\"Photograph the subject with the light to one side\",\"minutes\":10},{\"title\":\"Photograph three more angles of the same subject\",\"minutes\":20},{\"title\":\"Select the five strongest images from the camera roll\",\"minutes\":15},{\"title\":\"Label each selected file with a number\",\"minutes\":10}],\"starterAction\":\"Find a spot in the house with window light\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Contact sheet for the still life assignment",
+      "subject": "Photography",
+      "description": "Twelve photos of one object.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Pick one object from around the house\",\"minutes\":5},{\"title\":\"Photograph it from four different angles\",\"minutes\":20},{\"title\":\"Photograph it under two different lighting setups\",\"minutes\":20},{\"title\":\"Select the twelve best images from all the shots\",\"minutes\":15},{\"title\":\"Print the contact sheet at the lab or at home\",\"minutes\":15}],\"starterAction\":\"Pick one object from around the house\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Edit the landscape photo for the critique",
+      "subject": "Photography",
+      "description": "Adjust light and contrast only.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the chosen landscape photo in the editor\",\"minutes\":5},{\"title\":\"Set the brightness until the sky is not blown out\",\"minutes\":15},{\"title\":\"Set the contrast so the horizon stands out\",\"minutes\":15},{\"title\":\"Save the edited photo under a new file name\",\"minutes\":10},{\"title\":\"Watch the before-and-after comparison and check it looks natural\",\"minutes\":10}],\"starterAction\":\"Open the chosen landscape photo in the editor\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Logo design for the yearbook committee",
+      "subject": "Graphic Design",
+      "description": "Black and white, three concepts.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Sketch three rough logo concepts on paper\",\"minutes\":25},{\"title\":\"Pick the strongest concept of the three\",\"minutes\":10},{\"title\":\"Open the design software and set up a new file\",\"minutes\":5},{\"title\":\"Build the logo shapes in the software\",\"minutes\":35},{\"title\":\"Save the file as a black-and-white image\",\"minutes\":15}],\"starterAction\":\"Sketch three rough logo concepts on paper\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Poster for the spring fundraiser",
+      "subject": "Graphic Design",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"List the event details the poster must include\",\"minutes\":10},{\"title\":\"Sketch the layout with the title at the top\",\"minutes\":15},{\"title\":\"Place the event details in the open space below\",\"minutes\":20},{\"title\":\"Set the colors and fonts for the whole poster\",\"minutes\":20},{\"title\":\"Print a test copy and check it is easy to read\",\"minutes\":15}],\"starterAction\":\"List the event details the poster must include\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Business card mockup project",
+      "subject": "Graphic Design",
+      "description": "Name, title, contact info.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the design software and set the card size\",\"minutes\":5},{\"title\":\"Type the name and title in the top half\",\"minutes\":10},{\"title\":\"Type the contact info in the bottom half\",\"minutes\":10},{\"title\":\"Set a consistent font for the whole card\",\"minutes\":15},{\"title\":\"Print a sample and check the spacing\",\"minutes\":10}],\"starterAction\":\"Open the design software and set the card size\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Practice the scale packet for chair placement",
+      "subject": "Band",
+      "description": "All twelve major scales.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the scale packet to the first page\",\"minutes\":5},{\"title\":\"Play the first four scales slowly\",\"minutes\":25},{\"title\":\"Play the next four scales slowly\",\"minutes\":25},{\"title\":\"Play the last four scales slowly\",\"minutes\":25},{\"title\":\"Play all twelve scales at full tempo\",\"minutes\":20},{\"title\":\"Record yourself playing all twelve in a row\",\"minutes\":15}],\"starterAction\":\"Open the scale packet to the first page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Practice measures 40 to 60 of the concert piece",
+      "subject": "Band",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the sheet music to measure 40\",\"minutes\":5},{\"title\":\"Play measures 40 to 50 slowly\",\"minutes\":20},{\"title\":\"Play measures 51 to 60 slowly\",\"minutes\":20},{\"title\":\"Play all twenty measures at full tempo\",\"minutes\":20},{\"title\":\"Mark the two measures that still feel shaky\",\"minutes\":10}],\"starterAction\":\"Open the sheet music to measure 40\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Reed and instrument check before the concert",
+      "subject": "Band",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the case and take out the instrument\",\"minutes\":5},{\"title\":\"Check every key or valve moves freely\",\"minutes\":10},{\"title\":\"Clean the mouthpiece with the swab\",\"minutes\":5},{\"title\":\"Play a full scale to check the sound\",\"minutes\":10}],\"starterAction\":\"Open the case and take out the instrument\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Practice the shifting exercises for position 3",
+      "subject": "Orchestra",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the exercise book to the position 3 page\",\"minutes\":5},{\"title\":\"Play the first line slowly with a tuner running\",\"minutes\":20},{\"title\":\"Play the second line slowly with a tuner running\",\"minutes\":20},{\"title\":\"Play both lines together at a slightly faster tempo\",\"minutes\":20},{\"title\":\"Record yourself playing both lines once\",\"minutes\":10}],\"starterAction\":\"Open the exercise book to the position 3 page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Practice the cello part for the fall concert",
+      "subject": "Orchestra",
+      "description": "Movement 2, whole part.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the sheet music to movement 2\",\"minutes\":5},{\"title\":\"Play the first page slowly measure by measure\",\"minutes\":30},{\"title\":\"Play the second page slowly measure by measure\",\"minutes\":30},{\"title\":\"Play the whole movement at full tempo\",\"minutes\":30},{\"title\":\"Mark the measures that still need more work\",\"minutes\":15},{\"title\":\"Record the whole movement once straight through\",\"minutes\":20}],\"starterAction\":\"Open the sheet music to movement 2\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Learn the alto part for the spring concert piece",
+      "subject": "Choir",
+      "description": "Verses 1 and 2.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the sheet music to verse 1\",\"minutes\":5},{\"title\":\"Sing verse 1 slowly line by line\",\"minutes\":20},{\"title\":\"Sing verse 2 slowly line by line\",\"minutes\":20},{\"title\":\"Sing both verses together at full tempo\",\"minutes\":20},{\"title\":\"Record yourself singing both verses\",\"minutes\":10}],\"starterAction\":\"Open the sheet music to verse 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Warm-up routine and sight-reading packet",
+      "subject": "Choir",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the sight-reading packet to exercise 1\",\"minutes\":5},{\"title\":\"Sing exercise 1 slowly with the syllables\",\"minutes\":10},{\"title\":\"Sing exercises 2 and 3 slowly with the syllables\",\"minutes\":15},{\"title\":\"Sing all three exercises again at full tempo\",\"minutes\":15}],\"starterAction\":\"Open the sight-reading packet to exercise 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Worksheet on major and minor scales",
+      "subject": "Music Theory",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and find the key signature chart\",\"minutes\":5},{\"title\":\"Write out the first four major scales\",\"minutes\":20},{\"title\":\"Write out the first four minor scales\",\"minutes\":20},{\"title\":\"Check every scale against the key signature chart\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and find the key signature chart\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Chord progression composition for the assignment",
+      "subject": "Music Theory",
+      "description": "Eight measures, one key.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Pick a key and write it at the top of the staff paper\",\"minutes\":5},{\"title\":\"Write the chords for the first four measures\",\"minutes\":20},{\"title\":\"Write the chords for the last four measures\",\"minutes\":20},{\"title\":\"Play the progression on the keyboard to check it\",\"minutes\":15},{\"title\":\"Fix any chord that sounds wrong\",\"minutes\":15}],\"starterAction\":\"Pick a key and write it at the top of the staff paper\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Memorization practice for the audition monologue",
+      "subject": "Theater",
+      "description": "One minute, from the assigned script.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Read the monologue out loud twice straight through\",\"minutes\":15},{\"title\":\"Recite the first half without looking at the page\",\"minutes\":20},{\"title\":\"Recite the second half without looking at the page\",\"minutes\":20},{\"title\":\"Recite the whole monologue from memory\",\"minutes\":15},{\"title\":\"Time yourself with a stopwatch\",\"minutes\":5}],\"starterAction\":\"Read the monologue out loud twice straight through\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Blocking notes for act 2, scene 1",
+      "subject": "Theater",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the script to act 2, scene 1\",\"minutes\":5},{\"title\":\"Write down where each character enters\",\"minutes\":15},{\"title\":\"Write down where each character exits\",\"minutes\":15},{\"title\":\"Sketch the stage with each position marked\",\"minutes\":20},{\"title\":\"Read through the scene and check the blocking makes sense\",\"minutes\":15}],\"starterAction\":\"Open the script to act 2, scene 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Costume and prop list for the one-act play",
+      "subject": "Theater",
+      "description": null,
+      "duePhrase": "next week",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the script and read through act 1\",\"minutes\":20},{\"title\":\"List every costume piece each character needs\",\"minutes\":15},{\"title\":\"List every prop mentioned in the stage directions\",\"minutes\":15},{\"title\":\"Check the list against the script one more time\",\"minutes\":15}],\"starterAction\":\"Open the script and read through act 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Storyboard for the short film project",
+      "subject": "Film",
+      "description": "Six shots, one scene.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the script and find the scene you are storyboarding\",\"minutes\":5},{\"title\":\"Sketch the first three shots in the storyboard boxes\",\"minutes\":25},{\"title\":\"Sketch the last three shots in the storyboard boxes\",\"minutes\":25},{\"title\":\"Label each shot with the camera angle\",\"minutes\":15},{\"title\":\"Check the six shots tell the scene in order\",\"minutes\":10}],\"starterAction\":\"Open the script and find the scene you are storyboarding\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Edit the rough cut of the short film",
+      "subject": "Film",
+      "description": "Three-minute scene.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the project file and find the raw footage\",\"minutes\":5},{\"title\":\"Select the best take of each shot\",\"minutes\":25},{\"title\":\"Place the selected shots in order on the timeline\",\"minutes\":30},{\"title\":\"Cut the start and end of each clip\",\"minutes\":35},{\"title\":\"Watch the whole cut and check the timing\",\"minutes\":20}],\"starterAction\":\"Open the project file and find the raw footage\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Knife skills worksheet and practice",
+      "subject": "Culinary Arts",
+      "description": "Dice, mince, julienne.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and read the three cuts described\",\"minutes\":5},{\"title\":\"Practice the dice cut on a carrot\",\"minutes\":15},{\"title\":\"Practice the mince cut on a clove of garlic\",\"minutes\":15},{\"title\":\"Practice the julienne cut on a bell pepper\",\"minutes\":20},{\"title\":\"Write one sentence describing each cut\",\"minutes\":15},{\"title\":\"Check your answers against the worksheet\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and read the three cuts described\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Bake the quick bread for the baking unit",
+      "subject": "Culinary Arts",
+      "description": "Follow the recipe card.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Measure the dry ingredients into one bowl\",\"minutes\":15},{\"title\":\"Measure the wet ingredients into another bowl\",\"minutes\":15},{\"title\":\"Mix the wet ingredients into the dry ingredients\",\"minutes\":10},{\"title\":\"Pour the batter into the pan\",\"minutes\":5},{\"title\":\"Set the oven timer for the time on the recipe card\",\"minutes\":5},{\"title\":\"Check the bread with a toothpick when the timer ends\",\"minutes\":10}],\"starterAction\":\"Measure the dry ingredients into one bowl\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Nutrition label worksheet for the unit",
+      "subject": "Culinary Arts",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and find the sample label\",\"minutes\":5},{\"title\":\"Answer the first six questions in order\",\"minutes\":20},{\"title\":\"Answer the remaining questions\",\"minutes\":15},{\"title\":\"Check your answers against the label one more time\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and find the sample label\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Cut and assemble the pine box project",
+      "subject": "Woodshop",
+      "description": "Six pieces, glue joints.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the project packet and find the cut list\",\"minutes\":5},{\"title\":\"Measure and mark all six pieces on the board\",\"minutes\":30},{\"title\":\"Cut the six pieces along the marked lines\",\"minutes\":40},{\"title\":\"Assemble the four side pieces first\",\"minutes\":30},{\"title\":\"Attach the bottom piece last\",\"minutes\":20},{\"title\":\"Check every joint is square\",\"minutes\":15}],\"starterAction\":\"Open the project packet and find the cut list\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Finish sheet for the pine box",
+      "subject": "Woodshop",
+      "description": "Stain and two coats of sealant.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Clean the sawdust off the box with a cloth\",\"minutes\":10},{\"title\":\"Pour the stain into the small tray\",\"minutes\":5},{\"title\":\"Cover the whole box with the first coat\",\"minutes\":25},{\"title\":\"Set the box aside until the coat feels dry\",\"minutes\":5},{\"title\":\"Cover the box with the second coat\",\"minutes\":25},{\"title\":\"Check every surface is evenly coated\",\"minutes\":10}],\"starterAction\":\"Clean the sawdust off the box with a cloth\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Measurement worksheet for the woodshop unit",
+      "subject": "Woodshop",
+      "description": "Reading a tape measure.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and find the tape measure diagram\",\"minutes\":5},{\"title\":\"Answer the first eight questions in order\",\"minutes\":20},{\"title\":\"Answer the remaining questions\",\"minutes\":15},{\"title\":\"Check your answers against the diagram\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and find the tape measure diagram\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Oil change procedure write-up",
+      "subject": "Auto Shop",
+      "description": "Steps from today's lab.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes from today's oil change lab\",\"minutes\":5},{\"title\":\"List the tools you used in the order you used them\",\"minutes\":15},{\"title\":\"Write the steps for draining the old oil\",\"minutes\":20},{\"title\":\"Write the steps for adding the new oil and filter\",\"minutes\":20},{\"title\":\"Check your steps against your lab notes\",\"minutes\":15}],\"starterAction\":\"Open your notes from today's oil change lab\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Tire pressure and tread worksheet",
+      "subject": "Auto Shop",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and find the pressure chart\",\"minutes\":5},{\"title\":\"Answer the first five questions in order\",\"minutes\":15},{\"title\":\"Answer the remaining questions\",\"minutes\":15},{\"title\":\"Check your answers against the chart\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and find the pressure chart\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Diagram of the braking system",
+      "subject": "Auto Shop",
+      "description": "Label all parts from the handout.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the handout to the braking system diagram\",\"minutes\":5},{\"title\":\"Sketch the outline of the system in pencil\",\"minutes\":15},{\"title\":\"Label the first half of the parts\",\"minutes\":20},{\"title\":\"Label the second half of the parts\",\"minutes\":20},{\"title\":\"Check every label against the handout\",\"minutes\":15}],\"starterAction\":\"Open the handout to the braking system diagram\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Worksheet on the food pyramid",
+      "subject": "Health",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and put your name on it\",\"minutes\":5},{\"title\":\"Answer the first five questions in order\",\"minutes\":15},{\"title\":\"Answer the remaining questions\",\"minutes\":15},{\"title\":\"Check your answers against the handout\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and put your name on it\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Poster on the food groups",
+      "subject": "Health",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and list what the poster must show\",\"minutes\":10},{\"title\":\"Sketch the layout in pencil first\",\"minutes\":15},{\"title\":\"Draw the five food groups in the sections\",\"minutes\":30},{\"title\":\"Label each section and add two examples\",\"minutes\":25},{\"title\":\"Check the sheet again for anything you missed\",\"minutes\":10}],\"starterAction\":\"Open the assignment sheet and list what the poster must show\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Reflection paper on the stress unit",
+      "subject": "Health",
+      "description": "One page.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes from the stress unit\",\"minutes\":5},{\"title\":\"Write down three things you learned that stood out\",\"minutes\":15},{\"title\":\"Write down two strategies the unit covered\",\"minutes\":15},{\"title\":\"Write the reflection in one sitting\",\"minutes\":20},{\"title\":\"Read it aloud and fix what sounds wrong\",\"minutes\":15}],\"starterAction\":\"Open your notes from the stress unit\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Fitness log for the running unit",
+      "subject": "PE",
+      "description": "Five days, distance and time.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the fitness log and find today's row\",\"minutes\":5},{\"title\":\"Time your run with a stopwatch\",\"minutes\":20},{\"title\":\"Write down the distance and the time\",\"minutes\":5},{\"title\":\"Record how you felt on a scale of one to five\",\"minutes\":5},{\"title\":\"Check the log has an entry for every day so far\",\"minutes\":10}],\"starterAction\":\"Open the fitness log and find today's row\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Worksheet on the rules of badminton",
+      "subject": "PE",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and read the scoring section\",\"minutes\":10},{\"title\":\"Answer the first five questions in order\",\"minutes\":15},{\"title\":\"Answer the remaining questions\",\"minutes\":15},{\"title\":\"Check your answers against the handout\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and read the scoring section\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Warm-up and stretch routine write-up",
+      "subject": "PE",
+      "description": "For the fitness unit.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"List the five stretches from today's warm-up\",\"minutes\":10},{\"title\":\"Write one sentence on what each stretch targets\",\"minutes\":20},{\"title\":\"Time yourself doing the full routine once\",\"minutes\":10},{\"title\":\"Write down the total time it took\",\"minutes\":5},{\"title\":\"Check the list matches what you actually did\",\"minutes\":10}],\"starterAction\":\"List the five stretches from today's warm-up\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Fill in the observation hours log",
+      "subject": "Driver's Education",
+      "description": "Ten hours required.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the observation log to the first blank row\",\"minutes\":5},{\"title\":\"Fill in the date and start time for each hour\",\"minutes\":10},{\"title\":\"Fill in the end time and the total for each hour\",\"minutes\":10},{\"title\":\"Add up all the hours logged so far\",\"minutes\":10},{\"title\":\"Check the total against the ten hours required\",\"minutes\":5}],\"starterAction\":\"Open the observation log to the first blank row\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Worksheet on road signs",
+      "subject": "Driver's Education",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and find the sign chart\",\"minutes\":5},{\"title\":\"Answer the first ten questions in order\",\"minutes\":20},{\"title\":\"Answer the remaining questions\",\"minutes\":15},{\"title\":\"Check your answers against the sign chart\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and find the sign chart\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Practice test for the permit exam",
+      "subject": "Driver's Education",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the practice test and read question one\",\"minutes\":5},{\"title\":\"Answer the first fifteen questions in order\",\"minutes\":20},{\"title\":\"Answer the remaining questions\",\"minutes\":20},{\"title\":\"Check your answers against the answer key\",\"minutes\":15},{\"title\":\"Circle every question you missed\",\"minutes\":10}],\"starterAction\":\"Open the practice test and read question one\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Business plan outline for the class project",
+      "subject": "Business",
+      "description": "Product, market, budget.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the product idea in one sentence\",\"minutes\":5},{\"title\":\"List three reasons someone would buy it\",\"minutes\":15},{\"title\":\"Write the section on who the customers are\",\"minutes\":20},{\"title\":\"Write the section on what it would cost to make\",\"minutes\":20},{\"title\":\"Check the outline covers all three required sections\",\"minutes\":10}],\"starterAction\":\"Write down the product idea in one sentence\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Worksheet on supply and demand",
+      "subject": "Business",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and read the graph\",\"minutes\":5},{\"title\":\"Answer the first six questions in order\",\"minutes\":20},{\"title\":\"Answer the remaining questions\",\"minutes\":15},{\"title\":\"Check your answers against the graph\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and read the graph\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Elevator pitch for the class product",
+      "subject": "Business",
+      "description": "Thirty seconds.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down what the product does in one sentence\",\"minutes\":10},{\"title\":\"Write two reasons it is better than what exists now\",\"minutes\":15},{\"title\":\"Write the pitch as one paragraph\",\"minutes\":15},{\"title\":\"Practice saying it out loud twice\",\"minutes\":15},{\"title\":\"Time yourself with a stopwatch\",\"minutes\":5}],\"starterAction\":\"Write down what the product does in one sentence\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Social media plan for the class brand project",
+      "subject": "Marketing",
+      "description": "One week, three posts.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the brand's message in one sentence\",\"minutes\":10},{\"title\":\"List three post ideas for the week\",\"minutes\":15},{\"title\":\"Write the caption for the first post\",\"minutes\":15},{\"title\":\"Write the captions for the other two posts\",\"minutes\":20},{\"title\":\"Check every caption matches the brand message\",\"minutes\":10}],\"starterAction\":\"Write down the brand's message in one sentence\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Print ad mockup for the class product",
+      "subject": "Marketing",
+      "description": "Half a page, image and headline.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write three possible headlines for the product\",\"minutes\":15},{\"title\":\"Pick the strongest headline of the three\",\"minutes\":5},{\"title\":\"Sketch the layout with the headline at the top\",\"minutes\":20},{\"title\":\"Place the product image in the open space\",\"minutes\":20},{\"title\":\"Check the ad is easy to read at a glance\",\"minutes\":10}],\"starterAction\":\"Write three possible headlines for the product\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Worksheet on target audiences",
+      "subject": "Marketing",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and read the first case study\",\"minutes\":10},{\"title\":\"Answer the first five questions in order\",\"minutes\":15},{\"title\":\"Answer the remaining questions\",\"minutes\":15},{\"title\":\"Check your answers against the case study\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and read the first case study\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Balance the practice checkbook register",
+      "subject": "Accounting",
+      "description": "Ten transactions.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the register and find the starting balance\",\"minutes\":5},{\"title\":\"Enter the first five transactions in order\",\"minutes\":15},{\"title\":\"Enter the remaining transactions in order\",\"minutes\":15},{\"title\":\"Balance the register against the bank statement\",\"minutes\":20},{\"title\":\"Check every entry adds up correctly\",\"minutes\":15}],\"starterAction\":\"Open the register and find the starting balance\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Worksheet on debits and credits",
+      "subject": "Accounting",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and read the T account example\",\"minutes\":5},{\"title\":\"Answer the first six questions in order\",\"minutes\":20},{\"title\":\"Answer the remaining questions\",\"minutes\":15},{\"title\":\"Check your answers against the example\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and read the T account example\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Budget worksheet for a fictional paycheck",
+      "subject": "Accounting",
+      "description": "Needs, wants, savings.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and find the paycheck amount\",\"minutes\":5},{\"title\":\"List your fixed needs and their costs\",\"minutes\":15},{\"title\":\"List your wants and their costs\",\"minutes\":15},{\"title\":\"Calculate what is left over for savings\",\"minutes\":15},{\"title\":\"Check the three categories add up to the total\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and find the paycheck amount\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Worksheet on compound interest",
+      "subject": "Personal Finance",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and read the formula box\",\"minutes\":10},{\"title\":\"Calculate the first three problems in order\",\"minutes\":20},{\"title\":\"Calculate the remaining problems\",\"minutes\":20},{\"title\":\"Check your answers against the answer key\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and read the formula box\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Sample budget for living on your own",
+      "subject": "Personal Finance",
+      "description": "Rent, food, transportation.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"List the three categories the assignment requires\",\"minutes\":10},{\"title\":\"Find a sample rent price for the exercise\",\"minutes\":15},{\"title\":\"Calculate a monthly food estimate\",\"minutes\":15},{\"title\":\"Calculate a monthly transportation estimate\",\"minutes\":15},{\"title\":\"Add the three categories into one total\",\"minutes\":15},{\"title\":\"Check the total against your starting income\",\"minutes\":15}],\"starterAction\":\"List the three categories the assignment requires\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Comparison worksheet on credit cards",
+      "subject": "Personal Finance",
+      "description": "Interest rate and annual fee.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and find the two card examples\",\"minutes\":5},{\"title\":\"Fill in the interest rate for each card\",\"minutes\":10},{\"title\":\"Fill in the annual fee for each card\",\"minutes\":10},{\"title\":\"Calculate the cost of carrying a balance on each\",\"minutes\":20},{\"title\":\"Circle which card is cheaper overall\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and find the two card examples\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Observation write-up from the preschool visit",
+      "subject": "Child Development",
+      "description": "Thirty minutes, one child.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes from the preschool visit\",\"minutes\":5},{\"title\":\"Write down three things the child did during play\",\"minutes\":15},{\"title\":\"Write down one thing that surprised you\",\"minutes\":10},{\"title\":\"Write the observation as three short paragraphs\",\"minutes\":25},{\"title\":\"Read it aloud and fix what sounds wrong\",\"minutes\":15}],\"starterAction\":\"Open your notes from the preschool visit\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Poster on the stages of child development",
+      "subject": "Child Development",
+      "description": "Infant through toddler.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and list the required stages\",\"minutes\":10},{\"title\":\"Sketch the layout in pencil first\",\"minutes\":15},{\"title\":\"Draw the timeline across the poster\",\"minutes\":25},{\"title\":\"Label each stage with two milestones\",\"minutes\":30},{\"title\":\"Check the sheet again for anything you missed\",\"minutes\":10}],\"starterAction\":\"Open the assignment sheet and list the required stages\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Caption list for the fall sports spread",
+      "subject": "Yearbook",
+      "description": "Twelve photos.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the folder with the fall sports photos\",\"minutes\":5},{\"title\":\"List the twelve photos in the order they will appear\",\"minutes\":10},{\"title\":\"Write a caption for the first six photos\",\"minutes\":20},{\"title\":\"Write a caption for the last six photos\",\"minutes\":20},{\"title\":\"Check every caption against the photo it describes\",\"minutes\":15}],\"starterAction\":\"Open the folder with the fall sports photos\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Page layout for the club spread",
+      "subject": "Yearbook",
+      "description": "Two pages, six clubs.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the template file for a two-page spread\",\"minutes\":5},{\"title\":\"Place the three club photos on the left page\",\"minutes\":20},{\"title\":\"Place the three club photos on the right page\",\"minutes\":20},{\"title\":\"Type the club names and captions under each photo\",\"minutes\":25},{\"title\":\"Check every photo has a caption and a club name\",\"minutes\":15}],\"starterAction\":\"Open the template file for a two-page spread\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Flyers for the canned food drive",
+      "subject": "Student Council",
+      "description": "Twenty copies.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the drive dates and the drop-off location\",\"minutes\":10},{\"title\":\"Sketch the flyer layout on paper first\",\"minutes\":15},{\"title\":\"Build the flyer in the design software\",\"minutes\":25},{\"title\":\"Print twenty copies at the school printer\",\"minutes\":15},{\"title\":\"Hang the flyers in the hallway spots on your list\",\"minutes\":20}],\"starterAction\":\"Write the drive dates and the drop-off location\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Count the vote totals from the class election",
+      "subject": "Student Council",
+      "description": "Four candidates.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the ballot box and count the total ballots\",\"minutes\":10},{\"title\":\"Sort the ballots into four piles by candidate\",\"minutes\":15},{\"title\":\"Count each pile and write down the total\",\"minutes\":15},{\"title\":\"Add the four totals and check they match the ballot count\",\"minutes\":15}],\"starterAction\":\"Open the ballot box and count the total ballots\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Common App essay first draft",
+      "subject": null,
+      "description": "650 words, personal statement.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a blank document and write the prompt at the top\",\"minutes\":5},{\"title\":\"List three moments from your life that fit the prompt\",\"minutes\":20},{\"title\":\"Pick the strongest moment to write about\",\"minutes\":10},{\"title\":\"Write the essay in one sitting without stopping to edit\",\"minutes\":45},{\"title\":\"Count the words and check you are near 650\",\"minutes\":10},{\"title\":\"Read it aloud and fix what sounds wrong\",\"minutes\":20}],\"starterAction\":\"Open a blank document and write the prompt at the top\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Short-answer supplement for a college application",
+      "subject": null,
+      "description": "Two prompts, 150 words each.",
+      "duePhrase": "in 10 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the application portal and copy both prompts\",\"minutes\":10},{\"title\":\"Write three bullet points for the first prompt\",\"minutes\":15},{\"title\":\"Write the first answer in one sitting\",\"minutes\":25},{\"title\":\"Write three bullet points for the second prompt\",\"minutes\":15},{\"title\":\"Write the second answer in one sitting\",\"minutes\":25},{\"title\":\"Count the words on both answers and trim if over\",\"minutes\":15}],\"starterAction\":\"Open the application portal and copy both prompts\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Scholarship essay on a community project",
+      "subject": null,
+      "description": "500 words.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the scholarship prompt and underline what it is asking\",\"minutes\":5},{\"title\":\"List two community projects you could write about\",\"minutes\":15},{\"title\":\"Pick the one with the clearest story\",\"minutes\":10},{\"title\":\"Write the essay in one sitting without stopping to edit\",\"minutes\":40},{\"title\":\"Count the words and check you are near 500\",\"minutes\":10},{\"title\":\"Read it aloud and fix what sounds wrong\",\"minutes\":20}],\"starterAction\":\"Open the scholarship prompt and underline what it is asking\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Scholarship application form and short essay",
+      "subject": null,
+      "description": "Form plus 250-word essay.",
+      "duePhrase": "Friday",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the application form and fill in your basic information\",\"minutes\":10},{\"title\":\"Fill in the rest of the form fields\",\"minutes\":15},{\"title\":\"Write the short essay in one sitting\",\"minutes\":25},{\"title\":\"Count the words and check you are near 250\",\"minutes\":10},{\"title\":\"Check every form field is filled in before you stop\",\"minutes\":10}],\"starterAction\":\"Open the application form and fill in your basic information\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Gather documents for the FAFSA form",
+      "subject": null,
+      "description": "Tax info, ID and Social Security number needed.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the FAFSA checklist and read what is needed\",\"minutes\":5},{\"title\":\"Find the tax documents your parent gave you\",\"minutes\":15},{\"title\":\"Find your ID and Social Security card\",\"minutes\":10},{\"title\":\"Pack all the documents into one folder\",\"minutes\":10},{\"title\":\"Check the folder against the checklist one more time\",\"minutes\":10}],\"starterAction\":\"Open the FAFSA checklist and read what is needed\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Ask a teacher for a recommendation letter",
+      "subject": null,
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down which teacher you want to ask\",\"minutes\":5},{\"title\":\"Write two reasons why you are asking that teacher\",\"minutes\":10},{\"title\":\"Email the teacher and ask if they can write it\",\"minutes\":10},{\"title\":\"List the deadline and where the letter should go\",\"minutes\":10},{\"title\":\"Check the email is sent before you close your laptop\",\"minutes\":5}],\"starterAction\":\"Write down which teacher you want to ask\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Sign-up sheet for the robotics club car wash",
+      "subject": null,
+      "description": "Two shifts, four spots each.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the two shift times at the top of the sheet\",\"minutes\":10},{\"title\":\"Draw four blank lines under each shift\",\"minutes\":10},{\"title\":\"Print five copies of the sign-up sheet\",\"minutes\":10},{\"title\":\"Hang one copy on the club bulletin board\",\"minutes\":10},{\"title\":\"Check the sheet is filled in by the end of the week\",\"minutes\":10}],\"starterAction\":\"Write the two shift times at the top of the sheet\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Order form for the club candy fundraiser",
+      "subject": null,
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the order form template and check the prices\",\"minutes\":5},{\"title\":\"Fill in the flavors and quantities available\",\"minutes\":15},{\"title\":\"Print twenty copies of the order form\",\"minutes\":10},{\"title\":\"Staple an envelope to each order form\",\"minutes\":15},{\"title\":\"Check every form has the due date printed on it\",\"minutes\":10}],\"starterAction\":\"Open the order form template and check the prices\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Get ready for the Saturday shift at the store",
+      "subject": null,
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find your work shirt and check it is clean\",\"minutes\":5},{\"title\":\"Set an alarm for an hour before the shift starts\",\"minutes\":5},{\"title\":\"Pack your apron and name tag in your bag\",\"minutes\":5},{\"title\":\"Check the schedule for your exact start time\",\"minutes\":5}],\"starterAction\":\"Find your work shirt and check it is clean\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Laundry before the week starts",
+      "subject": null,
+      "description": "Two loads.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Collect the dirty clothes from your room\",\"minutes\":10},{\"title\":\"Sort the clothes into light and dark piles\",\"minutes\":5},{\"title\":\"Run the first load and set a timer\",\"minutes\":5},{\"title\":\"Take the first load to the dryer and start the second wash\",\"minutes\":10},{\"title\":\"Fold the clean clothes once both loads are done\",\"minutes\":20}],\"starterAction\":\"Collect the dirty clothes from your room\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Paperwork for the driving test appointment",
+      "subject": null,
+      "description": "Insurance card and permit needed.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the appointment confirmation and check the date\",\"minutes\":5},{\"title\":\"Find the insurance card in the glove compartment\",\"minutes\":10},{\"title\":\"Find your permit and put it with the insurance card\",\"minutes\":5},{\"title\":\"Pack both documents in the folder by the door\",\"minutes\":5},{\"title\":\"Check the folder again the morning of the test\",\"minutes\":5}],\"starterAction\":\"Find the appointment confirmation and check the date\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Fill in the sports physical form",
+      "subject": null,
+      "description": "Needed before tryouts.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the form in your backpack and put it on the table\",\"minutes\":5},{\"title\":\"Fill in your name and birthdate at the top\",\"minutes\":5},{\"title\":\"Fill in the emergency contact section\",\"minutes\":10},{\"title\":\"Ask a parent to sign the bottom of the form\",\"minutes\":5},{\"title\":\"Check every section is filled in before you turn it in\",\"minutes\":5}],\"starterAction\":\"Find the form in your backpack and put it on the table\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Clean your room before the weekend",
+      "subject": null,
+      "description": null,
+      "duePhrase": "Friday",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Collect every dish and cup and take them to the kitchen\",\"minutes\":10},{\"title\":\"Pick up the clothes on the floor and sort them\",\"minutes\":15},{\"title\":\"Tidy the desk and put loose papers in one stack\",\"minutes\":15},{\"title\":\"Make the bed\",\"minutes\":10},{\"title\":\"Put everything away that has a place\",\"minutes\":15},{\"title\":\"Check the floor and the desk are both clear\",\"minutes\":10}],\"starterAction\":\"Collect every dish and cup and take them to the kitchen\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Return the library books before they are late",
+      "subject": null,
+      "description": "Three books.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find all three books around your room\",\"minutes\":10},{\"title\":\"Check the due date printed inside each one\",\"minutes\":5},{\"title\":\"Pack the books in your bag tonight\",\"minutes\":5},{\"title\":\"Hand the books to the librarian before class\",\"minutes\":5}],\"starterAction\":\"Find all three books around your room\"}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Spanish quiz on ser and estar Thursday. Vocab flashcards due Monday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Spanish quiz\",\"dueInDays\":3},{\"title\":\"Vocab flashcards\",\"dueInDays\":7}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "French project proposal Friday. Rough draft the following Wednesday. Final presentation two weeks out.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Project proposal\",\"dueInDays\":4},{\"title\":\"Rough draft\",\"dueInDays\":9},{\"title\":\"Final presentation\",\"dueInDays\":14}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Half day today, no clubs after school.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Robotics: battery charging tonight, driver practice tomorrow, scrimmage Saturday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Charge the batteries\",\"dueInDays\":0,\"subject\":\"Robotics\"},{\"title\":\"Driver practice\",\"dueInDays\":1,\"subject\":\"Robotics\"},{\"title\":\"Scrimmage\",\"dueInDays\":5,\"subject\":\"Robotics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Dentist appointment Tuesday at 4. Return the library books before then.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Dentist appointment\",\"dueInDays\":1},{\"title\":\"Return the library books\",\"dueInDays\":1}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Culinary Arts: bring an apron tomorrow, knife skills quiz Friday, recipe project due in two weeks.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Bring an apron\",\"dueInDays\":1,\"subject\":\"Culinary Arts\"},{\"title\":\"Knife skills quiz\",\"dueInDays\":4,\"subject\":\"Culinary Arts\"},{\"title\":\"Recipe project\",\"dueInDays\":14,\"subject\":\"Culinary Arts\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Callbacks posted today. First rehearsal Monday. Memorize your sides by then.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Check the callback list\",\"dueInDays\":0},{\"title\":\"First rehearsal\",\"dueInDays\":7},{\"title\":\"Learn your sides\",\"dueInDays\":7}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Business: elevator pitch practice Wednesday, product mockup due Friday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Elevator pitch practice\",\"dueInDays\":2,\"subject\":\"Business\"},{\"title\":\"Product mockup\",\"dueInDays\":4,\"subject\":\"Business\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Essay due to the counselor Friday. FAFSA deadline is in three weeks. Two more supplements after that.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Essay\",\"dueInDays\":4},{\"title\":\"FAFSA\",\"dueInDays\":21},{\"title\":\"Supplements\",\"dueInDays\":25}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Winter break starts Friday. Nothing due until we're back.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Yearbook: caption drafts Tuesday, spread proofs Thursday, final pages due next Monday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Caption drafts\",\"dueInDays\":1,\"subject\":\"Yearbook\"},{\"title\":\"Spread proofs\",\"dueInDays\":3,\"subject\":\"Yearbook\"},{\"title\":\"Final pages\",\"dueInDays\":7,\"subject\":\"Yearbook\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Student council meeting tomorrow at lunch. Flyers need to go up by Wednesday. Fundraiser starts Monday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Student council meeting\",\"dueInDays\":1},{\"title\":\"Put up flyers\",\"dueInDays\":2},{\"title\":\"Fundraiser starts\",\"dueInDays\":7}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Mom says clean your room before Saturday. Take the trash out tonight too.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Clean your room\",\"dueInDays\":5},{\"title\":\"Take the trash out\",\"dueInDays\":0}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Manager moved your shift to Sunday. Bring your own apron this time.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Work shift\",\"dueInDays\":6},{\"title\":\"Bring an apron\",\"dueInDays\":6}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Mandarin: character quiz Monday, listening test the following Thursday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Character quiz\",\"dueInDays\":7,\"subject\":\"Mandarin\"},{\"title\":\"Listening test\",\"dueInDays\":10,\"subject\":\"Mandarin\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Safety quiz in shop class tomorrow. Project boards due a week from Friday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Safety quiz\",\"dueInDays\":1},{\"title\":\"Project boards\",\"dueInDays\":11}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Band: uniform fitting Tuesday, pep rally performance Friday, chair auditions in ten days.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Uniform fitting\",\"dueInDays\":1,\"subject\":\"Band\"},{\"title\":\"Pep rally performance\",\"dueInDays\":4,\"subject\":\"Band\"},{\"title\":\"Chair auditions\",\"dueInDays\":10}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Photography: contact sheet Wednesday, critique Friday, portfolio due in three weeks.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Contact sheet\",\"dueInDays\":2,\"subject\":\"Photography\"},{\"title\":\"Critique\",\"dueInDays\":4,\"subject\":\"Photography\"},{\"title\":\"Portfolio\",\"dueInDays\":21,\"subject\":\"Photography\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Scholarship essay due the 15th, about two weeks out. Recommendation letter request should go out this week.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Scholarship essay\",\"dueInDays\":14},{\"title\":\"Recommendation letter request\",\"dueInDays\":4}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "German: workbook pages tonight, quiz Friday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Workbook pages\",\"dueInDays\":0,\"subject\":\"German\"},{\"title\":\"Quiz\",\"dueInDays\":4,\"subject\":\"German\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Health worksheet tomorrow. PE fitness log due Friday. Permission slip for the field trip Monday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Health worksheet\",\"dueInDays\":1},{\"title\":\"Fitness log\",\"dueInDays\":4},{\"title\":\"Permission slip\",\"dueInDays\":7}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Latin: translation packet due Wednesday, vocab quiz the same day.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Translation packet\",\"dueInDays\":2,\"subject\":\"Latin\"},{\"title\":\"Vocab quiz\",\"dueInDays\":2,\"subject\":\"Latin\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Accounting: register due Thursday. Personal Finance budget project the following Tuesday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Register\",\"dueInDays\":3,\"subject\":\"Accounting\"},{\"title\":\"Budget project\",\"dueInDays\":8,\"subject\":\"Personal Finance\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Driver's Ed: observation log due Friday, permit test practice anytime before then.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Observation log\",\"dueInDays\":4,\"subject\":\"Driver's Education\"},{\"title\":\"Permit test practice\",\"dueInDays\":4,\"subject\":\"Driver's Education\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "ASL: fingerspelling drill due tomorrow, unit test in five days.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Fingerspelling drill\",\"dueInDays\":1,\"subject\":\"ASL\"},{\"title\":\"Unit test\",\"dueInDays\":5,\"subject\":\"ASL\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Web Design: homepage due Thursday. AP Computer Science project the following week.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Homepage\",\"dueInDays\":3,\"subject\":\"Web Design\"},{\"title\":\"CS project\",\"dueInDays\":10,\"subject\":\"AP Computer Science A\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Snow day. Everything pushed back a day.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Engineering: bridge test Thursday. Robotics scrimmage Saturday, same week.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Bridge test\",\"dueInDays\":3,\"subject\":\"Engineering\"},{\"title\":\"Robotics scrimmage\",\"dueInDays\":5,\"subject\":\"Robotics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Child Development: observation write-up due Monday, poster the following Friday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Observation write-up\",\"dueInDays\":7,\"subject\":\"Child Development\"},{\"title\":\"Poster\",\"dueInDays\":11,\"subject\":\"Child Development\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Ceramics: glaze the mugs tomorrow, final project critique in ten days.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Glaze the mugs\",\"dueInDays\":1,\"subject\":\"Ceramics\"},{\"title\":\"Final project critique\",\"dueInDays\":10,\"subject\":\"Ceramics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Fundraiser order forms due Wednesday. Shift at work Saturday. Grandma's birthday call Sunday, don't forget.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Order forms\",\"dueInDays\":2},{\"title\":\"Work shift\",\"dueInDays\":5},{\"title\":\"Call grandma\",\"dueInDays\":6}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Choir: sectional rehearsal tomorrow. Orchestra chair placements in one week.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Sectional rehearsal\",\"dueInDays\":1,\"subject\":\"Choir\"},{\"title\":\"Chair placements\",\"dueInDays\":7,\"subject\":\"Orchestra\"}]}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Conjugate the irregular verbs in the subjunctive mood",
+      "description": null
+    },
+    "completion": "{\"title\":\"Write the tricky verb forms for the subjunctive\",\"explanation\":\"The subjunctive mood has its own endings for verbs that break the normal pattern. Find those endings in your notes, then write each verb the way it should look in a sentence that needs it.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Analyze the harmonic function of each chord in the progression",
+      "description": null
+    },
+    "completion": "{\"title\":\"Say what job each chord is doing\",\"explanation\":\"Every chord in a progression is either resting on the home note, building tension, or pulling back toward home. Look at each chord one at a time and write down which of those three jobs it is doing.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Critique the composition of your photograph",
+      "description": "Focus on balance and framing."
+    },
+    "completion": "{\"title\":\"Say what works and what doesn't in the shot\",\"explanation\":\"Look at where the subject sits in the frame and whether the picture feels balanced or lopsided. Write two sentences on what catches your eye first, and two on what you would move or crop differently.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Fabricate the joinery for the corner brackets",
+      "description": null
+    },
+    "completion": "{\"title\":\"Cut and fit the corner pieces together\",\"explanation\":\"The joinery is just how the corner pieces lock together without extra hardware. Cut each piece to the marked line, then hold the two halves up to each other and check that they sit flush before you glue anything.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Track down the source of the unusual engine noise",
+      "description": null
+    },
+    "completion": "{\"title\":\"Find where the strange noise is coming from\",\"explanation\":\"Start the engine and listen for where the sound seems loudest, then check the usual trouble spots one at a time: the belt, the pulleys and the exhaust. Write down which spot matched the sound you heard.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Evaluate the balance of flavors in your dish",
+      "description": "Sweet, salty, sour, bitter."
+    },
+    "completion": "{\"title\":\"Say which flavor is missing from the dish\",\"explanation\":\"Taste the dish and notice which of the four flavors stands out too much or too little. Write one sentence naming the flavor that is off, and one sentence on what you would add to fix it.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Assess the target market's purchasing behavior",
+      "description": null
+    },
+    "completion": "{\"title\":\"Say who would buy this and why\",\"explanation\":\"The target market is just the kind of person likely to want this product. Picture one specific person who would buy it, then write two sentences on what problem it solves for them and why they would pick it over something else.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Interpret your character's underlying motivation in the scene",
+      "description": null
+    },
+    "completion": "{\"title\":\"Say what your character wants in the scene\",\"explanation\":\"Every character in a scene wants something, even if they never say it out loud. Read through your lines and write one sentence on what your character is trying to get, and one sentence on what is standing in the way.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Critique the visual hierarchy of your poster design",
+      "description": null
+    },
+    "completion": "{\"title\":\"Say what your eye sees first on the poster\",\"explanation\":\"Visual hierarchy just means what a viewer notices first, second and third. Look at your poster from across the room and write down the order your eye actually moves in, then compare it to the order you meant to create.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Optimize the code for the line-following sensor loop",
+      "description": null
+    },
+    "completion": "{\"title\":\"Make the sensor loop run faster\",\"explanation\":\"Optimizing just means finding the parts of the code that waste time and cutting them. Read through the loop line by line and mark any step that repeats work the program already did, then remove it.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Assess the long-term financial impact of student loan interest",
+      "description": null
+    },
+    "completion": "{\"title\":\"Say how much the loan really costs over time\",\"explanation\":\"Interest means you pay back more than you borrowed, and the longer you take, the more that gap grows. Calculate the total paid over ten years at the given rate and compare it to the amount you originally borrowed.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Analyze the cultural context of the French film's ending",
+      "description": null
+    },
+    "completion": "{\"title\":\"Say what the ending means about French culture\",\"explanation\":\"The ending usually reflects a value or attitude common in the culture the film comes from. Write two sentences on what the last scene shows the characters choosing, and one sentence on what that choice says about the culture.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Interpret the dynamics and phrasing marked in the score",
+      "description": null
+    },
+    "completion": "{\"title\":\"Say where the music gets loud and soft\",\"explanation\":\"Dynamics are just the loud and soft parts, and phrasing is where you breathe or bow between musical sentences. Go through the score and circle every dynamic marking, then read through once paying attention to those changes.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Curate the strongest images for the spread",
+      "description": "Choose from forty photos."
+    },
+    "completion": "{\"title\":\"Pick the best photos for the spread\",\"explanation\":\"Curating just means choosing the strongest images and leaving the rest out. Go through all forty photos once and mark your favorites, then narrow that group down to the number the spread actually has room for.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Assess the developmental milestones observed during the visit",
+      "description": null
+    },
+    "completion": "{\"title\":\"List which milestones you actually saw\",\"explanation\":\"A milestone is just a skill kids typically reach by a certain age, like stacking blocks or naming colors. Go through your notes from the visit and match each thing the child did to the milestone list from class.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Strategize the rollout plan for the spirit week event",
+      "description": null
+    },
+    "completion": "{\"title\":\"Write out the order spirit week will happen in\",\"explanation\":\"A rollout plan is just the order things happen in and who is doing each part. List every spirit week event in order by day, then write one name next to each one for who is responsible for it.\"}"
+  }
+]

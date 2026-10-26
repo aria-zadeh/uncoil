@@ -1,0 +1,862 @@
+[
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Dimensional analysis worksheet on metric unit conversion chains",
+      "subject": "Chemistry",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the first conversion chain\",\"minutes\":5},{\"title\":\"Convert problems 1 to 6 using the given conversion factors\",\"minutes\":20},{\"title\":\"Convert problems 7 to 12\",\"minutes\":20},{\"title\":\"Finish the remaining conversions\",\"minutes\":20},{\"title\":\"Check every unit cancels correctly on three problems\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the first conversion chain\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Significant figures practice worksheet",
+      "subject": "Chemistry",
+      "description": "Rounding and operations.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the first measurement\",\"minutes\":5},{\"title\":\"Rewrite problems 1 to 8 with the correct number of significant figures\",\"minutes\":25},{\"title\":\"Calculate problems 9 to 16 and round each answer correctly\",\"minutes\":25},{\"title\":\"Finish the remaining problems\",\"minutes\":20},{\"title\":\"Check five answers against the rules sheet at the top\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the first measurement\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Ideal gas law problem set",
+      "subject": "Chemistry",
+      "description": "PV equals nRT.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the ideal gas law formula\",\"minutes\":5},{\"title\":\"Solve problems 1 to 5 for the missing pressure or volume\",\"minutes\":30},{\"title\":\"Solve problems 6 to 10 for the missing moles or temperature\",\"minutes\":30},{\"title\":\"Finish the remaining problems\",\"minutes\":25},{\"title\":\"Check every unit converts to the right form before solving\",\"minutes\":20}],\"starterAction\":\"Open the packet and copy the ideal gas law formula\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Limiting reactant stoichiometry problem set",
+      "subject": "Chemistry",
+      "description": "Eight problems.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the first balanced equation\",\"minutes\":5},{\"title\":\"Calculate the moles of each reactant for problems 1 to 4\",\"minutes\":30},{\"title\":\"Name the limiting reactant for problems 1 to 4\",\"minutes\":20},{\"title\":\"Calculate moles and name the limiting reactant for problems 5 to 8\",\"minutes\":35},{\"title\":\"Check two answers by calculating the leftover excess reactant\",\"minutes\":20}],\"starterAction\":\"Open the packet and copy the first balanced equation\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Molarity and solution preparation lab",
+      "subject": "Chemistry",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the solution prep steps\",\"minutes\":5},{\"title\":\"Weigh out the solute for the first solution\",\"minutes\":15},{\"title\":\"Record the volume of water added for the first solution\",\"minutes\":15},{\"title\":\"Weigh and record the remaining two solutions\",\"minutes\":30},{\"title\":\"Calculate the molarity of each of the three solutions\",\"minutes\":30},{\"title\":\"Check every calculation against your raw masses\",\"minutes\":15}],\"starterAction\":\"Open your lab notebook to the solution prep steps\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Empirical and molecular formula worksheet",
+      "subject": "Chemistry",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the first set of percentages\",\"minutes\":5},{\"title\":\"Calculate the empirical formula for problems 1 to 4\",\"minutes\":25},{\"title\":\"Calculate the molecular formula for problems 1 to 4\",\"minutes\":25},{\"title\":\"Finish the remaining problems\",\"minutes\":25},{\"title\":\"Check two formulas against the molar mass given\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the first set of percentages\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Titration curve analysis locating the equivalence point",
+      "subject": "AP Chemistry",
+      "description": "Given pH versus volume data.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the pH versus volume data\",\"minutes\":5},{\"title\":\"Plot every data point on the titration curve\",\"minutes\":25},{\"title\":\"Trace the steepest part of the curve with a pencil\",\"minutes\":20},{\"title\":\"Mark the equivalence point at the midpoint of that section\",\"minutes\":20},{\"title\":\"Write the conclusion stating the equivalence volume\",\"minutes\":25}],\"starterAction\":\"Open your lab notebook to the pH versus volume data\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Combined gas law and mole stoichiometry problem set",
+      "subject": "AP Chemistry",
+      "description": "Ten problems.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the first combined gas law problem\",\"minutes\":5},{\"title\":\"Solve problems 1 to 5 for the missing gas variable\",\"minutes\":30},{\"title\":\"Convert the results to moles for problems 1 to 5\",\"minutes\":25},{\"title\":\"Solve and convert the remaining five problems\",\"minutes\":35},{\"title\":\"Check two answers against the units required\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy the first combined gas law problem\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Electrochemistry worksheet on galvanic cell voltage calculations",
+      "subject": "AP Chemistry",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the first cell diagram\",\"minutes\":5},{\"title\":\"Name the anode and cathode for problems 1 to 3\",\"minutes\":20},{\"title\":\"Calculate the cell voltage for problems 1 to 3\",\"minutes\":30},{\"title\":\"Name and calculate the remaining cells\",\"minutes\":35},{\"title\":\"Check every voltage against the standard reduction table\",\"minutes\":20}],\"starterAction\":\"Open the worksheet and copy the first cell diagram\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Reaction rate law determination from experimental data",
+      "subject": "AP Chemistry",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the concentration and rate data\",\"minutes\":5},{\"title\":\"Compare the rate change between trials 1 and 2\",\"minutes\":20},{\"title\":\"Compare the rate change between trials 2 and 3\",\"minutes\":20},{\"title\":\"Write the rate law using both comparisons\",\"minutes\":30},{\"title\":\"Calculate the rate constant from your rate law\",\"minutes\":25},{\"title\":\"Check your rate law against a fourth trial\",\"minutes\":20}],\"starterAction\":\"Open your lab notebook to the concentration and rate data\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Dimensional analysis review packet for lab calculations",
+      "subject": "AP Chemistry",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the first lab measurement\",\"minutes\":5},{\"title\":\"Convert problems 1 to 6 to the requested unit\",\"minutes\":20},{\"title\":\"Convert problems 7 to 12\",\"minutes\":20},{\"title\":\"Finish the remaining conversions\",\"minutes\":20},{\"title\":\"Check every unit cancels correctly\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy the first lab measurement\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Build a circuit and measure resistance with a multimeter",
+      "subject": "Physics",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Gather the battery, wires and resistors for the circuit\",\"minutes\":10},{\"title\":\"Attach the first resistor in a simple loop with the battery\",\"minutes\":15},{\"title\":\"Measure the resistance of the first resistor with the multimeter\",\"minutes\":15},{\"title\":\"Attach and measure the remaining two resistors\",\"minutes\":30},{\"title\":\"Record every reading in a small table\",\"minutes\":15},{\"title\":\"Check one reading against the resistor's printed value\",\"minutes\":15}],\"starterAction\":\"Gather the battery, wires and resistors for the circuit\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Optics ray diagram worksheet on converging and diverging lenses",
+      "subject": "Physics",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the first lens diagram\",\"minutes\":5},{\"title\":\"Draw the two principal rays for problems 1 to 3\",\"minutes\":25},{\"title\":\"Mark the image location for problems 1 to 3\",\"minutes\":20},{\"title\":\"Draw and mark the remaining lens diagrams\",\"minutes\":30},{\"title\":\"Check two images against the lens formula\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the first lens diagram\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Energy conservation problem set on a roller coaster track",
+      "subject": "Physics",
+      "description": "Six problems.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the first track diagram\",\"minutes\":5},{\"title\":\"Label the height at each marked point for problems 1 to 3\",\"minutes\":20},{\"title\":\"Solve problems 1 to 3 for the missing speed\",\"minutes\":30},{\"title\":\"Label and solve problems 4 to 6\",\"minutes\":35},{\"title\":\"Check one answer by comparing energy at the top and bottom\",\"minutes\":20}],\"starterAction\":\"Open the packet and copy the first track diagram\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Impulse-momentum theorem problem set",
+      "subject": "Physics",
+      "description": "Eight problems.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the first collision scenario\",\"minutes\":5},{\"title\":\"Calculate the change in momentum for problems 1 to 4\",\"minutes\":25},{\"title\":\"Calculate the force or time for problems 1 to 4\",\"minutes\":25},{\"title\":\"Finish the remaining problems\",\"minutes\":30},{\"title\":\"Check two answers against the units for impulse\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy the first collision scenario\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Unit conversion worksheet for physics quantities",
+      "subject": "Physics",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the first quantity\",\"minutes\":5},{\"title\":\"Convert problems 1 to 8 to standard units\",\"minutes\":20},{\"title\":\"Convert problems 9 to 16\",\"minutes\":20},{\"title\":\"Finish the remaining conversions\",\"minutes\":20},{\"title\":\"Check every unit against the conversion chart\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the first quantity\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Mirror ray diagram lab on plane and concave mirrors",
+      "subject": "Physics",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Set up the light source and the first mirror on the table\",\"minutes\":10},{\"title\":\"Trace the reflected rays for the plane mirror\",\"minutes\":20},{\"title\":\"Set up the concave mirror at the marked distance\",\"minutes\":15},{\"title\":\"Trace the reflected rays for the concave mirror\",\"minutes\":25},{\"title\":\"Mark where the rays cross to form the image\",\"minutes\":25},{\"title\":\"Check the image location against the mirror formula\",\"minutes\":20}],\"starterAction\":\"Set up the light source and the first mirror on the table\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Derivation of the rotational kinematics equations",
+      "subject": "AP Physics C: Mechanics",
+      "description": "From constant angular acceleration.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and copy the three linear kinematics equations\",\"minutes\":10},{\"title\":\"Write each equation with its rotational variable in place of the linear one\",\"minutes\":25},{\"title\":\"Write the derivation connecting angular velocity to angular acceleration\",\"minutes\":30},{\"title\":\"Write the derivation connecting angle to angular velocity\",\"minutes\":30},{\"title\":\"Check each rotational equation against its linear counterpart\",\"minutes\":15}],\"starterAction\":\"Open your notes and copy the three linear kinematics equations\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Circuit lab measuring series and parallel resistors",
+      "subject": "AP Physics 1",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the circuit data table\",\"minutes\":5},{\"title\":\"Attach the first three resistors in series\",\"minutes\":15},{\"title\":\"Record the current and voltage at each series resistor\",\"minutes\":20},{\"title\":\"Attach the same resistors in parallel\",\"minutes\":15},{\"title\":\"Record the current and voltage for the parallel circuit\",\"minutes\":20},{\"title\":\"Compare the total resistance of both circuits\",\"minutes\":20}],\"starterAction\":\"Open your lab notebook to the circuit data table\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Optics lab measuring the focal length of a converging lens",
+      "subject": "AP Physics 2",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Set up the lens, the light source and the screen on the track\",\"minutes\":10},{\"title\":\"Mark the screen position once the image comes into focus\",\"minutes\":20},{\"title\":\"Record the object and image distances for the first trial\",\"minutes\":15},{\"title\":\"Repeat and record two more trials at different object distances\",\"minutes\":30},{\"title\":\"Calculate the focal length from each trial\",\"minutes\":25},{\"title\":\"Compare your three calculated focal lengths\",\"minutes\":15}],\"starterAction\":\"Set up the lens, the light source and the screen on the track\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Momentum and impulse free-response practice",
+      "subject": "AP Physics 1",
+      "description": "Two prompts.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the practice packet and read the first free-response prompt\",\"minutes\":10},{\"title\":\"Write the momentum equation each part of the first prompt needs\",\"minutes\":20},{\"title\":\"Solve the first prompt and show every step\",\"minutes\":35},{\"title\":\"Read the second prompt and solve it the same way\",\"minutes\":40},{\"title\":\"Check both solutions against the scoring guidelines\",\"minutes\":20}],\"starterAction\":\"Open the practice packet and read the first free-response prompt\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Work-energy theorem derivation and problem set",
+      "subject": "AP Physics C: Mechanics",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and copy the definition of work as force times distance\",\"minutes\":10},{\"title\":\"Write the derivation connecting work to the change in kinetic energy\",\"minutes\":30},{\"title\":\"Solve problems 1 to 3 using the derived theorem\",\"minutes\":30},{\"title\":\"Solve the remaining problems\",\"minutes\":30},{\"title\":\"Check one answer using the kinematics equations instead\",\"minutes\":20}],\"starterAction\":\"Open your notes and copy the definition of work as force times distance\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Fluid pressure and buoyancy problem set",
+      "subject": "AP Physics 2",
+      "description": "Eight problems.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the first fluid pressure problem\",\"minutes\":5},{\"title\":\"Solve problems 1 to 4 for the pressure at a given depth\",\"minutes\":30},{\"title\":\"Solve problems 5 to 8 for the buoyant force on the object\",\"minutes\":30},{\"title\":\"Finish any problems left over\",\"minutes\":20},{\"title\":\"Check two answers against the density given in the problem\",\"minutes\":20}],\"starterAction\":\"Open the packet and copy the first fluid pressure problem\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Nephron structure labeling diagram",
+      "subject": "Anatomy and Physiology",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the textbook to the nephron diagram\",\"minutes\":5},{\"title\":\"Sketch the outline of the nephron in pencil\",\"minutes\":20},{\"title\":\"Label every structure from the glomerulus to the collecting duct\",\"minutes\":30},{\"title\":\"Draw an arrow showing the direction filtrate flows\",\"minutes\":20},{\"title\":\"Check your labels against the textbook\",\"minutes\":15}],\"starterAction\":\"Open the textbook to the nephron diagram\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Endocrine system gland labeling diagram",
+      "subject": "Anatomy and Physiology",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the textbook to the endocrine system diagram\",\"minutes\":5},{\"title\":\"Sketch the outline of the body in pencil\",\"minutes\":15},{\"title\":\"Label the first six glands in their locations\",\"minutes\":25},{\"title\":\"Label the remaining glands\",\"minutes\":20},{\"title\":\"Write the main hormone next to each gland\",\"minutes\":25},{\"title\":\"Check your labels against the textbook\",\"minutes\":15}],\"starterAction\":\"Open the textbook to the endocrine system diagram\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Bone tissue microscope slide sketch and labeling",
+      "subject": "Anatomy and Physiology",
+      "description": "Compact bone cross-section.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the microscope and find the bone tissue slide\",\"minutes\":5},{\"title\":\"Turn the focus knob until the structure appears\",\"minutes\":10},{\"title\":\"Sketch the ring pattern you can see\",\"minutes\":25},{\"title\":\"Label the central canal and the surrounding rings\",\"minutes\":25},{\"title\":\"Check your drawing against the diagram in the packet\",\"minutes\":15}],\"starterAction\":\"Open the microscope and find the bone tissue slide\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Lung volume data analysis lab",
+      "subject": "Anatomy and Physiology",
+      "description": "Given spirometer printout.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab packet to the spirometer printout\",\"minutes\":5},{\"title\":\"Copy the four volume readings into the data table\",\"minutes\":20},{\"title\":\"Calculate the vital capacity from the readings\",\"minutes\":25},{\"title\":\"Calculate the tidal volume from the readings\",\"minutes\":25},{\"title\":\"Write the conclusion comparing your values to the typical range given\",\"minutes\":25}],\"starterAction\":\"Open your lab packet to the spirometer printout\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Case study on a bone fracture healing timeline",
+      "subject": "Anatomy and Physiology",
+      "description": "One page.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and find the timeline requirements\",\"minutes\":10},{\"title\":\"List the four stages of bone healing in order\",\"minutes\":20},{\"title\":\"Draft the first two stages in full sentences\",\"minutes\":25},{\"title\":\"Draft the remaining two stages\",\"minutes\":25},{\"title\":\"Read the timeline aloud and smooth out any rough sentence\",\"minutes\":20}],\"starterAction\":\"Open the assignment sheet and find the timeline requirements\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Dissolved oxygen and nitrate testing at the stream",
+      "subject": "Environmental Science",
+      "description": "Three sites.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the data table for the three testing sites\",\"minutes\":5},{\"title\":\"Measure the dissolved oxygen at the first site\",\"minutes\":20},{\"title\":\"Measure the nitrate level at the first site\",\"minutes\":15},{\"title\":\"Measure both readings at the remaining two sites\",\"minutes\":35},{\"title\":\"Compare the three sites and note any pattern\",\"minutes\":20}],\"starterAction\":\"Print the data table for the three testing sites\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Macroinvertebrate bioindicator survey",
+      "subject": "Environmental Science",
+      "description": "Stream sample.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the identification key for the survey\",\"minutes\":5},{\"title\":\"Collect the stream sample in the tray\",\"minutes\":15},{\"title\":\"Sort the organisms in the sample into groups\",\"minutes\":25},{\"title\":\"Match each group to the identification key\",\"minutes\":25},{\"title\":\"Calculate the water quality score from your groups\",\"minutes\":25}],\"starterAction\":\"Print the identification key for the survey\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Transect line vegetation survey across the field",
+      "subject": "Environmental Science",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the field guide to the plant identification pages\",\"minutes\":5},{\"title\":\"Lay the measuring tape across the field in a straight line\",\"minutes\":15},{\"title\":\"Name every plant touching the tape for the first half\",\"minutes\":25},{\"title\":\"Name the plants touching the tape for the second half\",\"minutes\":25},{\"title\":\"Record every name in a data table\",\"minutes\":20},{\"title\":\"Compare the two halves and note any pattern\",\"minutes\":20}],\"starterAction\":\"Open the field guide to the plant identification pages\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Ecological footprint spreadsheet model",
+      "subject": "Environmental Science",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the spreadsheet template and enter your household size\",\"minutes\":10},{\"title\":\"Enter your weekly transportation habits into the model\",\"minutes\":20},{\"title\":\"Enter your weekly food and energy habits\",\"minutes\":20},{\"title\":\"Calculate your total footprint score\",\"minutes\":25},{\"title\":\"Compare your score to the national average given in the template\",\"minutes\":20}],\"starterAction\":\"Open the spreadsheet template and enter your household size\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Environmental impact case study on a local land-use change",
+      "subject": "Environmental Science",
+      "description": "One page.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a map or photo showing the site before the change\",\"minutes\":10},{\"title\":\"Write down three ways the land is used differently now\",\"minutes\":20},{\"title\":\"Draft the opening paragraph describing the change itself\",\"minutes\":25},{\"title\":\"Draft the impact paragraphs using your three differences\",\"minutes\":30},{\"title\":\"Read the case study aloud and fix anything unclear\",\"minutes\":15}],\"starterAction\":\"Open a map or photo showing the site before the change\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Mohs hardness scale mineral identification lab",
+      "subject": "Earth Science",
+      "description": "Eight samples.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the hardness scale reference sheet\",\"minutes\":5},{\"title\":\"Press a fingernail, a coin and a nail against the first four samples\",\"minutes\":25},{\"title\":\"Record the hardest tool that scratches each of those four\",\"minutes\":15},{\"title\":\"Press and record the remaining four samples the same way\",\"minutes\":30},{\"title\":\"Match each sample's hardness number to a mineral name\",\"minutes\":25},{\"title\":\"Check two names against the streak test in the packet\",\"minutes\":20}],\"starterAction\":\"Print the hardness scale reference sheet\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Barometric pressure and cloud-type logging over one week",
+      "subject": "Earth Science",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the log template for the week\",\"minutes\":5},{\"title\":\"Record the barometric pressure each morning for the first three days\",\"minutes\":20},{\"title\":\"Record the cloud type each morning for the first three days\",\"minutes\":20},{\"title\":\"Record both readings for the remaining four days\",\"minutes\":30},{\"title\":\"Graph the pressure across the whole week\",\"minutes\":20}],\"starterAction\":\"Print the log template for the week\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Stream erosion model using a sand table",
+      "subject": "Earth Science",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Gather the sand, water and tubing for the model\",\"minutes\":10},{\"title\":\"Build a sloped pile of sand with a channel down the middle\",\"minutes\":20},{\"title\":\"Pour water down the channel at a steady rate\",\"minutes\":20},{\"title\":\"Photograph the channel every two minutes as it changes\",\"minutes\":25},{\"title\":\"Sketch the final shape of the eroded channel\",\"minutes\":20},{\"title\":\"Write one sentence comparing the start and end shape\",\"minutes\":15}],\"starterAction\":\"Gather the sand, water and tubing for the model\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Seismograph reading worksheet on locating an earthquake epicenter",
+      "subject": "Earth Science",
+      "description": "Three station readings.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the first station's arrival times\",\"minutes\":10},{\"title\":\"Calculate the distance to the epicenter for station 1\",\"minutes\":20},{\"title\":\"Calculate the distance for stations 2 and 3\",\"minutes\":25},{\"title\":\"Draw a circle of that radius around each station on the map\",\"minutes\":25},{\"title\":\"Circle the point where all three circles cross\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the first station's arrival times\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Water cycle diagram with reservoirs and fluxes labeled",
+      "subject": "Earth Science",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes on the water cycle processes\",\"minutes\":10},{\"title\":\"Sketch the ocean, clouds and land as three regions\",\"minutes\":20},{\"title\":\"Draw an arrow for every step moving water between regions\",\"minutes\":25},{\"title\":\"Label each arrow with the correct step name\",\"minutes\":25},{\"title\":\"Check your diagram against your notes\",\"minutes\":15}],\"starterAction\":\"Open your notes on the water cycle processes\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Groundwater and aquifer diagram labeling",
+      "subject": "Earth Science",
+      "description": "Cross-section view.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the textbook to the aquifer cross-section diagram\",\"minutes\":5},{\"title\":\"Sketch the layers of soil and rock in pencil\",\"minutes\":20},{\"title\":\"Shade the layer that holds the groundwater\",\"minutes\":15},{\"title\":\"Label the water table and every rock layer\",\"minutes\":25},{\"title\":\"Check your diagram against the textbook\",\"minutes\":15}],\"starterAction\":\"Open the textbook to the aquifer cross-section diagram\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Meteor shower observation log for one night",
+      "subject": "Astronomy",
+      "description": "Count and time every meteor seen.",
+      "duePhrase": "in 10 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the log template for the night\",\"minutes\":5},{\"title\":\"Set a timer for a twenty-minute viewing block\",\"minutes\":5},{\"title\":\"Tally every meteor you see during the block\",\"minutes\":25},{\"title\":\"Record the time of the three brightest meteors\",\"minutes\":20},{\"title\":\"Repeat the twenty-minute block one more time\",\"minutes\":25}],\"starterAction\":\"Print the log template for the night\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Sunspot tracking log using projected solar images",
+      "subject": "Astronomy",
+      "description": "Five days.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Set up the telescope to project the sun's image onto paper\",\"minutes\":10},{\"title\":\"Trace the outline of the sun's disk on day one\",\"minutes\":15},{\"title\":\"Mark every visible sunspot on day one's tracing\",\"minutes\":15},{\"title\":\"Trace and mark the remaining four days\",\"minutes\":35},{\"title\":\"Compare the sunspot positions across the five tracings\",\"minutes\":20}],\"starterAction\":\"Set up the telescope to project the sun's image onto paper\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Hertzsprung-Russell diagram plotting worksheet",
+      "subject": "Astronomy",
+      "description": "Twelve stars given.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the first star's data\",\"minutes\":5},{\"title\":\"Plot the first six stars by temperature and luminosity\",\"minutes\":25},{\"title\":\"Plot the remaining six stars\",\"minutes\":25},{\"title\":\"Circle the group of stars that falls on the main sequence\",\"minutes\":20},{\"title\":\"Check two plotted points against the data table\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the first star's data\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Kepler's laws problem set",
+      "subject": "Astronomy",
+      "description": "Orbital period and distance.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the first planet's orbital data\",\"minutes\":5},{\"title\":\"Calculate the orbital period for problems 1 to 4\",\"minutes\":25},{\"title\":\"Calculate the distance for problems 5 to 8\",\"minutes\":25},{\"title\":\"Finish the remaining problems\",\"minutes\":20},{\"title\":\"Check one answer against earth's known orbital values\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy the first planet's orbital data\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Light curve graphing for a variable star",
+      "subject": "Astronomy",
+      "description": "Given brightness data over ten nights.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your data table of nightly brightness readings\",\"minutes\":5},{\"title\":\"Plot the first five nights on the light curve\",\"minutes\":20},{\"title\":\"Plot the remaining five nights\",\"minutes\":20},{\"title\":\"Draw a smooth line connecting the points\",\"minutes\":20},{\"title\":\"Circle the night with the dimmest reading\",\"minutes\":15},{\"title\":\"Write one sentence describing the pattern you see\",\"minutes\":20}],\"starterAction\":\"Open your data table of nightly brightness readings\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Aquarium water quality testing for pH, ammonia and nitrite",
+      "subject": "Marine Biology",
+      "description": "Classroom tank.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the data table for the aquarium test\",\"minutes\":5},{\"title\":\"Measure the pH of the tank water\",\"minutes\":15},{\"title\":\"Measure the ammonia level of the tank water\",\"minutes\":15},{\"title\":\"Measure the nitrite level the same way\",\"minutes\":15},{\"title\":\"Record all three readings in the data table\",\"minutes\":15},{\"title\":\"Compare your readings to the safe range on the chart\",\"minutes\":20}],\"starterAction\":\"Print the data table for the aquarium test\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Fish dichotomous key identification lab",
+      "subject": "Marine Biology",
+      "description": "Six preserved specimens.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the identification key for the six specimens\",\"minutes\":5},{\"title\":\"Measure the length and fin shape of the first specimen\",\"minutes\":20},{\"title\":\"Match the first three specimens to a name using the key\",\"minutes\":25},{\"title\":\"Match the remaining three specimens the same way\",\"minutes\":25},{\"title\":\"Record every species name on the lab sheet\",\"minutes\":15}],\"starterAction\":\"Print the identification key for the six specimens\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Marine mammal adaptation case study",
+      "subject": "Marine Biology",
+      "description": "One page, one species.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Search for two sources on the marine mammal you picked\",\"minutes\":30},{\"title\":\"List three physical adaptations the sources describe\",\"minutes\":20},{\"title\":\"List two behavioral adaptations the sources describe\",\"minutes\":20},{\"title\":\"Draft the paragraph explaining each adaptation's purpose\",\"minutes\":35},{\"title\":\"Read the case study aloud and fix anything unclear\",\"minutes\":15}],\"starterAction\":\"Search for two sources on the marine mammal you picked\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Wave and tide data logging at the beach",
+      "subject": "Marine Biology",
+      "description": "Two visits.",
+      "duePhrase": "in 10 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the log template for both beach visits\",\"minutes\":5},{\"title\":\"Time ten waves as they reach the shore on the first visit\",\"minutes\":20},{\"title\":\"Record the tide height marked on the post for the first visit\",\"minutes\":15},{\"title\":\"Time waves and record tide height on the second visit\",\"minutes\":30},{\"title\":\"Graph the wave timing from both visits side by side\",\"minutes\":20}],\"starterAction\":\"Print the log template for both beach visits\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Shark tooth measurement and identification lab",
+      "subject": "Marine Biology",
+      "description": "Eight fossil teeth.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the lab tray and count the eight teeth given\",\"minutes\":5},{\"title\":\"Measure the length of the first four teeth with calipers\",\"minutes\":25},{\"title\":\"Measure the length of the remaining four teeth\",\"minutes\":25},{\"title\":\"Match each tooth's shape to the identification chart\",\"minutes\":30},{\"title\":\"Check two matches against a classmate's measurements\",\"minutes\":15}],\"starterAction\":\"Open the lab tray and count the eight teeth given\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "DNA gel electrophoresis band pattern analysis worksheet",
+      "subject": "Forensic Science",
+      "description": "Given gel photo, four samples.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the gel photo provided\",\"minutes\":5},{\"title\":\"Measure the distance each band travelled for sample 1\",\"minutes\":20},{\"title\":\"Measure the distance for samples 2 to 4\",\"minutes\":25},{\"title\":\"Match the suspect samples to the crime-scene sample\",\"minutes\":25},{\"title\":\"Write one sentence explaining your match\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the gel photo provided\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Toxicology case data interpretation worksheet",
+      "subject": "Forensic Science",
+      "description": "Given blood alcohol data table.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the blood alcohol data table\",\"minutes\":5},{\"title\":\"Graph the alcohol level against time for the first case\",\"minutes\":20},{\"title\":\"Graph the second case on the same axes\",\"minutes\":20},{\"title\":\"Circle the peak concentration for each case\",\"minutes\":15},{\"title\":\"Write one sentence comparing the two peaks\",\"minutes\":20}],\"starterAction\":\"Open the worksheet and copy the blood alcohol data table\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Trace evidence hair and fiber comparison lab",
+      "subject": "Forensic Science",
+      "description": "Microscope slides.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the microscope and find the first hair sample\",\"minutes\":5},{\"title\":\"Sketch the scale pattern you see on the first hair\",\"minutes\":20},{\"title\":\"Sketch the pattern on the comparison hair\",\"minutes\":20},{\"title\":\"Compare the two sketches for a match\",\"minutes\":20},{\"title\":\"Repeat the same comparison for the two fiber samples\",\"minutes\":25},{\"title\":\"Record your conclusion for both comparisons\",\"minutes\":15}],\"starterAction\":\"Open the microscope and find the first hair sample\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Bite mark measurement and comparison worksheet",
+      "subject": "Forensic Science",
+      "description": "Given mold and suspect dental charts.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the bite mark measurements given\",\"minutes\":5},{\"title\":\"Measure the width between the marked teeth\",\"minutes\":20},{\"title\":\"Compare the measurements to suspect chart 1\",\"minutes\":20},{\"title\":\"Compare the measurements to suspect chart 2\",\"minutes\":20},{\"title\":\"Circle the chart that matches most closely\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the bite mark measurements given\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Ballistics trajectory angle calculation worksheet",
+      "subject": "Forensic Science",
+      "description": "Given entry and exit heights.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the first entry and exit height\",\"minutes\":5},{\"title\":\"Calculate the trajectory angle for problems 1 to 4\",\"minutes\":25},{\"title\":\"Calculate the angle for problems 5 to 8\",\"minutes\":25},{\"title\":\"Finish the remaining problems\",\"minutes\":20},{\"title\":\"Check one angle against the diagram provided\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the first entry and exit height\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Trace a binary search algorithm by hand on paper",
+      "subject": "Computer Science",
+      "description": "Given a sorted list of sixteen numbers.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the sorted list of sixteen numbers across the top of the page\",\"minutes\":5},{\"title\":\"Circle the middle number and compare it to the target\",\"minutes\":10},{\"title\":\"Cross out the half of the list that cannot contain the target\",\"minutes\":10},{\"title\":\"Repeat the circle-and-cross steps until one number is left\",\"minutes\":25},{\"title\":\"Check that the number left is the actual target\",\"minutes\":10}],\"starterAction\":\"Write the sorted list of sixteen numbers across the top of the page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Debug the failing test in the temperature-conversion function",
+      "subject": "Computer Science",
+      "description": "Fahrenheit to Celsius.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the project file and find the conversion function\",\"minutes\":5},{\"title\":\"Run the test and copy down the exact failure message\",\"minutes\":10},{\"title\":\"Read through the formula line by line on paper\",\"minutes\":15},{\"title\":\"Fix the operator that is applying in the wrong order\",\"minutes\":20},{\"title\":\"Run the test again and check it passes\",\"minutes\":15}],\"starterAction\":\"Open the project file and find the conversion function\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "CAD drawing of a bracket part with labeled measurements",
+      "subject": "Computer Science",
+      "description": "Three views, to scale.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the CAD program and start a new file\",\"minutes\":10},{\"title\":\"Draw the front view of the bracket to scale\",\"minutes\":25},{\"title\":\"Draw the side view lined up with the front view\",\"minutes\":25},{\"title\":\"Draw the top view and add every measurement\",\"minutes\":30},{\"title\":\"Check two measurements against the paper sketch you started from\",\"minutes\":20}],\"starterAction\":\"Open the CAD program and start a new file\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Calibrate a temperature sensor against a reference thermometer",
+      "subject": "Computer Science",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the sensor code and find the calibration constant\",\"minutes\":5},{\"title\":\"Record the sensor's reading next to the thermometer's reading\",\"minutes\":15},{\"title\":\"Record three more paired readings at different temperatures\",\"minutes\":25},{\"title\":\"Calculate the average difference between the two readings\",\"minutes\":20},{\"title\":\"Update the calibration constant in the code\",\"minutes\":20},{\"title\":\"Run the sensor again and check it matches the thermometer\",\"minutes\":20}],\"starterAction\":\"Open the sensor code and find the calibration constant\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Slice and prepare a 3D model file for printing",
+      "subject": "Computer Science",
+      "description": "Given a finished design file.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the design file in the slicing program\",\"minutes\":5},{\"title\":\"Set the layer height and infill percentage\",\"minutes\":15},{\"title\":\"Watch the preview and check for any floating parts\",\"minutes\":20},{\"title\":\"Add support material under any floating part\",\"minutes\":20},{\"title\":\"Save the sliced file to the printer's memory card\",\"minutes\":15},{\"title\":\"Check the estimated print time before printing\",\"minutes\":15}],\"starterAction\":\"Open the design file in the slicing program\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Build a flowchart for a simple decision-making algorithm",
+      "subject": "Computer Science",
+      "description": "If-else logic, five steps.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a blank page and write the starting condition at the top\",\"minutes\":10},{\"title\":\"Draw a diamond shape for the first decision point\",\"minutes\":15},{\"title\":\"Draw the two paths leading out of the diamond\",\"minutes\":20},{\"title\":\"Draw a box for each action along both paths\",\"minutes\":25},{\"title\":\"Check that every path ends at a final box\",\"minutes\":15}],\"starterAction\":\"Open a blank page and write the starting condition at the top\"}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Whiteboard photo: sig figs quiz Friday, dimensional analysis worksheet due the following Monday",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Sig figs quiz\",\"dueInDays\":4,\"subject\":\"Chemistry\"},{\"title\":\"Dimensional analysis worksheet\",\"dueInDays\":7,\"subject\":\"Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "AP Chem syllabus block: titration curve lab is Thursday, electrochemistry worksheet due the following Tuesday, unit test two weeks after that.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Titration curve lab\",\"dueInDays\":3,\"subject\":\"AP Chemistry\"},{\"title\":\"Electrochemistry worksheet\",\"dueInDays\":8,\"subject\":\"AP Chemistry\"},{\"title\":\"Unit test\",\"dueInDays\":22,\"subject\":\"AP Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Physics group chat: is the circuit lab report due tomorrow or Friday? pretty sure tomorrow",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Circuit lab report\",\"dueInDays\":1,\"subject\":\"Physics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Email from your AP Physics teacher: you missed today's momentum and impulse lecture, free-response practice still due in 3 days with the rest of the class.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Momentum and impulse free-response practice\",\"dueInDays\":3,\"subject\":\"AP Physics 1\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "AP Physics C lab rotation schedule: mechanics group A tests Monday, group B tests Wednesday, work-energy problem set due for everyone Friday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Work-energy problem set\",\"dueInDays\":4,\"subject\":\"AP Physics C\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Whiteboard photo: endocrine diagram due Thursday, quiz on glands the following Monday",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Endocrine gland diagram\",\"dueInDays\":3,\"subject\":\"Anatomy and Physiology\"},{\"title\":\"Quiz on glands\",\"dueInDays\":7,\"subject\":\"Anatomy and Physiology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Env sci group chat: did the teacher say the dissolved oxygen testing got moved from Wednesday to Thursday? footprint spreadsheet still due Friday",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Dissolved oxygen testing\",\"dueInDays\":3,\"subject\":\"Environmental Science\"},{\"title\":\"Footprint spreadsheet\",\"dueInDays\":4,\"subject\":\"Environmental Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Earth Science syllabus excerpt: seismograph worksheet due in 2 days, mineral identification lab the following week, unit test three days after that.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Seismograph worksheet\",\"dueInDays\":2,\"subject\":\"Earth Science\"},{\"title\":\"Mineral identification lab\",\"dueInDays\":9,\"subject\":\"Earth Science\"},{\"title\":\"Unit test\",\"dueInDays\":12,\"subject\":\"Earth Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Email from your astronomy teacher: the meteor shower observation got pushed a night for weather, log still due in 10 days like the syllabus says.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Meteor shower observation log\",\"dueInDays\":10,\"subject\":\"Astronomy\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Marine Biology posted calendar: aquarium testing Tuesday, fish key lab Thursday, tooth measurement lab due the following Monday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Aquarium testing\",\"dueInDays\":1,\"subject\":\"Marine Biology\"},{\"title\":\"Fish key lab\",\"dueInDays\":3,\"subject\":\"Marine Biology\"},{\"title\":\"Tooth measurement lab\",\"dueInDays\":7,\"subject\":\"Marine Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Whiteboard photo: DNA electrophoresis worksheet due tomorrow, toxicology worksheet due Friday",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"DNA electrophoresis worksheet\",\"dueInDays\":1,\"subject\":\"Forensic Science\"},{\"title\":\"Toxicology worksheet\",\"dueInDays\":4,\"subject\":\"Forensic Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "CS group chat: does the debugging assignment count as the same grade as the CAD drawing? both still due Friday right?",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Debugging assignment\",\"dueInDays\":4,\"subject\":\"Computer Science\"},{\"title\":\"CAD drawing\",\"dueInDays\":4,\"subject\":\"Computer Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Computer Science syllabus block: sensor calibration lab due in 2 days, 3D printing project due the following week.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Sensor calibration lab\",\"dueInDays\":2,\"subject\":\"Computer Science\"},{\"title\":\"3D printing project\",\"dueInDays\":9,\"subject\":\"Computer Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Chemistry: no lab today, fire drill took the whole period. Pick up where we left off tomorrow.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "AP Physics group chat: fluid pressure set due Weds, optics lab write-up pushed to the following Monday",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Fluid pressure set\",\"dueInDays\":2,\"subject\":\"AP Physics 2\"},{\"title\":\"Optics lab write-up\",\"dueInDays\":7,\"subject\":\"AP Physics 2\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Email from your earth science teacher: you missed the hardness scale lab, makeup slot is during lunch this week, worksheet still due Friday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Mineral hardness lab makeup\",\"dueInDays\":4,\"subject\":\"Earth Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Marine Biology field trip to the aquarium is next Wednesday. Permission slip and eight dollars due Friday. Shark tooth lab moved up to the same week.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Permission slip\",\"dueInDays\":4,\"subject\":\"Marine Biology\"},{\"title\":\"Shark tooth lab\",\"dueInDays\":7,\"subject\":\"Marine Biology\"}]}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Perform a rigorous dimensional analysis to convert between the given units",
+      "description": "Show all work."
+    },
+    "completion": "{\"title\":\"Write down the starting unit\",\"explanation\":\"Copy the number and the unit you are starting with onto a fresh line. Every conversion after this is just multiplying that one number by fractions that cancel the unit out.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Critically evaluate the titration curve to determine the equivalence point",
+      "description": null
+    },
+    "completion": "{\"title\":\"Find the steepest part of the curve\",\"explanation\":\"Look at your graph and find the section where the line rises almost straight up. That steep jump is roughly where the equivalence point sits, before you calculate anything more exact.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Construct a comprehensive ray diagram illustrating the path of light through the lens",
+      "description": null
+    },
+    "completion": "{\"title\":\"Draw one small lens shape\",\"explanation\":\"Draw a simple vertical line down the middle of your page to stand for the lens. That line is the whole diagram so far, every ray you add after this starts from the object and hits that line.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Rigorously derive the equations governing rotational kinematics from first principles",
+      "description": null
+    },
+    "completion": "{\"title\":\"Copy the three linear equations first\",\"explanation\":\"Write down the three motion equations you already know for straight-line motion. The rotational versions come from swapping in the angular version of each linear quantity, one at a time.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Analyze the seismographic data to triangulate the epicenter of the earthquake",
+      "description": null
+    },
+    "completion": "{\"title\":\"Circle the first station on the map\",\"explanation\":\"Find the first recording station on your map and circle it. Every other step in this assignment is just drawing one circle like that around each station in turn.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Critically interpret the Hertzsprung-Russell diagram to classify stellar populations",
+      "description": null
+    },
+    "completion": "{\"title\":\"Find one star on the diagram\",\"explanation\":\"Pick any single star plotted on the diagram and put your finger on it. Everything else the assignment asks is just describing where that one point sits compared to the rest.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Systematically evaluate the trace evidence to establish a forensic link",
+      "description": null
+    },
+    "completion": "{\"title\":\"List the two samples you are comparing\",\"explanation\":\"Write down what the two samples are, in one phrase each, on separate lines. Everything the assignment asks after this is just comparing those two things one feature at a time.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Debug and optimize the algorithm to resolve the failing test case",
+      "description": null
+    },
+    "completion": "{\"title\":\"Run the test and read the error\",\"explanation\":\"Run the failing test once and copy down the exact error message it prints. That message almost always says which line to look at first.\"}"
+  }
+]

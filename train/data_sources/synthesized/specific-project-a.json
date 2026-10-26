@@ -1,0 +1,937 @@
+[
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Narrow the assigned topic on Cold War proxy wars into one research question",
+      "subject": "AP US History",
+      "description": null,
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and find the list of eligible topics\",\"minutes\":5},{\"title\":\"List three proxy wars you could research\",\"minutes\":10},{\"title\":\"Write down one question about each war that interests you\",\"minutes\":20},{\"title\":\"Circle the question naming one specific country and outcome\",\"minutes\":10},{\"title\":\"Rewrite that question so it can be answered with sources, not just facts\",\"minutes\":15}],\"starterAction\":\"Open the assignment sheet and find the list of eligible topics\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Find and print five sources for the immigration policy research paper",
+      "subject": "AP Government",
+      "description": "Sources due before the outline.",
+      "duePhrase": "in 10 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the folder of approved source lists\",\"minutes\":5},{\"title\":\"List the first two source titles you will use\",\"minutes\":15},{\"title\":\"Print the first two sources\",\"minutes\":15},{\"title\":\"Print the remaining three sources\",\"minutes\":15},{\"title\":\"Highlight one usable quote in each source\",\"minutes\":25}],\"starterAction\":\"Open the folder of approved source lists\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Draft the thesis statement for the renewable-energy research paper",
+      "subject": "AP Environmental Science",
+      "description": null,
+      "duePhrase": "in 12 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and reread the prompt's key question\",\"minutes\":5},{\"title\":\"List three possible arguments you could make\",\"minutes\":15},{\"title\":\"Circle the argument you can support with the most sources\",\"minutes\":10},{\"title\":\"Draft one sentence stating that argument as your thesis\",\"minutes\":20},{\"title\":\"Read the thesis aloud and check it names your specific stance\",\"minutes\":10}],\"starterAction\":\"Open the assignment sheet and reread the prompt's key question\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Outline the five sections of the research paper on the Silk Road",
+      "subject": "AP World History",
+      "description": "Outline due before the draft.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the outline template\",\"minutes\":5},{\"title\":\"Write the one-sentence claim for the introduction section\",\"minutes\":15},{\"title\":\"List the three main points for the body sections\",\"minutes\":20},{\"title\":\"Write one supporting detail under each main point\",\"minutes\":25},{\"title\":\"Note the one-sentence summary for the conclusion section\",\"minutes\":15}],\"starterAction\":\"Open the outline template\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write the introduction paragraph for the paper on the fall of Rome",
+      "subject": "World History",
+      "description": null,
+      "duePhrase": "in 6 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your outline and find the introduction section\",\"minutes\":5},{\"title\":\"Write the opening line naming the topic\",\"minutes\":15},{\"title\":\"Write two sentences giving background on the fall of Rome\",\"minutes\":20},{\"title\":\"Write the closing sentence stating your thesis\",\"minutes\":15},{\"title\":\"Read the paragraph aloud and check the thesis matches your outline\",\"minutes\":10}],\"starterAction\":\"Open your outline and find the introduction section\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Format the works-cited page for the paper on media bias",
+      "subject": "AP Language and Composition",
+      "description": "MLA format.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the paper and find every in-text citation\",\"minutes\":10},{\"title\":\"Copy the first three source names into a blank page\",\"minutes\":15},{\"title\":\"Write the entry for each of the first three sources\",\"minutes\":20},{\"title\":\"Note the entry for the remaining sources\",\"minutes\":20},{\"title\":\"Sort every entry alphabetically by author\",\"minutes\":10}],\"starterAction\":\"Open the paper and find every in-text citation\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Revise the body paragraphs of the voting-age research paper to add counterarguments",
+      "subject": "AP Government",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the draft and find the first body paragraph\",\"minutes\":5},{\"title\":\"Underline every sentence that lacks an opposing view\",\"minutes\":15},{\"title\":\"Write one counterargument sentence for the first paragraph\",\"minutes\":20},{\"title\":\"Write one counterargument sentence for the second paragraph\",\"minutes\":20},{\"title\":\"Read both paragraphs aloud and check each now has a counterargument\",\"minutes\":15}],\"starterAction\":\"Open the draft and find the first body paragraph\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write the annotated bibliography entry for the first source on urban heat islands",
+      "subject": "AP Environmental Science",
+      "description": "One entry today.",
+      "duePhrase": "in 9 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the first source and find its publication date\",\"minutes\":5},{\"title\":\"Write the citation in the correct format\",\"minutes\":15},{\"title\":\"Write two sentences summarizing the source's main finding\",\"minutes\":20},{\"title\":\"Write one sentence on how you will use the source\",\"minutes\":15}],\"starterAction\":\"Open the first source and find its publication date\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "research paper: pick a topic on space exploration policy",
+      "subject": "AP Government",
+      "description": null,
+      "duePhrase": "in a month",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and reread the list of allowed topics\",\"minutes\":5},{\"title\":\"List three space-policy topics that interest you\",\"minutes\":15},{\"title\":\"Circle the one topic with the most available sources\",\"minutes\":10}],\"starterAction\":\"Open the assignment sheet and reread the list of allowed topics\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write the conclusion paragraph for the paper on ocean plastic policy",
+      "subject": "AP Environmental Science",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the draft and find the last body paragraph\",\"minutes\":5},{\"title\":\"Write a sentence restating your thesis in new words\",\"minutes\":15},{\"title\":\"Write two sentences on the policy change you recommend\",\"minutes\":20},{\"title\":\"Read the conclusion aloud and check it does not repeat the intro word for word\",\"minutes\":15}],\"starterAction\":\"Open the draft and find the last body paragraph\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write the methods section for the pendulum-period lab",
+      "subject": "Physics",
+      "description": "Tested three lengths of string.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the lab packet and find the materials list\",\"minutes\":5},{\"title\":\"List the three lengths of string you tested\",\"minutes\":15},{\"title\":\"Write one sentence on how you measured each swing time\",\"minutes\":20},{\"title\":\"Write a closing sentence on how many trials you ran per length\",\"minutes\":15}],\"starterAction\":\"Open the lab packet and find the materials list\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Graph the titration results for the acid-base lab",
+      "subject": "Chemistry",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the data table from the titration lab\",\"minutes\":5},{\"title\":\"Plot the first five data points on the graph\",\"minutes\":20},{\"title\":\"Plot the remaining data points\",\"minutes\":20},{\"title\":\"Draw a line connecting the points in order\",\"minutes\":10},{\"title\":\"Label both axes with the correct units\",\"minutes\":10}],\"starterAction\":\"Open the data table from the titration lab\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write the discussion section for the osmosis potato-strip lab",
+      "subject": "Biology",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the data table showing each strip mass change\",\"minutes\":5},{\"title\":\"Write down whether the salt-water strip mass went up or down\",\"minutes\":15},{\"title\":\"Write one sentence explaining that result using osmosis\",\"minutes\":20},{\"title\":\"Write one sentence explaining what happened to the plain-water strip\",\"minutes\":20},{\"title\":\"Write a closing sentence on one source of error in the measurements\",\"minutes\":20}],\"starterAction\":\"Open the data table showing each strip mass change\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Draw the circuit diagram for the parallel-resistor lab",
+      "subject": "Physics",
+      "description": "Circuit has three resistors in parallel.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the lab packet and find the resistor values\",\"minutes\":5},{\"title\":\"Draw the battery and the first two resistors\",\"minutes\":20},{\"title\":\"Draw the remaining resistor and connect all branches\",\"minutes\":20},{\"title\":\"Label each resistor with its measured value\",\"minutes\":15}],\"starterAction\":\"Open the lab packet and find the resistor values\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Rewrite the hypothesis section flagged on the returned enzyme lab",
+      "subject": "Biology",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the returned lab report and find the grader comment\",\"minutes\":5},{\"title\":\"Reread the original hypothesis the comment flagged\",\"minutes\":10},{\"title\":\"Write a new hypothesis that names both variables\",\"minutes\":20},{\"title\":\"Write one sentence on why the new version is testable\",\"minutes\":15}],\"starterAction\":\"Open the returned lab report and find the grader comment\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write the abstract for the momentum-collision lab report",
+      "subject": "Physics",
+      "description": "Four sentences.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the finished lab report and find the results section\",\"minutes\":5},{\"title\":\"Write one sentence stating the lab purpose\",\"minutes\":15},{\"title\":\"Write one sentence stating the method in brief\",\"minutes\":15},{\"title\":\"Write two sentences stating the result and its meaning\",\"minutes\":20}],\"starterAction\":\"Open the finished lab report and find the results section\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Calculate percent error for the density-of-metals lab",
+      "subject": "Chemistry",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the data table with your measured densities\",\"minutes\":5},{\"title\":\"Calculate the percent error for the first metal\",\"minutes\":15},{\"title\":\"Calculate percent error for the remaining two metals\",\"minutes\":20},{\"title\":\"Check each answer against the accepted density values\",\"minutes\":10}],\"starterAction\":\"Open the data table with your measured densities\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write the procedure section for the water-quality testing lab",
+      "subject": "Environmental Science",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the lab packet and find the order of tests\",\"minutes\":5},{\"title\":\"Write the first two steps of the testing procedure\",\"minutes\":20},{\"title\":\"Write the remaining steps of the testing procedure\",\"minutes\":20},{\"title\":\"Number every step in the order it was performed\",\"minutes\":10}],\"starterAction\":\"Open the lab packet and find the order of tests\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Label the mitosis-stage images for the cell-division lab",
+      "subject": "Biology",
+      "description": "Prophase, metaphase, anaphase, telophase images in the packet.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and find the mitosis-stage images\",\"minutes\":5},{\"title\":\"Label the prophase image\",\"minutes\":10},{\"title\":\"Label the metaphase image\",\"minutes\":10},{\"title\":\"Label the anaphase image\",\"minutes\":10},{\"title\":\"Label the telophase image\",\"minutes\":10},{\"title\":\"Check every stage image is labeled in the correct order\",\"minutes\":10}],\"starterAction\":\"Open the packet and find the mitosis-stage images\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write the conclusion for the sound-wave frequency lab",
+      "subject": "Physics",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the data table of frequencies and wavelengths\",\"minutes\":5},{\"title\":\"Write a sentence stating whether your data matched the predicted formula\",\"minutes\":15},{\"title\":\"Note a sentence naming your largest source of error\",\"minutes\":15},{\"title\":\"Write a closing sentence on what you would change next time\",\"minutes\":15}],\"starterAction\":\"Open the data table of frequencies and wavelengths\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Make the title slide for the coral-reef-bleaching presentation",
+      "subject": "Biology",
+      "description": "Ten slides total.",
+      "duePhrase": "in 6 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a blank slide deck\",\"minutes\":5},{\"title\":\"Write the presentation title on the first slide\",\"minutes\":10},{\"title\":\"Add your name and period to the title slide\",\"minutes\":5},{\"title\":\"List the three sections the next nine slides will cover\",\"minutes\":15}],\"starterAction\":\"Open a blank slide deck\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write the speaker notes for the first three slides on tectonic plates",
+      "subject": "Earth Science",
+      "description": null,
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the slide deck and find slide one\",\"minutes\":5},{\"title\":\"Write two sentences of speaker notes for slide one\",\"minutes\":15},{\"title\":\"Write two sentences of speaker notes for slide two\",\"minutes\":15},{\"title\":\"Write two sentences of speaker notes for slide three\",\"minutes\":15},{\"title\":\"Read all three sets of notes aloud with a timer running\",\"minutes\":15}],\"starterAction\":\"Open the slide deck and find slide one\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Time your run-through of the persuasive speech on school lunch prices",
+      "subject": "Speech and Debate",
+      "description": "Four minutes.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the final copy of the speech\",\"minutes\":5},{\"title\":\"Practice the first half of the speech out loud once\",\"minutes\":15},{\"title\":\"Practice the second half of the speech out loud once\",\"minutes\":15},{\"title\":\"Time the full speech with a timer running\",\"minutes\":15},{\"title\":\"Check the total time lands under four minutes\",\"minutes\":10}],\"starterAction\":\"Print the final copy of the speech\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Build the poster board layout for the science-fair presentation",
+      "subject": "Chemistry",
+      "description": null,
+      "duePhrase": "in 6 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the poster template and find the title box\",\"minutes\":5},{\"title\":\"Print the title and glue it to the top of the board\",\"minutes\":15},{\"title\":\"Print your graph and glue it to the center of the board\",\"minutes\":20},{\"title\":\"Print your conclusion and glue it to the bottom of the board\",\"minutes\":20},{\"title\":\"Check every section from the rubric appears somewhere on the board\",\"minutes\":15}],\"starterAction\":\"Open the poster template and find the title box\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Rehearse the group's transitions for the World War I presentation",
+      "subject": "US History",
+      "description": "Practice with your group after school.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print each group member's slide count from the shared outline\",\"minutes\":5},{\"title\":\"Rehearse the handoff between the first two speakers\",\"minutes\":20},{\"title\":\"Practice the handoff between the last two speakers\",\"minutes\":20},{\"title\":\"Time the full rehearsal with a timer running\",\"minutes\":15}],\"starterAction\":\"Print each group member's slide count from the shared outline\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Make the graph slide for the presentation on renewable energy costs",
+      "subject": "AP Environmental Science",
+      "description": null,
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the data table of energy costs by source\",\"minutes\":5},{\"title\":\"Plot the first three energy sources on the graph\",\"minutes\":20},{\"title\":\"Plot the remaining sources on the graph\",\"minutes\":15},{\"title\":\"Label the graph axes and add a title\",\"minutes\":15}],\"starterAction\":\"Open the data table of energy costs by source\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Practice the French dialogue skit for the culture presentation",
+      "subject": "French III",
+      "description": "Two minutes with a partner.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print both copies of the skit script\",\"minutes\":5},{\"title\":\"Practice the first quarter of the skit with your partner\",\"minutes\":10},{\"title\":\"Practice the second quarter of the skit with your partner\",\"minutes\":10},{\"title\":\"Practice the third quarter of the skit with your partner\",\"minutes\":10},{\"title\":\"Practice the fourth quarter of the skit with your partner\",\"minutes\":10},{\"title\":\"Time the full skit and check it lands near two minutes\",\"minutes\":15}],\"starterAction\":\"Print both copies of the skit script\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write the closing slide summarizing the debate topic's key statistic",
+      "subject": "Speech and Debate",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the slide deck and find the last blank slide\",\"minutes\":5},{\"title\":\"Write the one statistic you most want judges to remember\",\"minutes\":15},{\"title\":\"Write a closing line connecting the statistic back to your main claim\",\"minutes\":20}],\"starterAction\":\"Open the slide deck and find the last blank slide\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Record a practice run of the coding-project demo presentation",
+      "subject": "Computer Science",
+      "description": "Three minutes.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the app and check it runs without errors\",\"minutes\":10},{\"title\":\"Practice describing the first feature out loud\",\"minutes\":15},{\"title\":\"Rehearse describing the second feature out loud\",\"minutes\":15},{\"title\":\"Time the full demo with a timer running\",\"minutes\":15}],\"starterAction\":\"Open the app and check it runs without errors\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Build the appendix slides showing the raw survey data",
+      "subject": "AP Psychology",
+      "description": null,
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the raw survey results\",\"minutes\":5},{\"title\":\"Copy the first five responses into a table slide\",\"minutes\":10},{\"title\":\"Copy the next five responses into the table slide\",\"minutes\":10},{\"title\":\"Copy the remaining responses into a second table slide\",\"minutes\":20},{\"title\":\"Label both tables with the survey question they answer\",\"minutes\":15}],\"starterAction\":\"Open the raw survey results\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Assign each group member's section of the mock-trial script",
+      "subject": "US Government",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the case packet and count the number of witnesses\",\"minutes\":5},{\"title\":\"List which group member will write each witness testimony\",\"minutes\":15},{\"title\":\"Write the opening line of your own assigned section\",\"minutes\":20},{\"title\":\"Staple your finished section to the group shared script\",\"minutes\":10}],\"starterAction\":\"Open the case packet and count the number of witnesses\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "List your group's division of labor for the ecosystem diorama",
+      "subject": "Biology",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the project rubric and count the required diorama elements\",\"minutes\":5},{\"title\":\"List which element each group member will build\",\"minutes\":15},{\"title\":\"Write down the due date your group set for combining pieces\",\"minutes\":10}],\"starterAction\":\"Open the project rubric and count the required diorama elements\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Build your assigned wall of the group's cardboard ancient-Rome model",
+      "subject": "World History",
+      "description": null,
+      "duePhrase": "in 6 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the shared blueprint for the model\",\"minutes\":5},{\"title\":\"Measure the cardboard piece for your assigned wall\",\"minutes\":15},{\"title\":\"Cut the cardboard to the measured size\",\"minutes\":20},{\"title\":\"Stick the wall onto the model base\",\"minutes\":20},{\"title\":\"Check your wall lines up with the neighboring pieces\",\"minutes\":15}],\"starterAction\":\"Open the shared blueprint for the model\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write your group's shared rubric checklist for the podcast project",
+      "subject": "Journalism",
+      "description": "Graded on audio quality, script, and interview length.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the podcast assignment rubric\",\"minutes\":5},{\"title\":\"List the podcast audio-quality and script criteria\",\"minutes\":15},{\"title\":\"Name the podcast interview-length criterion\",\"minutes\":15},{\"title\":\"Check off which podcast criteria your group has already finished\",\"minutes\":15}],\"starterAction\":\"Open the podcast assignment rubric\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Record your assigned lines for the group's foreign-language commercial",
+      "subject": "Spanish III",
+      "description": "Thirty seconds.",
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print your assigned lines from the shared script\",\"minutes\":5},{\"title\":\"Practice your lines out loud three times\",\"minutes\":20},{\"title\":\"Record your lines using the classroom recorder\",\"minutes\":20},{\"title\":\"Play back the recording and check the pronunciation matches practice\",\"minutes\":15}],\"starterAction\":\"Print your assigned lines from the shared script\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Tally your group's survey responses for the sociology field project",
+      "subject": "Sociology",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the stack of completed survey forms\",\"minutes\":5},{\"title\":\"Tally the first twenty responses by category\",\"minutes\":20},{\"title\":\"Tally the remaining responses\",\"minutes\":20},{\"title\":\"Check your totals match the number of forms collected\",\"minutes\":10}],\"starterAction\":\"Open the stack of completed survey forms\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Sketch your assigned scene for the group's graphic-novel history project",
+      "subject": "AP World History",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the shared script and find your assigned panel\",\"minutes\":5},{\"title\":\"Sketch the panel background first\",\"minutes\":20},{\"title\":\"Sketch the characters into the panel\",\"minutes\":20},{\"title\":\"Check your panel dialogue matches the shared script wording\",\"minutes\":15}],\"starterAction\":\"Open the shared script and find your assigned panel\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Balance your group's mock-business budget for the economics simulation",
+      "subject": "Economics",
+      "description": "Use the shared spreadsheet totals.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the shared budget sheet and find your department total\",\"minutes\":5},{\"title\":\"List the three planned expenses for your department\",\"minutes\":15},{\"title\":\"Add the three expenses and compare the sum to your total\",\"minutes\":15},{\"title\":\"Cut expenses until the sum matches your budget\",\"minutes\":15}],\"starterAction\":\"Open the shared budget sheet and find your department total\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Rehearse your assigned verse for the group's choral performance",
+      "subject": "Choir",
+      "description": null,
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your part of the sheet music\",\"minutes\":5},{\"title\":\"Sing your assigned verse alone once\",\"minutes\":15},{\"title\":\"Sing your verse along with the recording\",\"minutes\":20},{\"title\":\"Note any measure where your timing drifted from the recording\",\"minutes\":15}],\"starterAction\":\"Open your part of the sheet music\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Photograph your group's assigned artifact for the museum-box project",
+      "subject": "Art History",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Set up the assigned artifact on a plain background\",\"minutes\":10},{\"title\":\"Photograph the artifact from the first, second, and third angles\",\"minutes\":20},{\"title\":\"Print the best photograph\",\"minutes\":10},{\"title\":\"Label the printed photo with the artifact name and date\",\"minutes\":10}],\"starterAction\":\"Set up the assigned artifact on a plain background\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Select the three strongest pieces for the writing portfolio",
+      "subject": "English 11",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the folder of every piece written this semester\",\"minutes\":5},{\"title\":\"Sort the pieces into a strong pile and a weak pile\",\"minutes\":20},{\"title\":\"Pick the three strongest pieces from the strong pile\",\"minutes\":15},{\"title\":\"Write one sentence on why each chosen piece belongs\",\"minutes\":20}],\"starterAction\":\"Open the folder of every piece written this semester\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write the artist statement for the ceramics portfolio",
+      "subject": "Art",
+      "description": "One page.",
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the folder of photographed ceramic pieces\",\"minutes\":5},{\"title\":\"List the three techniques used across the pieces\",\"minutes\":15},{\"title\":\"Write the opening paragraph naming your overall theme\",\"minutes\":20},{\"title\":\"Write the closing paragraph on how your technique changed over the semester\",\"minutes\":20}],\"starterAction\":\"Open the folder of photographed ceramic pieces\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Label the five photographs going into the photography portfolio",
+      "subject": "Photography",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the five selected photographs\",\"minutes\":10},{\"title\":\"Label the first and second photos with title and date\",\"minutes\":15},{\"title\":\"Label the third, fourth, and fifth photos with title and date\",\"minutes\":20},{\"title\":\"Sort all five into the order they will appear\",\"minutes\":10}],\"starterAction\":\"Print the five selected photographs\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Sort the coding-project screenshots for the programming portfolio",
+      "subject": "Computer Science",
+      "description": null,
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the folder of saved project screenshots\",\"minutes\":5},{\"title\":\"Sort the screenshots by project name\",\"minutes\":15},{\"title\":\"Pick the best screenshot for each of the three projects\",\"minutes\":15},{\"title\":\"Write one caption explaining what each screenshot shows\",\"minutes\":20}],\"starterAction\":\"Open the folder of saved project screenshots\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Revise the weakest essay before adding it to the college portfolio",
+      "subject": "English 12",
+      "description": null,
+      "duePhrase": "in 6 days",
+      "sessionMinutes": 60
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the essay flagged as the weakest draft\",\"minutes\":5},{\"title\":\"Underline every vague sentence in the first half\",\"minutes\":15},{\"title\":\"Rewrite the underlined sentences in the first half\",\"minutes\":25},{\"title\":\"Edit the underlined sentences in the second half\",\"minutes\":25},{\"title\":\"Read the revised essay aloud and check it flows without the vague lines\",\"minutes\":15}],\"starterAction\":\"Open the essay flagged as the weakest draft\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write the reflection page for the semester's math portfolio",
+      "subject": "Algebra II",
+      "description": "One page.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the folder of graded assignments from this semester\",\"minutes\":5},{\"title\":\"List two topics that were hardest at the start of the semester\",\"minutes\":15},{\"title\":\"Write one paragraph on how your understanding of those topics changed\",\"minutes\":25},{\"title\":\"Write a closing sentence naming the assignment you are most proud of\",\"minutes\":15}],\"starterAction\":\"Open the folder of graded assignments from this semester\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Trim the video-editing reel to the portfolio's ninety-second limit",
+      "subject": "Film Studies",
+      "description": null,
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the full-length raw project footage\",\"minutes\":5},{\"title\":\"Mark the strongest fifteen seconds from the first project\",\"minutes\":15},{\"title\":\"Mark the strongest fifteen seconds from the second project\",\"minutes\":15},{\"title\":\"Cut the reel down to the marked sections\",\"minutes\":20},{\"title\":\"Check the final reel runs under ninety seconds\",\"minutes\":10}],\"starterAction\":\"Open the full-length raw project footage\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Number the pages of the finished sketchbook for the drawing portfolio",
+      "subject": "Art",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the sketchbook and find the first finished page\",\"minutes\":5},{\"title\":\"Number the first ten pages in the bottom corner\",\"minutes\":15},{\"title\":\"Number the remaining pages\",\"minutes\":15}],\"starterAction\":\"Open the sketchbook and find the first finished page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Format the resume page for the internship-application portfolio",
+      "subject": "Career Prep",
+      "description": "One page.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the resume template\",\"minutes\":5},{\"title\":\"List your three strongest school activities\",\"minutes\":15},{\"title\":\"Format the activities section with dates aligned to the right\",\"minutes\":20},{\"title\":\"Read the page aloud and check it fits on one page\",\"minutes\":10}],\"starterAction\":\"Open the resume template\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Solve the first ten problems in the unit-4 trig review packet",
+      "subject": "Precalculus",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the review packet and find problem one\",\"minutes\":5},{\"title\":\"Solve problems one through three\",\"minutes\":15},{\"title\":\"Solve problems four and five\",\"minutes\":10},{\"title\":\"Solve problems six through eight\",\"minutes\":15},{\"title\":\"Solve problems nine and ten\",\"minutes\":10},{\"title\":\"Check your answers against the key at the back of the packet\",\"minutes\":15}],\"starterAction\":\"Open the review packet and find problem one\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Highlight every formula needed for the chemistry midterm review",
+      "subject": "Chemistry",
+      "description": null,
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the review packet and find unit one\",\"minutes\":5},{\"title\":\"Highlight every formula in units one and two\",\"minutes\":20},{\"title\":\"Mark every formula in units three and four\",\"minutes\":20},{\"title\":\"Copy all highlighted formulas onto one index card\",\"minutes\":15}],\"starterAction\":\"Open the review packet and find unit one\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Answer the free-response questions in the AP Psychology exam packet",
+      "subject": "AP Psychology",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and find the first free-response question\",\"minutes\":5},{\"title\":\"Answer the first question using a full paragraph\",\"minutes\":20},{\"title\":\"Answer the second question the same way\",\"minutes\":20},{\"title\":\"Check both answers name a specific study from your notes\",\"minutes\":15}],\"starterAction\":\"Open the packet and find the first free-response question\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Make flashcards for the twenty vocabulary terms on the unit-5 review",
+      "subject": "Biology",
+      "description": "Unit 5 covers cell biology vocabulary.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the cell-biology vocabulary list at the front of the packet\",\"minutes\":5},{\"title\":\"Make flashcards for the first group of five cell-biology terms\",\"minutes\":10},{\"title\":\"Make flashcards for the second group of five cell-biology terms\",\"minutes\":10},{\"title\":\"Create flashcards for the third group of five cell-biology terms\",\"minutes\":10},{\"title\":\"Create flashcards for the fourth group of five cell-biology terms\",\"minutes\":10},{\"title\":\"Sort the finished cards into alphabetical order\",\"minutes\":10}],\"starterAction\":\"Open the cell-biology vocabulary list at the front of the packet\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Sort the practice-test questions in the exam packet by topic",
+      "subject": "US History",
+      "description": null,
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the practice-test packet\",\"minutes\":5},{\"title\":\"Sort the first twenty questions into topic piles\",\"minutes\":20},{\"title\":\"Sort the remaining questions into topic piles\",\"minutes\":20},{\"title\":\"Count how many questions landed in each topic pile\",\"minutes\":10}],\"starterAction\":\"Open the practice-test packet\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Time yourself on the timed section of the SAT math practice packet",
+      "subject": "SAT Prep",
+      "description": "Twenty-five minutes.",
+      "duePhrase": "in 6 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the timed section and set a twenty-five-minute timer\",\"minutes\":5},{\"title\":\"Solve as many problems as you can before time runs out\",\"minutes\":25},{\"title\":\"Check your answers against the key when time is called\",\"minutes\":15},{\"title\":\"List which problem types you missed most\",\"minutes\":15}],\"starterAction\":\"Open the timed section and set a twenty-five-minute timer\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Diagram the five reaction types for the chemistry exam review",
+      "subject": "Chemistry",
+      "description": null,
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the review packet and find the reaction-types section\",\"minutes\":5},{\"title\":\"Diagram the first reaction type with an example equation\",\"minutes\":10},{\"title\":\"Diagram the second reaction type with an example equation\",\"minutes\":10},{\"title\":\"Diagram the third and fourth reaction types with example equations\",\"minutes\":13},{\"title\":\"Diagram the fifth reaction type with an example equation\",\"minutes\":12},{\"title\":\"Check every diagram matches an example from the textbook\",\"minutes\":15}],\"starterAction\":\"Open the review packet and find the reaction-types section\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Practice the muscle-group labels for the anatomy unit exam",
+      "subject": "Anatomy",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the blank body diagram\",\"minutes\":5},{\"title\":\"Label the first ten muscle groups\",\"minutes\":20},{\"title\":\"Label the remaining muscle groups\",\"minutes\":20},{\"title\":\"Check your labels against the answer key\",\"minutes\":10}],\"starterAction\":\"Print the blank body diagram\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Solve the review packet's word problems on exponential growth",
+      "subject": "Algebra II",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and find the first word problem\",\"minutes\":5},{\"title\":\"Solve the first three word problems\",\"minutes\":20},{\"title\":\"Solve the remaining word problems\",\"minutes\":20},{\"title\":\"Check that each answer's units make sense for the scenario\",\"minutes\":10}],\"starterAction\":\"Open the packet and find the first word problem\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Copy the periodic-table trends onto one study sheet for the exam",
+      "subject": "Chemistry",
+      "description": null,
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print a blank periodic table\",\"minutes\":5},{\"title\":\"Copy the trend arrows for electronegativity and atomic radius\",\"minutes\":20},{\"title\":\"Copy trend arrows for ionization energy\",\"minutes\":15},{\"title\":\"Check every arrow points the direction your notes describe\",\"minutes\":15}],\"starterAction\":\"Print a blank periodic table\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Draft the opening paragraph of the Common App personal statement",
+      "subject": "College Applications",
+      "description": "650 words max.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the prompt and reread the option you picked\",\"minutes\":5},{\"title\":\"List three moments from your life that fit the prompt\",\"minutes\":15},{\"title\":\"Circle the moment with the most specific detail to describe\",\"minutes\":10},{\"title\":\"Draft the opening line describing that moment in the middle of the action\",\"minutes\":20}],\"starterAction\":\"Open the prompt and reread the option you picked\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Answer the supplemental essay's 'why this college' prompt in 250 words",
+      "subject": "College Applications",
+      "description": null,
+      "duePhrase": "in 10 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the college program page you printed earlier\",\"minutes\":5},{\"title\":\"List two specific classes or clubs that drew you to the school\",\"minutes\":15},{\"title\":\"Write the opening sentence naming the college by name\",\"minutes\":15},{\"title\":\"Write two sentences connecting the listed classes to your own goals\",\"minutes\":20}],\"starterAction\":\"Open the college program page you printed earlier\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Cut the personal-statement draft down from 800 words to 650",
+      "subject": "College Applications",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the current draft and count the words\",\"minutes\":5},{\"title\":\"Underline every sentence that repeats an earlier point\",\"minutes\":15},{\"title\":\"Cut the underlined sentences from the first half\",\"minutes\":15},{\"title\":\"Cut underlined sentences from the second half\",\"minutes\":15},{\"title\":\"Count the words again and check it is at or under 650\",\"minutes\":10}],\"starterAction\":\"Open the current draft and count the words\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "List three activities for the Common App activities section",
+      "subject": "College Applications",
+      "description": "Printed activities-section form, 150 characters each.",
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the printed activities-section form\",\"minutes\":5},{\"title\":\"List your three most significant activities in order\",\"minutes\":15},{\"title\":\"Write the 150-character description for the first activity\",\"minutes\":20},{\"title\":\"Note the 150-character descriptions for the other two\",\"minutes\":20}],\"starterAction\":\"Open the printed activities-section form\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Revise the essay's ending to answer the prompt's second question directly",
+      "subject": "College Applications",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the draft and reread the prompt's second question\",\"minutes\":5},{\"title\":\"Underline the sentence that was supposed to answer it\",\"minutes\":10},{\"title\":\"Rewrite that sentence so it names your answer directly\",\"minutes\":20},{\"title\":\"Read the new ending aloud and check it answers the question\",\"minutes\":15}],\"starterAction\":\"Open the draft and reread the prompt's second question\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write the short-answer response about your intended major in 100 words",
+      "subject": "College Applications",
+      "description": null,
+      "duePhrase": "in 6 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the short-answer prompt about your intended major\",\"minutes\":5},{\"title\":\"List two experiences that led you to that major\",\"minutes\":15},{\"title\":\"Write the response naming the major and one listed experience\",\"minutes\":20},{\"title\":\"Count the words and trim the response to one hundred\",\"minutes\":15}],\"starterAction\":\"Open the short-answer prompt about your intended major\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Proofread the printed note requesting a recommendation letter",
+      "subject": "College Applications",
+      "description": "Asks for a letter mentioning debate-team leadership.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the draft note requesting the letter\",\"minutes\":5},{\"title\":\"Proofread the paragraph naming your debate-team leadership\",\"minutes\":15},{\"title\":\"Proofread the closing paragraph thanking the recommender\",\"minutes\":15}],\"starterAction\":\"Print the draft note requesting the letter\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Draft the essay's second paragraph describing the setback you overcame",
+      "subject": "College Applications",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the outline and find the setback paragraph bullet points\",\"minutes\":5},{\"title\":\"Write two sentences describing what the setback was\",\"minutes\":15},{\"title\":\"Write two sentences describing how you responded to it\",\"minutes\":20},{\"title\":\"Write a closing sentence on what changed afterward\",\"minutes\":15}],\"starterAction\":\"Open the outline and find the setback paragraph bullet points\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Format the essay's heading and word count to match the college's submission rules",
+      "subject": "College Applications",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the college submission instructions you printed\",\"minutes\":5},{\"title\":\"Format the heading with your name and the prompt number\",\"minutes\":15},{\"title\":\"Count the essay words and write the total at the top\",\"minutes\":15}],\"starterAction\":\"Open the college submission instructions you printed\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write the save function for the to-do-list app project",
+      "subject": "Computer Science",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the project file and find the empty save function\",\"minutes\":5},{\"title\":\"Draft the code that reads the current list of tasks\",\"minutes\":20},{\"title\":\"Write the code that writes the list back to a file\",\"minutes\":20},{\"title\":\"Run the program and check a saved task reappears after restart\",\"minutes\":20}],\"starterAction\":\"Open the project file and find the empty save function\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Fix the loop that skips the last item in the grade-calculator project",
+      "subject": "Computer Science",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the project file and find the grade-averaging loop\",\"minutes\":5},{\"title\":\"Print the loop counter value after each pass\",\"minutes\":15},{\"title\":\"Fix the loop stopping condition\",\"minutes\":20},{\"title\":\"Run the program and check the last grade is now included\",\"minutes\":15}],\"starterAction\":\"Open the project file and find the grade-averaging loop\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Build the score-tracking screen for the trivia-game project",
+      "subject": "Computer Science",
+      "description": null,
+      "duePhrase": "in 6 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the project file and find the blank screen template\",\"minutes\":5},{\"title\":\"Draft the code that displays the current score\",\"minutes\":20},{\"title\":\"Write the code that adds one point per correct answer\",\"minutes\":20},{\"title\":\"Run the program and check the score updates after an answer\",\"minutes\":15}],\"starterAction\":\"Open the project file and find the blank screen template\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Comment the functions in the calculator project before submission",
+      "subject": "Computer Science",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the calculator project file\",\"minutes\":5},{\"title\":\"Draft one-line comments above the add and subtract functions\",\"minutes\":15},{\"title\":\"Write one-line comments above the multiply and divide functions\",\"minutes\":15},{\"title\":\"Read every comment and check it matches what the function does\",\"minutes\":15}],\"starterAction\":\"Open the calculator project file\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Test the input validation on the quiz-app project",
+      "subject": "Computer Science",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the project and find the answer-input function\",\"minutes\":5},{\"title\":\"Type a blank answer and check the program does not crash\",\"minutes\":15},{\"title\":\"Type an answer with extra spaces and check it still scores correctly\",\"minutes\":20},{\"title\":\"Note any input that broke the program\",\"minutes\":15}],\"starterAction\":\"Open the project and find the answer-input function\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Sketch the flowchart for the maze-solving robot's decision logic",
+      "subject": "Robotics",
+      "description": null,
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print a blank flowchart template\",\"minutes\":5},{\"title\":\"Sketch the first decision box for a wall on the left\",\"minutes\":15},{\"title\":\"Sketch the decision box for a wall on the right\",\"minutes\":15},{\"title\":\"Draw the arrows connecting every box in order\",\"minutes\":15}],\"starterAction\":\"Print a blank flowchart template\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Debug the collision check in the dodge-the-blocks game project",
+      "subject": "Computer Science",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the project and find the collision-check function\",\"minutes\":5},{\"title\":\"Run the game and note the exact moment a collision is missed\",\"minutes\":15},{\"title\":\"Print the two objects' positions at that moment\",\"minutes\":15},{\"title\":\"Fix the comparison that checks whether the positions overlap\",\"minutes\":20},{\"title\":\"Replay the game and check the collision now registers\",\"minutes\":15}],\"starterAction\":\"Open the project and find the collision-check function\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write the unit test for the temperature-conversion function",
+      "subject": "Computer Science",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the project file and find the conversion function\",\"minutes\":5},{\"title\":\"Draft a test that checks freezing point converts correctly\",\"minutes\":15},{\"title\":\"Write a test that checks boiling point converts correctly\",\"minutes\":15},{\"title\":\"Run both tests and check they pass\",\"minutes\":15}],\"starterAction\":\"Open the project file and find the conversion function\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Build the pause-menu screen for the platformer-game project",
+      "subject": "Computer Science",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the project and find the game main loop\",\"minutes\":5},{\"title\":\"Draft the code that pauses the game on key press\",\"minutes\":20},{\"title\":\"Write the code that shows the pause menu's two buttons\",\"minutes\":20},{\"title\":\"Run the game and check pausing stops the character from moving\",\"minutes\":15}],\"starterAction\":\"Open the project and find the game main loop\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Cut the dovetail joints for the shop-class cutting-board project",
+      "subject": "Woodshop",
+      "description": null,
+      "duePhrase": "in 6 days",
+      "sessionMinutes": 60
+    },
+    "completion": "{\"steps\":[{\"title\":\"Measure the board and mark the first dovetail joint\",\"minutes\":15},{\"title\":\"Cut the first dovetail joint with the marked lines as a guide\",\"minutes\":25},{\"title\":\"Measure and mark the second dovetail joint\",\"minutes\":15},{\"title\":\"Cut the second dovetail joint\",\"minutes\":25},{\"title\":\"Check both joints fit together without gaps\",\"minutes\":10}],\"starterAction\":\"Measure the board and mark the first dovetail joint\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Sand the welded bracket for the metal-shop toolbox project",
+      "subject": "Metal Shop",
+      "description": null,
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Clean the weld seam with a wire brush\",\"minutes\":15},{\"title\":\"Run coarse sandpaper over the seam first\",\"minutes\":20},{\"title\":\"Run fine sandpaper over the seam again\",\"minutes\":20},{\"title\":\"Check the seam is smooth with no sharp edges\",\"minutes\":10}],\"starterAction\":\"Clean the weld seam with a wire brush\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Cut the mosaic tiles for the garden-stepping-stone project",
+      "subject": "Art",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Sort the tile sheet by color into three piles\",\"minutes\":10},{\"title\":\"Cut the first pile of tiles into smaller pieces\",\"minutes\":20},{\"title\":\"Cut the second pile of tiles into smaller pieces\",\"minutes\":20},{\"title\":\"Cut the third pile of tiles into smaller pieces\",\"minutes\":15},{\"title\":\"Arrange the cut pieces from all three piles on the stone in the planned pattern\",\"minutes\":20}],\"starterAction\":\"Sort the tile sheet by color into three piles\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Glaze the ceramic mug before the second kiln firing",
+      "subject": "Art",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Clean the dust off the bisque-fired mug\",\"minutes\":10},{\"title\":\"Cover the outside with the first coat of glaze\",\"minutes\":15},{\"title\":\"Add the second coat of glaze to the outside\",\"minutes\":15},{\"title\":\"Cover the inside and the handle with glaze\",\"minutes\":20}],\"starterAction\":\"Clean the dust off the bisque-fired mug\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Sew the side seams of the tote-bag project",
+      "subject": "Fashion and Textiles",
+      "description": null,
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Place the two fabric panels together along the first side\",\"minutes\":10},{\"title\":\"Run the first side seam through the machine\",\"minutes\":20},{\"title\":\"Run the second side seam through the machine\",\"minutes\":20},{\"title\":\"Turn the bag right-side out and check both seams hold\",\"minutes\":10}],\"starterAction\":\"Place the two fabric panels together along the first side\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Run a bead of solder along the second joint on the stained-glass panel",
+      "subject": "Art",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Clean the flux off the first soldered joint\",\"minutes\":10},{\"title\":\"Run a bead of solder along the second marked joint\",\"minutes\":20},{\"title\":\"Clean the excess flux from the panel edge\",\"minutes\":15},{\"title\":\"Check the second joint holds when the panel is lifted\",\"minutes\":15}],\"starterAction\":\"Clean the flux off the first soldered joint\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Screen-print the second color layer on the club t-shirt design",
+      "subject": "Art",
+      "description": null,
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Set the screen over the first-color layer registration marks\",\"minutes\":15},{\"title\":\"Press the squeegee once across the second color\",\"minutes\":20},{\"title\":\"Remove the screen and check the second layer lines up\",\"minutes\":15},{\"title\":\"Hang the shirt to dry on the drying rack\",\"minutes\":10}],\"starterAction\":\"Set the screen over the first-color layer registration marks\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Assemble the papier-mache mask's base before painting",
+      "subject": "Art",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Cut the newspaper into strips sized in the instructions\",\"minutes\":15},{\"title\":\"Lay the first layer of strips over the mold\",\"minutes\":10},{\"title\":\"Lay the second layer of strips over the mold\",\"minutes\":10},{\"title\":\"Lay the third layer of strips over the mold\",\"minutes\":10},{\"title\":\"Lay the fourth layer of strips over the mold\",\"minutes\":10},{\"title\":\"Check the mask holds its shape when lifted off the mold\",\"minutes\":10}],\"starterAction\":\"Cut the newspaper into strips sized in the instructions\"}"
+  }
+]

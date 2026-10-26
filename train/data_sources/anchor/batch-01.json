@@ -1,0 +1,499 @@
+[
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a 5-paragraph essay on The Great Gatsby",
+      "subject": "English 2H",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and read the prompt out loud\",\"minutes\":5},{\"title\":\"Write down the three points the essay has to make\",\"minutes\":10},{\"title\":\"Write the introduction without stopping to edit\",\"minutes\":20},{\"title\":\"Write the three body paragraphs\",\"minutes\":45},{\"title\":\"Write the conclusion\",\"minutes\":15},{\"title\":\"Read it aloud and fix what sounds wrong\",\"minutes\":15}],\"starterAction\":\"Open the assignment sheet and read the prompt out loud\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a research paper on the causes of the Civil War",
+      "subject": "AP US History",
+      "description": "Eight pages with citations.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and write the question you are answering\",\"minutes\":10},{\"title\":\"Collect eight sources and save them in one folder\",\"minutes\":45},{\"title\":\"Write the outline as a list of section headings\",\"minutes\":30},{\"title\":\"Write the first three sections without editing\",\"minutes\":45},{\"title\":\"Write the remaining sections\",\"minutes\":45},{\"title\":\"Add the citations and check the format\",\"minutes\":30},{\"title\":\"Read the paper aloud and fix what sounds wrong\",\"minutes\":30}],\"starterAction\":\"Open the assignment sheet and write the question you are answering\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Lab report on cellular respiration",
+      "subject": "Biology",
+      "description": "Include the data table.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the respiration data\",\"minutes\":5},{\"title\":\"Copy the raw numbers into the data table\",\"minutes\":25},{\"title\":\"Calculate the rate for each trial\",\"minutes\":30},{\"title\":\"Draw the graph from the table\",\"minutes\":25},{\"title\":\"Write the conclusion using the graph\",\"minutes\":30},{\"title\":\"Check every unit and label\",\"minutes\":15}],\"starterAction\":\"Open your lab notebook to the respiration data\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Problem set on quadratic functions",
+      "subject": "Algebra II",
+      "description": "Problems 1 to 30, odd.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the textbook and find problem 1\",\"minutes\":5},{\"title\":\"Answer problems 1 to 9 in order\",\"minutes\":30},{\"title\":\"Answer problems 11 to 19 in order\",\"minutes\":30},{\"title\":\"Answer the remaining odd problems\",\"minutes\":30},{\"title\":\"Check your answers against the back of the book\",\"minutes\":15}],\"starterAction\":\"Open the textbook and find problem 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Presentation on the periodic table",
+      "subject": "Chemistry",
+      "description": "Ten minutes.",
+      "duePhrase": "next week",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and list what the presentation must cover\",\"minutes\":10},{\"title\":\"Write the slide titles in order\",\"minutes\":25},{\"title\":\"Collect an image or diagram for each slide\",\"minutes\":35},{\"title\":\"Build the first half of the slides\",\"minutes\":45},{\"title\":\"Build the second half of the slides\",\"minutes\":45},{\"title\":\"Practise saying it out loud with a timer\",\"minutes\":25}],\"starterAction\":\"Open the assignment sheet and list what the presentation must cover\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Reading response on the Bill of Rights",
+      "subject": "US Government",
+      "description": "One page.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the reading and go through it once straight through\",\"minutes\":20},{\"title\":\"Underline the three sentences that mattered most\",\"minutes\":10},{\"title\":\"Write down what you agreed and disagreed with\",\"minutes\":15},{\"title\":\"Write the response in one sitting without editing\",\"minutes\":30},{\"title\":\"Read it aloud and fix what sounds wrong\",\"minutes\":15}],\"starterAction\":\"Open the reading and go through it once straight through\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Study guide for the unit test on photosynthesis",
+      "subject": "Biology",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and put them in date order\",\"minutes\":10},{\"title\":\"List the stages on one page\",\"minutes\":25},{\"title\":\"Draw the diagram from memory, then fix it\",\"minutes\":25},{\"title\":\"Write eight questions a test might ask\",\"minutes\":20},{\"title\":\"Answer your own questions without looking\",\"minutes\":30},{\"title\":\"Answer again the ones you got wrong\",\"minutes\":20}],\"starterAction\":\"Open your notes and put them in date order\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Poster on the water cycle",
+      "subject": "Biology",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and list what the poster must show\",\"minutes\":10},{\"title\":\"Collect the paper, pens and printouts you need\",\"minutes\":20},{\"title\":\"Sketch the layout in pencil first\",\"minutes\":25},{\"title\":\"Draw the main diagram in ink\",\"minutes\":40},{\"title\":\"Add the labels and the key\",\"minutes\":30},{\"title\":\"Check the sheet again for anything you missed\",\"minutes\":10}],\"starterAction\":\"Open the assignment sheet and list what the poster must show\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Worksheet on logarithms",
+      "subject": "Algebra II",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and put your name on it\",\"minutes\":5},{\"title\":\"Answer the first five questions in order\",\"minutes\":20},{\"title\":\"Answer the next five questions in order\",\"minutes\":20},{\"title\":\"Finish the questions that are left\",\"minutes\":20},{\"title\":\"Check your answers against the worked examples\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and put your name on it\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Chapter notes on the French Revolution",
+      "subject": "World Literature",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the chapter and skim the headings first\",\"minutes\":5},{\"title\":\"Read the first half and write notes as you go\",\"minutes\":30},{\"title\":\"Read the second half and write notes as you go\",\"minutes\":30},{\"title\":\"Write six dates and what happened on each\",\"minutes\":20},{\"title\":\"Highlight the parts you could not explain to someone\",\"minutes\":10}],\"starterAction\":\"Open the chapter and skim the headings first\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Annotated bibliography on Romeo and Juliet",
+      "subject": "English 2H",
+      "description": "Six sources.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a blank document and paste in the sources you have\",\"minutes\":10},{\"title\":\"Search the library database for the ones you still need\",\"minutes\":40},{\"title\":\"Write the citation for the first three sources\",\"minutes\":30},{\"title\":\"Write the citation for the last three sources\",\"minutes\":30},{\"title\":\"Write two sentences about each source\",\"minutes\":40},{\"title\":\"Check every citation against the format guide\",\"minutes\":20}],\"starterAction\":\"Open a blank document and paste in the sources you have\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Reflection on the group project",
+      "subject": "AP Psychology",
+      "description": "Half a page.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the rubric and read what the reflection must cover\",\"minutes\":5},{\"title\":\"Write down three things that went well\",\"minutes\":10},{\"title\":\"Write down two things you would change\",\"minutes\":10},{\"title\":\"Write the reflection in one sitting\",\"minutes\":25},{\"title\":\"Read it aloud and fix what sounds wrong\",\"minutes\":10}],\"starterAction\":\"Open the rubric and read what the reflection must cover\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Review sheet for the geometry midterm",
+      "subject": "Geometry",
+      "description": null,
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your binder and collect every quiz from this unit\",\"minutes\":15},{\"title\":\"Copy every formula onto one page\",\"minutes\":25},{\"title\":\"Answer one problem of each type from the old quizzes\",\"minutes\":40},{\"title\":\"Mark the types you got wrong\",\"minutes\":10},{\"title\":\"Answer three more problems of the types you missed\",\"minutes\":30}],\"starterAction\":\"Open your binder and collect every quiz from this unit\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Read The Great Gatsby chapters 4 through 6",
+      "subject": "English 2H",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the book to the start of chapter 4\",\"minutes\":5},{\"title\":\"Read chapter 4 without stopping to look anything up\",\"minutes\":25},{\"title\":\"Write one sentence saying what happened\",\"minutes\":5},{\"title\":\"Read chapters 5 and 6 the same way\",\"minutes\":45},{\"title\":\"Write down the two moments you found confusing\",\"minutes\":10}],\"starterAction\":\"Open the book to the start of chapter 4\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Outline for the psychology research paper",
+      "subject": "AP Psychology",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and write the question you are answering\",\"minutes\":10},{\"title\":\"List the sections the paper needs\",\"minutes\":20},{\"title\":\"Write two bullet points under each section\",\"minutes\":30},{\"title\":\"Write down which source covers each section\",\"minutes\":20},{\"title\":\"Check the outline against the sheet\",\"minutes\":10}],\"starterAction\":\"Open the assignment sheet and write the question you are answering\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Titration lab write-up",
+      "subject": "Chemistry",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the titration data\",\"minutes\":5},{\"title\":\"Copy the raw numbers into the data table\",\"minutes\":20},{\"title\":\"Calculate the concentration for each trial\",\"minutes\":30},{\"title\":\"Write the method section from your notes\",\"minutes\":25},{\"title\":\"Write the conclusion using the numbers you calculated\",\"minutes\":25},{\"title\":\"Check every significant figure\",\"minutes\":15}],\"starterAction\":\"Open your lab notebook to the titration data\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Spanish paragraph about your family",
+      "subject": "Spanish III",
+      "description": "Twelve sentences.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down twelve facts about your family in your own words\",\"minutes\":15},{\"title\":\"Translate the first six into Spanish\",\"minutes\":20},{\"title\":\"Translate the last six into Spanish\",\"minutes\":20},{\"title\":\"Check every verb ending against your notes\",\"minutes\":15}],\"starterAction\":\"Write down twelve facts about your family in your own words\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Physics problem set on forces",
+      "subject": "Physics",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the formulas you will need\",\"minutes\":10},{\"title\":\"Answer the first four problems in order\",\"minutes\":45},{\"title\":\"Answer the next four problems in order\",\"minutes\":45},{\"title\":\"Finish the problems that are left\",\"minutes\":40},{\"title\":\"Check every unit in every answer\",\"minutes\":20}],\"starterAction\":\"Open the packet and copy the formulas you will need\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Statistics homework on probability",
+      "subject": "Statistics",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment and find the first question\",\"minutes\":5},{\"title\":\"Answer the first six questions in order\",\"minutes\":30},{\"title\":\"Answer the next six questions in order\",\"minutes\":30},{\"title\":\"Finish the questions that are left\",\"minutes\":25},{\"title\":\"Check your answers against the worked example\",\"minutes\":15}],\"starterAction\":\"Open the assignment and find the first question\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Art history essay on one painting",
+      "subject": "Art History",
+      "description": "Two pages.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and pick the painting you liked most\",\"minutes\":10},{\"title\":\"Write down five things you can see in it\",\"minutes\":15},{\"title\":\"Find two facts about when it was made\",\"minutes\":25},{\"title\":\"Write the opening paragraph without stopping to edit\",\"minutes\":25},{\"title\":\"Write the body paragraphs in order\",\"minutes\":40},{\"title\":\"Read it aloud and fix what sounds wrong\",\"minutes\":15}],\"starterAction\":\"Open your notes and pick the painting you liked most\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Health worksheet on sleep",
+      "subject": "Health",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and put your name on it\",\"minutes\":5},{\"title\":\"Answer the first five questions in order\",\"minutes\":20},{\"title\":\"Answer the rest of the questions\",\"minutes\":20},{\"title\":\"Check your answers against the handout\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and put your name on it\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Build a model of a plant cell",
+      "subject": "Biology",
+      "description": null,
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and list what the model must show\",\"minutes\":10},{\"title\":\"Collect the materials you need\",\"minutes\":40},{\"title\":\"Build the outer structure first\",\"minutes\":45},{\"title\":\"Build each part inside it\",\"minutes\":45},{\"title\":\"Label every part\",\"minutes\":25},{\"title\":\"Check the sheet again for anything you missed\",\"minutes\":10}],\"starterAction\":\"Open the assignment sheet and list what the model must show\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Memorize the first twenty elements",
+      "subject": "Chemistry",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the first ten elements on cards\",\"minutes\":15},{\"title\":\"Answer those ten cards without looking\",\"minutes\":10},{\"title\":\"Write the next ten elements on cards\",\"minutes\":15},{\"title\":\"Answer all twenty cards without looking\",\"minutes\":15},{\"title\":\"Put the ones you missed in a separate pile\",\"minutes\":10}],\"starterAction\":\"Write the first ten elements on cards\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write the introduction for the history paper",
+      "subject": "AP US History",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and reread what the paper argues\",\"minutes\":10},{\"title\":\"Write down the one sentence the introduction has to land\",\"minutes\":10},{\"title\":\"Write the whole introduction without stopping to edit\",\"minutes\":30},{\"title\":\"Read it aloud and fix what sounds wrong\",\"minutes\":15}],\"starterAction\":\"Open the assignment sheet and reread what the paper argues\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Geometry proof practice",
+      "subject": "Geometry",
+      "description": "Twelve proofs.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and read the first proof\",\"minutes\":5},{\"title\":\"Write out the first four proofs step by step\",\"minutes\":35},{\"title\":\"Write out the next four proofs\",\"minutes\":35},{\"title\":\"Write out the last four proofs\",\"minutes\":35},{\"title\":\"Check every reason against the theorem list\",\"minutes\":20}],\"starterAction\":\"Open the packet and read the first proof\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Read the article on the Bill of Rights",
+      "subject": "US Government",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the article and skim the headings first\",\"minutes\":5},{\"title\":\"Read the first half without stopping\",\"minutes\":20},{\"title\":\"Write one sentence saying what that half was about\",\"minutes\":5},{\"title\":\"Read the second half without stopping\",\"minutes\":20},{\"title\":\"Write down the parts you did not follow\",\"minutes\":10}],\"starterAction\":\"Open the article and skim the headings first\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Prepare for the Spanish oral exam",
+      "subject": "Spanish III",
+      "description": "Three minutes on any topic.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the topic you will talk about\",\"minutes\":5},{\"title\":\"Write twelve sentences you could say about it\",\"minutes\":25},{\"title\":\"Practise the first half out loud without looking\",\"minutes\":20},{\"title\":\"Practise the second half out loud without looking\",\"minutes\":20},{\"title\":\"Practise the whole thing with a timer\",\"minutes\":15}],\"starterAction\":\"Write down the topic you will talk about\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Finish the novel for world literature",
+      "subject": "World Literature",
+      "description": "About 90 pages left.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the book and find where you left off\",\"minutes\":5},{\"title\":\"Read thirty pages without stopping\",\"minutes\":30},{\"title\":\"Write one sentence saying what happened\",\"minutes\":5},{\"title\":\"Read the next thirty pages\",\"minutes\":30},{\"title\":\"Read the last thirty pages\",\"minutes\":30},{\"title\":\"Write down the ending in three sentences\",\"minutes\":10}],\"starterAction\":\"Open the book and find where you left off\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Correct the returned algebra test",
+      "subject": "Algebra II",
+      "description": "Redo every question you missed.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the test and circle every question you missed\",\"minutes\":10},{\"title\":\"Solve the first half of them again\",\"minutes\":25},{\"title\":\"Solve the second half of them again\",\"minutes\":25},{\"title\":\"Write one sentence on each about what went wrong\",\"minutes\":20}],\"starterAction\":\"Open the test and circle every question you missed\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write discussion questions for the seminar",
+      "subject": "World Literature",
+      "description": "Five questions.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the reading and go through your notes\",\"minutes\":10},{\"title\":\"Write down four moments that surprised you\",\"minutes\":15},{\"title\":\"Turn each moment into a question\",\"minutes\":20},{\"title\":\"Pick the five strongest questions\",\"minutes\":10}],\"starterAction\":\"Open the reading and go through your notes\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Draw and label the digestive system",
+      "subject": "Biology",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the textbook to the digestive system diagram\",\"minutes\":5},{\"title\":\"Sketch the outline in pencil first\",\"minutes\":15},{\"title\":\"Draw each organ inside the outline\",\"minutes\":25},{\"title\":\"Label every organ\",\"minutes\":20},{\"title\":\"Check your labels against the textbook\",\"minutes\":10}],\"starterAction\":\"Open the textbook to the digestive system diagram\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Physics lab on acceleration",
+      "subject": "Physics",
+      "description": "Collect data and write it up.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the acceleration data\",\"minutes\":5},{\"title\":\"Copy the timings into the data table\",\"minutes\":25},{\"title\":\"Calculate the average for each trial\",\"minutes\":30},{\"title\":\"Draw the graph from the averages\",\"minutes\":30},{\"title\":\"Write the conclusion using the graph\",\"minutes\":30},{\"title\":\"Check every unit and significant figure\",\"minutes\":15}],\"starterAction\":\"Open your lab notebook to the acceleration data\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a summary of the chapter",
+      "subject": "Health",
+      "description": "One paragraph.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the chapter and skim it again\",\"minutes\":10},{\"title\":\"Underline the three sentences that matter most\",\"minutes\":10},{\"title\":\"Write the summary in one sitting\",\"minutes\":20},{\"title\":\"Read it aloud and fix what sounds wrong\",\"minutes\":5}],\"starterAction\":\"Open the chapter and skim it again\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Practice the piano piece for the recital",
+      "subject": "Art History",
+      "description": null,
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the sheet music to the first page\",\"minutes\":5},{\"title\":\"Practise the first section slowly\",\"minutes\":30},{\"title\":\"Practise the second section slowly\",\"minutes\":30},{\"title\":\"Practise both sections together\",\"minutes\":30},{\"title\":\"Practise the whole piece at full speed\",\"minutes\":25}],\"starterAction\":\"Open the sheet music to the first page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Turn in the field trip permission form",
+      "subject": null,
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the form in your bag and put it on the table\",\"minutes\":5},{\"title\":\"Fill in every box that is yours to fill\",\"minutes\":5},{\"title\":\"Ask a parent to sign it tonight\",\"minutes\":5},{\"title\":\"Put the signed form in your bag by the door\",\"minutes\":5}],\"starterAction\":\"Find the form in your bag and put it on the table\"}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Reading response due Friday. Lab report due next Tuesday. Permission slip tomorrow.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Reading response\",\"dueInDays\":4},{\"title\":\"Lab report\",\"dueInDays\":8},{\"title\":\"Permission slip\",\"dueInDays\":1}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Unit 3 test Thursday. Study guide due Wednesday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Unit 3 test\",\"dueInDays\":3},{\"title\":\"Study guide\",\"dueInDays\":2}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Read chapter 5 tonight. Problem set 3 due Wednesday. Unit quiz Friday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Read chapter 5\",\"dueInDays\":0},{\"title\":\"Problem set 3\",\"dueInDays\":2},{\"title\":\"Unit quiz\",\"dueInDays\":4}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Essay draft due in three days. Peer review Friday. Final draft the Monday after.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Essay draft\",\"dueInDays\":3},{\"title\":\"Peer review\",\"dueInDays\":4},{\"title\":\"Final draft\",\"dueInDays\":7}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "No homework this week. Enjoy the break.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Bring headphones tomorrow. Listening test Friday. Written portion the following Monday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Bring headphones\",\"dueInDays\":1},{\"title\":\"Listening test\",\"dueInDays\":4},{\"title\":\"Written portion\",\"dueInDays\":7}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Project proposal due Friday. Sources list the following Wednesday. Final project in a month.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Project proposal\",\"dueInDays\":4},{\"title\":\"Sources list\",\"dueInDays\":9},{\"title\":\"Final project\",\"dueInDays\":30}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Chemistry: read section 4.2 tonight, safety quiz tomorrow, lab report in one week.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Read section 4.2\",\"dueInDays\":0,\"subject\":\"Chemistry\"},{\"title\":\"Safety quiz\",\"dueInDays\":1,\"subject\":\"Chemistry\"},{\"title\":\"Lab report\",\"dueInDays\":7,\"subject\":\"Chemistry\"}]}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Analyze the rhetorical devices in the assigned speech",
+      "description": null
+    },
+    "completion": "{\"title\":\"Find the persuasion tricks in the speech\",\"explanation\":\"Read the speech and mark every place the speaker tries to convince you of something. For each one, write a sentence saying what the speaker did and why it works.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Evaluate the reliability of your sources",
+      "description": "Consider bias, date and author."
+    },
+    "completion": "{\"title\":\"Decide which sources you can trust\",\"explanation\":\"For each source, check who wrote it, when it was written, and whether they had a reason to take a side. Write one sentence for each saying whether you trust it and why.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Synthesize the arguments from three secondary sources",
+      "description": null
+    },
+    "completion": "{\"title\":\"Put three writers in conversation\",\"explanation\":\"Read what each of the three writers says about the topic. Write down where they agree and where they disagree, then say which one you found most convincing and why.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Interpret the data and draw a conclusion",
+      "description": "Use the table from the lab."
+    },
+    "completion": "{\"title\":\"Say what the numbers mean\",\"explanation\":\"Look at the table and find the pattern in the numbers. Write down what that pattern tells you about the experiment, and whether it matched what you expected.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Critically examine the author's assumptions",
+      "description": null
+    },
+    "completion": "{\"title\":\"Find what the writer takes for granted\",\"explanation\":\"Look for the things the writer treats as obviously true without proving them. Write down two of those, and say whether you think each one really is obvious.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Articulate the thesis and defend it with textual evidence",
+      "description": null
+    },
+    "completion": "{\"title\":\"Say your point and prove it with quotes\",\"explanation\":\"Write one sentence saying what you think. Then find three places in the text that back it up, and after each quote write a sentence explaining how it helps your point.\"}"
+  }
+]

@@ -1,0 +1,862 @@
+[
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Finish the reading quiz corrections due today",
+      "subject": "English 9",
+      "description": "Redo the four questions marked wrong.",
+      "duePhrase": "today",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the quiz and find the four marked questions\",\"minutes\":5},{\"title\":\"Reread the paragraph each wrong answer came from\",\"minutes\":10},{\"title\":\"Write the corrected answer under each question\",\"minutes\":20},{\"title\":\"Check each new answer against the text\",\"minutes\":10}],\"starterAction\":\"Open the quiz and find the four marked questions\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Turn in the missing vocabulary worksheet",
+      "subject": "Spanish I",
+      "description": "Due today, unit 4 words.",
+      "duePhrase": "today",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and count how many words are blank\",\"minutes\":5},{\"title\":\"Look up the first ten words in the glossary\",\"minutes\":15},{\"title\":\"Write the translations for the last ten words\",\"minutes\":15},{\"title\":\"Check every blank is filled in\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and count how many words are blank\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Submit the algebra homework from last night",
+      "subject": "Algebra II",
+      "description": "Problems 1 through 20.",
+      "duePhrase": "today",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the textbook to the assigned page\",\"minutes\":5},{\"title\":\"Solve the problems you already started\",\"minutes\":15},{\"title\":\"Solve the remaining problems in order\",\"minutes\":20},{\"title\":\"Check two answers by resolving them from scratch\",\"minutes\":10}],\"starterAction\":\"Open the textbook to the assigned page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Hand in the lab safety quiz",
+      "subject": "Chemistry",
+      "description": "Due at the start of class today.",
+      "duePhrase": "today",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the quiz packet to the first page\",\"minutes\":5},{\"title\":\"Answer the first five safety questions\",\"minutes\":15},{\"title\":\"Answer the remaining questions\",\"minutes\":15},{\"title\":\"Check your name is on every page\",\"minutes\":5}],\"starterAction\":\"Open the quiz packet to the first page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Complete the periodic table quiz prep",
+      "subject": "Chemistry",
+      "description": "First twenty elements.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the first ten element symbols on a card\",\"minutes\":10},{\"title\":\"Say each symbol and its name out loud\",\"minutes\":10},{\"title\":\"Circle the three you keep missing\",\"minutes\":10}],\"starterAction\":\"Write the first ten element symbols on a card\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Finish the grammar worksheet on commas",
+      "subject": "English 9",
+      "description": "Ten sentences.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and read the first sentence\",\"minutes\":5},{\"title\":\"Fix the punctuation in the first five sentences\",\"minutes\":15},{\"title\":\"Fix the punctuation in the last five sentences\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and read the first sentence\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Review sheet warm-up for the geometry quiz",
+      "subject": "Geometry",
+      "description": "Five practice problems.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Copy the five problems onto notebook paper\",\"minutes\":10},{\"title\":\"Solve the first three problems\",\"minutes\":15},{\"title\":\"Solve the last two problems\",\"minutes\":10}],\"starterAction\":\"Copy the five problems onto notebook paper\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Practice the multiplication facts quiz",
+      "subject": "Algebra I",
+      "description": "Facts for 6 through 9.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the six times table from memory\",\"minutes\":10},{\"title\":\"Time yourself reciting the seven times table\",\"minutes\":10},{\"title\":\"Circle the facts you got wrong\",\"minutes\":10}],\"starterAction\":\"Write the six times table from memory\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Build the topographic map model",
+      "subject": "Environmental Science",
+      "description": "Contour intervals of 100 feet.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 60
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the contour map handout and count the intervals\",\"minutes\":10},{\"title\":\"Trace the lowest contour line onto the base layer\",\"minutes\":30},{\"title\":\"Cut and stack each successive layer by elevation\",\"minutes\":45},{\"title\":\"Label the elevation on each layer\",\"minutes\":30},{\"title\":\"Check the model against the handout for any missing layer\",\"minutes\":20}],\"starterAction\":\"Open the contour map handout and count the intervals\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Draft the rough cut of the documentary project",
+      "subject": "Journalism",
+      "description": "Five minutes of footage.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 60
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the video folder and count the clips you have\",\"minutes\":10},{\"title\":\"Import the interview clips into the editing timeline\",\"minutes\":35},{\"title\":\"Cut the first half of the interview footage down to size\",\"minutes\":45},{\"title\":\"Cut the second half of the interview footage down to size\",\"minutes\":45},{\"title\":\"Add the title card at the start\",\"minutes\":20},{\"title\":\"Watch the rough cut start to finish\",\"minutes\":25}],\"starterAction\":\"Open the video folder and count the clips you have\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Rehearse the monologue for the theater showcase",
+      "subject": "Theater",
+      "description": "Two minutes memorized.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 60
+    },
+    "completion": "{\"steps\":[{\"title\":\"Read the monologue out loud one time through\",\"minutes\":15},{\"title\":\"Practise the first half without looking at the page\",\"minutes\":30},{\"title\":\"Practise the second half without looking at the page\",\"minutes\":30},{\"title\":\"Run the whole monologue from memory\",\"minutes\":35},{\"title\":\"Record yourself on your phone and watch it back\",\"minutes\":30}],\"starterAction\":\"Read the monologue out loud one time through\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write the second draft of the personal essay",
+      "subject": "English 2H",
+      "description": "Common App prompt, 650 words.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 60
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the first draft and count the current word total\",\"minutes\":10},{\"title\":\"Rewrite the opening paragraph completely\",\"minutes\":40},{\"title\":\"Rewrite the three body paragraphs\",\"minutes\":45},{\"title\":\"Cut the weakest sentences from each paragraph\",\"minutes\":35},{\"title\":\"Read the whole essay aloud start to finish\",\"minutes\":30}],\"starterAction\":\"Open the first draft and count the current word total\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Research and write the science fair paper",
+      "subject": "Biology",
+      "description": "Independent project, ten pages.",
+      "duePhrase": "in 3 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the question your project is testing\",\"minutes\":5},{\"title\":\"Collect five sources about your topic\",\"minutes\":40},{\"title\":\"Write the background section from your sources\",\"minutes\":45},{\"title\":\"Record your experiment results in a table\",\"minutes\":35},{\"title\":\"Write the discussion section using the table\",\"minutes\":45},{\"title\":\"Write the conclusion stating whether your hypothesis held\",\"minutes\":30},{\"title\":\"Read the whole paper aloud and fix what sounds wrong\",\"minutes\":30}],\"starterAction\":\"Write down the question your project is testing\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Build the National History Day exhibit board",
+      "subject": "US History",
+      "description": "Tri-fold board, primary sources required.",
+      "duePhrase": "in 3 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the historical question your board answers\",\"minutes\":5},{\"title\":\"Collect four primary sources for your topic\",\"minutes\":45},{\"title\":\"Print the images and quotes you will use\",\"minutes\":30},{\"title\":\"Arrange the sections on the board in pencil first\",\"minutes\":35},{\"title\":\"Stick the sections onto the board\",\"minutes\":40},{\"title\":\"Label every image with its source\",\"minutes\":30},{\"title\":\"Check every section against the judging rubric\",\"minutes\":25}],\"starterAction\":\"Write down the historical question your board answers\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Assemble the art portfolio for the AP review",
+      "subject": "Art",
+      "description": "Eight finished pieces.",
+      "duePhrase": "in 3 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your sketchbook and list every finished piece you have\",\"minutes\":10},{\"title\":\"Photograph the first four pieces in good light\",\"minutes\":35},{\"title\":\"Photograph the remaining four pieces\",\"minutes\":35},{\"title\":\"Sort the photos into your strongest and weakest half\",\"minutes\":20},{\"title\":\"Write one sentence about each piece for the statement\",\"minutes\":40},{\"title\":\"Format the photos into the submission template\",\"minutes\":30},{\"title\":\"Check every image is in focus before the deadline\",\"minutes\":20}],\"starterAction\":\"Open your sketchbook and list every finished piece you have\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write the research paper on climate policy",
+      "subject": "AP Government",
+      "description": "Twelve pages, six sources minimum.",
+      "duePhrase": "in 3 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the policy question the paper will answer\",\"minutes\":10},{\"title\":\"Collect six sources and save them in one folder\",\"minutes\":45},{\"title\":\"Write the outline as a list of section headings\",\"minutes\":30},{\"title\":\"Write the first two sections without editing\",\"minutes\":45},{\"title\":\"Write the middle two sections\",\"minutes\":45},{\"title\":\"Write the last two sections and the conclusion\",\"minutes\":45},{\"title\":\"Read the paper aloud and check every source is cited\",\"minutes\":30}],\"starterAction\":\"Write down the policy question the paper will answer\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Complete the ecosystem unit packet",
+      "subject": "Environmental Science",
+      "description": "Includes a food web diagram, a two-paragraph summary, and five review questions.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and count the three parts it asks for\",\"minutes\":5},{\"title\":\"Draw the food web diagram first\",\"minutes\":25},{\"title\":\"Write the two-paragraph summary\",\"minutes\":30},{\"title\":\"Answer the five review questions\",\"minutes\":25},{\"title\":\"Check every part of the packet is filled in\",\"minutes\":10}],\"starterAction\":\"Open the packet and count the three parts it asks for\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Turn in the character study assignment",
+      "subject": "English 10",
+      "description": "Requires a character map, a quote log of six quotes, and a one-page analysis.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the novel to the chapters already read\",\"minutes\":5},{\"title\":\"Draw the character map with the main relationships\",\"minutes\":25},{\"title\":\"Copy six quotes into the quote log\",\"minutes\":30},{\"title\":\"Write the one-page analysis using the quote log\",\"minutes\":35},{\"title\":\"Check the map, log and analysis are all attached\",\"minutes\":10}],\"starterAction\":\"Open the novel to the chapters already read\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Finish the weather unit project",
+      "subject": "Earth Science",
+      "description": "A data table of five days of readings, a graph, and a short written forecast.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your data sheet and count the readings you have\",\"minutes\":5},{\"title\":\"Copy the five days of readings into the data table\",\"minutes\":20},{\"title\":\"Draw the graph from the data table\",\"minutes\":25},{\"title\":\"Write the short forecast using the graph\",\"minutes\":25},{\"title\":\"Check the table, graph and forecast match\",\"minutes\":10}],\"starterAction\":\"Open your data sheet and count the readings you have\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Complete the persuasive unit packet",
+      "subject": "English 9",
+      "description": "A claim worksheet, an outline, and the first two paragraphs of the essay.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and list the three sections it asks for\",\"minutes\":5},{\"title\":\"Fill in the claim worksheet\",\"minutes\":20},{\"title\":\"Write the outline from the claim worksheet\",\"minutes\":25},{\"title\":\"Write the first paragraph of the essay\",\"minutes\":30},{\"title\":\"Write the second paragraph of the essay\",\"minutes\":30},{\"title\":\"Check every section of the packet is complete\",\"minutes\":10}],\"starterAction\":\"Open the packet and list the three sections it asks for\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Build your slides for the group ecosystem presentation",
+      "subject": "Biology",
+      "description": "Your part covers slides 4 through 6 on food webs.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the shared slide deck and find slides 4 through 6\",\"minutes\":5},{\"title\":\"Write down the three points your slides must cover\",\"minutes\":15},{\"title\":\"Search for one food web image for slide 4\",\"minutes\":20},{\"title\":\"Write the bullet points for slides 5 and 6\",\"minutes\":25},{\"title\":\"Check your slides match the group's font and color choices\",\"minutes\":15}],\"starterAction\":\"Open the shared slide deck and find slides 4 through 6\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write your section of the shared history report",
+      "subject": "World History",
+      "description": "Your part is the causes section, pages 2 to 3.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the shared document and find your assigned section\",\"minutes\":5},{\"title\":\"List the three causes you need to cover\",\"minutes\":15},{\"title\":\"Write the first cause with one supporting fact\",\"minutes\":20},{\"title\":\"Write the remaining two causes\",\"minutes\":25},{\"title\":\"Read your section aloud and fix what sounds wrong\",\"minutes\":15}],\"starterAction\":\"Open the shared document and find your assigned section\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Prepare your role as narrator in the group skit",
+      "subject": "Spanish III",
+      "description": "You read the narrator lines between each scene.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the script and highlight every narrator line\",\"minutes\":10},{\"title\":\"Read the narrator lines out loud once through\",\"minutes\":15},{\"title\":\"Translate the two lines you are unsure of\",\"minutes\":20},{\"title\":\"Practise the lines with a timer\",\"minutes\":20},{\"title\":\"Recite the lines from memory once\",\"minutes\":20}],\"starterAction\":\"Open the script and highlight every narrator line\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Record your part of the group podcast episode",
+      "subject": "Journalism",
+      "description": "Your segment is the three-minute weather segment.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the script and find your weather segment\",\"minutes\":5},{\"title\":\"Time yourself reading the segment out loud once\",\"minutes\":10},{\"title\":\"Rewrite the two sentences that felt awkward\",\"minutes\":20},{\"title\":\"Record the segment on your phone\",\"minutes\":25},{\"title\":\"Play back the recording and check the timing\",\"minutes\":15}],\"starterAction\":\"Open the script and find your weather segment\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Catch up on missed work from Monday's absence",
+      "subject": "Algebra II",
+      "description": "Out sick, missed the lesson on factoring.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Email the teacher and ask what class covered on Monday\",\"minutes\":5},{\"title\":\"Open the class page and download the missed notes\",\"minutes\":15},{\"title\":\"Copy the example problems from the notes\",\"minutes\":20},{\"title\":\"Solve the three practice problems at the end of the notes\",\"minutes\":25},{\"title\":\"Check your answers against a classmate's homework\",\"minutes\":15}],\"starterAction\":\"Email the teacher and ask what class covered on Monday\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Make up the biology lab missed last week",
+      "subject": "Biology",
+      "description": "Absent for the cell membrane lab.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Ask the teacher for the make-up lab time slot\",\"minutes\":5},{\"title\":\"Open the lab handout and read the procedure\",\"minutes\":15},{\"title\":\"Copy a partner's data into your own table\",\"minutes\":20},{\"title\":\"Calculate the results using the copied data\",\"minutes\":25},{\"title\":\"Write the conclusion from your calculations\",\"minutes\":30},{\"title\":\"Check your table matches the format on the handout\",\"minutes\":15}],\"starterAction\":\"Ask the teacher for the make-up lab time slot\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Find out what was missed during the field trip",
+      "subject": "US Government",
+      "description": "Gone for the state capitol trip Thursday.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Ask a classmate what the Thursday class covered\",\"minutes\":5},{\"title\":\"Open the class page and look for posted notes\",\"minutes\":10},{\"title\":\"Copy down the vocabulary words listed for the unit\",\"minutes\":15},{\"title\":\"Read the assigned pages that go with those words\",\"minutes\":25}],\"starterAction\":\"Ask a classmate what the Thursday class covered\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Get caught up after three days out with the flu",
+      "subject": "Chemistry",
+      "description": "Missed the naming compounds unit.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Email the teacher and ask for the missed handouts\",\"minutes\":5},{\"title\":\"Open the class page and download the naming compounds notes\",\"minutes\":20},{\"title\":\"Copy the naming rules into your notebook\",\"minutes\":25},{\"title\":\"Answer the first ten practice problems\",\"minutes\":30},{\"title\":\"Check your answers against the examples in the notes\",\"minutes\":20}],\"starterAction\":\"Email the teacher and ask for the missed handouts\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Revise the argumentative essay using the teacher's comments",
+      "subject": "English 2H",
+      "description": "Returned with margin notes and a rubric score.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Read every comment written in the margins\",\"minutes\":15},{\"title\":\"List the three comments that repeat most often\",\"minutes\":15},{\"title\":\"Rewrite the weakest paragraph the comments point to\",\"minutes\":30},{\"title\":\"Rewrite the conclusion using the rubric notes\",\"minutes\":25},{\"title\":\"Read the revised essay aloud and fix what sounds wrong\",\"minutes\":20}],\"starterAction\":\"Read every comment written in the margins\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Correct the returned chemistry test",
+      "subject": "Chemistry",
+      "description": "Redo every problem marked with an X.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Read the grader's note at the top of the test\",\"minutes\":5},{\"title\":\"Circle every problem marked with an X\",\"minutes\":10},{\"title\":\"Solve the first half of the marked problems again\",\"minutes\":25},{\"title\":\"Solve the second half of the marked problems again\",\"minutes\":25},{\"title\":\"Write one sentence per problem on what went wrong\",\"minutes\":20}],\"starterAction\":\"Read the grader's note at the top of the test\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Revise the lab report after the teacher's feedback",
+      "subject": "Biology",
+      "description": "Grade withheld until the data section is fixed.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Read the feedback stapled to the front page\",\"minutes\":10},{\"title\":\"Find the data table the comment refers to\",\"minutes\":10},{\"title\":\"Calculate the corrected numbers the teacher circled\",\"minutes\":25},{\"title\":\"Rewrite the conclusion using the corrected numbers\",\"minutes\":25},{\"title\":\"Check every number in the table matches the graph\",\"minutes\":15}],\"starterAction\":\"Read the feedback stapled to the front page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Fix the geometry proof set after grading",
+      "subject": "Geometry",
+      "description": "Three of the five proofs were marked incomplete.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Read the note written next to each incomplete proof\",\"minutes\":10},{\"title\":\"Find the missing reason in the first flagged proof\",\"minutes\":15},{\"title\":\"Rewrite the first flagged proof in full\",\"minutes\":20},{\"title\":\"Rewrite the remaining two flagged proofs\",\"minutes\":30},{\"title\":\"Check every reason against the theorem list\",\"minutes\":15}],\"starterAction\":\"Read the note written next to each incomplete proof\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Practice trumpet for tomorrow's band rehearsal",
+      "subject": "Band",
+      "description": "Concert piece measures 1 through 32.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Play the warm-up scale from the practice sheet\",\"minutes\":5},{\"title\":\"Play measures 1 through 16 slowly\",\"minutes\":15},{\"title\":\"Play measures 17 through 32 slowly\",\"minutes\":15},{\"title\":\"Play all 32 measures at full tempo\",\"minutes\":15}],\"starterAction\":\"Play the warm-up scale from the practice sheet\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Do the nightly Spanish vocabulary drill",
+      "subject": "Spanish III",
+      "description": "Unit 5 flashcards, forty words.",
+      "duePhrase": "today",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Split the forty flashcards into two piles\",\"minutes\":5},{\"title\":\"Say the first twenty words without looking at the back\",\"minutes\":15},{\"title\":\"Say the last twenty words without looking at the back\",\"minutes\":15},{\"title\":\"Sort the cards you missed into a separate pile\",\"minutes\":10}],\"starterAction\":\"Split the forty flashcards into two piles\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Fill out tonight's reading log entry",
+      "subject": "English 9",
+      "description": "Twenty minutes of independent reading.",
+      "duePhrase": "today",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your book to the bookmarked page\",\"minutes\":5},{\"title\":\"Read for twenty minutes without stopping\",\"minutes\":20},{\"title\":\"Write the title and the page you stopped on\",\"minutes\":5},{\"title\":\"Write one sentence about what happened\",\"minutes\":10}],\"starterAction\":\"Open your book to the bookmarked page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Run today's conditioning log for cross country",
+      "subject": "PE",
+      "description": "Two miles plus stretching, log the splits.",
+      "duePhrase": "today",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down today's date at the top of the log\",\"minutes\":5},{\"title\":\"Run the first mile and note the split time\",\"minutes\":25},{\"title\":\"Run the second mile and note the split time\",\"minutes\":25},{\"title\":\"Time your five minutes of stretching and check the log\",\"minutes\":15}],\"starterAction\":\"Write down today's date at the top of the log\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Finish the extra credit worksheet on cell organelles",
+      "subject": "Biology",
+      "description": "Optional, ten points added to the test grade.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and read the first organelle question\",\"minutes\":5},{\"title\":\"Answer the first five organelle questions\",\"minutes\":20},{\"title\":\"Answer the last five organelle questions\",\"minutes\":20},{\"title\":\"Check your answers against the diagram in the textbook\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and read the first organelle question\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Complete the optional bonus reading response",
+      "subject": "World Literature",
+      "description": "Not required, extra credit toward the essay grade.",
+      "duePhrase": "next week",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the bonus story and read the first two pages\",\"minutes\":15},{\"title\":\"Read the remaining pages without stopping\",\"minutes\":30},{\"title\":\"Write three sentences on what the story was about\",\"minutes\":20},{\"title\":\"Read your response aloud and fix what sounds wrong\",\"minutes\":15}],\"starterAction\":\"Open the bonus story and read the first two pages\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write the compare and contrast essay on two assigned poems",
+      "subject": "World Literature",
+      "description": "The essay should be typed, double spaced, twelve point font, with one inch margins on every side, and must include a clear thesis statement in the introduction, at least two body paragraphs each built around one poem, direct quotations from both poems with page numbers, and a works cited entry in MLA format at the end.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the two poems and reread the first one\",\"minutes\":15},{\"title\":\"Write down two things the poems share and two ways they differ\",\"minutes\":20},{\"title\":\"Write the thesis statement in one sentence\",\"minutes\":15},{\"title\":\"Write the body paragraph about the first poem\",\"minutes\":30},{\"title\":\"Write the body paragraph about the second poem\",\"minutes\":30},{\"title\":\"Write the works cited entry in MLA format\",\"minutes\":15},{\"title\":\"Read the essay aloud and check every quote has a page number\",\"minutes\":20}],\"starterAction\":\"Open the two poems and reread the first one\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Complete the momentum and collisions problem set",
+      "subject": "Physics",
+      "description": "This problem set covers elastic and inelastic collisions, includes both one dimensional and two dimensional momentum problems, requires a free body diagram for every problem, asks you to show unit conversions explicitly, and expects final answers boxed with the correct number of significant figures.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and count how many problems are one dimensional\",\"minutes\":10},{\"title\":\"Draw the free body diagram for the first three problems\",\"minutes\":30},{\"title\":\"Solve the first three one dimensional problems\",\"minutes\":35},{\"title\":\"Draw the free body diagram for the two dimensional problems\",\"minutes\":30},{\"title\":\"Solve the two dimensional problems\",\"minutes\":40},{\"title\":\"Check every final answer has the correct significant figures\",\"minutes\":20}],\"starterAction\":\"Open the packet and count how many problems are one dimensional\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Finish tonight's reading check due tomorrow",
+      "subject": "World Literature",
+      "description": "Chapter 9 only.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the book to the start of chapter 9\",\"minutes\":5},{\"title\":\"Read the chapter without stopping to look anything up\",\"minutes\":20},{\"title\":\"Write two sentences saying what happened\",\"minutes\":10}],\"starterAction\":\"Open the book to the start of chapter 9\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Finish the geometry worksheet due today",
+      "subject": "Geometry",
+      "description": "Section 6.2, all problems.",
+      "duePhrase": "today",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and count the problems\",\"minutes\":5},{\"title\":\"Solve the construction problems first\",\"minutes\":20},{\"title\":\"Solve the remaining algebra problems\",\"minutes\":20},{\"title\":\"Check the three you were unsure of\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and count the problems\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Complete the French verb conjugation drill",
+      "subject": "French II",
+      "description": "Present tense, ten verbs.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the infinitive of all ten verbs on a sheet\",\"minutes\":10},{\"title\":\"Fill in the present tense form for the first five verbs\",\"minutes\":15},{\"title\":\"Fill in the present tense form for the last five verbs\",\"minutes\":15}],\"starterAction\":\"Write the infinitive of all ten verbs on a sheet\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Finish the health quiz review questions",
+      "subject": "Health",
+      "description": "Ten short answer questions.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the review sheet and read question one\",\"minutes\":5},{\"title\":\"Answer the first five questions\",\"minutes\":20},{\"title\":\"Answer the last five questions\",\"minutes\":20}],\"starterAction\":\"Open the review sheet and read question one\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Build the DNA model for the genetics unit",
+      "subject": "Biology",
+      "description": "Double helix with labeled base pairs.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 60
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the kit and count the pieces you have\",\"minutes\":10},{\"title\":\"Assemble the sugar-phosphate backbone for one strand\",\"minutes\":40},{\"title\":\"Assemble the backbone for the second strand\",\"minutes\":40},{\"title\":\"Attach the base pairs connecting both strands\",\"minutes\":45},{\"title\":\"Label each base pair with its letter\",\"minutes\":30},{\"title\":\"Check the model twists in a consistent direction\",\"minutes\":20}],\"starterAction\":\"Open the kit and count the pieces you have\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Paint the still life for the studio art final",
+      "subject": "Art",
+      "description": "Acrylic on canvas, three objects.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 60
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your sketchbook and find the still life sketch\",\"minutes\":10},{\"title\":\"Mix the base colors for each of the three objects\",\"minutes\":35},{\"title\":\"Cover the canvas background with the base color\",\"minutes\":40},{\"title\":\"Add the first two objects in their base colors\",\"minutes\":45},{\"title\":\"Add the third object and the shadow tones\",\"minutes\":40},{\"title\":\"Check the values against your original sketch\",\"minutes\":25}],\"starterAction\":\"Open your sketchbook and find the still life sketch\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write the independent research paper on renewable energy",
+      "subject": "Environmental Science",
+      "description": "Fifteen pages, eight sources.",
+      "duePhrase": "in 3 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the research question in one sentence\",\"minutes\":10},{\"title\":\"Collect eight sources and save them in one folder\",\"minutes\":45},{\"title\":\"Write the outline listing each section\",\"minutes\":30},{\"title\":\"Write the first three sections\",\"minutes\":45},{\"title\":\"Write the middle three sections\",\"minutes\":45},{\"title\":\"Write the last two sections and the conclusion\",\"minutes\":40},{\"title\":\"Read the whole paper aloud and check every citation\",\"minutes\":30}],\"starterAction\":\"Write down the research question in one sentence\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Build the invention for the engineering fair",
+      "subject": "Physics",
+      "description": "Working prototype plus a display board.",
+      "duePhrase": "in 3 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the problem your invention solves\",\"minutes\":10},{\"title\":\"Sketch three possible designs\",\"minutes\":35},{\"title\":\"Gather the materials for the design you picked\",\"minutes\":40},{\"title\":\"Build the first version of the prototype\",\"minutes\":45},{\"title\":\"Run the prototype twice and note what fails\",\"minutes\":30},{\"title\":\"Fix the parts that failed the test\",\"minutes\":35},{\"title\":\"Check the prototype works without failing\",\"minutes\":25}],\"starterAction\":\"Write down the problem your invention solves\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Complete the Spanish culture unit project",
+      "subject": "Spanish III",
+      "description": "A map worksheet, a food vocabulary list, and a one-paragraph summary of a tradition.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and list the three parts it asks for\",\"minutes\":5},{\"title\":\"Fill in the map worksheet\",\"minutes\":20},{\"title\":\"Write the food vocabulary list\",\"minutes\":20},{\"title\":\"Write the paragraph about the tradition\",\"minutes\":30},{\"title\":\"Check every part of the packet is complete\",\"minutes\":10}],\"starterAction\":\"Open the packet and list the three parts it asks for\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Finish the Romeo and Juliet unit packet",
+      "subject": "English 10",
+      "description": "A character chart, five quote analyses, and a theme paragraph.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and count the three sections\",\"minutes\":5},{\"title\":\"Fill in the character chart\",\"minutes\":25},{\"title\":\"Write the analysis for the first three quotes\",\"minutes\":30},{\"title\":\"Write the analysis for the last two quotes\",\"minutes\":25},{\"title\":\"Write the theme paragraph\",\"minutes\":30},{\"title\":\"Check every section is filled in\",\"minutes\":10}],\"starterAction\":\"Open the packet and count the three sections\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Finish your two paragraphs of the group lab report",
+      "subject": "Chemistry",
+      "description": "Your part is the procedure and the data section.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the shared document and find your two sections\",\"minutes\":5},{\"title\":\"Write the procedure paragraph from your notes\",\"minutes\":25},{\"title\":\"Copy the data table into the data section\",\"minutes\":20},{\"title\":\"Write two sentences interpreting the data\",\"minutes\":20},{\"title\":\"Read your sections aloud and check they match the group's data\",\"minutes\":15}],\"starterAction\":\"Open the shared document and find your two sections\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Prepare your interview questions for the group documentary",
+      "subject": "Journalism",
+      "description": "You are responsible for the three questions in scene two.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the shared script and find scene two\",\"minutes\":5},{\"title\":\"Write down what scene two needs to explain\",\"minutes\":10},{\"title\":\"Write the first interview question\",\"minutes\":15},{\"title\":\"Write the second and third interview questions\",\"minutes\":20},{\"title\":\"Read your three questions aloud and check they flow\",\"minutes\":15}],\"starterAction\":\"Open the shared script and find scene two\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Catch up on two missed days in Spanish",
+      "subject": "Spanish III",
+      "description": "Absent for the ser vs estar lesson.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Ask a classmate for their notes from the missed days\",\"minutes\":5},{\"title\":\"Open the class page and download the practice sheet\",\"minutes\":15},{\"title\":\"Copy the rule for ser and estar into your notebook\",\"minutes\":20},{\"title\":\"Complete the first ten practice sentences\",\"minutes\":25},{\"title\":\"Check your answers against the notebook rule\",\"minutes\":15}],\"starterAction\":\"Ask a classmate for their notes from the missed days\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Get caught up on the missed English discussion",
+      "subject": "English 2H",
+      "description": "Out for a doctor's appointment during the Socratic seminar.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Email the teacher and ask for the seminar discussion notes\",\"minutes\":5},{\"title\":\"Open the class page and read the posted summary\",\"minutes\":15},{\"title\":\"Write down the three questions that were discussed\",\"minutes\":15},{\"title\":\"Write one paragraph giving your own answer to one question\",\"minutes\":20}],\"starterAction\":\"Email the teacher and ask for the seminar discussion notes\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Revise the Spanish paragraph after corrections",
+      "subject": "Spanish III",
+      "description": "Every underlined verb ending was wrong.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Read the corrections written above each underlined word\",\"minutes\":10},{\"title\":\"List every verb that was marked wrong\",\"minutes\":10},{\"title\":\"Rewrite each corrected verb in the right tense\",\"minutes\":20},{\"title\":\"Read the paragraph aloud and check the new endings\",\"minutes\":15}],\"starterAction\":\"Read the corrections written above each underlined word\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Fix the physics problem set after grading",
+      "subject": "Physics",
+      "description": "Four of ten problems were marked wrong.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Read the note next to each problem marked wrong\",\"minutes\":10},{\"title\":\"Circle the four problems that need fixing\",\"minutes\":10},{\"title\":\"Solve the first two problems again with the correct formula\",\"minutes\":25},{\"title\":\"Solve the last two problems again with the correct formula\",\"minutes\":25},{\"title\":\"Check each answer against the unit given in the problem\",\"minutes\":15}],\"starterAction\":\"Read the note next to each problem marked wrong\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Practice the violin piece for this week's lesson",
+      "subject": "Orchestra",
+      "description": "First movement, measures 1 to 40.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Play the first line slowly with the metronome\",\"minutes\":10},{\"title\":\"Play measures 1 through 20 at half speed\",\"minutes\":20},{\"title\":\"Play measures 21 through 40 at half speed\",\"minutes\":20},{\"title\":\"Play the whole first movement at performance speed\",\"minutes\":20}],\"starterAction\":\"Play the first line slowly with the metronome\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Log tonight's twenty minutes of independent reading",
+      "subject": "English 9",
+      "description": "Continue the assigned novel.",
+      "duePhrase": "today",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the novel to the bookmark\",\"minutes\":5},{\"title\":\"Read for twenty minutes straight through\",\"minutes\":20},{\"title\":\"Write the page number you stopped on\",\"minutes\":5},{\"title\":\"Write one sentence about tonight's reading\",\"minutes\":10}],\"starterAction\":\"Open the novel to the bookmark\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Complete the extra credit map worksheet",
+      "subject": "World History",
+      "description": "Label twelve countries for bonus points.",
+      "duePhrase": "next week",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the blank map and count the twelve countries listed\",\"minutes\":5},{\"title\":\"Label the first six countries on the map\",\"minutes\":20},{\"title\":\"Label the remaining six countries on the map\",\"minutes\":20},{\"title\":\"Check every country is spelled correctly\",\"minutes\":15}],\"starterAction\":\"Open the blank map and count the twelve countries listed\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Complete the cell transport lab reflection",
+      "subject": "Biology",
+      "description": "This reflection asks you to explain what happened during the egg osmosis demonstration, including the mass of the egg before and after soaking in each solution, why the water moved the direction it did in terms of concentration, and what the results would have looked like in a solution of the opposite concentration.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notes to the osmosis demonstration data\",\"minutes\":5},{\"title\":\"Write down the egg mass before and after each solution\",\"minutes\":15},{\"title\":\"Write one paragraph explaining why the water moved that direction\",\"minutes\":25},{\"title\":\"Write one paragraph predicting the opposite concentration result\",\"minutes\":25},{\"title\":\"Read the reflection aloud and check every number matches your notes\",\"minutes\":15}],\"starterAction\":\"Open your lab notes to the osmosis demonstration data\"}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "omg did anyone else forget the chem lab report is due tomorrow at 8am. also don't forget the safety quiz right before class starts",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Chem lab report\",\"dueInDays\":1},{\"title\":\"Safety quiz\",\"dueInDays\":1}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "group chat is popping off lol ok so recap: math test moved to Thursday, the history DBQ essay final draft monday, and someone said french quiz got pushed to next friday",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Math test\",\"dueInDays\":3},{\"title\":\"History DBQ essay\",\"dueInDays\":7},{\"title\":\"French quiz\",\"dueInDays\":11}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Unit 7 syllabus: reading quiz week 1, problem set 7 due week 2, midterm exam week 3, and the unit project proposal due week 4, final unit project due six weeks from today",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Reading quiz\",\"dueInDays\":4,\"subject\":\"Math\"},{\"title\":\"Problem set 7\",\"dueInDays\":11,\"subject\":\"Math\"},{\"title\":\"Midterm exam\",\"dueInDays\":18,\"subject\":\"Math\"},{\"title\":\"Project proposal\",\"dueInDays\":25,\"subject\":\"Math\"},{\"title\":\"Final unit project\",\"dueInDays\":42,\"subject\":\"Math\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Hi, sorry you were out sick this week. You missed: the annotated bibliography draft (was due Wednesday, now due Monday), the group presentation sign up sheet due Friday, and the reading quiz on chapters 5 and 6 which I can let you retake Thursday",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Annotated bibliography draft\",\"dueInDays\":7},{\"title\":\"Group presentation sign up\",\"dueInDays\":4},{\"title\":\"Reading quiz retake\",\"dueInDays\":3}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Okay everyone before you go, three things. Vocabulary quiz is Friday. Bring your permission slip for the museum trip by Wednesday. And extra credit worksheet is optional, due whenever, but I need it before the end of the quarter",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Vocabulary quiz\",\"dueInDays\":4},{\"title\":\"Permission slip\",\"dueInDays\":2},{\"title\":\"Extra credit worksheet\",\"dueInDays\":30}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Reminder from Mr. Diaz: practice log entries are due every Friday, just write down your minutes and what you worked through. This week's log is due this Friday like usual",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Practice log entry\",\"dueInDays\":4}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Graded essays are back today. If your grade was below a C you can revise using my comments and resubmit for a new grade by next Tuesday. Everyone else, no action needed",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Revise essay\",\"dueInDays\":8}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Half day today, no new assignments, just a reminder that the field trip forms went home last week",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "hey were u in bio today? did we get assigned anything. i heard theres a worksheet due friday and something about the lab groups changing",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Bio worksheet\",\"dueInDays\":4}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "English: annotated bibliography rough draft Tuesday, peer review Wednesday, final annotated bibliography Friday, and the research essay itself due the Monday after that",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Annotated bibliography rough draft\",\"dueInDays\":1,\"subject\":\"English\"},{\"title\":\"Peer review\",\"dueInDays\":2,\"subject\":\"English\"},{\"title\":\"Final annotated bibliography\",\"dueInDays\":4,\"subject\":\"English\"},{\"title\":\"Research essay\",\"dueInDays\":7,\"subject\":\"English\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Extra credit opportunity: watch the documentary on the water cycle and write one paragraph about it, worth five points, no due date pressure but has to be in before finals in three weeks",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Documentary reflection\",\"dueInDays\":21}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Group project sign ups close tomorrow. Once you're in a group, your slide deck outline is due Friday and the full presentation is due the Monday after",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Group sign up\",\"dueInDays\":1},{\"title\":\"Slide deck outline\",\"dueInDays\":4},{\"title\":\"Full presentation\",\"dueInDays\":7}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Last call, the current events summary was due at the start of class today. If you don't have it, turn it in by the end of the day for half credit",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Current events summary\",\"dueInDays\":0}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Science fair timeline: topic approval form due in one week, research question and hypothesis due in two weeks, full project and board due in five weeks",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Topic approval form\",\"dueInDays\":7,\"subject\":\"Science\"},{\"title\":\"Research question and hypothesis\",\"dueInDays\":14,\"subject\":\"Science\"},{\"title\":\"Full project and board\",\"dueInDays\":35,\"subject\":\"Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "ok whoever has spanish 3rd period can u send me what we missed yesterday, im pretty sure theres a worksheet due wednesday and we start the ser estar quiz thursday",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Spanish worksheet\",\"dueInDays\":2},{\"title\":\"Ser estar quiz\",\"dueInDays\":3}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Reading log pages are due every Monday morning, twenty minutes a night, don't forget this week's is due Monday like always",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Reading log\",\"dueInDays\":7}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Chemistry: safety contract due tomorrow, lab groups posted Friday, first lab report in two weeks",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Safety contract\",\"dueInDays\":1,\"subject\":\"Chemistry\"},{\"title\":\"Lab groups posted\",\"dueInDays\":4,\"subject\":\"Chemistry\"},{\"title\":\"First lab report\",\"dueInDays\":14,\"subject\":\"Chemistry\"}]}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Complete your independent research project synthesizing three peer-reviewed sources into a ten-page paper due in three weeks",
+      "description": null
+    },
+    "completion": "{\"title\":\"Pick your research topic\",\"explanation\":\"Before you can find sources or write anything you need one narrow question to answer. Write one sentence naming the topic you are most curious about. Everything else in the project builds on that single sentence.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Assemble your entire science fair project including background research, hypothesis, procedure, data, and a professional display board",
+      "description": "Includes background research, a data table, and a board."
+    },
+    "completion": "{\"title\":\"Write down your hypothesis\",\"explanation\":\"A science fair project is many small pieces, not one big task. The only piece you need right now is a single sentence guessing what will happen in your experiment and why. The board and the data come later.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Produce a fully revised final draft of your twelve page research paper incorporating all peer feedback before the semester ends",
+      "description": null
+    },
+    "completion": "{\"title\":\"Open your draft and read the first comment\",\"explanation\":\"A full revision feels huge because it sounds like redoing the whole paper at once. It is really just working through one comment at a time. Start by opening the document and reading the very first note left on it.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Coordinate with your entire group to design, build, and present a fully functional water filtration prototype by the end of the unit",
+      "description": null
+    },
+    "completion": "{\"title\":\"Text your group one open time to meet\",\"explanation\":\"A project like this fails or succeeds based on whether the group actually meets. Before any building happens, send one message proposing a specific day and time this week. Everything else waits until that is set.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Design and construct a scale model diorama of a biome that accurately represents the climate, plants, animals, and human impact of that region in a single enclosed display",
+      "description": null
+    },
+    "completion": "{\"title\":\"Pick one biome\",\"explanation\":\"A diorama with four required elements is a lot to hold in your head at once. None of it can start until you have picked which biome you are building. Write the name of the one you find most interesting on a sticky note.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Overhaul your rejected college essay draft to fix the weak thesis, unclear structure, and missing evidence your teacher flagged before the early decision deadline",
+      "description": "Rejected by your first choice school's early round."
+    },
+    "completion": "{\"title\":\"Read your teacher's three comments once\",\"explanation\":\"Overhaul sounds like starting over, but it usually means three specific fixes, not a blank page. Read through the comments your teacher left one time without trying to fix anything yet. That reading is the whole first step.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Produce an independent extra credit research presentation on a topic of your choice with a minimum of ten annotated slides",
+      "description": null
+    },
+    "completion": "{\"title\":\"Choose your topic in one sentence\",\"explanation\":\"Extra credit projects stall because the topic choice feels permanent. It is not. Write one sentence naming any topic that interests you even slightly. You can always narrow or change it after that sentence exists.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Catch up on an entire semester of missing practice log entries before progress reports go out",
+      "description": null
+    },
+    "completion": "{\"title\":\"Write today's entry first\",\"explanation\":\"A semester of missing logs cannot be filled in at once and does not need to be. Write one entry, for today only, in the format your teacher already uses. The older missing days can be handled once this one exists.\"}"
+  }
+]

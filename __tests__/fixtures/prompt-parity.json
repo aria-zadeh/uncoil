@@ -1,0 +1,729 @@
+[
+  {
+    "id": "bd-0000",
+    "kind": "breakdown",
+    "title": "Write a essay on the causes of the Civil War",
+    "subject": null,
+    "description": null,
+    "duePhrase": "today",
+    "sessionMinutes": 15
+  },
+  {
+    "id": "bd-0001",
+    "kind": "breakdown",
+    "title": "Write a lab report on cellular respiration",
+    "subject": "AP US History",
+    "description": "Use at least 3 sources.",
+    "duePhrase": "tomorrow",
+    "sessionMinutes": 20
+  },
+  {
+    "id": "bd-0002",
+    "kind": "breakdown",
+    "title": "Write a problem set on quadratic functions",
+    "subject": "Biology",
+    "description": "Use at least 4 sources.",
+    "duePhrase": "in 2 days",
+    "sessionMinutes": 25
+  },
+  {
+    "id": "bd-0003",
+    "kind": "breakdown",
+    "title": "Write a presentation on The Great Gatsby chapters 4 through 6",
+    "subject": "Algebra II",
+    "description": null,
+    "duePhrase": "in 3 days",
+    "sessionMinutes": 30
+  },
+  {
+    "id": "bd-0004",
+    "kind": "breakdown",
+    "title": "Write a reading response on the periodic table",
+    "subject": null,
+    "description": "Use at least 2 sources.",
+    "duePhrase": "next week",
+    "sessionMinutes": 45
+  },
+  {
+    "id": "bd-0005",
+    "kind": "breakdown",
+    "title": "Write a research paper on the Bill of Rights",
+    "subject": "Spanish III",
+    "description": "Use at least 3 sources.",
+    "duePhrase": "in 2 weeks",
+    "sessionMinutes": 60
+  },
+  {
+    "id": "bd-0006",
+    "kind": "breakdown",
+    "title": "Write a poster on the causes of the Civil War",
+    "subject": "Geometry",
+    "description": null,
+    "duePhrase": "today",
+    "sessionMinutes": 15
+  },
+  {
+    "id": "bd-0007",
+    "kind": "breakdown",
+    "title": "Write a study guide on cellular respiration",
+    "subject": "AP Psychology",
+    "description": "Use at least 5 sources.",
+    "duePhrase": "tomorrow",
+    "sessionMinutes": 20
+  },
+  {
+    "id": "bd-0008",
+    "kind": "breakdown",
+    "title": "Write a worksheet on quadratic functions",
+    "subject": null,
+    "description": "Use at least 2 sources.",
+    "duePhrase": "in 2 days",
+    "sessionMinutes": 25
+  },
+  {
+    "id": "bd-0009",
+    "kind": "breakdown",
+    "title": "Write a chapter notes on The Great Gatsby chapters 4 through 6",
+    "subject": "Physics",
+    "description": null,
+    "duePhrase": "in 3 days",
+    "sessionMinutes": 30
+  },
+  {
+    "id": "bd-0010",
+    "kind": "breakdown",
+    "title": "Write a essay on the periodic table",
+    "subject": "English 2H",
+    "description": "Use at least 4 sources.",
+    "duePhrase": "next week",
+    "sessionMinutes": 45
+  },
+  {
+    "id": "bd-0011",
+    "kind": "breakdown",
+    "title": "Write a lab report on the Bill of Rights",
+    "subject": "AP US History",
+    "description": "Use at least 5 sources.",
+    "duePhrase": "in 2 weeks",
+    "sessionMinutes": 60
+  },
+  {
+    "id": "bd-0012",
+    "kind": "breakdown",
+    "title": "Write a problem set on the causes of the Civil War",
+    "subject": null,
+    "description": null,
+    "duePhrase": "today",
+    "sessionMinutes": 15
+  },
+  {
+    "id": "bd-0013",
+    "kind": "breakdown",
+    "title": "Write a presentation on cellular respiration",
+    "subject": "Algebra II",
+    "description": "Use at least 3 sources.",
+    "duePhrase": "tomorrow",
+    "sessionMinutes": 20
+  },
+  {
+    "id": "bd-0014",
+    "kind": "breakdown",
+    "title": "Write a reading response on quadratic functions",
+    "subject": "Chemistry",
+    "description": "Use at least 4 sources.",
+    "duePhrase": "in 2 days",
+    "sessionMinutes": 25
+  },
+  {
+    "id": "bd-0015",
+    "kind": "breakdown",
+    "title": "Write a research paper on The Great Gatsby chapters 4 through 6",
+    "subject": "Spanish III",
+    "description": null,
+    "duePhrase": "in 3 days",
+    "sessionMinutes": 30
+  },
+  {
+    "id": "bd-0016",
+    "kind": "breakdown",
+    "title": "Write a poster on the periodic table",
+    "subject": null,
+    "description": "Use at least 2 sources.",
+    "duePhrase": "next week",
+    "sessionMinutes": 45
+  },
+  {
+    "id": "bd-0017",
+    "kind": "breakdown",
+    "title": "Write a study guide on the Bill of Rights",
+    "subject": "AP Psychology",
+    "description": "Use at least 3 sources.",
+    "duePhrase": "in 2 weeks",
+    "sessionMinutes": 60
+  },
+  {
+    "id": "bd-0018",
+    "kind": "breakdown",
+    "title": "Write a worksheet on the causes of the Civil War",
+    "subject": "World Literature",
+    "description": null,
+    "duePhrase": "today",
+    "sessionMinutes": 15
+  },
+  {
+    "id": "bd-0019",
+    "kind": "breakdown",
+    "title": "Write a chapter notes on cellular respiration",
+    "subject": "Physics",
+    "description": "Use at least 5 sources.",
+    "duePhrase": "tomorrow",
+    "sessionMinutes": 20
+  },
+  {
+    "id": "bd-0020",
+    "kind": "breakdown",
+    "title": "Write a essay on quadratic functions",
+    "subject": null,
+    "description": "Use at least 2 sources.",
+    "duePhrase": "in 2 days",
+    "sessionMinutes": 25
+  },
+  {
+    "id": "bd-0021",
+    "kind": "breakdown",
+    "title": "Write a lab report on The Great Gatsby chapters 4 through 6",
+    "subject": "AP US History",
+    "description": null,
+    "duePhrase": "in 3 days",
+    "sessionMinutes": 30
+  },
+  {
+    "id": "bd-0022",
+    "kind": "breakdown",
+    "title": "Write a problem set on the periodic table",
+    "subject": "Biology",
+    "description": "Use at least 4 sources.",
+    "duePhrase": "next week",
+    "sessionMinutes": 45
+  },
+  {
+    "id": "bd-0023",
+    "kind": "breakdown",
+    "title": "Write a presentation on the Bill of Rights",
+    "subject": "Algebra II",
+    "description": "Use at least 5 sources.",
+    "duePhrase": "in 2 weeks",
+    "sessionMinutes": 60
+  },
+  {
+    "id": "bd-0024",
+    "kind": "breakdown",
+    "title": "Write a reading response on the causes of the Civil War",
+    "subject": null,
+    "description": null,
+    "duePhrase": "today",
+    "sessionMinutes": 15
+  },
+  {
+    "id": "bd-0025",
+    "kind": "breakdown",
+    "title": "Write a research paper on cellular respiration",
+    "subject": "Spanish III",
+    "description": "Use at least 3 sources.",
+    "duePhrase": "tomorrow",
+    "sessionMinutes": 20
+  },
+  {
+    "id": "bd-0026",
+    "kind": "breakdown",
+    "title": "Write a poster on quadratic functions",
+    "subject": "Geometry",
+    "description": "Use at least 4 sources.",
+    "duePhrase": "in 2 days",
+    "sessionMinutes": 25
+  },
+  {
+    "id": "bd-0027",
+    "kind": "breakdown",
+    "title": "Write a study guide on The Great Gatsby chapters 4 through 6",
+    "subject": "AP Psychology",
+    "description": null,
+    "duePhrase": "in 3 days",
+    "sessionMinutes": 30
+  },
+  {
+    "id": "bd-0028",
+    "kind": "breakdown",
+    "title": "Write a worksheet on the periodic table",
+    "subject": null,
+    "description": "Use at least 2 sources.",
+    "duePhrase": "next week",
+    "sessionMinutes": 45
+  },
+  {
+    "id": "bd-0029",
+    "kind": "breakdown",
+    "title": "Write a chapter notes on the Bill of Rights",
+    "subject": "Physics",
+    "description": "Use at least 3 sources.",
+    "duePhrase": "in 2 weeks",
+    "sessionMinutes": 60
+  },
+  {
+    "id": "bd-0030",
+    "kind": "breakdown",
+    "title": "Write a essay on the causes of the Civil War",
+    "subject": "English 2H",
+    "description": null,
+    "duePhrase": "today",
+    "sessionMinutes": 15
+  },
+  {
+    "id": "bd-0031",
+    "kind": "breakdown",
+    "title": "Write a lab report on cellular respiration",
+    "subject": "AP US History",
+    "description": "Use at least 5 sources.",
+    "duePhrase": "tomorrow",
+    "sessionMinutes": 20
+  },
+  {
+    "id": "bd-0032",
+    "kind": "breakdown",
+    "title": "Write a problem set on quadratic functions",
+    "subject": null,
+    "description": "Use at least 2 sources.",
+    "duePhrase": "in 2 days",
+    "sessionMinutes": 25
+  },
+  {
+    "id": "bd-0033",
+    "kind": "breakdown",
+    "title": "Write a presentation on The Great Gatsby chapters 4 through 6",
+    "subject": "Algebra II",
+    "description": null,
+    "duePhrase": "in 3 days",
+    "sessionMinutes": 30
+  },
+  {
+    "id": "bd-0034",
+    "kind": "breakdown",
+    "title": "Write a reading response on the periodic table",
+    "subject": "Chemistry",
+    "description": "Use at least 4 sources.",
+    "duePhrase": "next week",
+    "sessionMinutes": 45
+  },
+  {
+    "id": "bd-0035",
+    "kind": "breakdown",
+    "title": "Write a research paper on the Bill of Rights",
+    "subject": "Spanish III",
+    "description": "Use at least 5 sources.",
+    "duePhrase": "in 2 weeks",
+    "sessionMinutes": 60
+  },
+  {
+    "id": "bd-0036",
+    "kind": "breakdown",
+    "title": "Write a poster on the causes of the Civil War",
+    "subject": null,
+    "description": null,
+    "duePhrase": "today",
+    "sessionMinutes": 15
+  },
+  {
+    "id": "bd-0037",
+    "kind": "breakdown",
+    "title": "Write a study guide on cellular respiration",
+    "subject": "AP Psychology",
+    "description": "Use at least 3 sources.",
+    "duePhrase": "tomorrow",
+    "sessionMinutes": 20
+  },
+  {
+    "id": "bd-0038",
+    "kind": "breakdown",
+    "title": "Write a worksheet on quadratic functions",
+    "subject": "World Literature",
+    "description": "Use at least 4 sources.",
+    "duePhrase": "in 2 days",
+    "sessionMinutes": 25
+  },
+  {
+    "id": "bd-0039",
+    "kind": "breakdown",
+    "title": "Write a chapter notes on The Great Gatsby chapters 4 through 6",
+    "subject": "Physics",
+    "description": null,
+    "duePhrase": "in 3 days",
+    "sessionMinutes": 30
+  },
+  {
+    "id": "edge-0040",
+    "kind": "breakdown",
+    "title": "",
+    "subject": null,
+    "description": null,
+    "duePhrase": "in 3 days",
+    "sessionMinutes": 30
+  },
+  {
+    "id": "edge-0041",
+    "kind": "breakdown",
+    "title": "   ",
+    "subject": null,
+    "description": null,
+    "duePhrase": "in 3 days",
+    "sessionMinutes": 30
+  },
+  {
+    "id": "edge-0042",
+    "kind": "breakdown",
+    "title": "a",
+    "subject": null,
+    "description": null,
+    "duePhrase": "in 3 days",
+    "sessionMinutes": 30
+  },
+  {
+    "id": "edge-0043",
+    "kind": "breakdown",
+    "title": "\ud83d\ude00",
+    "subject": null,
+    "description": null,
+    "duePhrase": "in 3 days",
+    "sessionMinutes": 30
+  },
+  {
+    "id": "edge-0044",
+    "kind": "breakdown",
+    "title": "Read\t\tthe   chapter",
+    "subject": null,
+    "description": null,
+    "duePhrase": "in 3 days",
+    "sessionMinutes": 30
+  },
+  {
+    "id": "edge-0045",
+    "kind": "breakdown",
+    "title": "First line\nSecond line\n\nThird",
+    "subject": null,
+    "description": null,
+    "duePhrase": "in 3 days",
+    "sessionMinutes": 30
+  },
+  {
+    "id": "edge-0046",
+    "kind": "breakdown",
+    "title": "\u5bff\u53f8\u306e\u5bbf\u984c\u3092\u7d42\u308f\u3089\u305b\u308b",
+    "subject": null,
+    "description": null,
+    "duePhrase": "in 3 days",
+    "sessionMinutes": 30
+  },
+  {
+    "id": "edge-0047",
+    "kind": "breakdown",
+    "title": "Trabajo de espa\u00f1ol: leer el cap\u00edtulo 3",
+    "subject": null,
+    "description": null,
+    "duePhrase": "in 3 days",
+    "sessionMinutes": 30
+  },
+  {
+    "id": "edge-0048",
+    "kind": "breakdown",
+    "title": "\u041f\u0440\u043e\u0447\u0438\u0442\u0430\u0442\u044c \u0433\u043b\u0430\u0432\u0443 4",
+    "subject": null,
+    "description": null,
+    "duePhrase": "in 3 days",
+    "sessionMinutes": 30
+  },
+  {
+    "id": "edge-0049",
+    "kind": "breakdown",
+    "title": "Title with \"quotes\" and \\backslashes\\",
+    "subject": null,
+    "description": null,
+    "duePhrase": "in 3 days",
+    "sessionMinutes": 30
+  },
+  {
+    "id": "edge-0050",
+    "kind": "breakdown",
+    "title": "Title with, commas; and: colons",
+    "subject": null,
+    "description": null,
+    "duePhrase": "in 3 days",
+    "sessionMinutes": 30
+  },
+  {
+    "id": "edge-0051",
+    "kind": "breakdown",
+    "title": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "subject": null,
+    "description": null,
+    "duePhrase": "in 3 days",
+    "sessionMinutes": 30
+  },
+  {
+    "id": "edge-0052",
+    "kind": "breakdown",
+    "title": "T\u00edtulo con acentos: an\u00e1lisis cr\u00edtico",
+    "subject": null,
+    "description": null,
+    "duePhrase": "in 3 days",
+    "sessionMinutes": 30
+  },
+  {
+    "id": "edge-0053",
+    "kind": "breakdown",
+    "title": "  leading and trailing  ",
+    "subject": null,
+    "description": null,
+    "duePhrase": "in 3 days",
+    "sessionMinutes": 30
+  },
+  {
+    "id": "due-0054",
+    "kind": "duePhrase",
+    "days": -30
+  },
+  {
+    "id": "due-0055",
+    "kind": "duePhrase",
+    "days": -1
+  },
+  {
+    "id": "due-0056",
+    "kind": "duePhrase",
+    "days": 0
+  },
+  {
+    "id": "due-0057",
+    "kind": "duePhrase",
+    "days": 1
+  },
+  {
+    "id": "due-0058",
+    "kind": "duePhrase",
+    "days": 2
+  },
+  {
+    "id": "due-0059",
+    "kind": "duePhrase",
+    "days": 3
+  },
+  {
+    "id": "due-0060",
+    "kind": "duePhrase",
+    "days": 6
+  },
+  {
+    "id": "due-0061",
+    "kind": "duePhrase",
+    "days": 7
+  },
+  {
+    "id": "due-0062",
+    "kind": "duePhrase",
+    "days": 8
+  },
+  {
+    "id": "due-0063",
+    "kind": "duePhrase",
+    "days": 13
+  },
+  {
+    "id": "due-0064",
+    "kind": "duePhrase",
+    "days": 14
+  },
+  {
+    "id": "due-0065",
+    "kind": "duePhrase",
+    "days": 15
+  },
+  {
+    "id": "due-0066",
+    "kind": "duePhrase",
+    "days": 17
+  },
+  {
+    "id": "due-0067",
+    "kind": "duePhrase",
+    "days": 20
+  },
+  {
+    "id": "due-0068",
+    "kind": "duePhrase",
+    "days": 21
+  },
+  {
+    "id": "due-0069",
+    "kind": "duePhrase",
+    "days": 27
+  },
+  {
+    "id": "due-0070",
+    "kind": "duePhrase",
+    "days": 28
+  },
+  {
+    "id": "due-0071",
+    "kind": "duePhrase",
+    "days": 30
+  },
+  {
+    "id": "due-0072",
+    "kind": "duePhrase",
+    "days": 45
+  },
+  {
+    "id": "due-0073",
+    "kind": "duePhrase",
+    "days": 60
+  },
+  {
+    "id": "due-0074",
+    "kind": "duePhrase",
+    "days": 200
+  },
+  {
+    "id": "due-0075",
+    "kind": "duePhrase",
+    "days": 365
+  },
+  {
+    "id": "ex-0076",
+    "kind": "extraction",
+    "text": "Read chapters 4 to 6 by Friday. Lab report due next Tuesday."
+  },
+  {
+    "id": "ex-0077",
+    "kind": "extraction",
+    "text": ""
+  },
+  {
+    "id": "ex-0078",
+    "kind": "extraction",
+    "text": "   "
+  },
+  {
+    "id": "ex-0079",
+    "kind": "extraction",
+    "text": "\u041c\u043d\u043e\u0433\u043e\u0441\u0442\u0440\u043e\u0447\u043d\u044b\u0439\n\n\u0442\u0435\u043a\u0441\u0442 \u0437\u0430\u0434\u0430\u043d\u0438\u044f"
+  },
+  {
+    "id": "ex-0080",
+    "kind": "extraction",
+    "text": "Paragraph one.\n\nParagraph two with a due date of March 3."
+  },
+  {
+    "id": "sm-0081",
+    "kind": "simplify",
+    "title": "Analyze the rhetorical devices in the assigned speech",
+    "description": null
+  },
+  {
+    "id": "sm-0082",
+    "kind": "simplify",
+    "title": "Evaluate the reliability of the sources",
+    "description": "Consider bias and date."
+  },
+  {
+    "id": "sm-0083",
+    "kind": "simplify",
+    "title": "",
+    "description": null
+  },
+  {
+    "id": "sm-0084",
+    "kind": "simplify",
+    "title": "\u5bff\u53f8\u306e\u5bbf\u984c",
+    "description": "\u8aac\u660e"
+  },
+  {
+    "id": "rp-0085",
+    "kind": "repair",
+    "title": "Write a 5-paragraph essay on The Great Gatsby",
+    "subject": "English 2H",
+    "description": null,
+    "duePhrase": "in 3 days",
+    "sessionMinutes": 30,
+    "reason": "there were 9 steps, the maximum is 7"
+  },
+  {
+    "id": "rp-0086",
+    "kind": "repair",
+    "title": "Write a 5-paragraph essay on The Great Gatsby",
+    "subject": "English 2H",
+    "description": null,
+    "duePhrase": "in 3 days",
+    "sessionMinutes": 30,
+    "reason": "step 2 is not a physical action"
+  },
+  {
+    "id": "rp-0087",
+    "kind": "repair",
+    "title": "Write a 5-paragraph essay on The Great Gatsby",
+    "subject": "English 2H",
+    "description": null,
+    "duePhrase": "in 3 days",
+    "sessionMinutes": 30,
+    "reason": "the starter action does not restate the first step"
+  },
+  {
+    "id": "ex-0088",
+    "kind": "extraction",
+    "text": "Vocab quiz Thursday. Essay draft due next Monday."
+  },
+  {
+    "id": "ex-0089",
+    "kind": "extraction",
+    "text": "Bring your permission slip by Wednesday."
+  },
+  {
+    "id": "ex-0090",
+    "kind": "extraction",
+    "today": "Monday",
+    "text": "Math homework due tomorrow. Group project presentation Thursday."
+  },
+  {
+    "id": "ex-0091",
+    "kind": "extraction",
+    "today": "Tuesday",
+    "text": "Lab safety quiz Thursday. Read chapter 9 by Friday."
+  },
+  {
+    "id": "ex-0092",
+    "kind": "extraction",
+    "today": "Wednesday",
+    "text": "Book report due next Monday. Rehearsal Saturday morning."
+  },
+  {
+    "id": "ex-0093",
+    "kind": "extraction",
+    "today": "Thursday",
+    "text": "Chemistry worksheet due Friday. Field trip form due Monday."
+  },
+  {
+    "id": "ex-0094",
+    "kind": "extraction",
+    "today": "Friday",
+    "text": "Essay revision due Wednesday. Study guide due next Friday."
+  },
+  {
+    "id": "ex-0095",
+    "kind": "extraction",
+    "today": "Saturday",
+    "text": "Project proposal due Tuesday. Reading log due Sunday night."
+  },
+  {
+    "id": "ex-0096",
+    "kind": "extraction",
+    "today": "Sunday",
+    "text": "Homework packet due Wednesday. Permission slip due Friday."
+  }
+]

@@ -1,0 +1,907 @@
+[
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Worksheet on unit rates",
+      "subject": "Pre-Algebra",
+      "description": "Eighteen questions.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and answer the first nine questions\",\"minutes\":20},{\"title\":\"Answer the last nine questions\",\"minutes\":20},{\"title\":\"Check every answer against the back page\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and answer the first nine questions\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Flashcards for the chemistry unit test",
+      "subject": "Chemistry",
+      "description": "Twenty-four terms.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the first twelve terms on index cards\",\"minutes\":25},{\"title\":\"Write the last twelve terms on index cards\",\"minutes\":25},{\"title\":\"Say the term on every card once through the stack\",\"minutes\":20}],\"starterAction\":\"Write the first twelve terms on index cards\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Vocabulary flashcards for French unit 4",
+      "subject": "French II",
+      "description": "Twenty words.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the first ten words on cards with the translation\",\"minutes\":20},{\"title\":\"Write the last ten words on cards with the translation\",\"minutes\":20},{\"title\":\"Say every card out loud once\",\"minutes\":15}],\"starterAction\":\"Write the first ten words on cards with the translation\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Sort the trading card collection into binders",
+      "subject": null,
+      "description": "Sixty cards to sort by set.",
+      "duePhrase": "this weekend",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Sort the first thirty cards by set\",\"minutes\":25},{\"title\":\"Sort the last thirty cards by set\",\"minutes\":25},{\"title\":\"Count every binder page to make sure none are empty\",\"minutes\":15}],\"starterAction\":\"Sort the first thirty cards by set\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Annotated bibliography for the research paper",
+      "subject": "English 4",
+      "description": "Eight sources required.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a blank document and paste in the three sources you already have\",\"minutes\":15},{\"title\":\"Find and cite the next three sources\",\"minutes\":40},{\"title\":\"Write two sentences about the remaining two sources\",\"minutes\":25},{\"title\":\"Check every citation against the format guide\",\"minutes\":20}],\"starterAction\":\"Open a blank document and paste in the three sources you already have\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Report on the countries of the European Union",
+      "subject": "World Geography",
+      "description": "Twenty-one countries to cover.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a new document and list the first seven countries\",\"minutes\":20},{\"title\":\"Write two facts about the next seven countries\",\"minutes\":35},{\"title\":\"Write two facts about the last seven countries\",\"minutes\":35},{\"title\":\"Read through the whole list and check every country is spelled correctly\",\"minutes\":20}],\"starterAction\":\"Open a new document and list the first seven countries\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Analysis of eleven paintings for the art history unit",
+      "subject": "Art History",
+      "description": "One paragraph each.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and choose the first four paintings to write about\",\"minutes\":15},{\"title\":\"Write a paragraph on each of the next four paintings\",\"minutes\":40},{\"title\":\"Write a paragraph on the last three paintings\",\"minutes\":35},{\"title\":\"Read every paragraph aloud and fix what sounds wrong\",\"minutes\":20}],\"starterAction\":\"Open your notes and choose the first four paintings to write about\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Practice problems for the coding unit",
+      "subject": "Computer Science",
+      "description": "Twenty problems on loops.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the coding practice file and solve the first five problems\",\"minutes\":25},{\"title\":\"Solve the next five problems\",\"minutes\":25},{\"title\":\"Solve the last ten problems\",\"minutes\":40},{\"title\":\"Run every solution once and check the output\",\"minutes\":20}],\"starterAction\":\"Open the coding practice file and solve the first five problems\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Address holiday cards for the family list",
+      "subject": null,
+      "description": "Twenty-five people on the list.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the box of cards and write the first eight addresses\",\"minutes\":20},{\"title\":\"Write the next eight addresses\",\"minutes\":20},{\"title\":\"Write the last nine addresses\",\"minutes\":20},{\"title\":\"Count the finished cards against the list\",\"minutes\":10}],\"starterAction\":\"Open the box of cards and write the first eight addresses\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Problem set on systems of equations",
+      "subject": "Algebra I",
+      "description": "Twenty-four problems.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and read the first problem\",\"minutes\":5},{\"title\":\"Answer problems 1 to 6\",\"minutes\":25},{\"title\":\"Solve problems 7 to 12\",\"minutes\":25},{\"title\":\"Finish problems 13 to 24\",\"minutes\":40},{\"title\":\"Check your answers against the solutions page\",\"minutes\":20}],\"starterAction\":\"Open the packet and read the first problem\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Lab report covering six lab stations",
+      "subject": "Chemistry",
+      "description": "Six stations, one data table each.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the six data tables\",\"minutes\":10},{\"title\":\"Copy the readings from the first three stations\",\"minutes\":30},{\"title\":\"Copy the readings from the last three stations\",\"minutes\":30},{\"title\":\"Calculate the average for each station\",\"minutes\":35},{\"title\":\"Check every number against your raw notes\",\"minutes\":20}],\"starterAction\":\"Open your lab notebook to the six data tables\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Read chapters 4 through 9 of the assigned novel",
+      "subject": "English 10",
+      "description": "Six chapters left.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the book to chapter 4\",\"minutes\":5},{\"title\":\"Read chapters 4 and 5\",\"minutes\":30},{\"title\":\"Read chapters 6 and 7\",\"minutes\":30},{\"title\":\"Read chapters 8 and 9\",\"minutes\":30},{\"title\":\"Write three sentences on what changed by the end\",\"minutes\":20}],\"starterAction\":\"Open the book to chapter 4\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Timeline of fourteen key dates in the Cold War",
+      "subject": "World History",
+      "description": "Fourteen dates and events.",
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and list the first five dates in order\",\"minutes\":15},{\"title\":\"Write one sentence for each of the next five dates\",\"minutes\":30},{\"title\":\"Write one sentence for each of the last four dates\",\"minutes\":25},{\"title\":\"Draw the timeline on one page\",\"minutes\":25},{\"title\":\"Check every date against your notes\",\"minutes\":15}],\"starterAction\":\"Open your notes and list the first five dates in order\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Verb conjugation practice for Spanish class",
+      "subject": "Spanish II",
+      "description": "Twenty verbs, present tense.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the verb list and find the first seven verbs\",\"minutes\":10},{\"title\":\"Write the conjugations for the next seven verbs\",\"minutes\":25},{\"title\":\"Write the conjugations for the last six verbs\",\"minutes\":20},{\"title\":\"Read every conjugation out loud once\",\"minutes\":15},{\"title\":\"Check your endings against the notes packet\",\"minutes\":15}],\"starterAction\":\"Open the verb list and find the first seven verbs\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Study of music terms for the theory exam",
+      "subject": "Music Theory",
+      "description": "Twenty-four terms.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the first eight terms and their definitions on cards\",\"minutes\":25},{\"title\":\"Write the next eight terms and their definitions on cards\",\"minutes\":25},{\"title\":\"Write the last eight terms and their definitions on cards\",\"minutes\":25},{\"title\":\"Say every definition out loud without looking\",\"minutes\":20},{\"title\":\"Sort the cards you missed into a separate pile\",\"minutes\":15}],\"starterAction\":\"Write the first eight terms and their definitions on cards\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Build a monthly budget with twelve expense categories",
+      "subject": "Personal Finance",
+      "description": "Twelve categories to track.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a blank spreadsheet and list the first six categories\",\"minutes\":20},{\"title\":\"List the last six categories\",\"minutes\":15},{\"title\":\"Enter the amount from last month for each category\",\"minutes\":35},{\"title\":\"Add a total row at the bottom\",\"minutes\":15},{\"title\":\"Check the total against your bank statement\",\"minutes\":15}],\"starterAction\":\"Open a blank spreadsheet and list the first six categories\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Review packet for the geometry final",
+      "subject": "Geometry",
+      "description": "Thirty-six problems covering the year.",
+      "duePhrase": "next week",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and answer the first six problems\",\"minutes\":30},{\"title\":\"Answer the next six problems\",\"minutes\":30},{\"title\":\"Answer problems 13 to 24\",\"minutes\":40},{\"title\":\"Answer problems 25 to 36\",\"minutes\":40},{\"title\":\"Mark every problem you got wrong\",\"minutes\":15},{\"title\":\"Correct the ones you got wrong\",\"minutes\":30}],\"starterAction\":\"Open the packet and answer the first six problems\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Study guide covering forty vocabulary terms for biology",
+      "subject": "Biology",
+      "description": "Forty terms, midterm exam.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and write definitions for terms 1 to 10\",\"minutes\":25},{\"title\":\"Write definitions for terms 11 to 20\",\"minutes\":25},{\"title\":\"Write definitions for terms 21 to 30\",\"minutes\":25},{\"title\":\"Write definitions for terms 31 to 40\",\"minutes\":25},{\"title\":\"Recite the whole list out loud once\",\"minutes\":20},{\"title\":\"Circle the ones you could not recite\",\"minutes\":15}],\"starterAction\":\"Open your notes and write definitions for terms 1 to 10\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Poetry anthology response covering eleven poems",
+      "subject": "English 11",
+      "description": "Eleven poems, one paragraph each.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the anthology and reread the first four poems\",\"minutes\":25},{\"title\":\"Write a paragraph on each of the first four poems\",\"minutes\":45},{\"title\":\"Write a paragraph on each of the next four poems\",\"minutes\":45},{\"title\":\"Write a paragraph on the last three poems\",\"minutes\":35},{\"title\":\"Put the paragraphs in the same order as the anthology\",\"minutes\":15},{\"title\":\"Read the whole set aloud and fix what sounds wrong\",\"minutes\":30}],\"starterAction\":\"Open the anthology and reread the first four poems\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Map labeling assignment covering thirteen colonies",
+      "subject": "US History",
+      "description": "Thirteen colonies to label and color.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the blank map and find the first four colonies on the key\",\"minutes\":15},{\"title\":\"Label and colour the first four colonies\",\"minutes\":30},{\"title\":\"Label and colour the next four colonies\",\"minutes\":30},{\"title\":\"Label and colour the last five colonies\",\"minutes\":35},{\"title\":\"Add the compass rose and the key\",\"minutes\":15},{\"title\":\"Check every colony name against the textbook map\",\"minutes\":20}],\"starterAction\":\"Open the blank map and find the first four colonies on the key\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Sort and label sixty photos for the family album",
+      "subject": null,
+      "description": "Sixty photos from summer break.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the photo box and sort out the first twenty photos by month\",\"minutes\":25},{\"title\":\"Sort the next twenty photos by month\",\"minutes\":25},{\"title\":\"Sort the last twenty photos by month\",\"minutes\":25},{\"title\":\"Write the date on the back of every photo\",\"minutes\":35},{\"title\":\"Place the sorted photos into the album pages\",\"minutes\":30},{\"title\":\"Check every page against the month labels\",\"minutes\":20}],\"starterAction\":\"Open the photo box and sort out the first twenty photos by month\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Practice problems for the exponents unit",
+      "subject": "Algebra I",
+      "description": "One hundred practice problems online.",
+      "duePhrase": "next week",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the practice site and answer problems 1 to 20\",\"minutes\":40},{\"title\":\"Answer problems 21 to 40\",\"minutes\":40},{\"title\":\"Answer problems 41 to 60\",\"minutes\":40},{\"title\":\"Answer problems 61 to 80\",\"minutes\":40},{\"title\":\"Answer problems 81 to 100\",\"minutes\":40},{\"title\":\"List every problem number you missed\",\"minutes\":20},{\"title\":\"Solve the problems on that list\",\"minutes\":35}],\"starterAction\":\"Open the practice site and answer problems 1 to 20\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Data log covering forty temperature measurements",
+      "subject": "Physics",
+      "description": "Forty readings across five days.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the blank data table\",\"minutes\":5},{\"title\":\"Record readings 1 to 8\",\"minutes\":20},{\"title\":\"Record readings 9 to 16\",\"minutes\":20},{\"title\":\"Record readings 17 to 24\",\"minutes\":20},{\"title\":\"Record readings 25 to 32\",\"minutes\":20},{\"title\":\"Record readings 33 to 40\",\"minutes\":20},{\"title\":\"Check every reading has a unit written next to it\",\"minutes\":15}],\"starterAction\":\"Open your lab notebook to the blank data table\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Grammar worksheet covering thirty sentences",
+      "subject": "English 9",
+      "description": "Thirty sentences to correct.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and read the instructions once\",\"minutes\":5},{\"title\":\"Correct sentences 1 to 6\",\"minutes\":20},{\"title\":\"Correct sentences 7 to 12\",\"minutes\":20},{\"title\":\"Correct sentences 13 to 18\",\"minutes\":20},{\"title\":\"Correct sentences 19 to 24\",\"minutes\":20},{\"title\":\"Correct sentences 25 to 30\",\"minutes\":20},{\"title\":\"Check your corrections against the answer key\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and read the instructions once\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Study guide covering thirty capital cities",
+      "subject": "World Geography",
+      "description": "Thirty countries and capitals.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and list capitals 1 to 6\",\"minutes\":15},{\"title\":\"Write capitals 7 to 12 from memory\",\"minutes\":20},{\"title\":\"Write capitals 13 to 18 from memory\",\"minutes\":20},{\"title\":\"Write capitals 19 to 24 from memory\",\"minutes\":20},{\"title\":\"Write capitals 25 to 30 from memory\",\"minutes\":20},{\"title\":\"Say the whole list out loud once\",\"minutes\":20},{\"title\":\"Circle the ones you got wrong\",\"minutes\":15}],\"starterAction\":\"Open your notes and list capitals 1 to 6\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Sketchbook assignment covering eighteen studies",
+      "subject": "Studio Art",
+      "description": "Eighteen quick studies, various objects.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the sketchbook to a fresh page\",\"minutes\":5},{\"title\":\"Draw the first six studies\",\"minutes\":40},{\"title\":\"Draw the next six studies\",\"minutes\":40},{\"title\":\"Draw the last six studies\",\"minutes\":40},{\"title\":\"Add shading to every study\",\"minutes\":35},{\"title\":\"Sign and date each page\",\"minutes\":15},{\"title\":\"Look back through all eighteen and circle your best three\",\"minutes\":20}],\"starterAction\":\"Open the sketchbook to a fresh page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Fix twenty-eight errors flagged in the coding assignment",
+      "subject": "Computer Science",
+      "description": "Auto-grader flagged twenty-eight lines.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the code file and find the first error on the list\",\"minutes\":5},{\"title\":\"Fix errors 1 to 6\",\"minutes\":25},{\"title\":\"Fix errors 7 to 12\",\"minutes\":25},{\"title\":\"Fix errors 13 to 18\",\"minutes\":25},{\"title\":\"Fix errors 19 to 23\",\"minutes\":20},{\"title\":\"Fix errors 24 to 28\",\"minutes\":20},{\"title\":\"Run the grader again and check every error is gone\",\"minutes\":25}],\"starterAction\":\"Open the code file and find the first error on the list\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Worksheet on order of operations",
+      "subject": "Pre-Algebra",
+      "description": "Twenty problems.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and answer the first ten problems\",\"minutes\":20},{\"title\":\"Answer the last ten problems\",\"minutes\":20},{\"title\":\"Check your work against the answer key\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and answer the first ten problems\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Study sheet covering sixteen lab safety rules",
+      "subject": "Chemistry",
+      "description": "Sixteen rules before the first lab.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write out the first eight rules in your own words\",\"minutes\":20},{\"title\":\"Write out the last eight rules in your own words\",\"minutes\":20},{\"title\":\"Read the whole sheet aloud once\",\"minutes\":10}],\"starterAction\":\"Write out the first eight rules in your own words\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Kanji practice sheet for Japanese class",
+      "subject": "Japanese I",
+      "description": "Twenty-four characters.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Trace the first twelve characters ten times each\",\"minutes\":25},{\"title\":\"Trace the last twelve characters ten times each\",\"minutes\":25},{\"title\":\"Write all twenty-four from memory once\",\"minutes\":20}],\"starterAction\":\"Trace the first twelve characters ten times each\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Pack the gift bags for the fundraiser",
+      "subject": null,
+      "description": "Thirty bags, five items each.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Fill the first fifteen bags with all five items\",\"minutes\":30},{\"title\":\"Fill the last fifteen bags with all five items\",\"minutes\":30},{\"title\":\"Count every bag to check it has five items\",\"minutes\":15}],\"starterAction\":\"Fill the first fifteen bags with all five items\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Report covering nine amendments to the Constitution",
+      "subject": "US Government",
+      "description": "Nine amendments, one paragraph each.",
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a new document and list all nine amendments in order\",\"minutes\":15},{\"title\":\"Write a paragraph on each of the first five amendments\",\"minutes\":35},{\"title\":\"Write a paragraph on each of the last four amendments\",\"minutes\":30},{\"title\":\"Read the whole report aloud and fix what sounds wrong\",\"minutes\":20}],\"starterAction\":\"Open a new document and list all nine amendments in order\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Memorize monologue lines for the fall play",
+      "subject": "Drama",
+      "description": "Forty-two lines.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Read the first fourteen lines out loud five times\",\"minutes\":25},{\"title\":\"Read the next fourteen lines out loud five times\",\"minutes\":25},{\"title\":\"Read the last fourteen lines out loud five times\",\"minutes\":25},{\"title\":\"Recite all forty-two lines without the script\",\"minutes\":30}],\"starterAction\":\"Read the first fourteen lines out loud five times\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Prep ingredients for the twelve-dish tasting menu",
+      "subject": "Culinary Arts",
+      "description": "Twelve dishes to prep for.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the recipe binder and read what the first six dishes need\",\"minutes\":15},{\"title\":\"Measure and set out ingredients for the first six dishes\",\"minutes\":40},{\"title\":\"Measure and set out ingredients for the last six dishes\",\"minutes\":40},{\"title\":\"Check every station has the right ingredients\",\"minutes\":20}],\"starterAction\":\"Open the recipe binder and read what the first six dishes need\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Read the assigned short story collection",
+      "subject": "English 9",
+      "description": "Nine stories.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the book and read the first three stories\",\"minutes\":30},{\"title\":\"Read the next three stories\",\"minutes\":30},{\"title\":\"Read the last three stories\",\"minutes\":30},{\"title\":\"Check you can name a detail from all nine\",\"minutes\":15}],\"starterAction\":\"Open the book and read the first three stories\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Organize the garage sale items by price",
+      "subject": null,
+      "description": "Fifty items across four price tags.",
+      "duePhrase": "this weekend",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the boxes and sort out the first twenty-five items\",\"minutes\":30},{\"title\":\"Sort the last twenty-five items\",\"minutes\":30},{\"title\":\"Tag every item with its price\",\"minutes\":40},{\"title\":\"Count the tagged items against the master list\",\"minutes\":20}],\"starterAction\":\"Open the boxes and sort out the first twenty-five items\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Data set analysis for the statistics project",
+      "subject": "AP Statistics",
+      "description": "Thirty data points to organize.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the spreadsheet and enter the first ten data points\",\"minutes\":20},{\"title\":\"Enter the next ten data points\",\"minutes\":20},{\"title\":\"Enter the last ten data points\",\"minutes\":20},{\"title\":\"Calculate the mean and the standard deviation\",\"minutes\":35},{\"title\":\"Check every entry against the original survey sheet\",\"minutes\":20}],\"starterAction\":\"Open the spreadsheet and enter the first ten data points\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Problem set on momentum and collisions",
+      "subject": "Physics",
+      "description": "Twenty-two problems.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the formulas onto one page\",\"minutes\":15},{\"title\":\"Answer problems 1 to 8\",\"minutes\":35},{\"title\":\"Answer problems 9 to 15\",\"minutes\":30},{\"title\":\"Answer problems 16 to 22\",\"minutes\":30},{\"title\":\"Check every unit in every answer\",\"minutes\":20}],\"starterAction\":\"Open the packet and copy the formulas onto one page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Vocabulary list for the civics unit",
+      "subject": "US Government",
+      "description": "Twenty-six terms.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the first thirteen terms with definitions\",\"minutes\":30},{\"title\":\"Write the last thirteen terms with definitions\",\"minutes\":30},{\"title\":\"Say every term and definition out loud once\",\"minutes\":20},{\"title\":\"Cover the definitions and quiz yourself\",\"minutes\":25},{\"title\":\"Circle the ones you missed\",\"minutes\":15}],\"starterAction\":\"Write the first thirteen terms with definitions\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Reading packet of twelve short passages in German",
+      "subject": "German II",
+      "description": "Twelve passages, one page each.",
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and read the first four passages\",\"minutes\":25},{\"title\":\"Read the next four passages\",\"minutes\":25},{\"title\":\"Read the last four passages\",\"minutes\":25},{\"title\":\"Write one sentence in your own words for each passage\",\"minutes\":35},{\"title\":\"Check your summaries against the vocabulary list\",\"minutes\":20}],\"starterAction\":\"Open the packet and read the first four passages\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Edit photos for the photography contest",
+      "subject": "Photography",
+      "description": "Sixteen photos to edit.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the folder and pick the best sixteen shots\",\"minutes\":20},{\"title\":\"Edit the first eight photos\",\"minutes\":35},{\"title\":\"Edit the last eight photos\",\"minutes\":35},{\"title\":\"Save all sixteen at full size\",\"minutes\":20},{\"title\":\"Look through the exports and check none are blurry\",\"minutes\":15}],\"starterAction\":\"Open the folder and pick the best sixteen shots\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Worksheet covering the twelve systems of the human body",
+      "subject": "Health",
+      "description": "Twelve body systems.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and list the first six systems\",\"minutes\":15},{\"title\":\"List the last six systems\",\"minutes\":15},{\"title\":\"Write one function for each system\",\"minutes\":30},{\"title\":\"Match each system to its main organ\",\"minutes\":25},{\"title\":\"Check your answers against the textbook chart\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and list the first six systems\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Trig identities practice packet",
+      "subject": "Precalculus",
+      "description": "Thirty-two problems.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the identity sheet\",\"minutes\":10},{\"title\":\"Answer problems 1 to 8\",\"minutes\":35},{\"title\":\"Answer problems 9 to 16\",\"minutes\":35},{\"title\":\"Answer problems 17 to 24\",\"minutes\":35},{\"title\":\"Answer problems 25 to 32\",\"minutes\":35},{\"title\":\"Check five answers against the solutions page\",\"minutes\":20}],\"starterAction\":\"Open the packet and copy the identity sheet\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Anatomy flashcards covering fifty terms",
+      "subject": "Anatomy",
+      "description": "Fifty terms before the practical exam.",
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write terms 1 to 10 on cards with definitions\",\"minutes\":25},{\"title\":\"Write terms 11 to 20 on cards with definitions\",\"minutes\":25},{\"title\":\"Write terms 21 to 30 on cards with definitions\",\"minutes\":25},{\"title\":\"Write terms 31 to 40 on cards with definitions\",\"minutes\":25},{\"title\":\"Write terms 41 to 50 on cards with definitions\",\"minutes\":25},{\"title\":\"Say the definition for all fifty cards once\",\"minutes\":25}],\"starterAction\":\"Write terms 1 to 10 on cards with definitions\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Vocabulary unit covering forty-five SAT words",
+      "subject": "English 11",
+      "description": "Forty-five words, five per day.",
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the list and find the first fifteen words\",\"minutes\":10},{\"title\":\"Write a definition and a sentence for the first fifteen words\",\"minutes\":40},{\"title\":\"Write a definition and a sentence for the next fifteen words\",\"minutes\":40},{\"title\":\"Write a definition and a sentence for the last fifteen words\",\"minutes\":40},{\"title\":\"Read all forty-five sentences out loud\",\"minutes\":25},{\"title\":\"Check every definition against the glossary\",\"minutes\":20}],\"starterAction\":\"Open the list and find the first fifteen words\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Research project covering sixteen inventions of the Industrial Revolution",
+      "subject": "World History",
+      "description": "Sixteen inventions, short profile each.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a new document and list all sixteen inventions\",\"minutes\":20},{\"title\":\"Write a profile for inventions 1 to 4\",\"minutes\":35},{\"title\":\"Write a profile for inventions 5 to 8\",\"minutes\":35},{\"title\":\"Write a profile for inventions 9 to 12\",\"minutes\":35},{\"title\":\"Write a profile for inventions 13 to 16\",\"minutes\":35},{\"title\":\"Read through all sixteen profiles and check every date\",\"minutes\":25}],\"starterAction\":\"Open a new document and list all sixteen inventions\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Inventory the camping gear before the trip",
+      "subject": null,
+      "description": "Thirty-six items across four bins.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Take out all four gear bins and line them up\",\"minutes\":10},{\"title\":\"List everything in the first bin\",\"minutes\":20},{\"title\":\"List everything in the second bin\",\"minutes\":20},{\"title\":\"List everything in the third bin\",\"minutes\":20},{\"title\":\"List everything in the last bin\",\"minutes\":20},{\"title\":\"Count the total against the list from last year\",\"minutes\":20}],\"starterAction\":\"Take out all four gear bins and line them up\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Unit circle memorization drill",
+      "subject": "Precalculus",
+      "description": "Sixteen angles with sine and cosine.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the blank unit circle and label the four quadrants\",\"minutes\":10},{\"title\":\"Fill in values for angles 1 to 4\",\"minutes\":20},{\"title\":\"Fill in values for angles 5 to 8\",\"minutes\":20},{\"title\":\"Fill in values for angles 9 to 12\",\"minutes\":20},{\"title\":\"Fill in values for angles 13 to 16\",\"minutes\":20},{\"title\":\"Cover the sheet and recite all sixteen from memory\",\"minutes\":25},{\"title\":\"Circle the ones you got wrong\",\"minutes\":15}],\"starterAction\":\"Open the blank unit circle and label the four quadrants\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Element quiz prep covering the first thirty-six elements",
+      "subject": "Chemistry",
+      "description": "Symbols and names, elements 1 to 36.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write elements 1 to 9 with symbols on cards\",\"minutes\":20},{\"title\":\"Write elements 10 to 18 with symbols on cards\",\"minutes\":20},{\"title\":\"Write elements 19 to 27 with symbols on cards\",\"minutes\":20},{\"title\":\"Write elements 28 to 36 with symbols on cards\",\"minutes\":20},{\"title\":\"Say every symbol out loud once\",\"minutes\":20},{\"title\":\"Sort the cards into ones you knew and ones you did not\",\"minutes\":20},{\"title\":\"Repeat the cards you did not know\",\"minutes\":25}],\"starterAction\":\"Write elements 1 to 9 with symbols on cards\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Spelling list covering fifty words",
+      "subject": "English 9",
+      "description": "Fifty words for the Friday test.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write words 1 to 10 five times each\",\"minutes\":20},{\"title\":\"Write words 11 to 20 five times each\",\"minutes\":20},{\"title\":\"Write words 21 to 30 five times each\",\"minutes\":20},{\"title\":\"Write words 31 to 40 five times each\",\"minutes\":20},{\"title\":\"Write words 41 to 50 five times each\",\"minutes\":20},{\"title\":\"Spell all fifty out loud from memory\",\"minutes\":25},{\"title\":\"Circle the ones you missed\",\"minutes\":15}],\"starterAction\":\"Write words 1 to 10 five times each\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Flashcards covering the first twenty US presidents",
+      "subject": "US History",
+      "description": "Twenty presidents in order.",
+      "duePhrase": "next week",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write presidents 1 to 5 on cards with their years\",\"minutes\":20},{\"title\":\"Write presidents 6 to 10 on cards with their years\",\"minutes\":20},{\"title\":\"Write presidents 11 to 15 on cards with their years\",\"minutes\":20},{\"title\":\"Write presidents 16 to 20 on cards with their years\",\"minutes\":20},{\"title\":\"Put all twenty cards in order on the floor\",\"minutes\":15},{\"title\":\"Say the order out loud without looking\",\"minutes\":20},{\"title\":\"Fix any cards that are out of order\",\"minutes\":15}],\"starterAction\":\"Write presidents 1 to 5 on cards with their years\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Enter survey responses for the marketing project",
+      "subject": "Marketing",
+      "description": "Eighty responses to log.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the spreadsheet and enter responses 1 to 20\",\"minutes\":35},{\"title\":\"Enter responses 21 to 40\",\"minutes\":35},{\"title\":\"Enter responses 41 to 60\",\"minutes\":35},{\"title\":\"Enter responses 61 to 80\",\"minutes\":35},{\"title\":\"Sort the rows by class period\",\"minutes\":20},{\"title\":\"Add each column at the bottom\",\"minutes\":25},{\"title\":\"Check the total against the paper surveys\",\"minutes\":25}],\"starterAction\":\"Open the spreadsheet and enter responses 1 to 20\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Worksheet on significant figures",
+      "subject": "Chemistry",
+      "description": "Sixteen problems.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and answer the first eight problems\",\"minutes\":20},{\"title\":\"Answer the last eight problems\",\"minutes\":20},{\"title\":\"Check your answers against the rules sheet\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and answer the first eight problems\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Label and stack twenty finished project pieces",
+      "subject": "Woodshop",
+      "description": "Twenty pieces ready for the shelf.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Label the first ten pieces with their part number\",\"minutes\":25},{\"title\":\"Label the last ten pieces with their part number\",\"minutes\":25},{\"title\":\"Stack all twenty pieces on the drying shelf\",\"minutes\":15}],\"starterAction\":\"Label the first ten pieces with their part number\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Sort donated clothes for the school drive",
+      "subject": null,
+      "description": "Eighty items into four bins.",
+      "duePhrase": "this weekend",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Sort the first forty items into the four bins\",\"minutes\":40},{\"title\":\"Sort the last forty items into the four bins\",\"minutes\":40},{\"title\":\"Count each bin and write the total on a tag\",\"minutes\":20}],\"starterAction\":\"Sort the first forty items into the four bins\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Study guide covering fourteen rock and mineral samples",
+      "subject": "Earth Science",
+      "description": "Fourteen samples from the lab kit.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the lab kit and lay out the first seven samples\",\"minutes\":15},{\"title\":\"Write the properties of the first seven samples\",\"minutes\":30},{\"title\":\"Write the properties of the last seven samples\",\"minutes\":30},{\"title\":\"Check every sample name against the kit label\",\"minutes\":15}],\"starterAction\":\"Open the lab kit and lay out the first seven samples\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Current events log covering eight articles",
+      "subject": "US Government",
+      "description": "Eight articles, one summary each.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a new document and paste in the links to the first four articles\",\"minutes\":15},{\"title\":\"Write a summary for each of the first four articles\",\"minutes\":35},{\"title\":\"Write a summary for each of the last four articles\",\"minutes\":35},{\"title\":\"Read every summary and check it is under one paragraph\",\"minutes\":20}],\"starterAction\":\"Open a new document and paste in the links to the first four articles\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Practice scales for the band audition",
+      "subject": "Band",
+      "description": "Six scales, two octaves each.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the music stand and warm up on the first scale\",\"minutes\":10},{\"title\":\"Practise the first three scales slowly\",\"minutes\":30},{\"title\":\"Practise the last three scales slowly\",\"minutes\":30},{\"title\":\"Play all six scales in a row at full speed\",\"minutes\":20}],\"starterAction\":\"Open the music stand and warm up on the first scale\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Character analysis covering seven characters in the novel",
+      "subject": "English 10",
+      "description": "Seven characters, one paragraph each.",
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and list all seven characters\",\"minutes\":15},{\"title\":\"Write a paragraph on each of the first four characters\",\"minutes\":35},{\"title\":\"Write a paragraph on each of the last three characters\",\"minutes\":30},{\"title\":\"Read every paragraph aloud and fix what sounds wrong\",\"minutes\":20}],\"starterAction\":\"Open your notes and list all seven characters\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Log the workout stations for the fitness unit",
+      "subject": "Physical Education",
+      "description": "Eight stations, one entry each.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the log sheet and write down the first four stations\",\"minutes\":10},{\"title\":\"Record your reps for the first four stations\",\"minutes\":25},{\"title\":\"Record your reps for the last four stations\",\"minutes\":25},{\"title\":\"Check every station has a number written next to it\",\"minutes\":15}],\"starterAction\":\"Open the log sheet and write down the first four stations\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Practice set on derivatives",
+      "subject": "AP Calculus AB",
+      "description": "Twenty-eight problems.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the derivative rules onto one page\",\"minutes\":15},{\"title\":\"Answer problems 1 to 7\",\"minutes\":35},{\"title\":\"Answer problems 8 to 14\",\"minutes\":35},{\"title\":\"Answer problems 15 to 28\",\"minutes\":45},{\"title\":\"Check every answer against the solutions page\",\"minutes\":20}],\"starterAction\":\"Open the packet and copy the derivative rules onto one page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Field guide covering twenty-one leaf samples",
+      "subject": "Earth Science",
+      "description": "Twenty-one leaves to identify and press.",
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the field guide and sort the first seven leaves by shape\",\"minutes\":20},{\"title\":\"Match the next seven leaves to the guide pictures\",\"minutes\":25},{\"title\":\"Match the last seven leaves to the guide pictures\",\"minutes\":25},{\"title\":\"Press every leaf between two sheets of paper\",\"minutes\":30},{\"title\":\"Check every name is written on the page\",\"minutes\":15}],\"starterAction\":\"Open the field guide and sort the first seven leaves by shape\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Map quiz prep covering the fifty states",
+      "subject": "US Geography",
+      "description": "All fifty states and their shapes.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the blank map and label states 1 to 13\",\"minutes\":30},{\"title\":\"Label states 14 to 26\",\"minutes\":30},{\"title\":\"Label states 27 to 39\",\"minutes\":30},{\"title\":\"Label states 40 to 50\",\"minutes\":30},{\"title\":\"Check every state name against the answer map\",\"minutes\":20}],\"starterAction\":\"Open the blank map and label states 1 to 13\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Flashcards for Italian numbers 1 to 20",
+      "subject": "Italian I",
+      "description": "Twenty number words.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the first ten numbers on cards in Italian\",\"minutes\":20},{\"title\":\"Write the last ten numbers on cards in Italian\",\"minutes\":20},{\"title\":\"Say every card out loud once\",\"minutes\":15},{\"title\":\"Mix the cards and quiz yourself again\",\"minutes\":20},{\"title\":\"Set aside the ones you missed\",\"minutes\":10}],\"starterAction\":\"Write the first ten numbers on cards in Italian\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Glaze nine ceramics pieces before the kiln firing",
+      "subject": "Ceramics",
+      "description": "Nine pieces, two coats each.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the glaze cabinet and set out the first three pieces\",\"minutes\":15},{\"title\":\"Cover all nine pieces with the first coat of glaze\",\"minutes\":40},{\"title\":\"Cover all nine pieces with the second coat of glaze\",\"minutes\":40},{\"title\":\"Clean the bottom of every piece\",\"minutes\":20},{\"title\":\"Check every piece for drips before the kiln\",\"minutes\":20}],\"starterAction\":\"Open the glaze cabinet and set out the first three pieces\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Update the inventory spreadsheet for the school store",
+      "subject": "Business",
+      "description": "Thirty-two products to update.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the spreadsheet and update products 1 to 8\",\"minutes\":20},{\"title\":\"Update products 9 to 16\",\"minutes\":20},{\"title\":\"Update products 17 to 24\",\"minutes\":20},{\"title\":\"Update products 25 to 32\",\"minutes\":20},{\"title\":\"Check the totals against the stockroom count\",\"minutes\":20}],\"starterAction\":\"Open the spreadsheet and update products 1 to 8\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Portfolio covering twenty-four geometry constructions",
+      "subject": "Geometry",
+      "description": "Twenty-four compass and straightedge constructions.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and gather your compass and straightedge\",\"minutes\":5},{\"title\":\"Complete constructions 1 to 6\",\"minutes\":40},{\"title\":\"Complete constructions 7 to 12\",\"minutes\":40},{\"title\":\"Complete constructions 13 to 18\",\"minutes\":40},{\"title\":\"Complete constructions 19 to 24\",\"minutes\":40},{\"title\":\"Check every construction against the diagram key\",\"minutes\":25}],\"starterAction\":\"Open the packet and gather your compass and straightedge\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Weather log covering twenty-one days of data",
+      "subject": "Earth Science",
+      "description": "Twenty-one days, temperature and sky.",
+      "duePhrase": "in 3 weeks",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the log sheet and write the current date on row one\",\"minutes\":5},{\"title\":\"Record the temperature and sky for days 1 to 7\",\"minutes\":25},{\"title\":\"Record the temperature and sky for days 8 to 14\",\"minutes\":25},{\"title\":\"Record the temperature and sky for days 15 to 21\",\"minutes\":25},{\"title\":\"Draw a line graph of all twenty-one temperatures\",\"minutes\":30},{\"title\":\"Check every row has both a temperature and a sky note\",\"minutes\":20}],\"starterAction\":\"Open the log sheet and write the current date on row one\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Essay revision covering fifteen marked comments",
+      "subject": "English 12",
+      "description": "Fifteen comments from the teacher.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the marked essay and read every comment once\",\"minutes\":15},{\"title\":\"Fix the first five comments\",\"minutes\":30},{\"title\":\"Fix the next five comments\",\"minutes\":30},{\"title\":\"Fix the last five comments\",\"minutes\":30},{\"title\":\"Read the whole essay aloud once\",\"minutes\":25},{\"title\":\"Check every comment has been addressed\",\"minutes\":20}],\"starterAction\":\"Open the marked essay and read every comment once\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Debate prep covering eighteen pieces of evidence",
+      "subject": "Debate",
+      "description": "Eighteen pieces of evidence to sort.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the research folder and print the first six pieces of evidence\",\"minutes\":20},{\"title\":\"Sort the first six pieces by which side they support\",\"minutes\":25},{\"title\":\"Sort the next six pieces by which side they support\",\"minutes\":25},{\"title\":\"Sort the last six pieces by which side they support\",\"minutes\":25},{\"title\":\"Rank the strongest three pieces for each side\",\"minutes\":30},{\"title\":\"Check every piece has a source written on it\",\"minutes\":20}],\"starterAction\":\"Open the research folder and print the first six pieces of evidence\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Label and pack forty boxes for the move",
+      "subject": null,
+      "description": "Forty boxes across the whole house.",
+      "duePhrase": "next week",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Tape together the first ten flattened boxes\",\"minutes\":20},{\"title\":\"Pack the kitchen items into ten boxes\",\"minutes\":40},{\"title\":\"Pack the bedroom items into ten boxes\",\"minutes\":40},{\"title\":\"Pack the living room items into ten boxes\",\"minutes\":40},{\"title\":\"Pack the last ten boxes with everything left over\",\"minutes\":40},{\"title\":\"Count all forty boxes and check every one is labeled\",\"minutes\":25}],\"starterAction\":\"Tape together the first ten flattened boxes\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Review sheet covering forty-nine practice problems for the final",
+      "subject": "Algebra II",
+      "description": "Forty-nine problems across the semester.",
+      "duePhrase": "next week",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the review packet and copy the formula sheet\",\"minutes\":15},{\"title\":\"Answer problems 1 to 10\",\"minutes\":40},{\"title\":\"Answer problems 11 to 20\",\"minutes\":40},{\"title\":\"Answer problems 21 to 30\",\"minutes\":40},{\"title\":\"Answer problems 31 to 40\",\"minutes\":40},{\"title\":\"Answer problems 41 to 49\",\"minutes\":35},{\"title\":\"Check every answer against the key\",\"minutes\":25}],\"starterAction\":\"Open the review packet and copy the formula sheet\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Lab practical prep covering thirty-two specimens",
+      "subject": "Biology",
+      "description": "Thirty-two specimens to identify by sight.",
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the lab manual and print the specimen list\",\"minutes\":10},{\"title\":\"Match specimens 1 to 8 to their names\",\"minutes\":25},{\"title\":\"Match specimens 9 to 16 to their names\",\"minutes\":25},{\"title\":\"Match specimens 17 to 24 to their names\",\"minutes\":25},{\"title\":\"Match specimens 25 to 32 to their names\",\"minutes\":25},{\"title\":\"Cover the names and quiz yourself on all thirty-two\",\"minutes\":25},{\"title\":\"Circle the ones you got wrong\",\"minutes\":15}],\"starterAction\":\"Open the lab manual and print the specimen list\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Reading journal covering twenty-one journal prompts",
+      "subject": "English 10",
+      "description": "Twenty-one prompts, one per reading.",
+      "duePhrase": "in 3 weeks",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the journal and reread the first prompt\",\"minutes\":5},{\"title\":\"Write answers to prompts 1 to 7\",\"minutes\":35},{\"title\":\"Write answers to prompts 8 to 14\",\"minutes\":35},{\"title\":\"Write answers to prompts 15 to 21\",\"minutes\":35},{\"title\":\"Number every page in the journal\",\"minutes\":15},{\"title\":\"Read through all twenty-one answers once\",\"minutes\":25},{\"title\":\"Check every prompt has a full answer\",\"minutes\":20}],\"starterAction\":\"Open the journal and reread the first prompt\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Sheet music practice covering thirty-two measures",
+      "subject": "Choir",
+      "description": "Thirty-two measures for the spring concert.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the sheet music to the first measure\",\"minutes\":5},{\"title\":\"Practise measures 1 to 8\",\"minutes\":35},{\"title\":\"Practise measures 9 to 16\",\"minutes\":35},{\"title\":\"Practise measures 17 to 24\",\"minutes\":35},{\"title\":\"Practise measures 25 to 32\",\"minutes\":35},{\"title\":\"Sing all thirty-two measures straight through\",\"minutes\":30},{\"title\":\"Record yourself and check every note against the sheet\",\"minutes\":25}],\"starterAction\":\"Open the sheet music to the first measure\"}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "English test Monday on chapters 1 through 3. Vocab quiz Wednesday. Essay draft due the following Friday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"English test\",\"dueInDays\":0,\"subject\":\"English\"},{\"title\":\"Vocab quiz\",\"dueInDays\":2,\"subject\":\"English\"},{\"title\":\"Essay draft\",\"dueInDays\":4,\"subject\":\"English\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Chemistry lab report due in one week. Safety quiz tomorrow. Bring goggles Thursday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Lab report\",\"dueInDays\":7,\"subject\":\"Chemistry\"},{\"title\":\"Safety quiz\",\"dueInDays\":1,\"subject\":\"Chemistry\"},{\"title\":\"Bring goggles\",\"dueInDays\":3,\"subject\":\"Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "No school Monday for the holiday. Enjoy the long weekend.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Math homework tonight, problems 1 to 20. Quiz Friday on the same material. Test in two weeks.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Math homework\",\"dueInDays\":0,\"subject\":\"Math\"},{\"title\":\"Quiz\",\"dueInDays\":4,\"subject\":\"Math\"},{\"title\":\"Test\",\"dueInDays\":14,\"subject\":\"Math\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Pack your cleats and shin guards for practice tomorrow. Team photos are Thursday, wear the white jersey. Tournament signup closes Friday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Pack cleats and shin guards\",\"dueInDays\":1},{\"title\":\"Team photos\",\"dueInDays\":3},{\"title\":\"Tournament signup\",\"dueInDays\":4}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Spanish presentations start Monday, sign up for a slot by Wednesday. Written portion due the Monday after presentations.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Sign up for a slot\",\"dueInDays\":2,\"subject\":\"Spanish\"},{\"title\":\"Written portion\",\"dueInDays\":14,\"subject\":\"Spanish\"}]}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Deconstruct the symbolism in the poem",
+      "description": null
+    },
+    "completion": "{\"title\":\"Find what the images stand for\",\"explanation\":\"Go through the poem and mark every image or object that seems to mean more than itself. For each one, write a sentence saying what you think it represents and why.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Synthesize feedback from multiple peer reviewers",
+      "description": "Three reviewers marked up your draft."
+    },
+    "completion": "{\"title\":\"Combine what your reviewers said\",\"explanation\":\"Read all three sets of comments together. Write down the two or three changes that showed up more than once, since those matter most, then decide what to do about the comments only one person made.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Assess the environmental impact of the factory",
+      "description": null
+    },
+    "completion": "{\"title\":\"Say what the factory changes nearby\",\"explanation\":\"List the things that changed after the factory opened: the air, the water, the traffic, the noise. For each one, write a sentence saying whether it got better or worse and how you know.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Critically evaluate the two competing theories",
+      "description": "Use the reading from unit 5."
+    },
+    "completion": "{\"title\":\"Weigh the two theories against each other\",\"explanation\":\"For each theory, find one piece of evidence from the reading that supports it and one that weakens it. Then write two sentences saying which theory the evidence favors overall and why.\"}"
+  }
+]

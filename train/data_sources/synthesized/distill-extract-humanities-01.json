@@ -1,0 +1,1322 @@
+[
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "English 9 Week 4. Read chapters 4 through 6 of Of Mice and Men by Wednesday. Vocabulary quiz on Thursday. Reading journal entry number 3 is due Friday. Bring your annotated copy to class every day.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Read chapters 4 through 6 of Of Mice and Men\",\"dueInDays\":3,\"subject\":\"English 9\"},{\"title\":\"Vocabulary quiz\",\"dueInDays\":4,\"subject\":\"English 9\"},{\"title\":\"Reading journal entry 3\",\"dueInDays\":5,\"subject\":\"English 9\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Hi everyone, quick reminder that the compare and contrast essay outline is due tomorrow at the start of class. The full draft is due Friday and we will peer review it on Monday. Office hours are Wednesday after school if you want to talk through your thesis. Mrs. Okafor",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Compare and contrast essay outline\",\"dueInDays\":1},{\"title\":\"Full essay draft\",\"dueInDays\":3},{\"title\":\"Peer review the draft\",\"dueInDays\":6}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "did anyone write down what caldwell said about the gatsby stuff. i think the character chart is due thursday and the theme paragraph is due next monday. also we need to bring a printed copy on friday for the workshop",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Character chart\",\"dueInDays\":1,\"subject\":\"English 11\"},{\"title\":\"Theme paragraph\",\"dueInDays\":5,\"subject\":\"English 11\"},{\"title\":\"Bring a printed copy for the workshop\",\"dueInDays\":2,\"subject\":\"English 11\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "english 12 to do. finish hamlet act 3 reading tonight. soliloquy annotation sheet due wednesday. essay topic proposal due friday. sign up for a conference slot by monday",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Finish Hamlet act 3 reading\",\"dueInDays\":0,\"subject\":\"English 12\"},{\"title\":\"Soliloquy annotation sheet\",\"dueInDays\":2,\"subject\":\"English 12\"},{\"title\":\"Essay topic proposal\",\"dueInDays\":4,\"subject\":\"English 12\"},{\"title\":\"Sign up for a conference slot\",\"dueInDays\":7,\"subject\":\"English 12\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "English 9 announcement. Grades for the narrative unit have been posted in the portal. Late work is accepted up to two weeks after the original due date for partial credit. There is no homework over the long weekend. Enjoy the time off.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "eng 10 hw. read ch 12 pg 188 to 201 over the weekend. vocab list 6 quiz mon. rough draft of the lit analysis due wed. peer edit sheet the following friday",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Read chapter 12 pages 188 to 201\",\"dueInDays\":3,\"subject\":\"English 10\"},{\"title\":\"Vocabulary list 6 quiz\",\"dueInDays\":3,\"subject\":\"English 10\"},{\"title\":\"Rough draft of the literary analysis\",\"dueInDays\":5,\"subject\":\"English 10\"},{\"title\":\"Peer edit sheet\",\"dueInDays\":7,\"subject\":\"English 10\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Sorry for the weekend email but here is everything for the research unit in English 11. Topic proposal is due Monday. Three sources with annotations are due Tuesday. Working thesis due Wednesday. Outline due Thursday. Rough draft due Friday. Peer review sheet due the following Monday. Final paper is due in two weeks.",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Topic proposal\",\"dueInDays\":2,\"subject\":\"English 11\"},{\"title\":\"Three sources with annotations\",\"dueInDays\":3,\"subject\":\"English 11\"},{\"title\":\"Working thesis\",\"dueInDays\":4,\"subject\":\"English 11\"},{\"title\":\"Research paper outline\",\"dueInDays\":5,\"subject\":\"English 11\"},{\"title\":\"Rough draft\",\"dueInDays\":6,\"subject\":\"English 11\"},{\"title\":\"Peer review sheet\",\"dueInDays\":9,\"subject\":\"English 11\"},{\"title\":\"Final research paper\",\"dueInDays\":14,\"subject\":\"English 11\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Reminder from the English 12 class site. The senior portfolio reflection letter is due Friday by the end of the period. Everything else in the portfolio was collected before the break.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Senior portfolio reflection letter\",\"dueInDays\":5,\"subject\":\"English 12\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "English 9 announcement. Silent reading logs are collected Wednesday. The Romeo and Juliet unit test is next Thursday. The study guide will be posted tonight and is due the day before the test.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Silent reading log\",\"dueInDays\":2,\"subject\":\"English 9\"},{\"title\":\"Romeo and Juliet unit test\",\"dueInDays\":10,\"subject\":\"English 9\"},{\"title\":\"Romeo and Juliet study guide\",\"dueInDays\":9,\"subject\":\"English 9\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "hey does anyone remember when the poetry recitation is. mrs lin said we sign up in class but the actual recitation is thursday and thats all i wrote down",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Poetry recitation\",\"dueInDays\":2,\"subject\":\"English 10\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "English 11 Unit 5 Week 2. Reading quiz on act 4 of the Crucible is Thursday. The character motivation paragraph is due next Tuesday. Socratic seminar prep questions are due next Wednesday.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Reading quiz on act 4 of the Crucible\",\"dueInDays\":1,\"subject\":\"English 11\"},{\"title\":\"Character motivation paragraph\",\"dueInDays\":6,\"subject\":\"English 11\"},{\"title\":\"Socratic seminar prep questions\",\"dueInDays\":7,\"subject\":\"English 11\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "eng 12 stuff. finish the college essay draft tonight. bring 2 printed copies tmrw for workshop. revised draft due monday. counselor rec form due in two weeks",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Finish the college essay draft\",\"dueInDays\":0,\"subject\":\"English 12\"},{\"title\":\"Bring 2 printed copies for the workshop\",\"dueInDays\":1,\"subject\":\"English 12\"},{\"title\":\"Revised college essay draft\",\"dueInDays\":4,\"subject\":\"English 12\"},{\"title\":\"Counselor recommendation form\",\"dueInDays\":14,\"subject\":\"English 12\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Hello families. This week in English 9 we finished our short story unit and started poetry. There is no homework this weekend. Please sign up for a conference time in the portal by Wednesday. Thank you for a great week.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Sign up for a conference time in the portal\",\"dueInDays\":5,\"subject\":\"English 9\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "english 10. reread the article about food deserts and highlight evidence by monday. claim and counterclaim organizer due tuesday. argument essay intro paragraph due wednesday",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Reread the food deserts article and highlight evidence\",\"dueInDays\":2,\"subject\":\"English 10\"},{\"title\":\"Claim and counterclaim organizer\",\"dueInDays\":3,\"subject\":\"English 10\"},{\"title\":\"Argument essay intro paragraph\",\"dueInDays\":4,\"subject\":\"English 10\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Posted to the English 11 page. The annotated bibliography for the American voices project is due Wednesday at the start of class. Use the template in the resources folder. Late submissions lose ten percent per day.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Annotated bibliography for the American voices project\",\"dueInDays\":3,\"subject\":\"English 11\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "ok so for english 12 the shakespeare group project. slides are due thursday. our presentation is friday. and the individual reflection is due the following tuesday. sam is doing act 1 im doing act 2",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Shakespeare group project slides\",\"dueInDays\":3,\"subject\":\"English 12\"},{\"title\":\"Shakespeare group presentation\",\"dueInDays\":4,\"subject\":\"English 12\"},{\"title\":\"Individual reflection\",\"dueInDays\":8,\"subject\":\"English 12\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "AP Language Week 6. Rhetorical analysis essay on the Douglass speech is due Wednesday. Timed write in class Friday. Read the Sandra Cisneros essay and annotate for tone by next Monday. Multiple choice practice set 3 is due in two weeks.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Rhetorical analysis essay on the Douglass speech\",\"dueInDays\":2,\"subject\":\"AP Language\"},{\"title\":\"Timed write in class\",\"dueInDays\":4,\"subject\":\"AP Language\"},{\"title\":\"Read and annotate the Cisneros essay for tone\",\"dueInDays\":7,\"subject\":\"AP Language\"},{\"title\":\"Multiple choice practice set 3\",\"dueInDays\":14,\"subject\":\"AP Language\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Good afternoon. Two things for AP Lang. The synthesis packet with all six sources is due Thursday and you should come with at least three annotated. Our full length practice exam is Saturday morning in room 214. Bring a pencil and a watch.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Synthesis packet with six annotated sources\",\"dueInDays\":2,\"subject\":\"AP Lang\"},{\"title\":\"Full length practice exam\",\"dueInDays\":4,\"subject\":\"AP Lang\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "ap lang. finish the toulmin chart tonight. argument essay prompt 3 due fri. reading quiz on the intro chapter mon. vocab in context set 4 due next wed",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Finish the Toulmin chart\",\"dueInDays\":0,\"subject\":\"AP Lang\"},{\"title\":\"Argument essay prompt 3\",\"dueInDays\":2,\"subject\":\"AP Lang\"},{\"title\":\"Reading quiz on the intro chapter\",\"dueInDays\":5,\"subject\":\"AP Lang\"},{\"title\":\"Vocabulary in context set 4\",\"dueInDays\":7,\"subject\":\"AP Lang\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "AP Language announcement. Scores for the last timed write are in the portal with rubric comments. Remember that the rubric is holistic and a 4 is a strong score. Office hours are Tuesday and Thursday at lunch.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "anyone know what were supposed to do for ap lang over break. i have annotate the two op eds by monday and the rhetorical precis due tuesday. i think theres also a synthesis outline due wednesday",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Annotate the two op eds\",\"dueInDays\":3,\"subject\":\"AP Lang\"},{\"title\":\"Rhetorical precis\",\"dueInDays\":4,\"subject\":\"AP Lang\"},{\"title\":\"Synthesis outline\",\"dueInDays\":5,\"subject\":\"AP Lang\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Reminder that the AP Language summer reading response for Just Mercy is due Monday. It should be about 500 words and posted to the discussion board before class starts.",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Summer reading response for Just Mercy\",\"dueInDays\":2,\"subject\":\"AP Language\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "AP Language Unit 4 at a glance. Monday read the Baldwin letter. Tuesday annotate for appeals. Wednesday draft the rhetorical analysis. Thursday peer review. Friday the final rhetorical analysis is due. The unit test is in two weeks.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Read the Baldwin letter\",\"dueInDays\":1,\"subject\":\"AP Language\"},{\"title\":\"Annotate the Baldwin letter for appeals\",\"dueInDays\":2,\"subject\":\"AP Language\"},{\"title\":\"Draft the rhetorical analysis\",\"dueInDays\":3,\"subject\":\"AP Language\"},{\"title\":\"Peer review\",\"dueInDays\":4,\"subject\":\"AP Language\"},{\"title\":\"Final rhetorical analysis\",\"dueInDays\":5,\"subject\":\"AP Language\"},{\"title\":\"Unit 4 test\",\"dueInDays\":14,\"subject\":\"AP Language\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "AP Lang families and students. The only thing due this week is the annotated Op Ed packet on Thursday. We are using class time for the rest of the unit work so nothing else will be assigned.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Annotated Op Ed packet\",\"dueInDays\":3,\"subject\":\"AP Lang\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "ap lang to do list. print the douglass speech before class tomorrow. finish the tone chart by thursday. write the 300 word reflection over the weekend. bring highlighters monday",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Print the Douglass speech\",\"dueInDays\":1,\"subject\":\"AP Lang\"},{\"title\":\"Finish the tone chart\",\"dueInDays\":2,\"subject\":\"AP Lang\"},{\"title\":\"Write the 300 word reflection\",\"dueInDays\":6,\"subject\":\"AP Lang\"},{\"title\":\"Bring highlighters\",\"dueInDays\":6,\"subject\":\"AP Lang\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Posted to AP Language. The revision of your second rhetorical analysis is due Friday. Please attach the original with my comments. Quarter grades close in two weeks so get any missing work in before then.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Revision of the second rhetorical analysis\",\"dueInDays\":2,\"subject\":\"AP Language\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "AP Literature Week 9. Finish Beloved through chapter 18 by Monday. Passage analysis paragraph due Tuesday. Poetry explication of the Bishop poem due Thursday. Full class discussion Friday and you need three prepared questions.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Finish Beloved through chapter 18\",\"dueInDays\":4,\"subject\":\"AP Literature\"},{\"title\":\"Passage analysis paragraph\",\"dueInDays\":5,\"subject\":\"AP Literature\"},{\"title\":\"Poetry explication of the Bishop poem\",\"dueInDays\":7,\"subject\":\"AP Literature\"},{\"title\":\"Three prepared discussion questions\",\"dueInDays\":8,\"subject\":\"AP Literature\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Hi all. The open ended essay practice is due Tuesday and I want a real thesis not a plot summary. We will do a timed poetry essay on Thursday. Read the Hurston excerpt over the weekend so we can start Monday ready.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Open ended essay practice\",\"dueInDays\":4,\"subject\":\"AP Literature\"},{\"title\":\"Timed poetry essay\",\"dueInDays\":6,\"subject\":\"AP Literature\"},{\"title\":\"Read the Hurston excerpt\",\"dueInDays\":3,\"subject\":\"AP Literature\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "ap lit. finish hamlet act 5 tonight. char tracker due mon. lit terms quiz wed. essay on the tragic hero due next fri",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Finish Hamlet act 5\",\"dueInDays\":0,\"subject\":\"AP Lit\"},{\"title\":\"Character tracker\",\"dueInDays\":2,\"subject\":\"AP Lit\"},{\"title\":\"Literary terms quiz\",\"dueInDays\":4,\"subject\":\"AP Lit\"},{\"title\":\"Essay on the tragic hero\",\"dueInDays\":6,\"subject\":\"AP Lit\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "is the ap lit reading journal due wednesday or thursday. i wrote wednesday in my planner. its the one where we pick three passages and write half a page each",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Reading journal with three passages\",\"dueInDays\":3,\"subject\":\"AP Lit\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "AP Literature announcement. The reading calendar for the second semester is now posted on the class site. Nothing is due this week because we are using class time for seminar. Bring your novel every day.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "AP Lit reminders. Prose passage analysis due Thursday. Vocabulary from the unit is quizzed Friday. Your independent novel choice form is due Monday. The first independent reading check in is the following Friday. The final seminar paper is due in three weeks.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Prose passage analysis\",\"dueInDays\":2,\"subject\":\"AP Literature\"},{\"title\":\"Unit vocabulary quiz\",\"dueInDays\":3,\"subject\":\"AP Literature\"},{\"title\":\"Independent novel choice form\",\"dueInDays\":6,\"subject\":\"AP Literature\"},{\"title\":\"First independent reading check in\",\"dueInDays\":10,\"subject\":\"AP Literature\"},{\"title\":\"Final seminar paper\",\"dueInDays\":21,\"subject\":\"AP Literature\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "ap lit to do. reread the frost poem and mark the shifts tonight. explication draft due friday. peer feedback form due monday. revised explication due the following wednesday",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Reread the Frost poem and mark the shifts\",\"dueInDays\":0,\"subject\":\"AP Lit\"},{\"title\":\"Explication draft\",\"dueInDays\":2,\"subject\":\"AP Lit\"},{\"title\":\"Peer feedback form\",\"dueInDays\":5,\"subject\":\"AP Lit\"},{\"title\":\"Revised explication\",\"dueInDays\":7,\"subject\":\"AP Lit\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Posted to AP Literature. Sign up for your seminar leadership day by tomorrow. The annotated seminar text is due Monday and I will check annotations at the door.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Sign up for a seminar leadership day\",\"dueInDays\":1,\"subject\":\"AP Literature\"},{\"title\":\"Annotated seminar text\",\"dueInDays\":4,\"subject\":\"AP Literature\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "ok ap lit people. the essay is due monday not friday i checked the site. also the poetry packet is due wednesday and we have the multiple choice practice on thursday",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Essay\",\"dueInDays\":3,\"subject\":\"AP Lit\"},{\"title\":\"Poetry packet\",\"dueInDays\":5,\"subject\":\"AP Lit\"},{\"title\":\"Multiple choice practice\",\"dueInDays\":6,\"subject\":\"AP Lit\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "AP Literature. Your annotated copy of the second independent novel is collected on Friday. It should have at least twenty marginal notes and a one page summary of your reading process.",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Annotated copy of the second independent novel\",\"dueInDays\":6,\"subject\":\"AP Literature\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "US History Unit 3 Week 1. Read pages 210 to 228 on Reconstruction by Wednesday. Primary source analysis of the Freedmens Bureau documents due Thursday. Unit vocabulary sheet due Friday. The test on Reconstruction is next Thursday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Read pages 210 to 228 on Reconstruction\",\"dueInDays\":2,\"subject\":\"US History\"},{\"title\":\"Primary source analysis of the Freedmens Bureau documents\",\"dueInDays\":3,\"subject\":\"US History\"},{\"title\":\"Unit vocabulary sheet\",\"dueInDays\":4,\"subject\":\"US History\"},{\"title\":\"Reconstruction unit test\",\"dueInDays\":10,\"subject\":\"US History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Good morning. The only US History assignment this week is the Reconstruction amendments chart which is due Friday. We will use Wednesday and Thursday for the documentary so bring nothing but a pen.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Reconstruction amendments chart\",\"dueInDays\":3,\"subject\":\"US History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "us hist. finish reading ch 11 sec 2 tonight. timeline project due fri. dbq outline due mon. dbq essay due next wed",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Finish reading chapter 11 section 2\",\"dueInDays\":0,\"subject\":\"US History\"},{\"title\":\"Timeline project\",\"dueInDays\":2,\"subject\":\"US History\"},{\"title\":\"DBQ outline\",\"dueInDays\":5,\"subject\":\"US History\"},{\"title\":\"DBQ essay\",\"dueInDays\":7,\"subject\":\"US History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "US History announcement. The unit 2 test has been graded and corrections are optional for up to half the missed points. Corrections were due last week so this is just a reminder of the policy for next time.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "for us history did we have to do the map or is that next week. i have the westward expansion map due monday the reading guide due tuesday and the group presentation on thursday",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Westward expansion map\",\"dueInDays\":3,\"subject\":\"US History\"},{\"title\":\"Reading guide\",\"dueInDays\":4,\"subject\":\"US History\"},{\"title\":\"Group presentation\",\"dueInDays\":6,\"subject\":\"US History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "us history. finish the gilded age notes today. political cartoon analysis due monday. bring the textbook tuesday. quiz on the labor movement wednesday. essay outline due the following monday",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Finish the Gilded Age notes\",\"dueInDays\":0,\"subject\":\"US History\"},{\"title\":\"Political cartoon analysis\",\"dueInDays\":2,\"subject\":\"US History\"},{\"title\":\"Bring the textbook\",\"dueInDays\":3,\"subject\":\"US History\"},{\"title\":\"Quiz on the labor movement\",\"dueInDays\":4,\"subject\":\"US History\"},{\"title\":\"Essay outline\",\"dueInDays\":9,\"subject\":\"US History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Sending this before the week starts. In US History the immigration primary source packet is due Tuesday. The chapter 14 reading check is Wednesday. Your museum exhibit proposal is due Friday and the finished exhibit board is due in three weeks.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Immigration primary source packet\",\"dueInDays\":2,\"subject\":\"US History\"},{\"title\":\"Chapter 14 reading check\",\"dueInDays\":3,\"subject\":\"US History\"},{\"title\":\"Museum exhibit proposal\",\"dueInDays\":5,\"subject\":\"US History\"},{\"title\":\"Finished museum exhibit board\",\"dueInDays\":21,\"subject\":\"US History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Posted to the US History page. Bring a signed field trip permission slip by Wednesday. The trip is Friday and the museum reflection is due the Monday after the trip.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Signed field trip permission slip\",\"dueInDays\":2,\"subject\":\"US History\"},{\"title\":\"Museum reflection\",\"dueInDays\":7,\"subject\":\"US History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "ushist only thing i have left is the industrialization vocab quiz on thursday. everything else got pushed to the next unit apparently",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Industrialization vocabulary quiz\",\"dueInDays\":2,\"subject\":\"US History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "US History Week 12 plan. Thursday read the section on the Progressive Era. Friday the muckraker profile is due. Monday bring your three sources for the reform project. Tuesday the annotated source sheet is due. Wednesday the project draft is due. The final reform project is due in two weeks.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Read the section on the Progressive Era\",\"dueInDays\":1,\"subject\":\"US History\"},{\"title\":\"Muckraker profile\",\"dueInDays\":2,\"subject\":\"US History\"},{\"title\":\"Bring three sources for the reform project\",\"dueInDays\":5,\"subject\":\"US History\"},{\"title\":\"Annotated source sheet\",\"dueInDays\":6,\"subject\":\"US History\"},{\"title\":\"Reform project draft\",\"dueInDays\":7,\"subject\":\"US History\"},{\"title\":\"Final reform project\",\"dueInDays\":14,\"subject\":\"US History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "AP US History Period 5 week 3. Read Amsco chapter 12 by Monday. Key terms sheet due Tuesday. SAQ practice on sectionalism due Wednesday. The Period 5 unit test is next Friday.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Read Amsco chapter 12\",\"dueInDays\":4,\"subject\":\"AP US History\"},{\"title\":\"Key terms sheet\",\"dueInDays\":5,\"subject\":\"AP US History\"},{\"title\":\"SAQ practice on sectionalism\",\"dueInDays\":6,\"subject\":\"AP US History\"},{\"title\":\"Period 5 unit test\",\"dueInDays\":8,\"subject\":\"AP US History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "APUSH. The DBQ on Manifest Destiny is due Tuesday. Bring the completed document chart to class Monday so we can workshop the grouping. The long essay practice is Thursday in class.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"DBQ on Manifest Destiny\",\"dueInDays\":4,\"subject\":\"APUSH\"},{\"title\":\"Bring the completed document chart\",\"dueInDays\":3,\"subject\":\"APUSH\"},{\"title\":\"Long essay practice\",\"dueInDays\":6,\"subject\":\"APUSH\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "apush. finish period 4 review deck tonight. mc practice 40 questions due mon. dbq thesis workshop wed. full dbq due the following monday",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Finish the period 4 review deck\",\"dueInDays\":0,\"subject\":\"APUSH\"},{\"title\":\"Multiple choice practice of 40 questions\",\"dueInDays\":2,\"subject\":\"APUSH\"},{\"title\":\"DBQ thesis workshop\",\"dueInDays\":4,\"subject\":\"APUSH\"},{\"title\":\"Full DBQ\",\"dueInDays\":9,\"subject\":\"APUSH\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "does anyone have the apush timeline for period 6. i think its just the reform movements chart due wednesday and nothing else this week",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Reform movements chart\",\"dueInDays\":3,\"subject\":\"APUSH\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "AP US History announcement. Review sessions for the national exam start after spring break and the schedule will be posted then. Nothing new is assigned this week. Keep working through your review book at your own pace.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "APUSH reminders for the short week. Chapter 15 reading due Wednesday. Guided notes due Thursday. SAQ set due Friday. Period review chart due Monday. The practice exam is the following Saturday.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Chapter 15 reading\",\"dueInDays\":1,\"subject\":\"APUSH\"},{\"title\":\"Guided notes\",\"dueInDays\":2,\"subject\":\"APUSH\"},{\"title\":\"SAQ set\",\"dueInDays\":3,\"subject\":\"APUSH\"},{\"title\":\"Period review chart\",\"dueInDays\":6,\"subject\":\"APUSH\"},{\"title\":\"Practice exam\",\"dueInDays\":11,\"subject\":\"APUSH\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "apush to do. reread the jackson doc set tonight. contextualization paragraph due friday. period 4 vocab quiz monday. corrections on the last saq due in a week",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Reread the Jackson document set\",\"dueInDays\":0,\"subject\":\"APUSH\"},{\"title\":\"Contextualization paragraph\",\"dueInDays\":2,\"subject\":\"APUSH\"},{\"title\":\"Period 4 vocabulary quiz\",\"dueInDays\":5,\"subject\":\"APUSH\"},{\"title\":\"Corrections on the last SAQ\",\"dueInDays\":7,\"subject\":\"APUSH\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Posted to AP US History. The historiography reading response is due Monday. Sign up for your period presentation slot by tomorrow so I can build the calendar.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Historiography reading response\",\"dueInDays\":4,\"subject\":\"AP US History\"},{\"title\":\"Sign up for a period presentation slot\",\"dueInDays\":1,\"subject\":\"AP US History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "APUSH heads up. The only thing over the weekend is the period 6 review outline which is due Monday at the start of class. We will go over it together before the quiz.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Period 6 review outline\",\"dueInDays\":3,\"subject\":\"APUSH\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "World History Week 7. Read the section on the Silk Road by Wednesday. Trade routes map activity due Thursday. Comparative essay on empires due Friday. The unit 3 test is next Tuesday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Read the section on the Silk Road\",\"dueInDays\":2,\"subject\":\"World History\"},{\"title\":\"Trade routes map activity\",\"dueInDays\":3,\"subject\":\"World History\"},{\"title\":\"Comparative essay on empires\",\"dueInDays\":4,\"subject\":\"World History\"},{\"title\":\"Unit 3 test\",\"dueInDays\":8,\"subject\":\"World History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Hello. In World History the primary source packet on the Mongol empire is due Thursday. Your group needs one shared document with everyone notes by Friday. That is all for this week.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Primary source packet on the Mongol empire\",\"dueInDays\":2,\"subject\":\"World History\"},{\"title\":\"Shared group notes document\",\"dueInDays\":3,\"subject\":\"World History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "world hist. finish the byzantine notes tonight. map quiz fri. religion comparison chart due mon. unit essay due in two weeks",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Finish the Byzantine notes\",\"dueInDays\":0,\"subject\":\"World History\"},{\"title\":\"Map quiz\",\"dueInDays\":2,\"subject\":\"World History\"},{\"title\":\"Religion comparison chart\",\"dueInDays\":5,\"subject\":\"World History\"},{\"title\":\"Unit essay\",\"dueInDays\":14,\"subject\":\"World History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "for world history we have the feudalism venn diagram due friday and the reading guide due monday. also the group slides on the crusades are due tuesday i think",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Feudalism venn diagram\",\"dueInDays\":1,\"subject\":\"World History\"},{\"title\":\"Reading guide\",\"dueInDays\":4,\"subject\":\"World History\"},{\"title\":\"Group slides on the crusades\",\"dueInDays\":5,\"subject\":\"World History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "World History announcement. The unit 2 grades are posted. Remember that the retake window closed last Friday. Have a good weekend and come back ready for the age of exploration.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "World History plan for the coming week. Monday read pages 302 to 318. Tuesday the exploration timeline is due. Wednesday the navigation technology chart is due. Thursday the Columbian exchange chart is due. Friday is the unit quiz. The research paragraph is due the following Wednesday.",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Read pages 302 to 318\",\"dueInDays\":2,\"subject\":\"World History\"},{\"title\":\"Exploration timeline\",\"dueInDays\":3,\"subject\":\"World History\"},{\"title\":\"Navigation technology chart\",\"dueInDays\":4,\"subject\":\"World History\"},{\"title\":\"Columbian exchange chart\",\"dueInDays\":5,\"subject\":\"World History\"},{\"title\":\"Unit quiz\",\"dueInDays\":6,\"subject\":\"World History\"},{\"title\":\"Research paragraph\",\"dueInDays\":11,\"subject\":\"World History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "world history. the only thing i have is the industrial revolution cause and effect chart and its due wednesday. everything else this unit is in class work",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Industrial revolution cause and effect chart\",\"dueInDays\":3,\"subject\":\"World History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Posted to World History. The decolonization reading is due Wednesday. The country research profile is due next Monday. Bring your world map to every class this week and the labeled version is collected Friday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Decolonization reading\",\"dueInDays\":2,\"subject\":\"World History\"},{\"title\":\"Country research profile\",\"dueInDays\":7,\"subject\":\"World History\"},{\"title\":\"Labeled world map\",\"dueInDays\":4,\"subject\":\"World History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "whist. cold war vocab due thurs. documentary questions due fri. essay outline mon. essay due next thurs",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Cold war vocabulary\",\"dueInDays\":2,\"subject\":\"World History\"},{\"title\":\"Documentary questions\",\"dueInDays\":3,\"subject\":\"World History\"},{\"title\":\"Essay outline\",\"dueInDays\":6,\"subject\":\"World History\"},{\"title\":\"Cold war essay\",\"dueInDays\":9,\"subject\":\"World History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Government Week 4. Read Federalist 10 by Thursday. Constitution principles chart due Friday. Branch of government one pager due Monday. The unit test on foundations is next Wednesday.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Read Federalist 10\",\"dueInDays\":1,\"subject\":\"Government\"},{\"title\":\"Constitution principles chart\",\"dueInDays\":2,\"subject\":\"Government\"},{\"title\":\"Branch of government one pager\",\"dueInDays\":5,\"subject\":\"Government\"},{\"title\":\"Unit test on foundations\",\"dueInDays\":7,\"subject\":\"Government\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Government students. The mock trial role sheet is due Monday. We will run the trial the week after so use the weekend to read your role packet carefully.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Mock trial role sheet\",\"dueInDays\":4,\"subject\":\"Government\"},{\"title\":\"Read the role packet\",\"dueInDays\":4,\"subject\":\"Government\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "gov. bill of rights scenarios due mon. supreme court case brief due wed. current event summary due fri. voter registration project due in three weeks",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Bill of Rights scenarios\",\"dueInDays\":3,\"subject\":\"Government\"},{\"title\":\"Supreme Court case brief\",\"dueInDays\":5,\"subject\":\"Government\"},{\"title\":\"Current event summary\",\"dueInDays\":7,\"subject\":\"Government\"},{\"title\":\"Voter registration project\",\"dueInDays\":21,\"subject\":\"Government\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "gov group. we need the policy proposal slides by tuesday. the position paper is due wednesday. and we present thursday. i can do the slides if someone writes the intro",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Policy proposal slides\",\"dueInDays\":3,\"subject\":\"Government\"},{\"title\":\"Position paper\",\"dueInDays\":4,\"subject\":\"Government\"},{\"title\":\"Group presentation\",\"dueInDays\":5,\"subject\":\"Government\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Government announcement. The guest speaker from the county elections office visits this week during third period. No preparation is required and there is nothing to turn in. Just bring questions if you have them.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Government reminders. The electoral college diagram is due Wednesday. Your campaign ad analysis is due Friday. The unit 4 vocabulary quiz is next Monday. Bring headphones Wednesday for the ad viewing.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Electoral college diagram\",\"dueInDays\":2,\"subject\":\"Government\"},{\"title\":\"Campaign ad analysis\",\"dueInDays\":4,\"subject\":\"Government\"},{\"title\":\"Unit 4 vocabulary quiz\",\"dueInDays\":7,\"subject\":\"Government\"},{\"title\":\"Bring headphones for the ad viewing\",\"dueInDays\":2,\"subject\":\"Government\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "gov to do. finish reading the article on judicial review tonight. case brief due thursday. discussion questions due friday. mock congress bill draft due next tuesday",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Finish reading the article on judicial review\",\"dueInDays\":0,\"subject\":\"Government\"},{\"title\":\"Case brief\",\"dueInDays\":2,\"subject\":\"Government\"},{\"title\":\"Discussion questions\",\"dueInDays\":3,\"subject\":\"Government\"},{\"title\":\"Mock congress bill draft\",\"dueInDays\":7,\"subject\":\"Government\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Posted to the Government page. The civic action project proposal is due Friday. One paragraph describing the issue and one describing what you plan to do about it.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Civic action project proposal\",\"dueInDays\":2,\"subject\":\"Government\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Economics Week 5. Supply and demand problem set due Friday. Read the chapter on elasticity by Monday. Elasticity graphs worksheet due Tuesday. The unit quiz is next Thursday.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Supply and demand problem set\",\"dueInDays\":1,\"subject\":\"Economics\"},{\"title\":\"Read the chapter on elasticity\",\"dueInDays\":4,\"subject\":\"Economics\"},{\"title\":\"Elasticity graphs worksheet\",\"dueInDays\":5,\"subject\":\"Economics\"},{\"title\":\"Unit quiz\",\"dueInDays\":7,\"subject\":\"Economics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Economics. The market structures comparison chart is due Tuesday. Your stock portfolio check in post is due Monday. Nothing else this week because we have the assembly on Wednesday.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Market structures comparison chart\",\"dueInDays\":4,\"subject\":\"Economics\"},{\"title\":\"Stock portfolio check in post\",\"dueInDays\":3,\"subject\":\"Economics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "econ. finish the opportunity cost worksheet today. ppf graphs due mon. reading quiz ch 3 tues. budget project draft due next fri",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Finish the opportunity cost worksheet\",\"dueInDays\":0,\"subject\":\"Economics\"},{\"title\":\"Production possibilities graphs\",\"dueInDays\":2,\"subject\":\"Economics\"},{\"title\":\"Reading quiz on chapter 3\",\"dueInDays\":3,\"subject\":\"Economics\"},{\"title\":\"Budget project draft\",\"dueInDays\":6,\"subject\":\"Economics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "econ people. the business plan exec summary is due tuesday. the financial projections spreadsheet is due thursday. presentation friday. who is doing the marketing part",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Business plan executive summary\",\"dueInDays\":2,\"subject\":\"Economics\"},{\"title\":\"Financial projections spreadsheet\",\"dueInDays\":4,\"subject\":\"Economics\"},{\"title\":\"Business plan presentation\",\"dueInDays\":5,\"subject\":\"Economics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Economics announcement. The stock market game standings are updated in the portal. Post your one paragraph trading reflection by Thursday. Trading closes at the end of the quarter.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"One paragraph trading reflection\",\"dueInDays\":3,\"subject\":\"Economics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Economics week ahead. Fiscal policy notes due Wednesday. Monetary policy reading due Thursday. Federal Reserve simulation prep due Friday. Policy memo due Monday. The unit 5 test is the following Thursday.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Fiscal policy notes\",\"dueInDays\":1,\"subject\":\"Economics\"},{\"title\":\"Monetary policy reading\",\"dueInDays\":2,\"subject\":\"Economics\"},{\"title\":\"Federal Reserve simulation prep\",\"dueInDays\":3,\"subject\":\"Economics\"},{\"title\":\"Policy memo\",\"dueInDays\":6,\"subject\":\"Economics\"},{\"title\":\"Unit 5 test\",\"dueInDays\":9,\"subject\":\"Economics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "econ. the only thing due is the personal finance budget worksheet on friday. everything else is in class work this week and she said not to stress about it",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Personal finance budget worksheet\",\"dueInDays\":2,\"subject\":\"Economics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Posted to Economics. The international trade case study is due Monday. The comparative advantage worksheet is due Tuesday. Bring a calculator for the Wednesday activity.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"International trade case study\",\"dueInDays\":4,\"subject\":\"Economics\"},{\"title\":\"Comparative advantage worksheet\",\"dueInDays\":5,\"subject\":\"Economics\"},{\"title\":\"Bring a calculator for the activity\",\"dueInDays\":6,\"subject\":\"Economics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Psychology Week 6. Read the chapter on memory by Monday. Memory experiment design due Tuesday. Run your experiment and collect data by Thursday. The write up is due the following Monday.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Read the chapter on memory\",\"dueInDays\":3,\"subject\":\"Psychology\"},{\"title\":\"Memory experiment design\",\"dueInDays\":4,\"subject\":\"Psychology\"},{\"title\":\"Run the experiment and collect data\",\"dueInDays\":6,\"subject\":\"Psychology\"},{\"title\":\"Experiment write up\",\"dueInDays\":10,\"subject\":\"Psychology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Psychology. The research ethics reading response is due Monday. Your case study analysis is due Wednesday. The unit test on research methods is Friday. The study guide is posted now.",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Research ethics reading response\",\"dueInDays\":2,\"subject\":\"Psychology\"},{\"title\":\"Case study analysis\",\"dueInDays\":4,\"subject\":\"Psychology\"},{\"title\":\"Unit test on research methods\",\"dueInDays\":6,\"subject\":\"Psychology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "psych. brain diagram labeling due mon. neurotransmitter chart due wed. sleep journal starts tonight and is due in a week. unit quiz thurs",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Brain diagram labeling\",\"dueInDays\":1,\"subject\":\"Psychology\"},{\"title\":\"Neurotransmitter chart\",\"dueInDays\":3,\"subject\":\"Psychology\"},{\"title\":\"Sleep journal\",\"dueInDays\":7,\"subject\":\"Psychology\"},{\"title\":\"Unit quiz\",\"dueInDays\":4,\"subject\":\"Psychology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "psych is the conditioning worksheet due wednesday or thursday. i put wednesday down. thats the one with the pavlov examples and the operant chart on the back",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Conditioning worksheet\",\"dueInDays\":2,\"subject\":\"Psychology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Psychology announcement. The optional extra credit article review is no longer being offered this quarter. Nothing is due this week. We will finish the documentary in class on Thursday and Friday.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Psychology reminders. The developmental stages chart is due Friday. Your observation notes from the family interview are due Monday. The unit 6 test is next Wednesday and the review packet is due the day before.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Developmental stages chart\",\"dueInDays\":2,\"subject\":\"Psychology\"},{\"title\":\"Observation notes from the family interview\",\"dueInDays\":5,\"subject\":\"Psychology\"},{\"title\":\"Unit 6 test\",\"dueInDays\":7,\"subject\":\"Psychology\"},{\"title\":\"Unit 6 review packet\",\"dueInDays\":6,\"subject\":\"Psychology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "psych to do. finish the disorders reading tonight. dsm categories chart due monday. case study writeup due tuesday. group presentation slides due next thursday",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Finish the disorders reading\",\"dueInDays\":0,\"subject\":\"Psychology\"},{\"title\":\"DSM categories chart\",\"dueInDays\":4,\"subject\":\"Psychology\"},{\"title\":\"Case study writeup\",\"dueInDays\":5,\"subject\":\"Psychology\"},{\"title\":\"Group presentation slides\",\"dueInDays\":7,\"subject\":\"Psychology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Psychology. The social psychology reflection is due Wednesday. Write about one time you saw conformity or the bystander effect and connect it to a term from the chapter.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Social psychology reflection\",\"dueInDays\":5,\"subject\":\"Psychology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Spanish 3 Week 8. Preterite versus imperfect worksheet due Tuesday. Vocabulary list 8 quiz Wednesday. Read the short story and answer the comprehension questions by Thursday. The oral presentation is next Monday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Preterite versus imperfect worksheet\",\"dueInDays\":1,\"subject\":\"Spanish 3\"},{\"title\":\"Vocabulary list 8 quiz\",\"dueInDays\":2,\"subject\":\"Spanish 3\"},{\"title\":\"Read the short story and answer the comprehension questions\",\"dueInDays\":3,\"subject\":\"Spanish 3\"},{\"title\":\"Oral presentation\",\"dueInDays\":7,\"subject\":\"Spanish 3\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Buenos dias. In Spanish 2 the subjunctive practice packet is due Thursday. The listening quiz is Friday. Your cultural presentation slides are due Monday and you present the following Wednesday.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Subjunctive practice packet\",\"dueInDays\":2,\"subject\":\"Spanish 2\"},{\"title\":\"Listening quiz\",\"dueInDays\":3,\"subject\":\"Spanish 2\"},{\"title\":\"Cultural presentation slides\",\"dueInDays\":6,\"subject\":\"Spanish 2\"},{\"title\":\"Cultural presentation\",\"dueInDays\":8,\"subject\":\"Spanish 2\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "spanish. conjugation chart due thurs. vocab quiz fri. write the 10 sentence paragraph about your weekend due mon. skit memorized by wed",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Conjugation chart\",\"dueInDays\":1,\"subject\":\"Spanish\"},{\"title\":\"Vocabulary quiz\",\"dueInDays\":2,\"subject\":\"Spanish\"},{\"title\":\"Ten sentence paragraph about your weekend\",\"dueInDays\":5,\"subject\":\"Spanish\"},{\"title\":\"Memorize the skit\",\"dueInDays\":7,\"subject\":\"Spanish\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "spanish class does anyone know if the dialogue is due tomorrow. i have the dialogue friday the workbook pages monday and the culture project tuesday",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Dialogue\",\"dueInDays\":1,\"subject\":\"Spanish\"},{\"title\":\"Workbook pages\",\"dueInDays\":4,\"subject\":\"Spanish\"},{\"title\":\"Culture project\",\"dueInDays\":5,\"subject\":\"Spanish\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Spanish 1 announcement. The vocabulary practice site is down for maintenance this weekend so do not worry if you cannot log in. Nothing is due until we meet again. Descansen.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Spanish 4 week plan. Monday read the article about Oaxaca. Tuesday the vocabulary sheet is due. Wednesday the past tense narrative draft is due. Thursday is peer edit. Friday the final narrative is due. The oral exam is in two weeks.",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Read the article about Oaxaca\",\"dueInDays\":2,\"subject\":\"Spanish 4\"},{\"title\":\"Vocabulary sheet\",\"dueInDays\":3,\"subject\":\"Spanish 4\"},{\"title\":\"Past tense narrative draft\",\"dueInDays\":4,\"subject\":\"Spanish 4\"},{\"title\":\"Peer edit\",\"dueInDays\":5,\"subject\":\"Spanish 4\"},{\"title\":\"Final narrative\",\"dueInDays\":6,\"subject\":\"Spanish 4\"},{\"title\":\"Oral exam\",\"dueInDays\":14,\"subject\":\"Spanish 4\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "spanish. only thing this week is the verb conjugation quiz on tuesday. thirty verbs in the preterite and ten irregulars so i should probably start now",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Verb conjugation quiz\",\"dueInDays\":2,\"subject\":\"Spanish\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Posted to Spanish 3. The family tree project description is due Wednesday. The finished poster is due next Wednesday. Bring photos or printed pictures to class Friday for the work day.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Family tree project description\",\"dueInDays\":2,\"subject\":\"Spanish 3\"},{\"title\":\"Finished family tree poster\",\"dueInDays\":9,\"subject\":\"Spanish 3\"},{\"title\":\"Bring photos for the work day\",\"dueInDays\":4,\"subject\":\"Spanish 3\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "esp 2. workbook pg 44 to 46 due tmrw. listening practice due thurs. quiz on ser vs estar fri. write the email in spanish due next tues",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Workbook pages 44 to 46\",\"dueInDays\":1,\"subject\":\"Spanish 2\"},{\"title\":\"Listening practice\",\"dueInDays\":2,\"subject\":\"Spanish 2\"},{\"title\":\"Quiz on ser versus estar\",\"dueInDays\":3,\"subject\":\"Spanish 2\"},{\"title\":\"Write the email in Spanish\",\"dueInDays\":7,\"subject\":\"Spanish 2\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Spanish 1. The numbers and dates quiz is Friday. Please also finish the greetings dialogue with your partner and record it by Monday. Practice out loud and not just in your head.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Numbers and dates quiz\",\"dueInDays\":2,\"subject\":\"Spanish 1\"},{\"title\":\"Record the greetings dialogue with your partner\",\"dueInDays\":5,\"subject\":\"Spanish 1\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "French 2 Week 5. Passe compose worksheet due Friday. Vocabulary list 5 quiz Monday. Read the cafe dialogue and answer the questions by Tuesday. The culture project on a francophone country is due in two weeks.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Passe compose worksheet\",\"dueInDays\":1,\"subject\":\"French 2\"},{\"title\":\"Vocabulary list 5 quiz\",\"dueInDays\":4,\"subject\":\"French 2\"},{\"title\":\"Read the cafe dialogue and answer the questions\",\"dueInDays\":5,\"subject\":\"French 2\"},{\"title\":\"Culture project on a francophone country\",\"dueInDays\":14,\"subject\":\"French 2\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Bonjour. In French 3 the composition about your childhood is due Tuesday. The listening comprehension quiz is Wednesday. Nothing else is assigned over the weekend.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Composition about your childhood\",\"dueInDays\":4,\"subject\":\"French 3\"},{\"title\":\"Listening comprehension quiz\",\"dueInDays\":5,\"subject\":\"French 3\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "french. verb chart due mon. vocab quiz tues. record the dialogue with my partner by wed. essay draft due the following monday",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Verb chart\",\"dueInDays\":2,\"subject\":\"French\"},{\"title\":\"Vocabulary quiz\",\"dueInDays\":3,\"subject\":\"French\"},{\"title\":\"Record the dialogue with my partner\",\"dueInDays\":4,\"subject\":\"French\"},{\"title\":\"Essay draft\",\"dueInDays\":9,\"subject\":\"French\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "french 1 the only hw is the numbers and colors worksheet due tuesday right. i dont think she assigned anything else before the quiz",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Numbers and colors worksheet\",\"dueInDays\":2,\"subject\":\"French 1\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "French 2 announcement. The exchange student visit has been moved to next month and the pen pal letters will be assigned then. There is nothing to turn in this week. Merci.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "french to do. finish the reading about paris tonight. adjective agreement worksheet due thursday. oral practice with partner friday. unit test next tuesday",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Finish the reading about Paris\",\"dueInDays\":0,\"subject\":\"French\"},{\"title\":\"Adjective agreement worksheet\",\"dueInDays\":2,\"subject\":\"French\"},{\"title\":\"Oral practice with a partner\",\"dueInDays\":3,\"subject\":\"French\"},{\"title\":\"Unit test\",\"dueInDays\":7,\"subject\":\"French\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Art 1 Week 6. Value scale exercise due Thursday. Bring reference photos for the still life on Friday. The charcoal still life is due Monday. Artist statement due the following Wednesday.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Value scale exercise\",\"dueInDays\":1,\"subject\":\"Art 1\"},{\"title\":\"Bring reference photos for the still life\",\"dueInDays\":2,\"subject\":\"Art 1\"},{\"title\":\"Charcoal still life\",\"dueInDays\":5,\"subject\":\"Art 1\"},{\"title\":\"Artist statement\",\"dueInDays\":7,\"subject\":\"Art 1\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Art students. Your sketchbook is collected Monday and I am looking for five completed pages. The perspective drawing is due Wednesday. Studio is open at lunch if you need more time.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Sketchbook with five completed pages\",\"dueInDays\":4,\"subject\":\"Art\"},{\"title\":\"Perspective drawing\",\"dueInDays\":6,\"subject\":\"Art\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "art. finish the contour line drawings over the weekend. sketchbook due mon. color wheel due wed. final portfolio due in three weeks",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Finish the contour line drawings\",\"dueInDays\":3,\"subject\":\"Art\"},{\"title\":\"Sketchbook\",\"dueInDays\":3,\"subject\":\"Art\"},{\"title\":\"Color wheel\",\"dueInDays\":5,\"subject\":\"Art\"},{\"title\":\"Final portfolio\",\"dueInDays\":21,\"subject\":\"Art\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Art announcement. The student show hangs in the main hallway through the end of the month. Nothing is due right now. If your piece was selected you will get an email about the reception.",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "art the ceramics glaze form is due wednesday i checked. thats the paper where you pick two glazes and write why you picked them",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Ceramics glaze form\",\"dueInDays\":3,\"subject\":\"Art\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "art to do. buy a new eraser and 2b pencil before class tomorrow. thumbnail sketches due wednesday. final composition due friday. artist research page due next monday",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Buy a new eraser and 2B pencil\",\"dueInDays\":1,\"subject\":\"Art\"},{\"title\":\"Thumbnail sketches\",\"dueInDays\":2,\"subject\":\"Art\"},{\"title\":\"Final composition\",\"dueInDays\":4,\"subject\":\"Art\"},{\"title\":\"Artist research page\",\"dueInDays\":7,\"subject\":\"Art\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Band. Please have the scales packet memorized by Thursday. Practice logs are collected Friday. The concert is next Thursday and call time is on the calendar. Bring your folder every day.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Memorize the scales packet\",\"dueInDays\":2,\"subject\":\"Band\"},{\"title\":\"Practice log\",\"dueInDays\":3,\"subject\":\"Band\"},{\"title\":\"Concert\",\"dueInDays\":9,\"subject\":\"Band\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Choir announcement. The spring concert program is finalized and posted. Bring your black folder to rehearsal Friday. There is no new music to learn this week.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Bring the black folder to rehearsal\",\"dueInDays\":2,\"subject\":\"Choir\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "music theory. the only thing due is the interval identification worksheet on monday. its the one with the treble and bass clef examples on both sides",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Interval identification worksheet\",\"dueInDays\":4,\"subject\":\"Music Theory\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Music Theory Week 7. Chord quality worksheet due Monday. Ear training practice log due Tuesday. Part writing assignment due Wednesday. The unit quiz on triads is Thursday.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Chord quality worksheet\",\"dueInDays\":3,\"subject\":\"Music Theory\"},{\"title\":\"Ear training practice log\",\"dueInDays\":4,\"subject\":\"Music Theory\"},{\"title\":\"Part writing assignment\",\"dueInDays\":5,\"subject\":\"Music Theory\"},{\"title\":\"Unit quiz on triads\",\"dueInDays\":6,\"subject\":\"Music Theory\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "orchestra people. sectional is monday and we need the excerpt marked before that. also the playing test is wednesday and the practice log is due friday",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Mark the excerpt for sectional\",\"dueInDays\":2,\"subject\":\"Orchestra\"},{\"title\":\"Playing test\",\"dueInDays\":4,\"subject\":\"Orchestra\"},{\"title\":\"Practice log\",\"dueInDays\":6,\"subject\":\"Orchestra\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Health Week 3. Read the nutrition chapter by Monday. The food log starts tonight and is due Friday. Nutrition label activity due Wednesday. The unit quiz is the following Monday.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Read the nutrition chapter\",\"dueInDays\":1,\"subject\":\"Health\"},{\"title\":\"Food log\",\"dueInDays\":5,\"subject\":\"Health\"},{\"title\":\"Nutrition label activity\",\"dueInDays\":3,\"subject\":\"Health\"},{\"title\":\"Unit quiz\",\"dueInDays\":8,\"subject\":\"Health\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Health class. The stress management reflection is due Wednesday. Your signed syllabus page is overdue so please bring it tomorrow. We start the first aid unit next week.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Stress management reflection\",\"dueInDays\":2,\"subject\":\"Health\"},{\"title\":\"Bring the signed syllabus page\",\"dueInDays\":1,\"subject\":\"Health\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "health. sleep tracker due thurs. mental health article summary due fri. first aid quiz mon. group psa video due next tues",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Sleep tracker\",\"dueInDays\":2,\"subject\":\"Health\"},{\"title\":\"Mental health article summary\",\"dueInDays\":3,\"subject\":\"Health\"},{\"title\":\"First aid quiz\",\"dueInDays\":6,\"subject\":\"Health\"},{\"title\":\"Group PSA video\",\"dueInDays\":7,\"subject\":\"Health\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Health announcement. The guest nurse presentation scheduled for this week has been postponed. No assignment goes with it and nothing is due. We will continue with the regular unit.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Health. The decision making scenarios worksheet is due Monday. Pick three of the six scenarios and write what you would do and why using the model from class.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Decision making scenarios worksheet\",\"dueInDays\":4,\"subject\":\"Health\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "PE. Your fitness goal sheet is due Monday and it needs a parent signature. The written test on the rules of volleyball is Wednesday. Study the handout from last week.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Fitness goal sheet with a parent signature\",\"dueInDays\":3,\"subject\":\"PE\"},{\"title\":\"Written test on the rules of volleyball\",\"dueInDays\":5,\"subject\":\"PE\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "pe. workout log due mon. fitness reflection paragraph due wed. bring the signed waiver for the weight room by fri",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Workout log\",\"dueInDays\":2,\"subject\":\"PE\"},{\"title\":\"Fitness reflection paragraph\",\"dueInDays\":4,\"subject\":\"PE\"},{\"title\":\"Bring the signed weight room waiver\",\"dueInDays\":6,\"subject\":\"PE\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "PE announcement. Lockers will be reassigned this week during class. There is nothing to bring and nothing to turn in. If you lost your lock see the front office during lunch.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "pe does the fitness plan writeup have to be typed. its due thursday and i think it just needs the four week schedule and the goals part",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Fitness plan writeup\",\"dueInDays\":3,\"subject\":\"PE\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "PE Week 9 written work. Heart rate log due Wednesday. Nutrition and exercise worksheet due Thursday. Personal fitness plan draft due Friday. The final fitness plan is due next Tuesday.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Heart rate log\",\"dueInDays\":1,\"subject\":\"PE\"},{\"title\":\"Nutrition and exercise worksheet\",\"dueInDays\":2,\"subject\":\"PE\"},{\"title\":\"Personal fitness plan draft\",\"dueInDays\":3,\"subject\":\"PE\"},{\"title\":\"Final fitness plan\",\"dueInDays\":7,\"subject\":\"PE\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Hi honey I signed the form and put it in your backpack. Please remember to hand it in tomorrow. Also the dentist appointment is Thursday at 3 so you will need to leave early. Love you.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Hand in the signed form\",\"dueInDays\":1},{\"title\":\"Leave early for the dentist appointment\",\"dueInDays\":3}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Reminders. Return the library books by Thursday. Email the counselor about the schedule change today. Finish the scholarship essay by Sunday. Pick up the poster board tomorrow.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Return the library books\",\"dueInDays\":2},{\"title\":\"Email the counselor about the schedule change\",\"dueInDays\":0},{\"title\":\"Finish the scholarship essay\",\"dueInDays\":5},{\"title\":\"Pick up the poster board\",\"dueInDays\":1}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Team. Everyone needs the updated physical form turned in to the athletic office by Friday or you cannot practice. Also fill out the travel roster sheet tonight so I can send it in.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Turn in the updated physical form to the athletic office\",\"dueInDays\":2},{\"title\":\"Fill out the travel roster sheet\",\"dueInDays\":0}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "stuff i have to do. finish the reading tonight. worksheet due tomorrow. quiz friday. project outline due monday. get mom to sign the trip form by tuesday",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Finish the reading\",\"dueInDays\":0},{\"title\":\"Worksheet\",\"dueInDays\":1},{\"title\":\"Quiz\",\"dueInDays\":1},{\"title\":\"Project outline\",\"dueInDays\":4},{\"title\":\"Get the trip form signed\",\"dueInDays\":5}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Hey can you remember to drop the deposit check at the front office on Monday. I put it in the front pocket of your bag so it does not get lost.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Drop the deposit check at the front office\",\"dueInDays\":3}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Notes app. Ideas for the summer job search. Ask the front office about the work permit paperwork on Monday. Look into the community center hours some time before then.",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Ask the front office about work permit paperwork\",\"dueInDays\":2}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "plan for this week. start the study guide tonight. reading due tuesday. permission slip due monday. group meeting thursday. big test friday",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Start the study guide\",\"dueInDays\":0},{\"title\":\"Finish the reading\",\"dueInDays\":2},{\"title\":\"Permission slip\",\"dueInDays\":1},{\"title\":\"Group meeting\",\"dueInDays\":4},{\"title\":\"Big test\",\"dueInDays\":5}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Advisory reminder. Course selection forms are due Friday in the counseling office. Get a parent signature before then. Also the yearbook order deadline is next Monday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Turn in the course selection form with a parent signature\",\"dueInDays\":4},{\"title\":\"Order the yearbook\",\"dueInDays\":7}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "hey are we still meeting thursday for the project. i can do saturday too. we need the slides done by friday and the script by wednesday so we can practice",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Group project meeting\",\"dueInDays\":2},{\"title\":\"Finish the slides\",\"dueInDays\":3},{\"title\":\"Finish the script\",\"dueInDays\":1}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Reminder to everyone who missed practice. The concussion baseline test paperwork has to be signed and returned by Monday or you sit out the first game.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Return the signed concussion baseline paperwork\",\"dueInDays\":5}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Just checking in. Grandma said hi. Dinner will be late tonight because of traffic. There is leftover pasta in the fridge if you get hungry before then.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "To do. Laundry tonight. Return the calculator to the library Monday. Finish the college application essay by Wednesday. Ask about a recommendation letter Tuesday. Order the cap and gown by Friday. Submit the transcript request in two weeks.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Laundry\",\"dueInDays\":0},{\"title\":\"Return the calculator to the library\",\"dueInDays\":3},{\"title\":\"Finish the college application essay\",\"dueInDays\":5},{\"title\":\"Ask about a recommendation letter\",\"dueInDays\":4},{\"title\":\"Order the cap and gown\",\"dueInDays\":7},{\"title\":\"Submit the transcript request\",\"dueInDays\":14}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "things. clean my room today. finish the reading before monday. study for the test tuesday. text sam about the ride wednesday",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Clean my room\",\"dueInDays\":0},{\"title\":\"Finish the reading\",\"dueInDays\":2},{\"title\":\"Study for the test\",\"dueInDays\":3},{\"title\":\"Text Sam about the ride\",\"dueInDays\":4}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Morning. Please put the recycling out tonight and start on your homework before dinner. Your appointment with the tutor is Tuesday at 4 and the orthodontist is next Thursday.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Put the recycling out\",\"dueInDays\":0},{\"title\":\"Start on homework\",\"dueInDays\":0},{\"title\":\"Tutor appointment\",\"dueInDays\":2},{\"title\":\"Orthodontist appointment\",\"dueInDays\":4}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "note to self. the scholarship application closes friday and i still need to upload the transcript and the two recommendation letters before that happens",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Finish the scholarship application\",\"dueInDays\":4}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Posted to the student portal. Yearbook photo retakes are Thursday in the gym during periods 2 and 3. If you want a retake bring your original photo package. Sign up in the office by tomorrow.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Sign up for a yearbook photo retake\",\"dueInDays\":1},{\"title\":\"Bring the original photo package to retakes\",\"dueInDays\":2}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Practice update. Bring your uniform home tonight and wash it. Turn in the away game permission form Friday. We have a team dinner Saturday and everyone brings one dish. Film session Monday after school.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Wash the uniform\",\"dueInDays\":0},{\"title\":\"Turn in the away game permission form\",\"dueInDays\":2},{\"title\":\"Bring a dish to the team dinner\",\"dueInDays\":3},{\"title\":\"Film session after school\",\"dueInDays\":5}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "lol that assembly was so long. anyway nothing is due tomorrow which is nice. are we still going to the game after school on friday or did that get moved",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "weekend list. laundry today. finish the reading over the weekend. worksheet due monday. study guide due tuesday. permission slip monday. group project meeting wednesday. presentation thursday",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Laundry\",\"dueInDays\":0},{\"title\":\"Finish the reading\",\"dueInDays\":3},{\"title\":\"Worksheet\",\"dueInDays\":3},{\"title\":\"Study guide\",\"dueInDays\":4},{\"title\":\"Permission slip\",\"dueInDays\":3},{\"title\":\"Group project meeting\",\"dueInDays\":5},{\"title\":\"Presentation\",\"dueInDays\":6}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Dad here. I moved the car keys to the hook by the door. Do not forget you are watching your sister Tuesday night. Also the field trip money is due Wednesday so remind me Monday morning.",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Watch your sister\",\"dueInDays\":3},{\"title\":\"Turn in the field trip money\",\"dueInDays\":4},{\"title\":\"Remind dad about the field trip money\",\"dueInDays\":2}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Reminders for the week. Return the rented instrument Monday. Dentist Wednesday at 2. Work shift Thursday evening. Finish the online safety module by Friday.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Return the rented instrument\",\"dueInDays\":1},{\"title\":\"Dentist appointment\",\"dueInDays\":3},{\"title\":\"Work shift\",\"dueInDays\":4},{\"title\":\"Finish the online safety module\",\"dueInDays\":5}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Coach here. The athletic eligibility form has to be signed by a parent and handed to me before Friday. No form no travel. Ask me at practice if you lost the paper copy.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Hand in the signed athletic eligibility form\",\"dueInDays\":4}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "everything i owe. reading response tonight. worksheet tomorrow. vocab quiz thursday. lab writeup friday. essay outline monday. group slides tuesday. presentation wednesday. final project in two weeks",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Reading response\",\"dueInDays\":0},{\"title\":\"Worksheet\",\"dueInDays\":1},{\"title\":\"Vocabulary quiz\",\"dueInDays\":2},{\"title\":\"Lab writeup\",\"dueInDays\":3},{\"title\":\"Essay outline\",\"dueInDays\":6},{\"title\":\"Group slides\",\"dueInDays\":7},{\"title\":\"Presentation\",\"dueInDays\":8},{\"title\":\"Final project\",\"dueInDays\":14}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Hi love. I will be home around 7. I already picked up dinner so there is nothing you need to do about it. Just relax after school and we will talk when I get back.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Notes. Renew the bus pass by Monday. Send the volunteer hours form to the office Friday. Check the summer program deadline which is in three weeks.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Renew the bus pass\",\"dueInDays\":4},{\"title\":\"Send the volunteer hours form to the office\",\"dueInDays\":1},{\"title\":\"Summer program deadline\",\"dueInDays\":21}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "anyone else have the thing due monday. i have the packet due monday and the presentation wednesday and thats it for me this week thankfully",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Packet\",\"dueInDays\":3},{\"title\":\"Presentation\",\"dueInDays\":5}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "just remembered i have to finish the online module before monday or it locks me out. its like six short videos and a quiz at the end",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Finish the online module\",\"dueInDays\":2}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Sunday note from coach. Weigh ins are Tuesday morning. Bring your own water bottle every day this week. The tournament entry form is due Wednesday and needs a parent signature.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Weigh in\",\"dueInDays\":2},{\"title\":\"Tournament entry form with a parent signature\",\"dueInDays\":3}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Reminder from mom. The orthodontist moved you to Thursday at 4. Please bring the retainer. Also I need the school form signed and back to me by Wednesday night.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Orthodontist appointment\",\"dueInDays\":3},{\"title\":\"Bring the retainer\",\"dueInDays\":3},{\"title\":\"Return the signed school form\",\"dueInDays\":2}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Student portal notice. The library will be closed for inventory Thursday and Friday. Return anything you have out by Wednesday. Books due those days can be returned the following week without a fine.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Return library items before the closure\",\"dueInDays\":1}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "To do list. Charge the laptop tonight. Print the two forms tomorrow. Drop off the forms Friday. Buy a poster board over the weekend. Start the project Monday.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Charge the laptop\",\"dueInDays\":0},{\"title\":\"Print the two forms\",\"dueInDays\":1},{\"title\":\"Drop off the forms\",\"dueInDays\":2},{\"title\":\"Buy a poster board\",\"dueInDays\":5},{\"title\":\"Start the project\",\"dueInDays\":5}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "i keep forgetting this. the driver ed registration is due next thursday and i have to have the form and the fee together in one envelope",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Driver ed registration form and fee\",\"dueInDays\":7}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Hi. Grandpa birthday dinner is Sunday. Please write him a card before then and wrap the gift on Saturday. The summer camp deposit is due in two weeks.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Write a card for Grandpa\",\"dueInDays\":2},{\"title\":\"Wrap the gift\",\"dueInDays\":1},{\"title\":\"Summer camp deposit\",\"dueInDays\":14}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "ok team for the thing next week. script due monday. slides due tuesday. we practice wednesday. and we present thursday. dont forget the handout",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Script\",\"dueInDays\":2},{\"title\":\"Slides\",\"dueInDays\":3},{\"title\":\"Practice run\",\"dueInDays\":4},{\"title\":\"Presentation\",\"dueInDays\":5}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "sunday night list. finish the reading tonight. everything else got done friday. oh and i need to email about the missing assignment tomorrow",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Finish the reading\",\"dueInDays\":0},{\"title\":\"Email about the missing assignment\",\"dueInDays\":1}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Posted to the school site. Club photo day is Wednesday so wear your club shirt. Fundraiser money is due Friday. The spring trip deposit is due in three weeks.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Wear the club shirt for club photo day\",\"dueInDays\":2},{\"title\":\"Turn in fundraiser money\",\"dueInDays\":4},{\"title\":\"Spring trip deposit\",\"dueInDays\":21}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Coach. Great effort today everyone. Practice is at the normal time all week. Nothing to turn in and no forms outstanding. Get some sleep and hydrate.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Can you please call the doctor office tomorrow and reschedule. They open at 8 and the number is on the fridge. I will be in meetings all day so I cannot do it.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Call the doctor office to reschedule\",\"dueInDays\":1}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Weekly reminders. Turn in the work permit form tomorrow. Pay the club dues Monday. Finish the online course module Tuesday. Return the borrowed charger Friday. Book the tutoring session by Wednesday. Renew the library card in a week.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Turn in the work permit form\",\"dueInDays\":1},{\"title\":\"Pay the club dues\",\"dueInDays\":4},{\"title\":\"Finish the online course module\",\"dueInDays\":5},{\"title\":\"Return the borrowed charger\",\"dueInDays\":1},{\"title\":\"Book the tutoring session\",\"dueInDays\":6},{\"title\":\"Renew the library card\",\"dueInDays\":7}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "friday brain dump. i think im actually caught up for once. nothing due monday. the only thing coming is the test but thats after break and she said she would remind us",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[]}"
+  }
+]

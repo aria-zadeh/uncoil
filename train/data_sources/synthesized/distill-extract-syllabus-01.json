@@ -1,0 +1,978 @@
+[
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Unit 3 Week 2 - The Cell Membrane. Reading, textbook pages 88 to 104 plus the transport article in the class folder. Deliverables, membrane diagram labeled and turned in Tuesday, osmosis lab writeup due Thursday, vocab set of 20 terms due Friday, and one logged attempt at the unit 3 practice test in a week. Lab groups stay the same as last week.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Membrane diagram\",\"dueInDays\":2,\"subject\":\"Biology\"},{\"title\":\"Osmosis lab writeup\",\"dueInDays\":4,\"subject\":\"Biology\"},{\"title\":\"Vocab set of 20 terms\",\"dueInDays\":5,\"subject\":\"Biology\"},{\"title\":\"Unit 3 practice test attempt\",\"dueInDays\":7,\"subject\":\"Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "AP US History, Week 6 - Reconstruction. Read chapter 15 in the textbook and the two Freedmen's Bureau excerpts posted in the shared drive. Due this week, the reading guide for chapter 15 on Tuesday, the primary source annotation on Wednesday, the DBQ outline on Friday, and the short answer practice set a week from today. Office hours are before school on Thursday.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Chapter 15 reading guide\",\"dueInDays\":2,\"subject\":\"AP US History\"},{\"title\":\"Primary source annotation\",\"dueInDays\":3,\"subject\":\"AP US History\"},{\"title\":\"DBQ outline\",\"dueInDays\":5,\"subject\":\"AP US History\"},{\"title\":\"Short answer practice set\",\"dueInDays\":7,\"subject\":\"AP US History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Algebra 2 syllabus, Week 4 - Quadratics. Read section 4.1 through 4.3 and skim the worked examples at the end of the chapter. Homework and deadlines, problem set 4A due Monday, problem set 4B due Wednesday, the graphing project rough sketch due Thursday, quiz on vertex form Friday, and the chapter 4 review packet the following Monday. Calculators allowed on the quiz.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Problem set 4A\",\"dueInDays\":1,\"subject\":\"Algebra 2\"},{\"title\":\"Problem set 4B\",\"dueInDays\":3,\"subject\":\"Algebra 2\"},{\"title\":\"Graphing project rough sketch\",\"dueInDays\":4,\"subject\":\"Algebra 2\"},{\"title\":\"Vertex form quiz\",\"dueInDays\":5,\"subject\":\"Algebra 2\"},{\"title\":\"Chapter 4 review packet\",\"dueInDays\":8,\"subject\":\"Algebra 2\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "English 11, Week 5 - The Crucible. Reading for the week, acts one and two by Tuesday and acts three and four by Thursday. Written work, the character motivation paragraph due Wednesday, act three discussion questions due Friday, and the comparison essay outline due the following Monday. No annotations required this week, just sticky notes where the language confuses you.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Read acts one and two\",\"dueInDays\":2,\"subject\":\"English 11\"},{\"title\":\"Character motivation paragraph\",\"dueInDays\":3,\"subject\":\"English 11\"},{\"title\":\"Read acts three and four\",\"dueInDays\":4,\"subject\":\"English 11\"},{\"title\":\"Act three discussion questions\",\"dueInDays\":5,\"subject\":\"English 11\"},{\"title\":\"Comparison essay outline\",\"dueInDays\":8,\"subject\":\"English 11\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Chemistry, Unit 4 Week 1 - Stoichiometry. Read pages 210 to 233 and watch the two mole ratio videos linked on the class page. Turn in, the mole conversion worksheet Monday, limiting reagent practice Wednesday, prelab questions for the copper lab Thursday, and the copper lab report the following Tuesday. Bring goggles every day this unit or you sit out the lab.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Mole conversion worksheet\",\"dueInDays\":1,\"subject\":\"Chemistry\"},{\"title\":\"Limiting reagent practice\",\"dueInDays\":3,\"subject\":\"Chemistry\"},{\"title\":\"Copper lab prelab questions\",\"dueInDays\":4,\"subject\":\"Chemistry\"},{\"title\":\"Copper lab report\",\"dueInDays\":9,\"subject\":\"Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Spanish 3, Semana 7 - El preterito. Lectura, the two short stories in the packet and the grammar summary on page 141. Para entregar, the conjugation drill Monday, the listening log Tuesday, a written paragraph about your weekend Wednesday, the partner dialogue recorded and uploaded Friday, and the unit quiz is the following Monday. Habla en espanol todo el tiempo por favor.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Conjugation drill\",\"dueInDays\":1,\"subject\":\"Spanish 3\"},{\"title\":\"Listening log\",\"dueInDays\":2,\"subject\":\"Spanish 3\"},{\"title\":\"Written paragraph about your weekend\",\"dueInDays\":3,\"subject\":\"Spanish 3\"},{\"title\":\"Record the partner dialogue\",\"dueInDays\":5,\"subject\":\"Spanish 3\"},{\"title\":\"Unit quiz\",\"dueInDays\":8,\"subject\":\"Spanish 3\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Physics Week 9 - Momentum. Reading, chapter 9 sections 1 through 4, and the collisions handout. Work due, conceptual questions 1 to 12 on Tuesday, the problem set on elastic collisions Thursday, the cart lab data table Friday, the full lab analysis the following Wednesday, and the momentum quiz two weeks from Friday. A formula sheet is provided, do not memorize constants.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Conceptual questions 1 to 12\",\"dueInDays\":2,\"subject\":\"Physics\"},{\"title\":\"Elastic collisions problem set\",\"dueInDays\":4,\"subject\":\"Physics\"},{\"title\":\"Cart lab data table\",\"dueInDays\":5,\"subject\":\"Physics\"},{\"title\":\"Cart lab analysis\",\"dueInDays\":10,\"subject\":\"Physics\"},{\"title\":\"Momentum quiz\",\"dueInDays\":19,\"subject\":\"Physics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "World History Week 3 - The Silk Road. Read the chapter 8 overview and the two trader accounts in the reader. To hand in, the map activity Monday, the trade goods chart Tuesday, the source comparison paragraph Thursday, and the group presentation slides Friday. The presentations themselves run the following Monday. There is no reading quiz this week because of the assembly.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Map activity\",\"dueInDays\":1,\"subject\":\"World History\"},{\"title\":\"Trade goods chart\",\"dueInDays\":2,\"subject\":\"World History\"},{\"title\":\"Source comparison paragraph\",\"dueInDays\":4,\"subject\":\"World History\"},{\"title\":\"Group presentation slides\",\"dueInDays\":5,\"subject\":\"World History\"},{\"title\":\"Give the group presentation\",\"dueInDays\":8,\"subject\":\"World History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Geometry, Week 8 - Similar Triangles. Read section 7.2 and 7.3, and redo the two examples in the margin notes. Assignments, worksheet 7.2 due Monday, worksheet 7.3 due Tuesday, the proof practice set due Thursday, and the similarity quiz Friday. Corrections on last week's quiz are optional and earn back half credit. Tutoring is in room 114 after school Wednesday.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Worksheet 7.2\",\"dueInDays\":1,\"subject\":\"Geometry\"},{\"title\":\"Worksheet 7.3\",\"dueInDays\":2,\"subject\":\"Geometry\"},{\"title\":\"Proof practice set\",\"dueInDays\":4,\"subject\":\"Geometry\"},{\"title\":\"Similarity quiz\",\"dueInDays\":5,\"subject\":\"Geometry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "AP Language Week 11 - Rhetorical Analysis. Read the three speeches in the packet and the annotated model essay. Due dates, annotation of speech one Monday, annotation of speech two Wednesday, a timed rhetorical analysis in class Thursday, the revision of your timed essay the following Monday, and the synthesis prep notes two weeks from Monday. Bring a blue or black pen.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Annotate speech one\",\"dueInDays\":1,\"subject\":\"AP Language\"},{\"title\":\"Annotate speech two\",\"dueInDays\":3,\"subject\":\"AP Language\"},{\"title\":\"Timed rhetorical analysis\",\"dueInDays\":4,\"subject\":\"AP Language\"},{\"title\":\"Revise the timed essay\",\"dueInDays\":8,\"subject\":\"AP Language\"},{\"title\":\"Synthesis prep notes\",\"dueInDays\":15,\"subject\":\"AP Language\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Environmental Science, Week 5 - Water Systems. Reading is chapter 11 and the local watershed report on the class site. Deliverables, the watershed map sketch Tuesday, the water quality data sheet from the field trip Wednesday, a one page reflection on the trip Friday, and the group poster in a week. Permission slips were due last week, see me if yours is still missing.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Watershed map sketch\",\"dueInDays\":2,\"subject\":\"Environmental Science\"},{\"title\":\"Water quality data sheet\",\"dueInDays\":3,\"subject\":\"Environmental Science\"},{\"title\":\"Field trip reflection\",\"dueInDays\":5,\"subject\":\"Environmental Science\"},{\"title\":\"Group poster\",\"dueInDays\":7,\"subject\":\"Environmental Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Psychology Week 4 - Memory. Read chapter 7 pages 188 to 215 and the two case studies at the end. Turn in, the encoding versus retrieval chart Monday, the memory experiment proposal Wednesday, the article summary Thursday, and the chapter 7 study guide Friday. The unit test is the following Thursday. Extra credit reading is posted but it is genuinely optional.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Encoding versus retrieval chart\",\"dueInDays\":1,\"subject\":\"Psychology\"},{\"title\":\"Memory experiment proposal\",\"dueInDays\":3,\"subject\":\"Psychology\"},{\"title\":\"Article summary\",\"dueInDays\":4,\"subject\":\"Psychology\"},{\"title\":\"Chapter 7 study guide\",\"dueInDays\":5,\"subject\":\"Psychology\"},{\"title\":\"Unit test\",\"dueInDays\":11,\"subject\":\"Psychology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Precalculus Week 7 - Trig Identities. Read section 5.1 to 5.4 and copy the identity sheet into your notes. Homework, 5.1 odds due Tuesday, 5.2 odds due Wednesday, the identity proof set due Thursday, and the mixed review due Friday. The quiz on identities is next Tuesday. Late work loses ten percent per day and stops being accepted after a week.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Section 5.1 odd problems\",\"dueInDays\":1,\"subject\":\"Precalculus\"},{\"title\":\"Section 5.2 odd problems\",\"dueInDays\":2,\"subject\":\"Precalculus\"},{\"title\":\"Identity proof set\",\"dueInDays\":3,\"subject\":\"Precalculus\"},{\"title\":\"Mixed review\",\"dueInDays\":4,\"subject\":\"Precalculus\"},{\"title\":\"Identities quiz\",\"dueInDays\":8,\"subject\":\"Precalculus\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "US Government Week 2 - The Constitution. Read articles one through three and the Federalist 51 excerpt in the packet. Assignments, article one questions Tuesday, article two and three questions Wednesday, the separation of powers diagram Thursday, a two paragraph response to Federalist 51 Friday, and the unit one quiz next Monday. Debate teams get posted Wednesday, no action needed yet.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Article one questions\",\"dueInDays\":1,\"subject\":\"US Government\"},{\"title\":\"Article two and three questions\",\"dueInDays\":2,\"subject\":\"US Government\"},{\"title\":\"Separation of powers diagram\",\"dueInDays\":3,\"subject\":\"US Government\"},{\"title\":\"Federalist 51 response\",\"dueInDays\":4,\"subject\":\"US Government\"},{\"title\":\"Unit one quiz\",\"dueInDays\":7,\"subject\":\"US Government\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "French 2, semaine 6 - Le passe compose. Lecture, pages 96 to 108 plus the dialogue transcript. A rendre, the verb chart Tuesday, workbook pages 44 and 45 Wednesday, the recorded dialogue with your partner Thursday, the short composition Friday, and the vocabulary quiz next Wednesday. Bring headphones for the listening lab, the class set keeps disappearing.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Verb chart\",\"dueInDays\":1,\"subject\":\"French 2\"},{\"title\":\"Workbook pages 44 and 45\",\"dueInDays\":2,\"subject\":\"French 2\"},{\"title\":\"Record the partner dialogue\",\"dueInDays\":3,\"subject\":\"French 2\"},{\"title\":\"Short composition\",\"dueInDays\":4,\"subject\":\"French 2\"},{\"title\":\"Vocabulary quiz\",\"dueInDays\":9,\"subject\":\"French 2\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Health Week 3 - Nutrition and Sleep. Read the two handouts and the label reading guide before we start the unit. Turn in, the three day food log Wednesday, the label comparison worksheet Thursday, a sleep tracker covering seven nights next Monday, and the unit reflection next Wednesday. This class does not spot anything, it is general information. Guest speaker Friday, nothing to prepare.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Three day food log\",\"dueInDays\":2,\"subject\":\"Health\"},{\"title\":\"Label comparison worksheet\",\"dueInDays\":3,\"subject\":\"Health\"},{\"title\":\"Seven night sleep tracker\",\"dueInDays\":7,\"subject\":\"Health\"},{\"title\":\"Unit reflection\",\"dueInDays\":9,\"subject\":\"Health\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Computer Science Week 9 - Recursion. Read the recursion chapter and trace the three worked examples before lab. Deliverables, the factorial and fibonacci exercises Tuesday, the tree traversal lab Thursday, the debugging writeup Friday, the recursion project proposal next Tuesday, and the project itself two weeks from Friday. Push everything to your class repo, not email.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Factorial and fibonacci exercises\",\"dueInDays\":1,\"subject\":\"Computer Science\"},{\"title\":\"Tree traversal lab\",\"dueInDays\":3,\"subject\":\"Computer Science\"},{\"title\":\"Debugging writeup\",\"dueInDays\":4,\"subject\":\"Computer Science\"},{\"title\":\"Recursion project proposal\",\"dueInDays\":8,\"subject\":\"Computer Science\"},{\"title\":\"Recursion project\",\"dueInDays\":18,\"subject\":\"Computer Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Economics Week 5 - Supply and Demand. Reading, chapter 4 and the two market articles in the folder. Due, the shift practice worksheet Tuesday, the elasticity problem set Wednesday, a graph analysis of the coffee market Thursday, and the unit quiz Friday. The market simulation runs next Thursday and teams will be assigned then. Grades update Sunday nights, do not ask before then.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Shift practice worksheet\",\"dueInDays\":1,\"subject\":\"Economics\"},{\"title\":\"Elasticity problem set\",\"dueInDays\":2,\"subject\":\"Economics\"},{\"title\":\"Coffee market graph analysis\",\"dueInDays\":3,\"subject\":\"Economics\"},{\"title\":\"Unit quiz\",\"dueInDays\":4,\"subject\":\"Economics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Anatomy and Physiology Week 6 - The Skeletal System. Read chapter 6 and label the diagrams in the workbook as you go. Hand in, bone identification quiz corrections Tuesday, the joint types chart Wednesday, the skeletal labeling packet Thursday, the case study on fractures Friday, and the practical exam review sheet next Monday. The models stay in the classroom, do not take them home.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Bone identification quiz corrections\",\"dueInDays\":1,\"subject\":\"Anatomy and Physiology\"},{\"title\":\"Joint types chart\",\"dueInDays\":2,\"subject\":\"Anatomy and Physiology\"},{\"title\":\"Skeletal labeling packet\",\"dueInDays\":3,\"subject\":\"Anatomy and Physiology\"},{\"title\":\"Fracture case study\",\"dueInDays\":4,\"subject\":\"Anatomy and Physiology\"},{\"title\":\"Practical exam review sheet\",\"dueInDays\":7,\"subject\":\"Anatomy and Physiology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Statistics Week 8 - Sampling Distributions. Read sections 9.1 and 9.2 and skim the simulation appendix. Assignments, the sampling activity writeup Tuesday, problem set 9A Thursday, the applet exploration Friday, problem set 9B next Tuesday, and the chapter 9 quiz next Thursday. Formula sheets are allowed on quizzes but the applet is not, for reasons that should be obvious.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Sampling activity writeup\",\"dueInDays\":1,\"subject\":\"Statistics\"},{\"title\":\"Problem set 9A\",\"dueInDays\":3,\"subject\":\"Statistics\"},{\"title\":\"Applet exploration\",\"dueInDays\":4,\"subject\":\"Statistics\"},{\"title\":\"Problem set 9B\",\"dueInDays\":8,\"subject\":\"Statistics\"},{\"title\":\"Chapter 9 quiz\",\"dueInDays\":10,\"subject\":\"Statistics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Art History Week 4 - The Renaissance. Reading, the chapter on Florence and the two artist biographies in the course pack. Due, the visual analysis of one Botticelli work Monday, the timeline activity Tuesday, the museum visit reflection Thursday, and the slide identification quiz Friday. Museum passes are in the front office and they do not expire, so grab one whenever.",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Botticelli visual analysis\",\"dueInDays\":2,\"subject\":\"Art History\"},{\"title\":\"Timeline activity\",\"dueInDays\":3,\"subject\":\"Art History\"},{\"title\":\"Museum visit reflection\",\"dueInDays\":5,\"subject\":\"Art History\"},{\"title\":\"Slide identification quiz\",\"dueInDays\":6,\"subject\":\"Art History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Marine Biology Week 7 - Coral Reefs. Read chapter 12 and the bleaching article posted online. Turn in, the reef zonation diagram Monday, the symbiosis chart Wednesday, the bleaching article response Thursday, the tank observation log Friday, and the reef conservation poster the following Wednesday. The feeding schedule for the tanks is on the door, sign up if you want.",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Reef zonation diagram\",\"dueInDays\":2,\"subject\":\"Marine Biology\"},{\"title\":\"Symbiosis chart\",\"dueInDays\":4,\"subject\":\"Marine Biology\"},{\"title\":\"Bleaching article response\",\"dueInDays\":5,\"subject\":\"Marine Biology\"},{\"title\":\"Tank observation log\",\"dueInDays\":6,\"subject\":\"Marine Biology\"},{\"title\":\"Reef conservation poster\",\"dueInDays\":11,\"subject\":\"Marine Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Journalism Week 10 - Interviews. Read the interview ethics handout and the two profile pieces in the sample folder. Deliverables, a list of ten interview questions Monday, the recorded practice interview Tuesday, your source list Wednesday, the profile draft Friday, and the edited profile the following Wednesday. Layout night is Thursday, pizza provided, attendance is optional.",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"List of ten interview questions\",\"dueInDays\":2,\"subject\":\"Journalism\"},{\"title\":\"Recorded practice interview\",\"dueInDays\":3,\"subject\":\"Journalism\"},{\"title\":\"Source list\",\"dueInDays\":4,\"subject\":\"Journalism\"},{\"title\":\"Profile draft\",\"dueInDays\":6,\"subject\":\"Journalism\"},{\"title\":\"Edited profile\",\"dueInDays\":11,\"subject\":\"Journalism\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Music Theory Week 6 - Seventh Chords. Read the chapter on seventh chord qualities and review the figured bass table. Assignments, the chord spelling worksheet Monday, the ear training log Tuesday, the part writing exercise Thursday, the analysis of the Bach chorale Friday, and the sight singing check the following Tuesday. Practice rooms are open at lunch, first come first served.",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Chord spelling worksheet\",\"dueInDays\":2,\"subject\":\"Music Theory\"},{\"title\":\"Ear training log\",\"dueInDays\":3,\"subject\":\"Music Theory\"},{\"title\":\"Part writing exercise\",\"dueInDays\":5,\"subject\":\"Music Theory\"},{\"title\":\"Bach chorale analysis\",\"dueInDays\":6,\"subject\":\"Music Theory\"},{\"title\":\"Sight singing check\",\"dueInDays\":10,\"subject\":\"Music Theory\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Happy Friday everyone. A few things before you disappear for the weekend. The vocabulary quiz corrections are due Tuesday, the chapter 9 reading response is due Wednesday, and the peer review draft needs to be printed and brought to class Thursday. There is no class Monday for the holiday. Office hours moved to Thursday morning. Grades post Sunday night as usual.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Vocabulary quiz corrections\",\"dueInDays\":4},{\"title\":\"Chapter 9 reading response\",\"dueInDays\":5},{\"title\":\"Print the peer review draft\",\"dueInDays\":6}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "End of week note from Chemistry. Great job on the titration lab today. Still outstanding, the lab writeup which I moved to Monday, the section 6.3 problems due Tuesday, and the unit 6 vocabulary due Wednesday. The unit test is a week from Monday. There is no tutoring Thursday because of the faculty meeting. Retakes are capped at 85 percent, that is a department rule.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Titration lab writeup\",\"dueInDays\":3,\"subject\":\"Chemistry\"},{\"title\":\"Section 6.3 problems\",\"dueInDays\":4,\"subject\":\"Chemistry\"},{\"title\":\"Unit 6 vocabulary\",\"dueInDays\":5,\"subject\":\"Chemistry\"},{\"title\":\"Unit 6 test\",\"dueInDays\":10,\"subject\":\"Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Friday update for Algebra 1. We finished chapter 5 today and it went better than I expected. Homework for the weekend is the chapter 5 review, due Monday. The chapter 5 test is Wednesday. If you want the retake on the chapter 4 test you need to turn in the correction sheet by Tuesday. I am at the game Saturday so email replies will be slow. Progress reports go home later.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Chapter 5 review\",\"dueInDays\":3,\"subject\":\"Algebra 1\"},{\"title\":\"Chapter 5 test\",\"dueInDays\":5,\"subject\":\"Algebra 1\"},{\"title\":\"Chapter 4 correction sheet\",\"dueInDays\":4,\"subject\":\"Algebra 1\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Wrapping up the week in World History. The Renaissance reading guide is due Monday. Your museum artifact writeup is due Wednesday. Group roles for the debate need to be submitted by Thursday, one form per group. The debate itself is the following Monday. Remember that late work in this class caps at 70 percent. No class the Monday after next, we are out on the field trip.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Renaissance reading guide\",\"dueInDays\":3,\"subject\":\"World History\"},{\"title\":\"Museum artifact writeup\",\"dueInDays\":5,\"subject\":\"World History\"},{\"title\":\"Debate group roles form\",\"dueInDays\":6,\"subject\":\"World History\"},{\"title\":\"Class debate\",\"dueInDays\":10,\"subject\":\"World History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Buenas tardes. Quick end of week roundup for Spanish 2. The verb conjugation packet is due Monday. The cultural presentation outline is due Tuesday. Listening practice number 4 is due Wednesday and the vocabulary quiz is Thursday. I am out Friday at a conference so a sub will be here, please be kind. Reminder that the department does not round grades at the end of the quarter.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Verb conjugation packet\",\"dueInDays\":3,\"subject\":\"Spanish 2\"},{\"title\":\"Cultural presentation outline\",\"dueInDays\":4,\"subject\":\"Spanish 2\"},{\"title\":\"Listening practice 4\",\"dueInDays\":5,\"subject\":\"Spanish 2\"},{\"title\":\"Vocabulary quiz\",\"dueInDays\":6,\"subject\":\"Spanish 2\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Friday notes for Biology. Nice work on the microscope stations this week. Due Monday, the cell organelle chart. Due Tuesday, the lab safety recertification quiz. Due Wednesday, the reading questions for chapter 4. Due Friday, the photosynthesis concept map. The unit test is two weeks from Friday. Tutoring is Tuesday and Thursday at lunch, drop in, no sign up needed.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Cell organelle chart\",\"dueInDays\":3,\"subject\":\"Biology\"},{\"title\":\"Lab safety recertification quiz\",\"dueInDays\":4,\"subject\":\"Biology\"},{\"title\":\"Chapter 4 reading questions\",\"dueInDays\":5,\"subject\":\"Biology\"},{\"title\":\"Photosynthesis concept map\",\"dueInDays\":7,\"subject\":\"Biology\"},{\"title\":\"Unit test\",\"dueInDays\":21,\"subject\":\"Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Advisory email for the week. Course selection forms are due Tuesday and you need a parent signature first. The community service log for this quarter is due Wednesday. Club fair sign ups close Thursday. Picture retakes already happened and the makeup list is closed. The counseling office is open at lunch every day if you want to talk through schedules. Have a good weekend.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Course selection form\",\"dueInDays\":4},{\"title\":\"Community service log\",\"dueInDays\":5},{\"title\":\"Club fair sign up\",\"dueInDays\":6}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Studio Art end of week. Your value scale study is due Monday. The still life underpainting should be photographed and uploaded Tuesday. Sketchbook check is Wednesday and I want ten pages minimum. The artist statement draft is due the following Monday. Please clean your brushes, the sinks were a disaster today. Gallery night is later this semester, more details will follow.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Value scale study\",\"dueInDays\":3,\"subject\":\"Studio Art\"},{\"title\":\"Upload the underpainting photo\",\"dueInDays\":4,\"subject\":\"Studio Art\"},{\"title\":\"Sketchbook check\",\"dueInDays\":5,\"subject\":\"Studio Art\"},{\"title\":\"Artist statement draft\",\"dueInDays\":10,\"subject\":\"Studio Art\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Thursday check in for Geometry. Tomorrow's quiz covers 6.1 and 6.2 only, nothing else. After that, the chapter 6 problem set is due Monday, the proof portfolio entry is due Tuesday, and the constructions lab is due Wednesday. I will not be here tomorrow, the sub has the quiz. Reminder that phones live in the pocket chart during any assessment, no exceptions.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Quiz on 6.1 and 6.2\",\"dueInDays\":1,\"subject\":\"Geometry\"},{\"title\":\"Chapter 6 problem set\",\"dueInDays\":4,\"subject\":\"Geometry\"},{\"title\":\"Proof portfolio entry\",\"dueInDays\":5,\"subject\":\"Geometry\"},{\"title\":\"Constructions lab\",\"dueInDays\":6,\"subject\":\"Geometry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Hi all, end of week update a day early since I am out tomorrow. The annotated bibliography is due Monday. The thesis statement workshop draft is due Tuesday, bring two copies. Your independent reading log is due Wednesday. The literary analysis essay is due the following Monday. My office hours are Tuesday and Thursday after school in room 208. No class Friday, use it well.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Annotated bibliography\",\"dueInDays\":4,\"subject\":\"English\"},{\"title\":\"Thesis statement workshop draft\",\"dueInDays\":5,\"subject\":\"English\"},{\"title\":\"Independent reading log\",\"dueInDays\":6,\"subject\":\"English\"},{\"title\":\"Literary analysis essay\",\"dueInDays\":11,\"subject\":\"English\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Physics families and students, here is the weekly note. The pendulum lab data is due tomorrow. The lab report itself is due Monday. Problem set 7 is due Tuesday and the concept quiz is Wednesday. The unit exam is next Friday and review sheets go out Monday. There is no lab next Thursday because of the assembly schedule. Grades in the portal update every Sunday evening, not daily.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Pendulum lab data\",\"dueInDays\":1,\"subject\":\"Physics\"},{\"title\":\"Pendulum lab report\",\"dueInDays\":4,\"subject\":\"Physics\"},{\"title\":\"Problem set 7\",\"dueInDays\":5,\"subject\":\"Physics\"},{\"title\":\"Concept quiz\",\"dueInDays\":6,\"subject\":\"Physics\"},{\"title\":\"Unit exam\",\"dueInDays\":8,\"subject\":\"Physics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Weekly wrap for Civics. We finished the amendments today. Due Monday, the bill of rights scenarios worksheet. Due Tuesday, your current events article and summary. Due Thursday, the mock trial role prep sheet. The mock trial itself runs the following Monday. I am chaperoning the trip tomorrow so email will be slow. Extra credit is not a thing in this class, please stop asking.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Bill of rights scenarios worksheet\",\"dueInDays\":4,\"subject\":\"Civics\"},{\"title\":\"Current events article and summary\",\"dueInDays\":5,\"subject\":\"Civics\"},{\"title\":\"Mock trial role prep sheet\",\"dueInDays\":7,\"subject\":\"Civics\"},{\"title\":\"Mock trial\",\"dueInDays\":11,\"subject\":\"Civics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Band update for the week. Rehearsal tomorrow has a call time of 3 o'clock sharp. The scale check off sheet is due Monday. Your practice log for the week is due Tuesday. Uniform fitting forms are due Wednesday and parents have to sign them. The festival music should be memorized by next Friday. Boosters meet Tuesday night, students do not need to attend that one.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Rehearsal\",\"dueInDays\":1,\"subject\":\"Band\"},{\"title\":\"Scale check off sheet\",\"dueInDays\":4,\"subject\":\"Band\"},{\"title\":\"Practice log\",\"dueInDays\":5,\"subject\":\"Band\"},{\"title\":\"Signed uniform fitting form\",\"dueInDays\":6,\"subject\":\"Band\"},{\"title\":\"Memorize the festival music\",\"dueInDays\":8,\"subject\":\"Band\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Chemistry weekly note. The gas laws worksheet is due tomorrow and there are no extensions on it. The lab practical is Monday, bring a calculator. The chapter 11 questions are due Tuesday. Your unit reflection is due Wednesday and the makeup test window closes next Friday. I am adding a review session Wednesday at lunch, optional. Stop leaving water bottles in the fume hood.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Gas laws worksheet\",\"dueInDays\":1,\"subject\":\"Chemistry\"},{\"title\":\"Lab practical\",\"dueInDays\":4,\"subject\":\"Chemistry\"},{\"title\":\"Chapter 11 questions\",\"dueInDays\":5,\"subject\":\"Chemistry\"},{\"title\":\"Unit reflection\",\"dueInDays\":6,\"subject\":\"Chemistry\"},{\"title\":\"Makeup test\",\"dueInDays\":8,\"subject\":\"Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Photography end of week. Your contact sheet for roll two is due tomorrow. Prints from roll two are due Monday. The photographer research slide is due Tuesday. The darkroom safety quiz is Wednesday. Final portfolio selections are due the following Wednesday. Darkroom hours are posted, sign the log every time you go in. Chemicals get changed Monday morning so do not come before lunch.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Contact sheet for roll two\",\"dueInDays\":1,\"subject\":\"Photography\"},{\"title\":\"Prints from roll two\",\"dueInDays\":4,\"subject\":\"Photography\"},{\"title\":\"Photographer research slide\",\"dueInDays\":5,\"subject\":\"Photography\"},{\"title\":\"Darkroom safety quiz\",\"dueInDays\":6,\"subject\":\"Photography\"},{\"title\":\"Final portfolio selections\",\"dueInDays\":13,\"subject\":\"Photography\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Thursday note for Spanish 1. The numbers and colors quiz is tomorrow. The family tree project is due Monday and it can be a poster or slides, your choice. The dialogue writeup is due Tuesday. Vocabulary set 5 flashcards are due Wednesday. The oral interview is next Thursday. Cultural night is Friday evening, families are welcome and there is nothing due for it.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Numbers and colors quiz\",\"dueInDays\":1,\"subject\":\"Spanish 1\"},{\"title\":\"Family tree project\",\"dueInDays\":4,\"subject\":\"Spanish 1\"},{\"title\":\"Dialogue writeup\",\"dueInDays\":5,\"subject\":\"Spanish 1\"},{\"title\":\"Vocabulary set 5 flashcards\",\"dueInDays\":6,\"subject\":\"Spanish 1\"},{\"title\":\"Oral interview\",\"dueInDays\":7,\"subject\":\"Spanish 1\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Midweek update for Algebra 2. Today's classwork on logarithms is due tomorrow if you did not finish it in class. The log properties worksheet is due Friday. The chapter 7 quiz is Monday. The review packet is due Tuesday and the chapter 7 test is Wednesday. I will not accept work through email, hand it to me. Tutoring is Thursday morning at 7 30 in room 212.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Logarithms classwork\",\"dueInDays\":1,\"subject\":\"Algebra 2\"},{\"title\":\"Log properties worksheet\",\"dueInDays\":2,\"subject\":\"Algebra 2\"},{\"title\":\"Chapter 7 quiz\",\"dueInDays\":5,\"subject\":\"Algebra 2\"},{\"title\":\"Chapter 7 review packet\",\"dueInDays\":6,\"subject\":\"Algebra 2\"},{\"title\":\"Chapter 7 test\",\"dueInDays\":7,\"subject\":\"Algebra 2\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Quick midweek email. The poetry annotation set is due Friday. Your sonnet draft is due Monday. Peer review happens in class Tuesday so bring a printed copy with you. The final sonnet is due the following Friday. I am still grading the last essays and they will be back by the end of next week. Please do not email asking where they are, it does not speed anything up.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Poetry annotation set\",\"dueInDays\":2,\"subject\":\"English\"},{\"title\":\"Sonnet draft\",\"dueInDays\":5,\"subject\":\"English\"},{\"title\":\"Print a copy for peer review\",\"dueInDays\":6,\"subject\":\"English\"},{\"title\":\"Final sonnet\",\"dueInDays\":9,\"subject\":\"English\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Wednesday note from Earth Science. The rock cycle diagram is due Friday. The mineral identification lab writeup is due Monday. The plate tectonics reading questions are due Tuesday. Your unit study guide is due Wednesday and the unit test is the following Thursday. I have lunch duty on Fridays now so come Tuesday or Thursday if you need help. Field trip forms are already all in, thank you.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Rock cycle diagram\",\"dueInDays\":2,\"subject\":\"Earth Science\"},{\"title\":\"Mineral identification lab writeup\",\"dueInDays\":5,\"subject\":\"Earth Science\"},{\"title\":\"Plate tectonics reading questions\",\"dueInDays\":6,\"subject\":\"Earth Science\"},{\"title\":\"Unit study guide\",\"dueInDays\":7,\"subject\":\"Earth Science\"},{\"title\":\"Unit test\",\"dueInDays\":8,\"subject\":\"Earth Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Midweek note for PE and Health. The fitness log for this week is due Friday. The nutrition worksheet is due Monday. Your written test on the rules of volleyball is Tuesday. The partner workout plan is due Wednesday. Lockers get cleaned out at the end of the month so take your stuff home. Uniform sales are cash only and the front office cannot make change for you.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Fitness log\",\"dueInDays\":2,\"subject\":\"PE\"},{\"title\":\"Nutrition worksheet\",\"dueInDays\":5,\"subject\":\"PE\"},{\"title\":\"Volleyball rules written test\",\"dueInDays\":6,\"subject\":\"PE\"},{\"title\":\"Partner workout plan\",\"dueInDays\":7,\"subject\":\"PE\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Robotics midweek update. The drivetrain CAD file is due Friday. The wiring diagram is due Monday. Your build journal entries for the week are due Tuesday. The scrimmage is Saturday and the pit crew list goes up tomorrow. The competition registration form is due next Friday and I need every one of them before then. Shop safety training has to be redone by anyone who missed it.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Drivetrain CAD file\",\"dueInDays\":2,\"subject\":\"Robotics\"},{\"title\":\"Wiring diagram\",\"dueInDays\":5,\"subject\":\"Robotics\"},{\"title\":\"Build journal entries\",\"dueInDays\":6,\"subject\":\"Robotics\"},{\"title\":\"Scrimmage\",\"dueInDays\":3,\"subject\":\"Robotics\"},{\"title\":\"Competition registration form\",\"dueInDays\":9,\"subject\":\"Robotics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Theater note. Memorize your act one lines by Friday because we go off book then. Costume measurements are due Monday. The character analysis paper is due Tuesday. Tech rehearsal is Thursday and everyone is called for it. Opening night is two weeks from Friday. The booster meeting Monday night is for parents only. Do not move the set pieces, the shop teacher has opinions.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Memorize act one lines\",\"dueInDays\":2,\"subject\":\"Theater\"},{\"title\":\"Costume measurements\",\"dueInDays\":5,\"subject\":\"Theater\"},{\"title\":\"Character analysis paper\",\"dueInDays\":6,\"subject\":\"Theater\"},{\"title\":\"Tech rehearsal\",\"dueInDays\":1,\"subject\":\"Theater\"},{\"title\":\"Opening night\",\"dueInDays\":16,\"subject\":\"Theater\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "ok wrote this down before i forget. for chem we have the naming worksheet due tomorrow, the polyatomic ion quiz Wednesday, and the lab writeup Friday. for english there is the chapter 4 reading due Tuesday, the vocab quiz Thursday, and the essay outline due next Monday. also i think there was something about a permission slip but i lost the paper so whatever.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Naming worksheet\",\"dueInDays\":1,\"subject\":\"Chemistry\"},{\"title\":\"Polyatomic ion quiz\",\"dueInDays\":2,\"subject\":\"Chemistry\"},{\"title\":\"Lab writeup\",\"dueInDays\":4,\"subject\":\"Chemistry\"},{\"title\":\"Chapter 4 reading\",\"dueInDays\":1,\"subject\":\"English\"},{\"title\":\"Vocab quiz\",\"dueInDays\":3,\"subject\":\"English\"},{\"title\":\"Essay outline\",\"dueInDays\":7,\"subject\":\"English\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Notes from the block schedule announcement. For biology, the ecosystem poster is due Wednesday, the food web worksheet is due Thursday, and the field notebook check is Friday. For US history, the chapter 9 outline is due Tuesday and the primary source packet is due Thursday. Both teachers said no late work this week because grades close soon. Nothing else was mentioned.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Ecosystem poster\",\"dueInDays\":2,\"subject\":\"Biology\"},{\"title\":\"Food web worksheet\",\"dueInDays\":3,\"subject\":\"Biology\"},{\"title\":\"Field notebook check\",\"dueInDays\":4,\"subject\":\"Biology\"},{\"title\":\"Chapter 9 outline\",\"dueInDays\":1,\"subject\":\"US History\"},{\"title\":\"Primary source packet\",\"dueInDays\":3,\"subject\":\"US History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "sub plans for today, two classes worth. for geometry do the 8.1 practice problems, due Wednesday, and the chapter 8 vocabulary, due Friday. for spanish finish the listening worksheet, due Tuesday, and record the pronunciation practice, due Thursday. the geometry quiz that was supposed to be Friday moved to next Monday. do not lose the sub packets please, she counts them.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Section 8.1 practice problems\",\"dueInDays\":2,\"subject\":\"Geometry\"},{\"title\":\"Chapter 8 vocabulary\",\"dueInDays\":4,\"subject\":\"Geometry\"},{\"title\":\"Listening worksheet\",\"dueInDays\":1,\"subject\":\"Spanish\"},{\"title\":\"Record the pronunciation practice\",\"dueInDays\":3,\"subject\":\"Spanish\"},{\"title\":\"Geometry quiz\",\"dueInDays\":7,\"subject\":\"Geometry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "From the group chat, combining what everyone said. For AP Bio the enzyme lab report is due Wednesday and the chapter 6 questions are due Friday. For AP Calc the derivative practice set is due Tuesday, the related rates worksheet is due Thursday, and the unit 3 test is next Wednesday. Somebody said there is a review session but nobody knew when, so ignore that part.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Enzyme lab report\",\"dueInDays\":2,\"subject\":\"AP Biology\"},{\"title\":\"Chapter 6 questions\",\"dueInDays\":4,\"subject\":\"AP Biology\"},{\"title\":\"Derivative practice set\",\"dueInDays\":1,\"subject\":\"AP Calculus\"},{\"title\":\"Related rates worksheet\",\"dueInDays\":3,\"subject\":\"AP Calculus\"},{\"title\":\"Unit 3 test\",\"dueInDays\":9,\"subject\":\"AP Calculus\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Two classes to keep straight this week. For journalism the story pitch is due Tuesday, interview notes are due Thursday, and the first draft is due next Monday. For economics the supply curve worksheet is due Wednesday and the market report is due Friday. Journalism is meeting in the lab all week instead of the usual room, so do not stand outside the wrong door.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Story pitch\",\"dueInDays\":1,\"subject\":\"Journalism\"},{\"title\":\"Interview notes\",\"dueInDays\":3,\"subject\":\"Journalism\"},{\"title\":\"First draft\",\"dueInDays\":7,\"subject\":\"Journalism\"},{\"title\":\"Supply curve worksheet\",\"dueInDays\":2,\"subject\":\"Economics\"},{\"title\":\"Market report\",\"dueInDays\":4,\"subject\":\"Economics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Reminder text from my study group. for physics we owe the free body diagram set on Tuesday and the friction lab data on Thursday. for world lit we owe the reading response on Wednesday, the discussion questions on Friday, and the comparative essay next Tuesday. the physics teacher said the test date is not set yet so do not put one in your calendar for now.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Free body diagram set\",\"dueInDays\":1,\"subject\":\"Physics\"},{\"title\":\"Friction lab data\",\"dueInDays\":3,\"subject\":\"Physics\"},{\"title\":\"Reading response\",\"dueInDays\":2,\"subject\":\"World Literature\"},{\"title\":\"Discussion questions\",\"dueInDays\":4,\"subject\":\"World Literature\"},{\"title\":\"Comparative essay\",\"dueInDays\":8,\"subject\":\"World Literature\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "copying this off the board for two classes. for algebra the systems worksheet is due tomorrow, the word problems set is due Thursday, and the quiz is Friday. for health the stress management reflection is due Wednesday and the poster project is due next Tuesday. he said the algebra quiz is open notes but the notes have to be handwritten, not printed off somebody else.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Systems worksheet\",\"dueInDays\":1,\"subject\":\"Algebra\"},{\"title\":\"Word problems set\",\"dueInDays\":2,\"subject\":\"Algebra\"},{\"title\":\"Algebra quiz\",\"dueInDays\":3,\"subject\":\"Algebra\"},{\"title\":\"Stress management reflection\",\"dueInDays\":1,\"subject\":\"Health\"},{\"title\":\"Poster project\",\"dueInDays\":7,\"subject\":\"Health\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Two class update from advisory. For chemistry the electron configuration practice is due Thursday, the periodic trends worksheet is due Friday, and the unit quiz is next Monday. For English the poem analysis is due Wednesday and the memorized recitation is next Wednesday. There is an assembly Friday during fourth period so chemistry might get pushed, we will see.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Electron configuration practice\",\"dueInDays\":2,\"subject\":\"Chemistry\"},{\"title\":\"Periodic trends worksheet\",\"dueInDays\":3,\"subject\":\"Chemistry\"},{\"title\":\"Unit quiz\",\"dueInDays\":6,\"subject\":\"Chemistry\"},{\"title\":\"Poem analysis\",\"dueInDays\":1,\"subject\":\"English\"},{\"title\":\"Memorized recitation\",\"dueInDays\":8,\"subject\":\"English\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "for ap psych the research methods notes are due tomorrow and the study design proposal is due Friday. for statistics the histogram worksheet is due Thursday, the data collection sheet is due Friday, and the chapter quiz is next Thursday. both classes are in the same wing now so I keep walking into the wrong one. no reading over the long weekend either teacher said.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Research methods notes\",\"dueInDays\":1,\"subject\":\"AP Psychology\"},{\"title\":\"Study design proposal\",\"dueInDays\":3,\"subject\":\"AP Psychology\"},{\"title\":\"Histogram worksheet\",\"dueInDays\":2,\"subject\":\"Statistics\"},{\"title\":\"Data collection sheet\",\"dueInDays\":3,\"subject\":\"Statistics\"},{\"title\":\"Chapter quiz\",\"dueInDays\":9,\"subject\":\"Statistics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Note to self for two classes. For art the thumbnail sketches are due Wednesday, the color study is due Friday, and the final piece is due next Friday. For government the branches chart is due Thursday and the current events summary is due Monday. Art class is going to the gallery Thursday but there is nothing to prepare for it, just show up on time for the bus.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Thumbnail sketches\",\"dueInDays\":1,\"subject\":\"Art\"},{\"title\":\"Color study\",\"dueInDays\":3,\"subject\":\"Art\"},{\"title\":\"Final piece\",\"dueInDays\":10,\"subject\":\"Art\"},{\"title\":\"Branches chart\",\"dueInDays\":2,\"subject\":\"Government\"},{\"title\":\"Current events summary\",\"dueInDays\":6,\"subject\":\"Government\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Got two syllabi handed back today. For music theory the interval drills are due Thursday and the composition sketch is due next Monday. For Spanish 4 the reading questions are due Wednesday, the essay draft is due Friday, and the oral presentation is next Wednesday. Music theory is dropping the lowest quiz grade this quarter, which is the only good news in here.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Interval drills\",\"dueInDays\":2,\"subject\":\"Music Theory\"},{\"title\":\"Composition sketch\",\"dueInDays\":6,\"subject\":\"Music Theory\"},{\"title\":\"Reading questions\",\"dueInDays\":1,\"subject\":\"Spanish 4\"},{\"title\":\"Essay draft\",\"dueInDays\":3,\"subject\":\"Spanish 4\"},{\"title\":\"Oral presentation\",\"dueInDays\":8,\"subject\":\"Spanish 4\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "For computer science the loops assignment is due Wednesday, the arrays lab is due Friday, and the project checkpoint is next Tuesday. For world history the map quiz is Thursday and the empire comparison chart is due Monday. The CS teacher is out Thursday but the lab is still due, submit it online. History has a guest lecturer Friday, attendance counts but nothing is due.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Loops assignment\",\"dueInDays\":1,\"subject\":\"Computer Science\"},{\"title\":\"Arrays lab\",\"dueInDays\":3,\"subject\":\"Computer Science\"},{\"title\":\"Project checkpoint\",\"dueInDays\":7,\"subject\":\"Computer Science\"},{\"title\":\"Map quiz\",\"dueInDays\":2,\"subject\":\"World History\"},{\"title\":\"Empire comparison chart\",\"dueInDays\":6,\"subject\":\"World History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Two classes, writing it down so I stop forgetting them. For anatomy the muscle labeling sheet is due Friday, the case study is due Monday, and the practical is next Wednesday. For French the verb quiz is Thursday and the culture project outline is due Tuesday. Anatomy is moving to the lab room permanently starting next week, nothing to do about that, just walk there.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Muscle labeling sheet\",\"dueInDays\":2,\"subject\":\"Anatomy\"},{\"title\":\"Case study\",\"dueInDays\":5,\"subject\":\"Anatomy\"},{\"title\":\"Practical exam\",\"dueInDays\":7,\"subject\":\"Anatomy\"},{\"title\":\"Verb quiz\",\"dueInDays\":1,\"subject\":\"French\"},{\"title\":\"Culture project outline\",\"dueInDays\":6,\"subject\":\"French\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "for photography the shot list is due Friday, the contact sheet is due Monday, and the print critique is next Thursday. for economics the budget project is due Tuesday and the article response is due Wednesday. photo lab is closed this weekend for maintenance so plan around it. econ is doing a curve on the last test which is why nobody is complaining anymore.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Shot list\",\"dueInDays\":2,\"subject\":\"Photography\"},{\"title\":\"Contact sheet\",\"dueInDays\":5,\"subject\":\"Photography\"},{\"title\":\"Print critique\",\"dueInDays\":8,\"subject\":\"Photography\"},{\"title\":\"Budget project\",\"dueInDays\":6,\"subject\":\"Economics\"},{\"title\":\"Article response\",\"dueInDays\":7,\"subject\":\"Economics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Combined homework from two teachers. For AP Lit the close reading annotation is due Thursday, the discussion post is due Friday, and the essay is due Monday. For environmental science the energy audit worksheet is due Friday and the sustainability proposal is due next Wednesday. AP Lit has no class Friday because of testing, but the discussion post is still due online.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Close reading annotation\",\"dueInDays\":1,\"subject\":\"AP Literature\"},{\"title\":\"Discussion post\",\"dueInDays\":2,\"subject\":\"AP Literature\"},{\"title\":\"Essay\",\"dueInDays\":5,\"subject\":\"AP Literature\"},{\"title\":\"Energy audit worksheet\",\"dueInDays\":2,\"subject\":\"Environmental Science\"},{\"title\":\"Sustainability proposal\",\"dueInDays\":7,\"subject\":\"Environmental Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Two class rundown. For precalc the unit circle quiz is Friday, the trig applications worksheet is due Monday, and the chapter test is next Thursday. For US history the reading guide is due Thursday and the essay outline is due Tuesday. Precalc is allowing one note card on the chapter test. History moved office hours to Wednesday mornings, which is now, so that helps nobody.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Unit circle quiz\",\"dueInDays\":2,\"subject\":\"Precalculus\"},{\"title\":\"Trig applications worksheet\",\"dueInDays\":5,\"subject\":\"Precalculus\"},{\"title\":\"Chapter test\",\"dueInDays\":8,\"subject\":\"Precalculus\"},{\"title\":\"Reading guide\",\"dueInDays\":1,\"subject\":\"US History\"},{\"title\":\"Essay outline\",\"dueInDays\":6,\"subject\":\"US History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Unit 5 calendar, posted on the class page and on the door. Mon - intro notes, nothing due. Tue - naming practice due. Wed - lab day, the prelab is due at the door. Thu - worksheet 5.2 due. Fri - quiz on naming and formulas. The following Mon - unit 5 review packet due. The following Wed - unit 5 test. Bring your calculator every day. Absences do not move the test date.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Naming practice\",\"dueInDays\":2,\"subject\":\"Chemistry\"},{\"title\":\"Lab prelab\",\"dueInDays\":3,\"subject\":\"Chemistry\"},{\"title\":\"Worksheet 5.2\",\"dueInDays\":4,\"subject\":\"Chemistry\"},{\"title\":\"Quiz on naming and formulas\",\"dueInDays\":5,\"subject\":\"Chemistry\"},{\"title\":\"Unit 5 review packet\",\"dueInDays\":8,\"subject\":\"Chemistry\"},{\"title\":\"Unit 5 test\",\"dueInDays\":10,\"subject\":\"Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Unit calendar for the novel, week one. Mon - chapters 1 to 3 read. Tue - character chart due. Wed - discussion, nothing to turn in. Thu - chapters 4 to 7 read. Fri - reading quiz on chapters 1 to 7. The following Tue - theme paragraph due. The following Thu - chapters 8 to 12 read. Annotations are checked at random, so keep up with them all week.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Read chapters 1 to 3\",\"dueInDays\":1,\"subject\":\"English\"},{\"title\":\"Character chart\",\"dueInDays\":2,\"subject\":\"English\"},{\"title\":\"Read chapters 4 to 7\",\"dueInDays\":4,\"subject\":\"English\"},{\"title\":\"Reading quiz on chapters 1 to 7\",\"dueInDays\":5,\"subject\":\"English\"},{\"title\":\"Theme paragraph\",\"dueInDays\":9,\"subject\":\"English\"},{\"title\":\"Read chapters 8 to 12\",\"dueInDays\":11,\"subject\":\"English\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Chapter 9 calendar. Mon - 9.1 notes and practice due. Tue - 9.2 notes, homework due. Wed - quiz on 9.1 and 9.2. Thu - 9.3 notes, worksheet due. Fri - review day, the review packet is due at the end of class. The following Tue - chapter 9 test. There is no homework the night of the test. Compasses are in the bin, count them back in before you leave.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Section 9.1 practice\",\"dueInDays\":1,\"subject\":\"Geometry\"},{\"title\":\"Section 9.2 homework\",\"dueInDays\":2,\"subject\":\"Geometry\"},{\"title\":\"Quiz on 9.1 and 9.2\",\"dueInDays\":3,\"subject\":\"Geometry\"},{\"title\":\"Section 9.3 worksheet\",\"dueInDays\":4,\"subject\":\"Geometry\"},{\"title\":\"Review packet\",\"dueInDays\":5,\"subject\":\"Geometry\"},{\"title\":\"Chapter 9 test\",\"dueInDays\":9,\"subject\":\"Geometry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Unit 4 calendar. Mon - Progressive Era reading due. Tue - political cartoon analysis due. Wed - documentary, viewing guide due at the end. Thu - muckraker research notes due. Fri - no class, teacher inservice day. The following Mon - unit 4 essay due. The following Wed - unit 4 test. Study guides are posted now, not the night before, so please use them.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Progressive Era reading\",\"dueInDays\":1,\"subject\":\"US History\"},{\"title\":\"Political cartoon analysis\",\"dueInDays\":2,\"subject\":\"US History\"},{\"title\":\"Documentary viewing guide\",\"dueInDays\":3,\"subject\":\"US History\"},{\"title\":\"Muckraker research notes\",\"dueInDays\":4,\"subject\":\"US History\"},{\"title\":\"Unit 4 essay\",\"dueInDays\":8,\"subject\":\"US History\"},{\"title\":\"Unit 4 test\",\"dueInDays\":10,\"subject\":\"US History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Genetics unit calendar. Mon - Punnett square practice due. Tue - pedigree worksheet due. Wed - lab on corn genetics, data sheet due at the end. Thu - probability problems due. Fri - vocabulary quiz. The following Mon - genetics project proposal due. Late passes do not work on lab days because the lab is gone. Safety contracts are already signed and filed.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Punnett square practice\",\"dueInDays\":1,\"subject\":\"Biology\"},{\"title\":\"Pedigree worksheet\",\"dueInDays\":2,\"subject\":\"Biology\"},{\"title\":\"Corn genetics data sheet\",\"dueInDays\":3,\"subject\":\"Biology\"},{\"title\":\"Probability problems\",\"dueInDays\":4,\"subject\":\"Biology\"},{\"title\":\"Vocabulary quiz\",\"dueInDays\":5,\"subject\":\"Biology\"},{\"title\":\"Genetics project proposal\",\"dueInDays\":8,\"subject\":\"Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Calendario de la unidad 3. Mon - vocabulario 3.1 due. Tue - workbook pages 60 to 62 due. Wed - listening activity due. Thu - partner skit performed in class. Fri - unit vocabulary quiz. The following Monday - written composition due. Todo en espanol por favor. Diccionarios stay in the room. Nothing gets accepted through email in this class, hand it to me.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Vocabulario 3.1\",\"dueInDays\":1,\"subject\":\"Spanish\"},{\"title\":\"Workbook pages 60 to 62\",\"dueInDays\":2,\"subject\":\"Spanish\"},{\"title\":\"Listening activity\",\"dueInDays\":3,\"subject\":\"Spanish\"},{\"title\":\"Partner skit\",\"dueInDays\":4,\"subject\":\"Spanish\"},{\"title\":\"Unit vocabulary quiz\",\"dueInDays\":5,\"subject\":\"Spanish\"},{\"title\":\"Written composition\",\"dueInDays\":8,\"subject\":\"Spanish\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Waves unit calendar. Mon - reading notes on chapter 14 due. Tue - wave properties worksheet due. Wed - ripple tank lab, data due at the end of the period. Thu - problem set on wave speed due. Fri - lab report due. The following Wed - unit test on waves. Lab partners are assigned, do not swap them. If you miss a lab you make it up at lunch, no exceptions.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Chapter 14 reading notes\",\"dueInDays\":1,\"subject\":\"Physics\"},{\"title\":\"Wave properties worksheet\",\"dueInDays\":2,\"subject\":\"Physics\"},{\"title\":\"Ripple tank lab data\",\"dueInDays\":3,\"subject\":\"Physics\"},{\"title\":\"Wave speed problem set\",\"dueInDays\":4,\"subject\":\"Physics\"},{\"title\":\"Ripple tank lab report\",\"dueInDays\":5,\"subject\":\"Physics\"},{\"title\":\"Waves unit test\",\"dueInDays\":10,\"subject\":\"Physics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Unit 6 calendar. Mon - 6.1 practice due. Tue - 6.2 practice due. Wed - mixed review due. Thu - quiz on 6.1 and 6.2. Fri - 6.3 practice due. The following Mon - unit 6 study guide due. The following Wed - unit 6 test. Tutoring runs Tuesday and Thursday after school in room 118. Test corrections earn back half the points, as always.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Section 6.1 practice\",\"dueInDays\":1,\"subject\":\"Algebra 1\"},{\"title\":\"Section 6.2 practice\",\"dueInDays\":2,\"subject\":\"Algebra 1\"},{\"title\":\"Mixed review\",\"dueInDays\":3,\"subject\":\"Algebra 1\"},{\"title\":\"Quiz on 6.1 and 6.2\",\"dueInDays\":4,\"subject\":\"Algebra 1\"},{\"title\":\"Section 6.3 practice\",\"dueInDays\":5,\"subject\":\"Algebra 1\"},{\"title\":\"Unit 6 study guide\",\"dueInDays\":8,\"subject\":\"Algebra 1\"},{\"title\":\"Unit 6 test\",\"dueInDays\":10,\"subject\":\"Algebra 1\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Unit 7 calendar, starting today. Tue - reaction types notes and practice due. Wed - balancing worksheet due. Thu - lab on single replacement, prelab due at the door. Fri - lab writeup due. Next Mon - unit 7 review due. Next Wed - unit 7 test. Goggles and closed shoes on lab days or you sit in the hall and read the textbook instead of doing anything fun.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Reaction types practice\",\"dueInDays\":1,\"subject\":\"Chemistry\"},{\"title\":\"Balancing worksheet\",\"dueInDays\":2,\"subject\":\"Chemistry\"},{\"title\":\"Single replacement prelab\",\"dueInDays\":3,\"subject\":\"Chemistry\"},{\"title\":\"Single replacement lab writeup\",\"dueInDays\":4,\"subject\":\"Chemistry\"},{\"title\":\"Unit 7 review\",\"dueInDays\":7,\"subject\":\"Chemistry\"},{\"title\":\"Unit 7 test\",\"dueInDays\":9,\"subject\":\"Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Poetry unit calendar. Tue - read the first five poems in the packet. Wed - annotation of poem two due. Thu - sound devices worksheet due. Fri - original poem draft due. Next Tue - peer review copies due, bring three of them. Next Thu - final poem due. The poetry slam is later this semester, participation is voluntary and not graded, before anyone panics.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Read the first five poems\",\"dueInDays\":1,\"subject\":\"English\"},{\"title\":\"Annotation of poem two\",\"dueInDays\":2,\"subject\":\"English\"},{\"title\":\"Sound devices worksheet\",\"dueInDays\":3,\"subject\":\"English\"},{\"title\":\"Original poem draft\",\"dueInDays\":4,\"subject\":\"English\"},{\"title\":\"Peer review copies\",\"dueInDays\":8,\"subject\":\"English\"},{\"title\":\"Final poem\",\"dueInDays\":10,\"subject\":\"English\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Unit calendar for the Cold War. Tue - reading guide due. Wed - map of divided Europe due. Thu - primary source annotation due. Fri - documentary viewing guide due. Next Mon - the compare and contrast essay due. Next Thu - unit test. Notes are open on the essay but not on the test. Textbooks stay in the room, use the online version at home.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Reading guide\",\"dueInDays\":1,\"subject\":\"World History\"},{\"title\":\"Map of divided Europe\",\"dueInDays\":2,\"subject\":\"World History\"},{\"title\":\"Primary source annotation\",\"dueInDays\":3,\"subject\":\"World History\"},{\"title\":\"Documentary viewing guide\",\"dueInDays\":4,\"subject\":\"World History\"},{\"title\":\"Compare and contrast essay\",\"dueInDays\":7,\"subject\":\"World History\"},{\"title\":\"Unit test\",\"dueInDays\":10,\"subject\":\"World History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Chapter 5 calendar. Tue - 5.1 exercises due. Wed - 5.2 exercises due. Thu - simulation activity writeup due. Fri - quiz on 5.1 and 5.2. Next Tue - 5.3 exercises due. Next Thu - chapter 5 test. Answer keys go up Friday afternoons, so check your work before you come ask me. Calculator memory gets cleared before every test, plan accordingly.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Section 5.1 exercises\",\"dueInDays\":1,\"subject\":\"Statistics\"},{\"title\":\"Section 5.2 exercises\",\"dueInDays\":2,\"subject\":\"Statistics\"},{\"title\":\"Simulation activity writeup\",\"dueInDays\":3,\"subject\":\"Statistics\"},{\"title\":\"Quiz on 5.1 and 5.2\",\"dueInDays\":4,\"subject\":\"Statistics\"},{\"title\":\"Section 5.3 exercises\",\"dueInDays\":8,\"subject\":\"Statistics\"},{\"title\":\"Chapter 5 test\",\"dueInDays\":10,\"subject\":\"Statistics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Ceramics unit calendar. Tue - pinch pot due for the first firing. Wed - coil pot form due. Thu - slab construction sketches due. Fri - glaze test tiles due. Next Wed - the final piece due for glaze firing. Next Fri - written reflection due. The kiln runs Thursday nights, so anything late misses that cycle and waits a week. Clean your table every single day.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Pinch pot\",\"dueInDays\":1,\"subject\":\"Ceramics\"},{\"title\":\"Coil pot form\",\"dueInDays\":2,\"subject\":\"Ceramics\"},{\"title\":\"Slab construction sketches\",\"dueInDays\":3,\"subject\":\"Ceramics\"},{\"title\":\"Glaze test tiles\",\"dueInDays\":4,\"subject\":\"Ceramics\"},{\"title\":\"Final piece for glaze firing\",\"dueInDays\":9,\"subject\":\"Ceramics\"},{\"title\":\"Written reflection\",\"dueInDays\":11,\"subject\":\"Ceramics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Fitness unit calendar. Tue - baseline fitness test, dress out for it. Wed - goal setting sheet due. Thu - workout log started. Fri - nutrition worksheet due. Next Wed - two week workout log due. Next Fri - unit reflection due. Locks are provided, do not bring your own. This unit is about general fitness and is not medical advice of any kind.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Baseline fitness test\",\"dueInDays\":1,\"subject\":\"PE\"},{\"title\":\"Goal setting sheet\",\"dueInDays\":2,\"subject\":\"PE\"},{\"title\":\"Start the workout log\",\"dueInDays\":3,\"subject\":\"PE\"},{\"title\":\"Nutrition worksheet\",\"dueInDays\":4,\"subject\":\"PE\"},{\"title\":\"Two week workout log\",\"dueInDays\":9,\"subject\":\"PE\"},{\"title\":\"Unit reflection\",\"dueInDays\":11,\"subject\":\"PE\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Unit 4 calendar that went out yesterday. Mon - 4.1 problems due. Tue - 4.2 problems due. Wed - optimization worksheet due. Thu - quiz on 4.1 and 4.2. Fri - free response practice due. The following Tue - unit 4 test. The AP review book chapters are optional but genuinely useful. No calculators on the first section of the test, none at all.",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Section 4.1 problems\",\"dueInDays\":2,\"subject\":\"AP Calculus\"},{\"title\":\"Section 4.2 problems\",\"dueInDays\":3,\"subject\":\"AP Calculus\"},{\"title\":\"Optimization worksheet\",\"dueInDays\":4,\"subject\":\"AP Calculus\"},{\"title\":\"Quiz on 4.1 and 4.2\",\"dueInDays\":5,\"subject\":\"AP Calculus\"},{\"title\":\"Free response practice\",\"dueInDays\":6,\"subject\":\"AP Calculus\"},{\"title\":\"Unit 4 test\",\"dueInDays\":10,\"subject\":\"AP Calculus\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Unit calendar for the energy unit. Mon - reading on fossil fuels due. Tue - energy source chart due. Wed - solar oven build, design sketch due first. Thu - data from the solar oven due. Fri - unit vocabulary quiz. The following Mon - energy policy paragraph due. Materials for the solar oven are provided, do not buy anything. Groups of three, no exceptions.",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Fossil fuels reading\",\"dueInDays\":2,\"subject\":\"Environmental Science\"},{\"title\":\"Energy source chart\",\"dueInDays\":3,\"subject\":\"Environmental Science\"},{\"title\":\"Solar oven design sketch\",\"dueInDays\":4,\"subject\":\"Environmental Science\"},{\"title\":\"Solar oven data\",\"dueInDays\":5,\"subject\":\"Environmental Science\"},{\"title\":\"Unit vocabulary quiz\",\"dueInDays\":6,\"subject\":\"Environmental Science\"},{\"title\":\"Energy policy paragraph\",\"dueInDays\":9,\"subject\":\"Environmental Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Research paper timeline for this quarter. The topic proposal is due Wednesday. The annotated source list is due the following Monday. The rough draft is due the following Friday. Peer review happens in class the following Tuesday, bring a printed copy. The final paper is due two weeks from Friday. Anything turned in after the final deadline gets a zero, that is department policy.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Topic proposal\",\"dueInDays\":2},{\"title\":\"Annotated source list\",\"dueInDays\":7},{\"title\":\"Rough draft\",\"dueInDays\":11},{\"title\":\"Bring a printed copy for peer review\",\"dueInDays\":15},{\"title\":\"Final paper\",\"dueInDays\":18}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Science fair timeline, please put these in your planner now. The project proposal form is due Tuesday. The background research summary is due the following Monday. The procedure and materials list is due the following Thursday. Data collection has to be finished two weeks from Thursday. The board and final writeup are due in a month. Parents sign the proposal form, not the rest.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Project proposal form\",\"dueInDays\":1,\"subject\":\"Science\"},{\"title\":\"Background research summary\",\"dueInDays\":7,\"subject\":\"Science\"},{\"title\":\"Procedure and materials list\",\"dueInDays\":10,\"subject\":\"Science\"},{\"title\":\"Finish data collection\",\"dueInDays\":17,\"subject\":\"Science\"},{\"title\":\"Board and final writeup\",\"dueInDays\":30,\"subject\":\"Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Essay project timeline. Thesis statement due Wednesday. Outline due the following Monday. First draft due the following Thursday. Peer review in class the following Monday, two printed copies. Final essay due two weeks from Monday. Revision is expected and not optional, and I can tell when a draft has not changed. Conferences are available at lunch any day this month.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Thesis statement\",\"dueInDays\":2,\"subject\":\"English\"},{\"title\":\"Outline\",\"dueInDays\":7,\"subject\":\"English\"},{\"title\":\"First draft\",\"dueInDays\":10,\"subject\":\"English\"},{\"title\":\"Peer review copies\",\"dueInDays\":14,\"subject\":\"English\"},{\"title\":\"Final essay\",\"dueInDays\":21,\"subject\":\"English\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Documentary project timeline for the unit. Group contract and topic due Tuesday. Annotated source list due Friday. Storyboard due the following Wednesday. Rough cut due the following Monday. Peer feedback forms due the following Wednesday. Final cut screens two weeks from Monday. Group members who do nothing get graded accordingly, I do read the contribution logs.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Group contract and topic\",\"dueInDays\":1},{\"title\":\"Annotated source list\",\"dueInDays\":4},{\"title\":\"Storyboard\",\"dueInDays\":9},{\"title\":\"Rough cut\",\"dueInDays\":14},{\"title\":\"Peer feedback forms\",\"dueInDays\":16},{\"title\":\"Final cut screening\",\"dueInDays\":21}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Portfolio project timeline. Concept sketches due Wednesday. Medium test pieces due Friday. Work in progress critique the following Tuesday, bring whatever you have. Final piece due the following Friday. Artist statement due the following Monday. The show hangs two weeks from Monday. Frames are provided but they are ugly, so bring your own if you care about that.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Concept sketches\",\"dueInDays\":2,\"subject\":\"Art\"},{\"title\":\"Medium test pieces\",\"dueInDays\":4,\"subject\":\"Art\"},{\"title\":\"Work in progress critique\",\"dueInDays\":8,\"subject\":\"Art\"},{\"title\":\"Final piece\",\"dueInDays\":11,\"subject\":\"Art\"},{\"title\":\"Artist statement\",\"dueInDays\":14,\"subject\":\"Art\"},{\"title\":\"Hang the show\",\"dueInDays\":21,\"subject\":\"Art\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Capstone project timeline for computer science. Project proposal due Wednesday. Design document due the following Monday. Working prototype due the following Friday. Code review with a partner the following Tuesday. Final submission and demo two weeks from Friday. Commit history counts, do not write the whole thing the night before and push it in one commit.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Project proposal\",\"dueInDays\":2,\"subject\":\"Computer Science\"},{\"title\":\"Design document\",\"dueInDays\":7,\"subject\":\"Computer Science\"},{\"title\":\"Working prototype\",\"dueInDays\":11,\"subject\":\"Computer Science\"},{\"title\":\"Code review with a partner\",\"dueInDays\":15,\"subject\":\"Computer Science\"},{\"title\":\"Final submission and demo\",\"dueInDays\":18,\"subject\":\"Computer Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Research paper timeline handed out Friday. The topic proposal is due Tuesday. The working bibliography is due the following Monday. The first draft is due the following Thursday. Peer review is in class the following Monday. The final draft is due two weeks from Thursday. There is no extension for printer problems, submit online if the printer eats your paper again.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Topic proposal\",\"dueInDays\":2},{\"title\":\"Working bibliography\",\"dueInDays\":8},{\"title\":\"First draft\",\"dueInDays\":11},{\"title\":\"Peer review\",\"dueInDays\":15},{\"title\":\"Final draft\",\"dueInDays\":18}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Group presentation timeline that went up before the weekend. Group roles due Monday. Research notes due Wednesday. Slide draft due the following Monday. Practice run in class the following Wednesday. Final presentation the following Friday. Everyone speaks, there is no silent partner role. Slides go in the shared folder, not on a flash drive you leave at home.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Group roles\",\"dueInDays\":1},{\"title\":\"Research notes\",\"dueInDays\":3},{\"title\":\"Slide draft\",\"dueInDays\":8},{\"title\":\"Practice run\",\"dueInDays\":10},{\"title\":\"Final presentation\",\"dueInDays\":12}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Science fair packet, timeline section. Question and hypothesis due Tuesday. Materials list due Thursday. Procedure approval due the following Monday. Trials finished two weeks from Tuesday. Analysis and graphs due the following Friday. Board due in a month. Nothing involving open flame or live animals gets approved, do not bother asking me about it.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Question and hypothesis\",\"dueInDays\":2,\"subject\":\"Science\"},{\"title\":\"Materials list\",\"dueInDays\":4,\"subject\":\"Science\"},{\"title\":\"Procedure approval\",\"dueInDays\":8,\"subject\":\"Science\"},{\"title\":\"Finish the trials\",\"dueInDays\":16,\"subject\":\"Science\"},{\"title\":\"Analysis and graphs\",\"dueInDays\":19,\"subject\":\"Science\"},{\"title\":\"Science fair board\",\"dueInDays\":30,\"subject\":\"Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Debate unit timeline. Sign up for your side Monday. Case outline due Wednesday. Evidence packet due Friday. Practice round the following Tuesday. Cross examination prep due the following Thursday. Final debate two weeks from Friday. Judges are teachers from other departments so explain your terms. Ties go to whoever cited sources properly, which is nobody so far.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Sign up for your debate side\",\"dueInDays\":1,\"subject\":\"Debate\"},{\"title\":\"Case outline\",\"dueInDays\":3,\"subject\":\"Debate\"},{\"title\":\"Evidence packet\",\"dueInDays\":5,\"subject\":\"Debate\"},{\"title\":\"Practice round\",\"dueInDays\":9,\"subject\":\"Debate\"},{\"title\":\"Cross examination prep\",\"dueInDays\":11,\"subject\":\"Debate\"},{\"title\":\"Final debate\",\"dueInDays\":19,\"subject\":\"Debate\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Senior project timeline from the handbook. Mentor confirmation form due Monday. Proposal due Thursday. Twenty hour log checkpoint the following Thursday. Draft of the reflection paper due the following Monday. Presentation slides due the following Thursday. Boards go up in a month. The mentor cannot be a family member, that is in the handbook twice for a reason.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Mentor confirmation form\",\"dueInDays\":1,\"subject\":\"Senior Project\"},{\"title\":\"Project proposal\",\"dueInDays\":4,\"subject\":\"Senior Project\"},{\"title\":\"Twenty hour log checkpoint\",\"dueInDays\":11,\"subject\":\"Senior Project\"},{\"title\":\"Reflection paper draft\",\"dueInDays\":15,\"subject\":\"Senior Project\"},{\"title\":\"Presentation slides\",\"dueInDays\":18,\"subject\":\"Senior Project\"},{\"title\":\"Put up the board\",\"dueInDays\":30,\"subject\":\"Senior Project\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Independent lab timeline. Experimental question due tomorrow. Procedure draft due Friday. Safety approval form due the following Monday. Data collection finished two weeks from Friday. Draft report due the following Wednesday. Final report due in a month. If your procedure changes after approval you resubmit it, no exceptions, I have been burned on this before.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Experimental question\",\"dueInDays\":1,\"subject\":\"Science\"},{\"title\":\"Procedure draft\",\"dueInDays\":3,\"subject\":\"Science\"},{\"title\":\"Safety approval form\",\"dueInDays\":6,\"subject\":\"Science\"},{\"title\":\"Finish data collection\",\"dueInDays\":17,\"subject\":\"Science\"},{\"title\":\"Draft report\",\"dueInDays\":22,\"subject\":\"Science\"},{\"title\":\"Final report\",\"dueInDays\":30,\"subject\":\"Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Multigenre project timeline. Topic and three genre choices due Thursday. Piece one due the following Tuesday. Piece two due the following Friday. Peer workshop the following Tuesday, bring all three pieces with you. Final collection with the reflection due two weeks from Friday. The genres cannot all be essays, that is the entire point of the assignment.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Topic and three genre choices\",\"dueInDays\":2,\"subject\":\"English\"},{\"title\":\"Piece one\",\"dueInDays\":7,\"subject\":\"English\"},{\"title\":\"Piece two\",\"dueInDays\":10,\"subject\":\"English\"},{\"title\":\"Peer workshop\",\"dueInDays\":14,\"subject\":\"English\"},{\"title\":\"Final collection and reflection\",\"dueInDays\":17,\"subject\":\"English\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Business plan project timeline. Team and idea due Thursday. Market research summary due the following Monday. Financial projections due the following Thursday. Pitch deck draft due the following Monday. Peer feedback the following Wednesday. Final pitch two weeks from Thursday. Judges from the local chamber come to the final pitch, so dress like you mean it.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Team and idea\",\"dueInDays\":2,\"subject\":\"Business\"},{\"title\":\"Market research summary\",\"dueInDays\":6,\"subject\":\"Business\"},{\"title\":\"Financial projections\",\"dueInDays\":9,\"subject\":\"Business\"},{\"title\":\"Pitch deck draft\",\"dueInDays\":13,\"subject\":\"Business\"},{\"title\":\"Peer feedback\",\"dueInDays\":15,\"subject\":\"Business\"},{\"title\":\"Final pitch\",\"dueInDays\":16,\"subject\":\"Business\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Research project timeline for the era paper. Topic and thesis due Thursday. Five annotated sources due the following Tuesday. Outline due the following Friday. Rough draft due the following Wednesday. Peer review the following Friday. Final paper due in three weeks. Wikipedia is a starting point and not a source, we have had this conversation already, more than once.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Topic and thesis\",\"dueInDays\":2,\"subject\":\"History\"},{\"title\":\"Five annotated sources\",\"dueInDays\":7,\"subject\":\"History\"},{\"title\":\"Outline\",\"dueInDays\":10,\"subject\":\"History\"},{\"title\":\"Rough draft\",\"dueInDays\":15,\"subject\":\"History\"},{\"title\":\"Peer review\",\"dueInDays\":17,\"subject\":\"History\"},{\"title\":\"Final paper\",\"dueInDays\":21,\"subject\":\"History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Film project timeline that got posted yesterday. Logline and crew due Monday. Script draft due Thursday. Shot list due the following Monday. Filming finished two weeks from Thursday. Rough cut due the following Monday. Final cut due in a month. Equipment checkout is first come first served and the good camera is already spoken for every weekend.",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Logline and crew\",\"dueInDays\":2,\"subject\":\"Film\"},{\"title\":\"Script draft\",\"dueInDays\":5,\"subject\":\"Film\"},{\"title\":\"Shot list\",\"dueInDays\":9,\"subject\":\"Film\"},{\"title\":\"Finish filming\",\"dueInDays\":19,\"subject\":\"Film\"},{\"title\":\"Rough cut\",\"dueInDays\":23,\"subject\":\"Film\"},{\"title\":\"Final cut\",\"dueInDays\":30,\"subject\":\"Film\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Modeling project timeline. Team and problem choice due Monday. Data set approval due Wednesday. Model draft due the following Monday. Sensitivity analysis due the following Thursday. Written report draft due the following Monday. Final report and poster two weeks from Wednesday. Every team member writes a section and signs it, I match handwriting when it matters.",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Team and problem choice\",\"dueInDays\":2,\"subject\":\"Math\"},{\"title\":\"Data set approval\",\"dueInDays\":4,\"subject\":\"Math\"},{\"title\":\"Model draft\",\"dueInDays\":9,\"subject\":\"Math\"},{\"title\":\"Sensitivity analysis\",\"dueInDays\":12,\"subject\":\"Math\"},{\"title\":\"Written report draft\",\"dueInDays\":16,\"subject\":\"Math\"},{\"title\":\"Final report and poster\",\"dueInDays\":18,\"subject\":\"Math\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Service learning timeline from the packet. Site selection form due Monday. Site supervisor signature due Wednesday. First hour log due the following Friday. Midpoint reflection due two weeks from Friday. Final hour log due the following Wednesday. Presentation due in a month. Hours completed before the site form is approved do not count, which people learn the hard way.",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Site selection form\",\"dueInDays\":2,\"subject\":\"Service Learning\"},{\"title\":\"Site supervisor signature\",\"dueInDays\":4,\"subject\":\"Service Learning\"},{\"title\":\"First hour log\",\"dueInDays\":6,\"subject\":\"Service Learning\"},{\"title\":\"Midpoint reflection\",\"dueInDays\":20,\"subject\":\"Service Learning\"},{\"title\":\"Final hour log\",\"dueInDays\":25,\"subject\":\"Service Learning\"},{\"title\":\"Final presentation\",\"dueInDays\":30,\"subject\":\"Service Learning\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Nothing is due today, everything lands next week. The lab safety quiz is next Monday. The chapter 3 worksheet is next Tuesday. The unit vocabulary set is next Wednesday. The lab report is next Thursday and the chapter 3 test is next Friday. Enjoy the weekend without any of this hanging over you, but do not start all of it Thursday night either.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Lab safety quiz\",\"dueInDays\":3},{\"title\":\"Chapter 3 worksheet\",\"dueInDays\":4},{\"title\":\"Unit vocabulary set\",\"dueInDays\":5},{\"title\":\"Lab report\",\"dueInDays\":6},{\"title\":\"Chapter 3 test\",\"dueInDays\":7}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Heads up for next week in AP World History. The reading guide for chapter 12 is due next Monday. The map activity is due next Tuesday. The primary source set is due next Wednesday. The essay outline is due next Thursday. The in class essay is next Friday. Nothing is due over the weekend. I will post the rubric Sunday night so you can see how it is scored.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Chapter 12 reading guide\",\"dueInDays\":3,\"subject\":\"AP World History\"},{\"title\":\"Map activity\",\"dueInDays\":4,\"subject\":\"AP World History\"},{\"title\":\"Primary source set\",\"dueInDays\":5,\"subject\":\"AP World History\"},{\"title\":\"Essay outline\",\"dueInDays\":6,\"subject\":\"AP World History\"},{\"title\":\"In class essay\",\"dueInDays\":7,\"subject\":\"AP World History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Next week in Algebra 2, since people keep asking. Section 8.1 homework is due next Monday. Section 8.2 homework is due next Tuesday. The mixed practice set is due next Wednesday. The quiz on 8.1 and 8.2 is next Thursday. The chapter project checkpoint is next Friday. Nothing at all is due this weekend, so please do not email me about it Sunday night.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Section 8.1 homework\",\"dueInDays\":3,\"subject\":\"Algebra 2\"},{\"title\":\"Section 8.2 homework\",\"dueInDays\":4,\"subject\":\"Algebra 2\"},{\"title\":\"Mixed practice set\",\"dueInDays\":5,\"subject\":\"Algebra 2\"},{\"title\":\"Quiz on 8.1 and 8.2\",\"dueInDays\":6,\"subject\":\"Algebra 2\"},{\"title\":\"Chapter project checkpoint\",\"dueInDays\":7,\"subject\":\"Algebra 2\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Since we are not meeting again until next week, here is everything at once. The vocabulary set is due next Monday. The short story annotation is due next Tuesday. The discussion post goes up next Wednesday. The character sketch is due next Thursday. The quiz on the whole story is next Friday. The library has copies if you left yours in the classroom again.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Vocabulary set\",\"dueInDays\":3,\"subject\":\"English\"},{\"title\":\"Short story annotation\",\"dueInDays\":4,\"subject\":\"English\"},{\"title\":\"Discussion post\",\"dueInDays\":5,\"subject\":\"English\"},{\"title\":\"Character sketch\",\"dueInDays\":6,\"subject\":\"English\"},{\"title\":\"Quiz on the whole story\",\"dueInDays\":7,\"subject\":\"English\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "The weekend is clear, next week is not. Studio time sign up is next Monday. The gesture drawing set is due next Tuesday. The value study is due next Wednesday. The composition thumbnails are due next Thursday. The critique is next Friday, so bring everything you have made this unit. Supplies get restocked Monday morning, do not panic if the good charcoal is gone.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Studio time sign up\",\"dueInDays\":3,\"subject\":\"Art\"},{\"title\":\"Gesture drawing set\",\"dueInDays\":4,\"subject\":\"Art\"},{\"title\":\"Value study\",\"dueInDays\":5,\"subject\":\"Art\"},{\"title\":\"Composition thumbnails\",\"dueInDays\":6,\"subject\":\"Art\"},{\"title\":\"Unit critique\",\"dueInDays\":7,\"subject\":\"Art\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Posting this now so nobody claims they did not know. Everything in Biology lands next week. The cell cycle notes are due next Monday. The mitosis lab is next Tuesday. The lab writeup is due next Wednesday. The cancer article response is due next Thursday. The unit quiz is next Friday. Nothing is due before Monday, so go do something outside for once.",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Cell cycle notes\",\"dueInDays\":2,\"subject\":\"Biology\"},{\"title\":\"Mitosis lab writeup\",\"dueInDays\":4,\"subject\":\"Biology\"},{\"title\":\"Cancer article response\",\"dueInDays\":5,\"subject\":\"Biology\"},{\"title\":\"Unit quiz\",\"dueInDays\":6,\"subject\":\"Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Everything for Spanish 2 is next week, nothing this weekend. The vocabulary list is due next Monday. The workbook pages are due next Tuesday. The listening log is due next Wednesday. The partner conversation gets recorded next Thursday. The unit quiz is next Friday. The textbook website is down until Monday so do not try to get ahead tonight, it will not load.",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Vocabulary list\",\"dueInDays\":2,\"subject\":\"Spanish 2\"},{\"title\":\"Workbook pages\",\"dueInDays\":3,\"subject\":\"Spanish 2\"},{\"title\":\"Listening log\",\"dueInDays\":4,\"subject\":\"Spanish 2\"},{\"title\":\"Record the partner conversation\",\"dueInDays\":5,\"subject\":\"Spanish 2\"},{\"title\":\"Unit quiz\",\"dueInDays\":6,\"subject\":\"Spanish 2\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Next week for US Government, all of it. The reading on federalism is due next Monday. The case brief is due next Tuesday. The court case chart is due next Wednesday. The mock hearing prep sheet is due next Thursday. The mock hearing itself runs next Friday. Nothing is assigned for the weekend, which happens roughly twice a year, so enjoy it while it lasts.",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Federalism reading\",\"dueInDays\":2,\"subject\":\"US Government\"},{\"title\":\"Case brief\",\"dueInDays\":3,\"subject\":\"US Government\"},{\"title\":\"Court case chart\",\"dueInDays\":4,\"subject\":\"US Government\"},{\"title\":\"Mock hearing prep sheet\",\"dueInDays\":5,\"subject\":\"US Government\"},{\"title\":\"Mock hearing\",\"dueInDays\":6,\"subject\":\"US Government\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Reminder that everything for Physics is next week. The chapter 10 reading notes are due next Monday. The problem set is due next Tuesday. The lab is next Wednesday and the data sheet is due at the end of it. The lab report is due next Thursday. The concept quiz is next Friday. There is no weekend work in this class, there never has been and there will not be.",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Chapter 10 reading notes\",\"dueInDays\":2,\"subject\":\"Physics\"},{\"title\":\"Problem set\",\"dueInDays\":3,\"subject\":\"Physics\"},{\"title\":\"Lab data sheet\",\"dueInDays\":4,\"subject\":\"Physics\"},{\"title\":\"Lab report\",\"dueInDays\":5,\"subject\":\"Physics\"},{\"title\":\"Concept quiz\",\"dueInDays\":6,\"subject\":\"Physics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Nothing new is due tomorrow, it all shifts to next week. The annotated bibliography is due next Monday. The outline is due next Tuesday. The rough draft is due next Wednesday. Peer review is next Thursday, bring two copies. The final draft is due next Friday. I moved everything back a week because the internet was down for two days and that was not your fault.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Annotated bibliography\",\"dueInDays\":4},{\"title\":\"Outline\",\"dueInDays\":5},{\"title\":\"Rough draft\",\"dueInDays\":6},{\"title\":\"Peer review copies\",\"dueInDays\":7},{\"title\":\"Final draft\",\"dueInDays\":8}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Precalculus plan for next week, nothing due tomorrow. Section 6.1 problems are due next Monday. Section 6.2 problems are due next Tuesday. The graphing activity is due next Wednesday. The mixed review is due next Thursday. The chapter 6 quiz is next Friday. Tomorrow is a work day in class, bring your book and use the time, because next week is dense.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Section 6.1 problems\",\"dueInDays\":4,\"subject\":\"Precalculus\"},{\"title\":\"Section 6.2 problems\",\"dueInDays\":5,\"subject\":\"Precalculus\"},{\"title\":\"Graphing activity\",\"dueInDays\":6,\"subject\":\"Precalculus\"},{\"title\":\"Mixed review\",\"dueInDays\":7,\"subject\":\"Precalculus\"},{\"title\":\"Chapter 6 quiz\",\"dueInDays\":8,\"subject\":\"Precalculus\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Everything for the culinary unit falls next week. The knife skills check is next Monday. The recipe conversion worksheet is due next Tuesday. The lab plan is due next Wednesday. The cooking lab is next Thursday and the cleanup checklist gets signed then. The reflection is due next Friday. Aprons and closed shoes are required or you observe the whole thing from a stool.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Knife skills check\",\"dueInDays\":4,\"subject\":\"Culinary Arts\"},{\"title\":\"Recipe conversion worksheet\",\"dueInDays\":5,\"subject\":\"Culinary Arts\"},{\"title\":\"Lab plan\",\"dueInDays\":6,\"subject\":\"Culinary Arts\"},{\"title\":\"Signed cleanup checklist\",\"dueInDays\":7,\"subject\":\"Culinary Arts\"},{\"title\":\"Cooking lab reflection\",\"dueInDays\":8,\"subject\":\"Culinary Arts\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Nothing is due tomorrow morning, but the rest of next week is full. The chapter 5 outline is due next Tuesday. The vocabulary quiz is next Wednesday. The document analysis is due next Thursday. The unit essay is due next Friday. Monday is a work day in class so bring everything with you. I will not be answering email tonight, so please do not test that.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Chapter 5 outline\",\"dueInDays\":2},{\"title\":\"Vocabulary quiz\",\"dueInDays\":3},{\"title\":\"Document analysis\",\"dueInDays\":4},{\"title\":\"Unit essay\",\"dueInDays\":5}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Reset for next week, nothing carries over from this one. The lab notebook check is next Tuesday. The graphing worksheet is due next Wednesday. The unit review packet is due next Thursday. The unit test is next Friday. Monday is a catch up day and there is nothing to bring but yourself. Grades were finalized Friday afternoon so what you see now is what you have.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Lab notebook check\",\"dueInDays\":2},{\"title\":\"Graphing worksheet\",\"dueInDays\":3},{\"title\":\"Unit review packet\",\"dueInDays\":4},{\"title\":\"Unit test\",\"dueInDays\":5}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Grading policy for the semester. Summative assessments are 60 percent of the grade, formative work is 30 percent, and participation is 10 percent. Late work loses ten percent per school day for the first three days and is not accepted after that. Retakes are available on unit tests only, are capped at 85 percent, and are scheduled during a tutorial period.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Academic integrity statement. Work you turn in has to be your own. Generating an assignment with a chat tool and submitting it as your writing is plagiarism under the school handbook and gets referred to the dean. Collaboration on practice problems is fine and encouraged. Collaboration on assessments is not. If you are unsure which side of the line something falls on, ask.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Attendance and tardy policy. The bell is the bell. You are tardy if you are not inside the room when it rings, and the third tardy in a quarter is a lunch detention. Absences are excused only through the attendance office and not through me. If you are absent, the make up window is the same number of days you missed. Extended absences are handled by your counselor.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Course philosophy and materials. This class is built around practice rather than lecture, so most days you will be working and I will be circulating. Materials are a three ring binder, loose leaf paper, a scientific calculator, and pencils. The textbook stays in the room and there is an online copy for home. Devices get charged at home, not plugged in along the back wall.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Classroom expectations, posted since August and unchanged. Phones go in the pocket chart at the start of the period and come back at the end of it. Food is not allowed in a room with lab equipment, drinks with lids are fine. Hall passes are one per week and you sign the log. Respect in here is not negotiable, and that includes when a substitute is running the room.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "How to reach me. Email is the best way and I answer within one school day on weekdays. I do not answer email after 5 in the evening or on weekends, so plan around that rather than sending something at midnight and hoping. Parents can request a conference through the counseling office. The online gradebook updates Sunday evenings and reflects everything I have graded.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Laboratory safety rules. Goggles are worn from the moment the lab begins until everything is cleaned up and put away. Closed toe shoes are required on lab days and there are no loaner shoes. Long hair is tied back. Never taste or directly smell a chemical. Report every spill and every broken piece of glass immediately, even the small ones, especially the small ones.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Schedule note for the building. We are on an assembly schedule Thursday, which means every period is shortened by twelve minutes and lunch runs in two shifts instead of three. Buses leave at the regular time. Nothing about the assembly changes any due date this week. Teachers were asked to avoid assessments that day, so if you had one it has probably moved already.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Library update. The library is closed for inventory through the end of the month, so the study hall overflow moves to the cafeteria. Books can still be returned in the outside drop box and nothing accrues fines during the closure. Databases are available from home with your school login. The printers in the library are off, so use the ones in the main office instead.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Note from the counseling office. Course selection season starts soon and we will meet with every student individually during an English class period. You do not need to prepare anything or bring anything with you. Bring questions if you have them. Requests are not guaranteed and singleton courses conflict more often than people expect, so a backup choice is a good idea.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Athletic eligibility reminder from the athletic director. Eligibility is checked every two weeks and is based on the grades in the portal at that moment. A student with two or more failing grades is ineligible until the next check. Ineligible students still practice with the team but do not travel or compete. Coaches cannot override any of this, so please do not ask them.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Technology use policy for the department. School devices are filtered on and off campus and browsing history is visible to administrators. Personal hotspots used to get around the filter are a handbook violation. Charge your device at home. There are four loaner devices in the library and they go out at the start of the day and come back at the end, no overnight loans.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[]}"
+  }
+]

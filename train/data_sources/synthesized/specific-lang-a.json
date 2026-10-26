@@ -1,0 +1,937 @@
+[
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "conjugating -ar verbs in present tense, worksheet 3.1 #1-12",
+      "subject": "Spanish I",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open worksheet 3.1 and copy verb 1, hablar\",\"minutes\":5},{\"title\":\"Write the present-tense form of verbs 1 through 3\",\"minutes\":10},{\"title\":\"Write the present-tense form of verbs 4 through 6\",\"minutes\":10},{\"title\":\"Note the present-tense form of verbs 7 through 9\",\"minutes\":10},{\"title\":\"Note the present-tense form of verbs 10 through 12\",\"minutes\":10},{\"title\":\"Check three conjugations against the verb chart\",\"minutes\":15}],\"starterAction\":\"Open worksheet 3.1 and copy verb 1, hablar\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "ser vs estar practice packet, problems 1-10",
+      "subject": "Spanish I",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy problem 1's sentence\",\"minutes\":5},{\"title\":\"Write ser or estar for problems 1 through 3\",\"minutes\":12},{\"title\":\"Note ser or estar for problems 6 through 8\",\"minutes\":12},{\"title\":\"Record ser or estar for problems 4, 5, 9, and 10\",\"minutes\":16},{\"title\":\"Check two answers against the rule for each verb\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy problem 1's sentence\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "preterite vs imperfect tense story, fill in the blanks pg 88",
+      "subject": "Spanish II",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the textbook to page 88 and copy the first blank verb\",\"minutes\":5},{\"title\":\"Fill in blanks 1 through 4 with preterite or imperfect\",\"minutes\":13},{\"title\":\"Fill in blanks 5 through 8 with preterite or imperfect\",\"minutes\":12},{\"title\":\"Complete blanks 9 through 11 with preterite or imperfect\",\"minutes\":13},{\"title\":\"Complete blanks 12 through 15 with preterite or imperfect\",\"minutes\":12},{\"title\":\"Read the story back and circle any verb that doesn't match its blank\",\"minutes\":15}],\"starterAction\":\"Open the textbook to page 88 and copy the first blank verb\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "vocabulario del capitulo 5: la comida, quiz prep flashcards",
+      "subject": "Spanish II",
+      "description": "Thirty vocabulary words.",
+      "duePhrase": "Friday",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the chapter 5 vocabulary list and copy word 1\",\"minutes\":5},{\"title\":\"Write a flashcard for the first ten words\",\"minutes\":20},{\"title\":\"Write flashcards for the remaining words\",\"minutes\":20},{\"title\":\"Time yourself naming all thirty cards\",\"minutes\":15}],\"starterAction\":\"Open the chapter 5 vocabulary list and copy word 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "escribir un dialogo entre dos amigos planeando un viaje",
+      "subject": "Spanish III",
+      "description": "One page, present tense.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notebook and write the two friends' names at the top\",\"minutes\":5},{\"title\":\"Write the first four lines of dialogue\",\"minutes\":20},{\"title\":\"Write the remaining dialogue about the trip\",\"minutes\":30},{\"title\":\"Read the dialogue aloud and time it\",\"minutes\":15},{\"title\":\"Check every verb is in the present tense\",\"minutes\":15}],\"starterAction\":\"Open your notebook and write the two friends' names at the top\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "informe oral sobre un pais hispanohablante, notas de investigacion",
+      "subject": "Spanish III",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a blank page and write the country name at the top\",\"minutes\":5},{\"title\":\"List five facts about the country's geography\",\"minutes\":20},{\"title\":\"List five facts about a cultural tradition\",\"minutes\":20},{\"title\":\"Write three sentences connecting the facts into notes\",\"minutes\":20},{\"title\":\"Time yourself reading the notes aloud\",\"minutes\":15}],\"starterAction\":\"Open a blank page and write the country name at the top\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "subject pronouns and -er verb conjugation matching worksheet",
+      "subject": "Spanish I",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the first pronoun\",\"minutes\":5},{\"title\":\"Match pronouns to verb endings for problems 1 through 3\",\"minutes\":10},{\"title\":\"Match pronouns to verb endings for problems 4 through 6\",\"minutes\":10},{\"title\":\"Match the remaining pronouns for problems 7 through 9\",\"minutes\":10},{\"title\":\"Match the remaining pronouns for problems 10 through 12\",\"minutes\":10},{\"title\":\"Check three matches against the conjugation chart\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the first pronoun\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "practice free response: reply to a friend's message about a lost item",
+      "subject": "AP Spanish Language",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the prompt and copy the original message from your friend\",\"minutes\":5},{\"title\":\"Write the greeting and opening line\",\"minutes\":15},{\"title\":\"Write the body describing the lost item\",\"minutes\":25},{\"title\":\"Write the closing line\",\"minutes\":15},{\"title\":\"Check your reply word count is under 100 words\",\"minutes\":15}],\"starterAction\":\"Open the prompt and copy the original message from your friend\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "direct object pronouns lo/la/los/las, chapter 6 worksheet, ten sentences",
+      "subject": "Spanish II",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the chapter 6 worksheet and copy sentence 1\",\"minutes\":5},{\"title\":\"Circle the noun sentence 1 is replacing\",\"minutes\":10},{\"title\":\"Rewrite sentences 1 through 5 using lo, la, los, or las\",\"minutes\":25},{\"title\":\"Rewrite sentences 6 through 10 the same way\",\"minutes\":25},{\"title\":\"Check two rewrites against the pronoun placement rule\",\"minutes\":15}],\"starterAction\":\"Open the chapter 6 worksheet and copy sentence 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "numeros del 1 al 100, worksheet counting by tens and fives",
+      "subject": "Spanish I",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and write the number 1 in Spanish\",\"minutes\":5},{\"title\":\"Write the numbers by tens from 10 to 50\",\"minutes\":10},{\"title\":\"Write the numbers by tens from 60 to 100\",\"minutes\":10},{\"title\":\"Note the numbers by fives from 5 to 45\",\"minutes\":10},{\"title\":\"Note the numbers by fives from 50 to 95\",\"minutes\":10},{\"title\":\"Check five numbers against the number chart\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and write the number 1 in Spanish\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "subjunctive mood practice: expressing doubt, worksheet 7.3",
+      "subject": "Spanish III",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open worksheet 7.3 and copy sentence 1\",\"minutes\":5},{\"title\":\"Write the subjunctive form of the verb for sentences 1 through 3\",\"minutes\":13},{\"title\":\"Write the subjunctive form of the verb for sentences 4 and 5\",\"minutes\":12},{\"title\":\"Note the subjunctive form for sentences 6 through 8\",\"minutes\":13},{\"title\":\"Note the subjunctive form for sentences 9 and 10\",\"minutes\":12},{\"title\":\"Check one sentence against the subjunctive trigger list\",\"minutes\":15}],\"starterAction\":\"Open worksheet 7.3 and copy sentence 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "cultural presentation notes on Dia de los Muertos traditions",
+      "subject": "Spanish II",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a blank page and write the holiday name at the top\",\"minutes\":5},{\"title\":\"List three traditions associated with the holiday\",\"minutes\":20},{\"title\":\"List two foods traditionally served\",\"minutes\":15},{\"title\":\"Write four sentences connecting the traditions into notes\",\"minutes\":25},{\"title\":\"Time yourself reading your notes aloud\",\"minutes\":15}],\"starterAction\":\"Open a blank page and write the holiday name at the top\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "family vocabulary tree diagram labeling ten relatives in Spanish",
+      "subject": "Spanish I",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the family tree outline\",\"minutes\":5},{\"title\":\"Label the first three relatives in Spanish\",\"minutes\":12},{\"title\":\"Label the next three relatives in Spanish\",\"minutes\":12},{\"title\":\"Label the remaining four relatives in Spanish\",\"minutes\":16},{\"title\":\"Check three labels against the vocabulary list\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the family tree outline\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "comparativos y superlativos worksheet, problems 1-8",
+      "subject": "Spanish II",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy problem 1's two items\",\"minutes\":5},{\"title\":\"Write the comparative sentence for problems 1 and 2\",\"minutes\":13},{\"title\":\"Write the comparative sentence for problems 3 and 4\",\"minutes\":12},{\"title\":\"Write the superlative sentence for problems 5 and 6\",\"minutes\":13},{\"title\":\"Write the superlative sentence for problems 7 and 8\",\"minutes\":12},{\"title\":\"Check one sentence against the comparison rule\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy problem 1's two items\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "listening comprehension worksheet: audio weather forecast, questions 1-8",
+      "subject": "Spanish III",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and read question 1 before listening\",\"minutes\":5},{\"title\":\"Play the forecast once and answer questions 1 and 2\",\"minutes\":10},{\"title\":\"Answer questions 3 and 4 from the same forecast\",\"minutes\":10},{\"title\":\"Play the forecast again and answer questions 5 and 6\",\"minutes\":10},{\"title\":\"Answer questions 7 and 8 from the second listen\",\"minutes\":10},{\"title\":\"Check two answers against the audio script\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and read question 1 before listening\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "greetings and classroom phrases dialogue skit in Spanish, with a partner",
+      "subject": "Spanish I",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the first greeting line\",\"minutes\":5},{\"title\":\"Write your half of the dialogue for lines 1 through 4\",\"minutes\":20},{\"title\":\"Write the remaining lines with your partner's lines\",\"minutes\":25},{\"title\":\"Rehearse the dialogue once out loud\",\"minutes\":20},{\"title\":\"Time the full skit to check it is under two minutes\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy the first greeting line\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "ir + a + infinitive worksheet: writing ten sentences about weekend plans",
+      "subject": "Spanish I",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the first activity given\",\"minutes\":5},{\"title\":\"Write sentences 1 through 3 using ir plus a plus the infinitive\",\"minutes\":12},{\"title\":\"Write sentences 6 through 8 using ir plus a plus the infinitive\",\"minutes\":12},{\"title\":\"Write sentences 4, 5, 9, and 10 using ir plus a plus the infinitive\",\"minutes\":16},{\"title\":\"Check every sentence uses the correct infinitive\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the first activity given\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "lecture du chapitre 2 du Petit Prince, la demande dessine-moi un mouton",
+      "subject": "French III",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the book to chapter 2 and copy the first line\",\"minutes\":5},{\"title\":\"Read the chapter and highlight where the little prince asks for a sheep\",\"minutes\":20},{\"title\":\"Write two sentences summarizing what happens in the chapter\",\"minutes\":20},{\"title\":\"Write one sentence about how the narrator reacts\",\"minutes\":15},{\"title\":\"Check your summary is written entirely in French\",\"minutes\":15}],\"starterAction\":\"Open the book to chapter 2 and copy the first line\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "passe compose avec avoir, exercices 1-10",
+      "subject": "French II",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the infinitive of verb 1\",\"minutes\":5},{\"title\":\"Write the past participle for verbs 1 through 5\",\"minutes\":15},{\"title\":\"Write the full passe compose sentence for verbs 1 through 5\",\"minutes\":20},{\"title\":\"Note the past participle and full sentence for verbs 6 through 10\",\"minutes\":30},{\"title\":\"Check three sentences against the participle chart\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy the infinitive of verb 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "dictee audio du chapitre 3, ecrire les phrases dictees",
+      "subject": "French II",
+      "description": "Five dictated sentences.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a blank page and write today's date\",\"minutes\":5},{\"title\":\"Write the first three sentences as you hear them\",\"minutes\":20},{\"title\":\"Replay the audio once and fill in any missed words\",\"minutes\":15},{\"title\":\"Write the remaining two sentences as you hear them\",\"minutes\":15},{\"title\":\"Check your spelling against the chapter 3 vocabulary list\",\"minutes\":15}],\"starterAction\":\"Open a blank page and write today's date\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "rediger une recette de cuisine francaise, dix etapes numerotees",
+      "subject": "French III",
+      "description": "Five ingredients.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a blank page and list five ingredients for the dish\",\"minutes\":15},{\"title\":\"Write the first five preparation steps in order\",\"minutes\":20},{\"title\":\"Write the remaining five preparation steps\",\"minutes\":20},{\"title\":\"Number every step from one to ten\",\"minutes\":10},{\"title\":\"Check every step starts with a cooking verb in French\",\"minutes\":15}],\"starterAction\":\"Open a blank page and list five ingredients for the dish\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "fiche de recherche sur la Tour Eiffel, cinq faits",
+      "subject": "French II",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a blank page and sketch the monument outline\",\"minutes\":15},{\"title\":\"Write the monument height and construction year\",\"minutes\":15},{\"title\":\"Write three more facts about its history\",\"minutes\":20},{\"title\":\"Label your sketch with the five facts\",\"minutes\":20},{\"title\":\"Time yourself presenting the fact sheet aloud\",\"minutes\":15}],\"starterAction\":\"Open a blank page and sketch the monument outline\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "pronoms relatifs qui et que, exercices 1-10",
+      "subject": "French III",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy sentence 1\",\"minutes\":5},{\"title\":\"Circle the antecedent in sentences 1 through 5\",\"minutes\":15},{\"title\":\"Write qui or que for sentences 1 through 5\",\"minutes\":20},{\"title\":\"Mark the antecedent and write qui or que for sentences 6 through 10\",\"minutes\":30},{\"title\":\"Check two sentences against the relative pronoun rule\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy sentence 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "comprehension d'une chanson francaise, completer les paroles manquantes",
+      "subject": "French II",
+      "description": "Ten blanks.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the lyric sheet and read the first line\",\"minutes\":5},{\"title\":\"Press play on the song once and fill in blanks 1 through 5\",\"minutes\":20},{\"title\":\"Play the song again and fill in blanks 6 through 10\",\"minutes\":20},{\"title\":\"Check three answers against the rhyme in each verse\",\"minutes\":15}],\"starterAction\":\"Open the lyric sheet and read the first line\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "lecture d'une bande dessinee de Tintin, resume de l'intrigue",
+      "subject": "French I",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the comic to the first page and look at the panels\",\"minutes\":10},{\"title\":\"List the first three events shown in the panels\",\"minutes\":20},{\"title\":\"List the remaining events through the last page\",\"minutes\":20},{\"title\":\"Write a four-sentence summary of the plot in French\",\"minutes\":25}],\"starterAction\":\"Open the comic to the first page and look at the panels\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "planning de la semaine au futur proche, cinq jours",
+      "subject": "French I",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a blank page and write the five day names across the top\",\"minutes\":10},{\"title\":\"Write one futur proche sentence each for Monday and Tuesday\",\"minutes\":20},{\"title\":\"Write one futur proche sentence each for Wednesday through Friday\",\"minutes\":25},{\"title\":\"Read your planner aloud and check every verb uses aller\",\"minutes\":15}],\"starterAction\":\"Open a blank page and write the five day names across the top\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "expressions idiomatiques avec avoir, exercice d'association",
+      "subject": "French I",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy avoir faim, the first idiom\",\"minutes\":5},{\"title\":\"Match avoir faim, avoir soif, and avoir peur to their meaning\",\"minutes\":20},{\"title\":\"Match avoir raison and avoir tort to their meaning\",\"minutes\":20},{\"title\":\"Check two matches against the idiom list\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy avoir faim, the first idiom\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "explication d'un poeme de Jacques Prevert, la premiere strophe",
+      "subject": "AP French Language",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the poem and copy its first line\",\"minutes\":5},{\"title\":\"Underline every repeated word in the first stanza\",\"minutes\":20},{\"title\":\"Write two sentences on what the repetition creates\",\"minutes\":20},{\"title\":\"Write one sentence on the stanza tone\",\"minutes\":20},{\"title\":\"Check your sentences are written in French\",\"minutes\":15}],\"starterAction\":\"Open the poem and copy its first line\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "l'imperatif: donner des ordres, exercices 1-10",
+      "subject": "French II",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy sentence 1\",\"minutes\":5},{\"title\":\"Write the command form for sentences 1 through 3\",\"minutes\":12},{\"title\":\"Note the command form for sentences 6 through 8\",\"minutes\":12},{\"title\":\"Record the command form for sentences 4, 5, 9, and 10\",\"minutes\":16},{\"title\":\"Check one command against the imperative conjugation chart\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy sentence 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "presentation sur un plat regional, la ratatouille",
+      "subject": "French III",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a blank page and write the dish name at the top\",\"minutes\":5},{\"title\":\"List the five main ingredients\",\"minutes\":15},{\"title\":\"List two facts about the region the dish comes from\",\"minutes\":20},{\"title\":\"Write three sentences describing how it is served\",\"minutes\":25},{\"title\":\"Time yourself presenting your notes aloud\",\"minutes\":15}],\"starterAction\":\"Open a blank page and write the dish name at the top\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "prise de notes sur un episode de balado en francais",
+      "subject": "AP French Language",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a blank page and write the episode topic at the top\",\"minutes\":5},{\"title\":\"Write the first three points made in the first half\",\"minutes\":20},{\"title\":\"Write the remaining points made in the second half\",\"minutes\":20},{\"title\":\"Write a two-sentence summary of the episode\",\"minutes\":20}],\"starterAction\":\"Open a blank page and write the episode topic at the top\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "lettre a un correspondant decrivant sa ville",
+      "subject": "French II",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a blank page and write the greeting line\",\"minutes\":5},{\"title\":\"Write two sentences describing your town's location\",\"minutes\":15},{\"title\":\"Write two sentences describing something to do there\",\"minutes\":20},{\"title\":\"Write the closing line\",\"minutes\":10},{\"title\":\"Check every sentence ends with correct punctuation\",\"minutes\":15}],\"starterAction\":\"Open a blank page and write the greeting line\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "adjectifs possessifs: mon, ma, mes, exercices 1-10",
+      "subject": "French I",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy sentence 1\",\"minutes\":5},{\"title\":\"Write mon, ma, or mes for sentences 1 through 3\",\"minutes\":12},{\"title\":\"Note mon, ma, or mes for sentences 6 through 8\",\"minutes\":12},{\"title\":\"Record mon, ma, or mes for sentences 4, 5, 9, and 10\",\"minutes\":16},{\"title\":\"Check two answers against the gender and number rule\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy sentence 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "lecture de Cendrillon, remettre les evenements dans l'ordre",
+      "subject": "French I",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the story and read the first page\",\"minutes\":10},{\"title\":\"List every event mentioned in the story\",\"minutes\":20},{\"title\":\"Number each event from first to last\",\"minutes\":15},{\"title\":\"Check your order against the story ending\",\"minutes\":15}],\"starterAction\":\"Open the story and read the first page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "reading response: Lord of the Flies chapters 1-3, focus on Piggy's glasses",
+      "subject": "English 9",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the book to chapter 1 and copy its first line\",\"minutes\":5},{\"title\":\"Read chapters 1 through 3 and highlight every mention of the glasses Piggy wears\",\"minutes\":25},{\"title\":\"Write three sentences on why the glasses matter to the group\",\"minutes\":20},{\"title\":\"Answer the study guide questions for chapters 1 through 3\",\"minutes\":20},{\"title\":\"Check your answers cite a page number each\",\"minutes\":15}],\"starterAction\":\"Open the book to chapter 1 and copy its first line\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "annotate Of Mice and Men chapter 3, George and Candy's dream conversation",
+      "subject": "English 9",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the book to chapter 3 and find the dream conversation\",\"minutes\":5},{\"title\":\"Highlight every line where George describes the farm\",\"minutes\":20},{\"title\":\"Write one note in the margin next to the offer Candy makes\",\"minutes\":20},{\"title\":\"Answer the three study guide questions for the scene\",\"minutes\":15}],\"starterAction\":\"Open the book to chapter 3 and find the dream conversation\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Animal Farm chapters 1-2, tracking Napoleon and Snowball's first disagreement",
+      "subject": "English 10",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the book to chapter 2 and copy the seven commandments list\",\"minutes\":5},{\"title\":\"Read chapters 1 and 2, underlining every line spoken by Napoleon\",\"minutes\":25},{\"title\":\"Underline every line spoken by Snowball\",\"minutes\":20},{\"title\":\"Write two sentences comparing their first disagreement\",\"minutes\":20},{\"title\":\"Check every underline has a page number noted\",\"minutes\":15}],\"starterAction\":\"Open the book to chapter 2 and copy the seven commandments list\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Fahrenheit 451 part one, listing every object Montag hides",
+      "subject": "English 10",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the book to part one and copy its opening line\",\"minutes\":5},{\"title\":\"List every object Montag hides in the first half\",\"minutes\":20},{\"title\":\"List the remaining objects from the second half\",\"minutes\":20},{\"title\":\"Circle the object mentioned most often\",\"minutes\":15}],\"starterAction\":\"Open the book to part one and copy its opening line\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "The Scarlet Letter chapters 1-4, symbolism of the letter A worksheet",
+      "subject": "English 11",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 60
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the book to chapter 1 and copy its first line\",\"minutes\":5},{\"title\":\"Highlight every description of the letter A in chapters 1 and 2\",\"minutes\":25},{\"title\":\"Highlight the descriptions in chapters 3 and 4\",\"minutes\":25},{\"title\":\"Write two sentences on how the symbol changes\",\"minutes\":20},{\"title\":\"Answer the worksheet's three questions\",\"minutes\":20}],\"starterAction\":\"Open the book to chapter 1 and copy its first line\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Frankenstein volume 1, tracing Victor's reasons for creating the creature",
+      "subject": "English 11",
+      "description": "Chapter 4.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the book to volume 1, chapter 4\",\"minutes\":5},{\"title\":\"List the reasons Victor states for the experiment\",\"minutes\":20},{\"title\":\"List the warning signs he ignores\",\"minutes\":20},{\"title\":\"Write a two-sentence summary connecting the reasons to the outcome\",\"minutes\":20},{\"title\":\"Check every listed reason has a page number\",\"minutes\":15}],\"starterAction\":\"Open the book to volume 1, chapter 4\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Macbeth act 2 scene 1, annotating the dagger soliloquy",
+      "subject": "Honors English",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the play to act 2 scene 1 and copy the first line of the soliloquy\",\"minutes\":5},{\"title\":\"Underline every reference to blood in the scene\",\"minutes\":25},{\"title\":\"Mark every reference to sleep\",\"minutes\":20},{\"title\":\"Write two sentences on what the imagery reveals about Macbeth\",\"minutes\":20},{\"title\":\"Check your annotations against the scene stage directions\",\"minutes\":15}],\"starterAction\":\"Open the play to act 2 scene 1 and copy the first line of the soliloquy\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Hamlet act 3 scene 1, close reading the opening lines of the soliloquy",
+      "subject": "Honors English",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the play to act 3 scene 1 and copy the soliloquy first line\",\"minutes\":5},{\"title\":\"Highlight every question Hamlet asks himself\",\"minutes\":25},{\"title\":\"Write three sentences paraphrasing the central question\",\"minutes\":25},{\"title\":\"Answer the close-reading worksheet's four questions\",\"minutes\":25},{\"title\":\"Check every answer quotes a line from the soliloquy\",\"minutes\":15}],\"starterAction\":\"Open the play to act 3 scene 1 and copy the soliloquy first line\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Julius Caesar act 3 scene 2, comparing Brutus's and Antony's speeches",
+      "subject": "AP Literature",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the play to act 3 scene 2 and copy the first line Brutus speaks\",\"minutes\":5},{\"title\":\"List three rhetorical techniques Brutus uses\",\"minutes\":20},{\"title\":\"Name three rhetorical techniques Antony uses\",\"minutes\":20},{\"title\":\"Write a paragraph comparing the crowd reaction to each speech\",\"minutes\":30},{\"title\":\"Check every technique cited has a line number\",\"minutes\":15}],\"starterAction\":\"Open the play to act 3 scene 2 and copy the first line Brutus speaks\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "The Crucible act 1, listing every accusation made and by whom",
+      "subject": "AP Literature",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the play to act 1 and copy the first accusation made\",\"minutes\":5},{\"title\":\"List every accusation and the accuser for the first half\",\"minutes\":20},{\"title\":\"List the remaining accusations for the second half\",\"minutes\":20},{\"title\":\"Circle the accusation that starts the chain reaction\",\"minutes\":15}],\"starterAction\":\"Open the play to act 1 and copy the first accusation made\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "1984 part one, tracking every mention of the telescreen",
+      "subject": "English 12",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the book to part one, chapter one\",\"minutes\":5},{\"title\":\"List every scene where the telescreen appears\",\"minutes\":20},{\"title\":\"Write two sentences on what each appearance reveals about surveillance\",\"minutes\":25},{\"title\":\"Answer the study guide's three questions\",\"minutes\":20},{\"title\":\"Check your list is in chapter order\",\"minutes\":15}],\"starterAction\":\"Open the book to part one, chapter one\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Their Eyes Were Watching God chapters 1-3, tracking Janie's changing view of marriage",
+      "subject": "English 12",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the book to chapter 1 and copy its first line\",\"minutes\":5},{\"title\":\"Highlight every mention of the marriages Janie enters in chapters 1 and 2\",\"minutes\":25},{\"title\":\"Highlight the mentions in chapter 3\",\"minutes\":20},{\"title\":\"Write three sentences tracking how her view changes\",\"minutes\":25},{\"title\":\"Check every highlight has a page number noted\",\"minutes\":15}],\"starterAction\":\"Open the book to chapter 1 and copy its first line\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "A Raisin in the Sun act 1, listing Walter's, Beneatha's, and Mama's dreams for the insurance money",
+      "subject": "English 9",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the play to act 1 scene 1\",\"minutes\":5},{\"title\":\"List the dream Walter states for the money\",\"minutes\":15},{\"title\":\"List the dreams Beneatha and Mama state\",\"minutes\":20},{\"title\":\"Circle whose dream is mentioned first in the scene\",\"minutes\":15}],\"starterAction\":\"Open the play to act 1 scene 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "write a found poem using only lines from The Alchemist chapter 2",
+      "subject": "Creative Writing",
+      "description": "Ten lines.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the book to chapter 2 and copy five lines that stand out\",\"minutes\":15},{\"title\":\"Cut the lines down to the strongest phrases\",\"minutes\":20},{\"title\":\"Arrange the phrases into a ten-line poem\",\"minutes\":25},{\"title\":\"Read your poem aloud and time it\",\"minutes\":15}],\"starterAction\":\"Open the book to chapter 2 and copy five lines that stand out\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "The Odyssey book 9, sequencing the Cyclops episode's events",
+      "subject": "World Literature",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the book to book 9 and copy the first line of the Cyclops episode\",\"minutes\":5},{\"title\":\"List every event in the episode in order\",\"minutes\":25},{\"title\":\"Number each event from first to last\",\"minutes\":15},{\"title\":\"Check your sequence by rereading the episode once more\",\"minutes\":15}],\"starterAction\":\"Open the book to book 9 and copy the first line of the Cyclops episode\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Antigone, comparing Antigone's and Creon's arguments in the debate scene",
+      "subject": "World Literature",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the play to the debate scene and copy the first line Antigone speaks\",\"minutes\":5},{\"title\":\"List the three main arguments Antigone makes\",\"minutes\":20},{\"title\":\"Name the three main arguments Creon makes\",\"minutes\":20},{\"title\":\"Write a paragraph comparing which argument is stronger\",\"minutes\":30},{\"title\":\"Check every argument cites a line\",\"minutes\":15}],\"starterAction\":\"Open the play to the debate scene and copy the first line Antigone speaks\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "close reading of Sonnet 18's final couplet, annotate the meter",
+      "subject": "AP Literature",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the poem and copy the final couplet\",\"minutes\":5},{\"title\":\"Mark the stressed and unstressed syllables in the couplet's first line\",\"minutes\":20},{\"title\":\"Mark the syllables in the couplet's second line\",\"minutes\":20},{\"title\":\"Write two sentences on how the meter shifts at the end\",\"minutes\":20},{\"title\":\"Check your marks against the rhyme scheme\",\"minutes\":15}],\"starterAction\":\"Open the poem and copy the final couplet\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "der die das gender practice worksheet, problems 1-15",
+      "subject": "German I",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy noun 1\",\"minutes\":5},{\"title\":\"Write der, die, or das for nouns 1 through 8\",\"minutes\":20},{\"title\":\"Write the article for nouns 9 through 15\",\"minutes\":20},{\"title\":\"Check three answers against the gender chart\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy noun 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "separable verb worksheet: aufstehen and anrufen sentences",
+      "subject": "German II",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy sentence 1\",\"minutes\":5},{\"title\":\"Rewrite sentences 1 through 5 splitting the separable verb\",\"minutes\":25},{\"title\":\"Rewrite sentences 6 through 10\",\"minutes\":25},{\"title\":\"Check one sentence against the word-order rule\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy sentence 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "modal verbs practice: expressing ability and permission, worksheet 5.1",
+      "subject": "German III",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open worksheet 5.1 and copy sentence 1\",\"minutes\":5},{\"title\":\"Write the conjugated modal verb for sentences 1 through 5\",\"minutes\":20},{\"title\":\"Note the conjugated modal verb for sentences 6 through 10\",\"minutes\":20},{\"title\":\"Check two sentences against the modal verb chart\",\"minutes\":15}],\"starterAction\":\"Open worksheet 5.1 and copy sentence 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "declining puella in all five cases, singular and plural",
+      "subject": "Latin I",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the notebook and write the nominative singular puella\",\"minutes\":5},{\"title\":\"Write the four remaining singular cases\",\"minutes\":20},{\"title\":\"Write all five plural cases\",\"minutes\":20},{\"title\":\"Check your endings against the first declension chart\",\"minutes\":15}],\"starterAction\":\"Open the notebook and write the nominative singular puella\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "translating the first ten lines of De Bello Gallico's Rhine crossing passage",
+      "subject": "Latin II",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 60
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the textbook and copy line 1 of the passage\",\"minutes\":5},{\"title\":\"Underline every verb in lines 1 through 5\",\"minutes\":15},{\"title\":\"Translate lines 1 through 5\",\"minutes\":25},{\"title\":\"Mark every verb and translate lines 6 through 10\",\"minutes\":35},{\"title\":\"Check your translation against the vocabulary list\",\"minutes\":20}],\"starterAction\":\"Open the textbook and copy line 1 of the passage\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "identifying ablative absolute constructions in the assigned reading",
+      "subject": "Latin II",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the textbook and copy the first sentence of the reading\",\"minutes\":5},{\"title\":\"Circle every ablative absolute in the first half\",\"minutes\":20},{\"title\":\"Circle the remaining ablative absolutes\",\"minutes\":20},{\"title\":\"Write the literal translation for two of them\",\"minutes\":20}],\"starterAction\":\"Open the textbook and copy the first sentence of the reading\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "writing the stroke order for the first ten characters in unit 3",
+      "subject": "Mandarin I",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the character sheet and copy character 1\",\"minutes\":5},{\"title\":\"Write characters 1 through 5, five times each\",\"minutes\":20},{\"title\":\"Write characters 6 through 10, five times each\",\"minutes\":20},{\"title\":\"Check your stroke order against the reference sheet\",\"minutes\":15}],\"starterAction\":\"Open the character sheet and copy character 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "measure word matching worksheet, pairing nouns with the correct classifier",
+      "subject": "Mandarin II",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy noun 1\",\"minutes\":5},{\"title\":\"Match measure words to nouns 1 through 8\",\"minutes\":20},{\"title\":\"Match the measure words to nouns 9 through 16\",\"minutes\":20},{\"title\":\"Check three matches against the classifier list\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy noun 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "hiragana writing practice for the first ten characters of the syllabary",
+      "subject": "Japanese I",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the practice sheet and copy the first character\",\"minutes\":5},{\"title\":\"Write the first five characters five times each\",\"minutes\":20},{\"title\":\"Write the next five characters five times each\",\"minutes\":20},{\"title\":\"Check your strokes against the stroke-order chart\",\"minutes\":15}],\"starterAction\":\"Open the practice sheet and copy the first character\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "particle practice: wa, ga, and o in ten example sentences",
+      "subject": "Japanese II",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy sentence 1\",\"minutes\":5},{\"title\":\"Fill in the particle for sentences 1 through 5\",\"minutes\":20},{\"title\":\"Fill in the particle for sentences 6 through 10\",\"minutes\":20},{\"title\":\"Check two sentences against the particle rule sheet\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy sentence 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "essere vs avere conjugation worksheet, problems 1-10",
+      "subject": "Italian I",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy problem 1's sentence\",\"minutes\":5},{\"title\":\"Write essere or avere for problems 1 through 5\",\"minutes\":20},{\"title\":\"Note essere or avere for problems 6 through 10\",\"minutes\":20},{\"title\":\"Check two answers against the verb chart\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy problem 1's sentence\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "vocabolario del capitolo 3: il cibo, quiz prep flashcards",
+      "subject": "Italian II",
+      "description": "Twenty vocabulary words.",
+      "duePhrase": "Friday",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the chapter 3 vocabulary list and copy word 1\",\"minutes\":5},{\"title\":\"Write a flashcard for the first ten words\",\"minutes\":20},{\"title\":\"Write flashcards for the remaining words\",\"minutes\":20},{\"title\":\"Time yourself naming all twenty cards\",\"minutes\":15}],\"starterAction\":\"Open the chapter 3 vocabulary list and copy word 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "practicing the ASL alphabet, fingerspelling your first and last name",
+      "subject": "American Sign Language",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the alphabet chart and find the first letter of your name\",\"minutes\":5},{\"title\":\"Practice fingerspelling your first name ten times\",\"minutes\":20},{\"title\":\"Rehearse fingerspelling your last name ten times\",\"minutes\":20},{\"title\":\"Time yourself signing both names in under ten seconds\",\"minutes\":15}],\"starterAction\":\"Open the alphabet chart and find the first letter of your name\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "vocabulary quiz prep: signs for ten family member terms",
+      "subject": "American Sign Language",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the vocabulary sheet and copy the name of sign 1\",\"minutes\":5},{\"title\":\"Practice the first five family signs\",\"minutes\":20},{\"title\":\"Practice the remaining five signs\",\"minutes\":20},{\"title\":\"Time yourself signing all ten in order\",\"minutes\":15}],\"starterAction\":\"Open the vocabulary sheet and copy the name of sign 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "greetings and farewells dialogue practice in German, with a partner",
+      "subject": "German I",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the first line of the dialogue\",\"minutes\":5},{\"title\":\"Write your lines for the first half of the dialogue\",\"minutes\":20},{\"title\":\"Write the remaining lines with your partner's lines\",\"minutes\":25},{\"title\":\"Rehearse the dialogue once out loud\",\"minutes\":20},{\"title\":\"Time the full skit to check it is under two minutes\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy the first line of the dialogue\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "vocabulary quiz prep: first declension nouns list, unit 4",
+      "subject": "Latin I",
+      "description": "Twenty nouns.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the unit 4 vocabulary list and copy word 1\",\"minutes\":5},{\"title\":\"Write a flashcard for the first ten nouns\",\"minutes\":20},{\"title\":\"Write flashcards for the remaining nouns\",\"minutes\":20},{\"title\":\"Time yourself naming all twenty cards\",\"minutes\":15}],\"starterAction\":\"Open the unit 4 vocabulary list and copy word 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "tone practice worksheet marking the four tones on pinyin syllables",
+      "subject": "Mandarin I",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy syllable 1\",\"minutes\":5},{\"title\":\"Note the tone for syllables 1 through 10\",\"minutes\":20},{\"title\":\"Mark the tone for syllables 11 through 20\",\"minutes\":20},{\"title\":\"Check three marks against the audio recording\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy syllable 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "reading comprehension worksheet: answer 6 questions after the short story",
+      "subject": "ESL",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the story packet and read the title and first paragraph\",\"minutes\":5},{\"title\":\"Answer questions 1 through 3 after reading page 1\",\"minutes\":20},{\"title\":\"Read page 2 and answer questions 4 through 6\",\"minutes\":20},{\"title\":\"Check each answer points to a sentence in the story\",\"minutes\":15}],\"starterAction\":\"Open the story packet and read the title and first paragraph\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "vocabulary worksheet: matching ten new words to their definitions",
+      "subject": "ELL",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy word 1\",\"minutes\":5},{\"title\":\"Match words 1 through 5 to their definitions\",\"minutes\":20},{\"title\":\"Match words 6 through 10\",\"minutes\":20},{\"title\":\"Check three matches against the glossary page\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy word 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "oral reading fluency log: read the assigned page aloud and time it",
+      "subject": "ESL",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the book to the assigned page\",\"minutes\":5},{\"title\":\"Read the first half of the page aloud, timing yourself\",\"minutes\":15},{\"title\":\"Read the second half aloud, timing yourself\",\"minutes\":15},{\"title\":\"Write both times in the fluency log\",\"minutes\":10}],\"starterAction\":\"Open the book to the assigned page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "sentence structure worksheet: rewriting five run-on sentences",
+      "subject": "ELL",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy sentence 1\",\"minutes\":5},{\"title\":\"Split sentences 1 and 2 into two sentences each\",\"minutes\":20},{\"title\":\"Split sentences 3 through 5\",\"minutes\":20},{\"title\":\"Check every new sentence has a capital letter and period\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy sentence 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "picture dictionary project: labeling ten kitchen objects",
+      "subject": "ESL",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a blank page and draw the first kitchen object\",\"minutes\":15},{\"title\":\"Draw four more kitchen objects\",\"minutes\":20},{\"title\":\"Draw the remaining five kitchen objects\",\"minutes\":25},{\"title\":\"Label all ten drawings with their vocabulary word\",\"minutes\":25}],\"starterAction\":\"Open a blank page and draw the first kitchen object\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "grammar worksheet: past tense of ten irregular verbs",
+      "subject": "ELL",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy verb 1\",\"minutes\":5},{\"title\":\"Write the past tense for verbs 1 through 5\",\"minutes\":20},{\"title\":\"Note the past tense for verbs 6 through 10\",\"minutes\":20},{\"title\":\"Check three answers against the irregular verb list\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy verb 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "reading log: write three sentences about last night's assigned pages",
+      "subject": "ESL",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the reading log and write today's date\",\"minutes\":5},{\"title\":\"Write one sentence about who was in the story\",\"minutes\":15},{\"title\":\"Write one sentence about where it happened\",\"minutes\":15},{\"title\":\"Record one sentence about what happened first\",\"minutes\":15}],\"starterAction\":\"Open the reading log and write today's date\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "conversation practice worksheet: answering five personal questions in complete sentences",
+      "subject": "ELL",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy question 1\",\"minutes\":5},{\"title\":\"Write a complete-sentence answer for questions 1 through 3\",\"minutes\":20},{\"title\":\"Write answers for questions 4 and 5\",\"minutes\":15},{\"title\":\"Check every answer starts with a capital letter\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy question 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "phonics worksheet: sorting twelve words by their vowel sound",
+      "subject": "ESL",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy word 1\",\"minutes\":5},{\"title\":\"Sort words 1 through 6 into the correct vowel column\",\"minutes\":20},{\"title\":\"Sort words 7 through 12\",\"minutes\":20},{\"title\":\"Check two columns against the answer key\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy word 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "writing prompt: describe your family in five sentences",
+      "subject": "ELL",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a blank page and write your name at the top\",\"minutes\":5},{\"title\":\"Write two sentences describing who is in your family\",\"minutes\":20},{\"title\":\"Write three more sentences about something you do together\",\"minutes\":25},{\"title\":\"Check every sentence ends with a period\",\"minutes\":15}],\"starterAction\":\"Open a blank page and write your name at the top\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "listening worksheet: filling in the missing words from the audio story",
+      "subject": "ESL",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and read the first blank sentence\",\"minutes\":5},{\"title\":\"Fill in blanks 1 through 5 after listening once\",\"minutes\":20},{\"title\":\"Fill in blanks 6 through 10 after listening again\",\"minutes\":20},{\"title\":\"Check two answers against the word bank\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and read the first blank sentence\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "reading response worksheet: circling the main idea in each paragraph",
+      "subject": "ELL",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the passage and read paragraph 1\",\"minutes\":5},{\"title\":\"Circle the main idea sentence in paragraphs 1 and 2\",\"minutes\":20},{\"title\":\"Mark the main idea sentence in paragraphs 3 and 4\",\"minutes\":20},{\"title\":\"Check each circled sentence answers what the paragraph is about\",\"minutes\":15}],\"starterAction\":\"Open the passage and read paragraph 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "vocabulary flashcards for the ten new words in this week's story",
+      "subject": "ESL",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the word list and copy word 1\",\"minutes\":5},{\"title\":\"Write a flashcard for the first five words\",\"minutes\":20},{\"title\":\"Write flashcards for the remaining five words\",\"minutes\":20},{\"title\":\"Time yourself naming all ten cards\",\"minutes\":15}],\"starterAction\":\"Open the word list and copy word 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "writing worksheet: putting ten scrambled sentences in the correct word order",
+      "subject": "ELL",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the scrambled words of sentence 1\",\"minutes\":5},{\"title\":\"Put sentences 1 through 5 in the correct order\",\"minutes\":20},{\"title\":\"Put sentences 6 through 10 in the correct order\",\"minutes\":20},{\"title\":\"Check three sentences read correctly aloud\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the scrambled words of sentence 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "dialogue reading: practice the restaurant conversation with a partner",
+      "subject": "ESL",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the dialogue script and copy the first line\",\"minutes\":5},{\"title\":\"Read your part for lines 1 through 6\",\"minutes\":15},{\"title\":\"Read your part for lines 7 through 12 aloud\",\"minutes\":15},{\"title\":\"Time the full dialogue with your partner\",\"minutes\":15}],\"starterAction\":\"Open the dialogue script and copy the first line\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "reading comprehension: answer true or false for ten statements about the story",
+      "subject": "ELL",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy statement 1\",\"minutes\":5},{\"title\":\"Circle true or false for statements 1 through 5\",\"minutes\":20},{\"title\":\"Mark true or false for statements 6 through 10\",\"minutes\":20},{\"title\":\"Check three answers against the story text\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy statement 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "handwriting practice worksheet: copying the assigned paragraph in cursive",
+      "subject": "ESL",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the first sentence in cursive\",\"minutes\":10},{\"title\":\"Copy the second and third sentences\",\"minutes\":20},{\"title\":\"Copy the remaining sentences\",\"minutes\":20},{\"title\":\"Check your letters match the practice guide\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the first sentence in cursive\"}"
+  }
+]

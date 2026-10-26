@@ -1,0 +1,175 @@
+# Extraction records - the messy short stuff a student pastes when it is not a
+# syllabus: group chats, parent texts, coach and club messages, reminder-app
+# dumps, Canvas and Classroom notification lines, lowercase notes with typos.
+# Every dueInDays counts from the record's own `today` per EXTRACTION_BRIEF.md.
+
+# --- today = Monday (Tue 1, Wed 2, Thu 3, Fri 4, Sat 5, Sun 6, Mon 7; next Tue 8, next Wed 9, next Thu 10, next Fri 11)
+
+x | Monday | yo did u do the bio hw its due tmrw i literally forgot we had it | Biology homework:1:Biology
+x | Monday | wait is the apush dbq due wed or thurs. its wed. also dont forget the apush dbq we have to print it out and bring it | DBQ essay:2:AP US History
+x | Monday | hey sweetie dad is picking u up at 4. remember the field trip form has to be signed and turned in by wednesday. also put ur laundry away tonight | Turn in the signed field trip form:2 ; Put the laundry away:0
+x | Monday | Track team - physicals paperwork is due friday or you cant compete. practice is at 3 every day this week same as usual, nothing to bring | Physicals paperwork:4:Track
+x | Monday | Canvas notification - New assignment posted in Chemistry Honors. Lab safety contract, due tomorrow at 1159pm | Lab safety contract:1:Chemistry Honors
+x | Monday | stuff to do - finish calc pset due thurs - email ms reyes tonight about the makeup quiz - buy poster board tmrw for the spanish project | Calculus problem set:3:Calculus ; Email Ms Reyes about the makeup quiz:0 ; Buy poster board:1:Spanish
+x | Monday | my mom says i have to be home by 10 on school nights now. thats it. no hw tonight bc the teacher was out and the sub just let us watch a movie | -
+x | Monday | BRO the english essay is due TODAY at 3 not friday. check the classroom post. i almost didnt turn it in | English essay:0:English
+x | Monday | idk if u saw but in ap bio she said the ch 7 packet is due wed and then the unit test is next monday. also lab notebook check friday | Chapter 7 packet:2:AP Biology ; Unit test:7:AP Biology ; Lab notebook check:4:AP Biology
+x | Monday | reminfer - retrun the libary bookd tomorow and pya the yearbok fee by fridya | Return the library books:1 ; Pay the yearbook fee:4
+x | Monday | group chat recap. lit essay tuesday, chem prelab wednesday, and the spanish speaking thing friday. thats all i wrote down | Essay:1:Literature ; Prelab:2:Chemistry ; Speaking assessment:4:Spanish
+x | Monday | does anyone else think its weird we have a fire drill every monday. anyway nothing due this week in art she said just keep working on the piece | -
+x | Monday | mom text - i put the dr note on the counter give it to the attendance office tomorrow. also your uncle is coming friday so the guest room needs to be cleaned by then | Give the doctor note to the attendance office:1 ; Clean the guest room:4
+x | Monday | Canvas - New assignment. AP Human Geography, Population Pyramid Analysis, due Thursday 1159pm | Population pyramid analysis:3:AP Human Geography
+x | Monday | she said the ap lit essay is due next monday and the annotations are due this friday. dont mix them up like last time | Essay:7:AP Literature ; Annotations:4:AP Literature
+x | Monday | Volleyball - the fundraiser envelopes with the money have to be back by wednesday. Practice is normal all week and we are running the stairs so eat something | Return the fundraiser envelope with the money:2:Volleyball
+x | Monday | list - flashcards for the french quiz tuesday - trig worksheet due tomorrow - pay the ap exam fee by friday - ask mr byrne for a rec letter tomorrow | French quiz:1:French ; Trigonometry worksheet:1:Trigonometry ; Pay the AP exam fee:4 ; Ask Mr Byrne for a recommendation letter:1
+x | Monday | i forgto that the goverment curernt event writeup is due wendesday | Current event writeup:2:Government
+x | Monday | week plan - bio ch 8 notes tomorrow - math test wednesday - english rough draft thursday - history reading friday - lab safety quiz next tuesday | Chapter 8 notes:1:Biology ; Test:2:Math ; Rough draft:3:English ; Reading:4:History ; Lab safety quiz:8
+x | Monday | the assembly is during 4th period tomorrow so that class is cancelled. no work was assigned and the teacher said just relax and come back ready | -
+x | Monday | ok so in econ we got the market project today, proposal due wednesday and the full thing due next wednesday. also read the article tonight | Project proposal:2:Economics ; Market project:9:Economics ; Read the article:0:Economics
+x | Monday | the drivers ed permission form is due friday. my dad already signed it. drivers ed form friday dont forget it again | Drivers ed permission form:4
+x | Monday | screenshot from the class group chat - hw for tomorrow is the ch 1 vocab. quiz thursday. and the signed syllabus page is due friday | Chapter 1 vocabulary:1 ; Quiz:3 ; Signed syllabus page:4
+
+# --- today = Tuesday (Wed 1, Thu 2, Fri 3, Sat 4, Sun 5, Mon 6, Tue 7; next Wed 8, next Thu 9, next Fri 10)
+
+x | Tuesday | does anyone have the geometry notes from yesterday. also quiz fri right? she said quiz fri like four times | Quiz:3:Geometry
+x | Tuesday | Grandma is coming Sunday so please clean your room before then. Also your dentist appointment is Thursday at 330 dont forget. Love you | Clean your room:5 ; Dentist appointment:2
+x | Tuesday | Key Club - dues are 15 dollars and are due by friday to be on the roster. Bring the volunteer hour log to the meeting wednesday. Meetings are every wednesday in room 208 | Pay the club dues:3:Key Club ; Bring the volunteer hour log:1:Key Club
+x | Tuesday | Google Classroom - Mr Okafor posted Vocabulary Unit 4 in World Literature. Due Thursday | Vocabulary Unit 4:2:World Literature
+x | Tuesday | hw - read ch 12 pg 240-255 for hist due thurs, math wksht 6.3 due tmrw, quiz fri on ch 12 | Read chapter 12:2:History ; Worksheet 6.3:1:Math ; Quiz on chapter 12:3:History
+x | Tuesday | half day tmrw for parent conferences so no homework tonight. we just watched a documentary in class and she isnt collecting the notes | -
+x | Tuesday | omg the scholarship essay thing is due TODAY by 5pm i thought it was next week. i am panicking a little bit | Scholarship essay:0
+x | Tuesday | to do - spanish flashcards tmrw - chem lab writeup thurs - permission slip for the museum trip fri - study for the sat vocab quiz monday | Spanish flashcards:1:Spanish ; Lab writeup:2:Chemistry ; Museum trip permission slip:3 ; Study for the SAT vocabulary quiz:6
+x | Tuesday | Soccer - uniform fee needs to be turned in by wednesday. Away game thursday, bus at 2. Practice is cancelled friday so sleep in | Turn in the uniform fee:1:Soccer
+x | Tuesday | she moved the apes test to next friday which is nice but the field notebook is still due thursday | Unit test:10:AP Environmental Science ; Field notebook:2:AP Environmental Science
+x | Tuesday | yo group chat check. the psych reading response is due tomorrow and the group slides are due friday. who is doing the intro slide | Reading response:1:Psychology ; Group slides:3:Psychology
+x | Tuesday | she gave us the whole period to work on it so most people finished in class. nothing to take home tonight for algebra | -
+x | Tuesday | hey its mom. the orthodontist moved you to friday at 3 so tell your teacher tomorrow. also the field trip money is due wednesday and i left cash in the drawer | Tell the teacher about the appointment:1 ; Turn in the field trip money:1
+x | Tuesday | Canvas - Upcoming. Honors Physics, Projectile Motion Problem Set, due Thursday. Attempts allowed 2 | Projectile motion problem set:2:Honors Physics
+x | Tuesday | notes - return the jersey to coach wednesday - nhs application due friday - study apush ch 12 for the quiz thursday - text about the ride monday | Return the jersey:1 ; National Honor Society application:3 ; Chapter 12 quiz:2:AP US History ; Text about the ride:6
+x | Tuesday | Yearbook - senior quotes and baby photos need to be submitted by friday or you get the default one. Meeting thursday in the lab, come if you can | Submit the senior quote and baby photo:3:Yearbook
+x | Tuesday | dont forgt the enlgish vocab quzi is thrusday and the anotated bibliogaphy is due mondya | Vocabulary quiz:2:English ; Annotated bibliography:6:English
+x | Tuesday | coach said practice is optional today bc of the heat. nothing to bring, nothing due, just show up if you feel like running | -
+x | Tuesday | so mrs alvarez in stats said the ch 5 hw is due tomorrow and then we have a test friday and the project is due next friday | Chapter 5 homework:1:Statistics ; Test:3:Statistics ; Project:10:Statistics
+x | Tuesday | the college app supplement has to be submitted by 1159 tonight. i am not doing that to myself again | Submit the college application supplement:0
+x | Tuesday | school email - Picture retakes are wednesday, bring your old photo package if you have one. Locker cleanout forms are due friday. Have a great week | Bring the old photo package:1 ; Locker cleanout form:3
+x | Tuesday | the library fine has to be paid by friday or they hold your report card. its like 3 dollars i think | Pay the library fine:3
+
+# --- today = Wednesday (Thu 1, Fri 2, Sat 3, Sun 4, Mon 5, Tue 6, Wed 7; next Thu 8, next Fri 9)
+
+x | Wednesday | yo the physics lab is due by the end of class today. if u didnt do the graph just do it now i am serious | Physics lab:0:Physics
+x | Wednesday | Mom - I signed the form its in your backpack. Turn it in tomorrow. Also we are leaving for your cousins thing saturday so finish your homework friday | Turn in the signed form:1 ; Finish the homework:2
+x | Wednesday | Canvas - Assignment Due Tomorrow. Algebra 2 Honors, Section 4.6 practice set. Submitted 0 of 24 questions | Section 4.6 practice set:1:Algebra 2 Honors
+x | Wednesday | wait when is the ap lang rhetorical analysis due. monday. its monday. i already put it in my phone twice | Rhetorical analysis essay:5:AP Language
+x | Wednesday | the sub didnt give us anything today she just took attendance and let us have a study hall. so nothing for chem | -
+x | Wednesday | notes app - band fundraiser money fri - return the calculator to mrs lin thurs - art sketchbook 3 pages due monday - college essay draft to mr diaz by friday - laundry tonight | Fundraiser money:2:Band ; Return the calculator:1 ; Sketchbook pages:5:Art ; College essay draft:2 ; Do the laundry:0
+x | Wednesday | Swim - suits and caps order form due thursday. Morning practice is 545am starting monday. Team photos next tuesday, wear your warmups | Suit and cap order form:1:Swim
+x | Wednesday | dont froget the hisotry projcet outlien is due fri and the biboliography is due nxt wed | Project outline:2:History ; Bibliography:7:History
+x | Wednesday | so in stats mr patel said the ch 4 hw is due tomorrow and the test got pushed to next monday which is clutch honestly | Chapter 4 homework:1:Statistics ; Unit test:5:Statistics
+x | Wednesday | hey can you drop the rent check at the office tomorrow morning before school. its on the counter in the envelope | Drop the rent check at the office:1
+x | Wednesday | did u see the classroom post. the bio lab report is due thursday and the ch 9 quiz is monday. also she wants the safety contract signed by thursday | Lab report:1:Biology ; Chapter 9 quiz:5:Biology ; Signed safety contract:1:Biology
+x | Wednesday | the wifi was down the whole period so we couldnt do the online thing. she said we will just do it in class next time, nothing to do tonight | -
+x | Wednesday | your father and i need you to babysit your sister friday night. also nice job on that math test | Babysit your sister:2
+x | Wednesday | todo - chem homework tonight - art critique paragraph thursday - buy a gift for the exchange monday - lit test friday - renew the library book tomorrow | Homework:0:Chemistry ; Critique paragraph:1:Art ; Buy a gift for the exchange:5 ; Test:2:Literature ; Renew the library book:1
+x | Wednesday | Google Classroom - Assignment returned in Algebra 1. Quiz 3 corrections are required and due Friday to earn the points back | Quiz 3 corrections:2:Algebra 1
+x | Wednesday | Track - the meet entry form is due tomorrow and spikes have to be checked by the coach thursday. Also the team dinner is saturday, bring a side dish | Meet entry form:1:Track ; Get the spikes checked:1:Track ; Bring a side dish to the team dinner:3:Track
+x | Wednesday | so the field trip got cancelled bc the bus company messed up. no forms needed anymore and the money is being refunded next week | -
+x | Wednesday | reminder - turnin the schollarship recomendation packet by mondya and finsh the resume draft tomorow | Turn in the scholarship recommendation packet:5 ; Finish the resume draft:1
+x | Wednesday | for ap gov we have to read the two articles by tomorrow and the fed 10 analysis is due next monday. the test got moved to next thursday | Read the two articles:1:AP Government ; Federalist 10 analysis:5:AP Government ; Unit test:8:AP Government
+x | Wednesday | she is collecting the poetry packets at the end of class today. mine is in my locker im gonna go get it right now | Poetry packet:0
+x | Wednesday | wait so the spanish essay is due friday right. yes friday. and the presentation is monday. ok cool thx for confirming | Essay:2:Spanish ; Presentation:5:Spanish
+
+# --- today = Thursday (Fri 1, Sat 2, Sun 3, Mon 4, Tue 5, Wed 6, Thu 7; next Fri 8, next Mon 4, next Tue 5, next Wed 6)
+
+x | Thursday | did anyone start the econ reading. its ch 9 and 10 due tmrw and theres a quiz on it monday | Chapters 9 and 10 reading:1:Economics ; Quiz:4:Economics
+x | Thursday | THE PERMISSION SLIP IS DUE TODAY. mrs cole said last period today or you cant go on the trip at all | Turn in the permission slip:0
+x | Thursday | no practice today coach is sick. also no hw in bio she just did a review game the whole period and nothing to turn in | -
+x | Thursday | Google Classroom - New announcement in AP Psych. The unit 3 study guide is optional and will not be collected. Test is next tuesday | Unit 3 test:5:AP Psychology
+x | Thursday | todo - french oral practice tonight - lit annotations for ch 6 due tmrw - pick up the graduation gown order form and turn it in by monday - venmo kayla for the ticket tomorrow | Oral practice:0:French ; Chapter 6 annotations:1:Literature ; Turn in the graduation gown order form:4 ; Venmo Kayla for the ticket:1
+x | Thursday | Robotics - the competition registration form and the 40 dollar fee are due tomorrow. Build night is friday and saturday, come if you can | Competition registration form and fee:1:Robotics
+x | Thursday | pls dont forgt to email ur counselor abut the schedual change tonihgt and the physical form is due monday for sports | Email the counselor about the schedule change:0 ; Physical form:4
+x | Thursday | the chem lab writeup is due friday. FRIDAY. she said it twice. also the corrections on the last test are due friday too | Lab writeup:1:Chemistry ; Test corrections:1:Chemistry
+x | Thursday | just realized the summer reading response is due sunday not next week. ugh i have not started it | Summer reading response:3
+x | Thursday | we have a sub in spanish tmrw so the presentation moved to next wednesday but the vocab quiz is still tomorrow | Presentation:6:Spanish ; Vocabulary quiz:1:Spanish
+x | Thursday | text from mom - dont forget the dentist tomorrow at 4 and you need to bring the insurance card. the school forms are due monday too | Dentist appointment:1 ; Bring the insurance card:1 ; School forms:4
+x | Thursday | study hall today was actually a study hall. no assignments went out in any class, everyone is just prepping for next week | -
+x | Thursday | Canvas - New quiz available. AP Statistics, Chapter 7 Reading Check, closes Sunday at 1159pm | Chapter 7 reading check:3:AP Statistics
+x | Thursday | list - print the lab packet tonight - bio test tomorrow - order the club tshirt by monday - drop off the recycling saturday | Print the lab packet:0 ; Test:1:Biology ; Order the club tshirt:4 ; Drop off the recycling:2
+x | Thursday | Model UN - position papers are due sunday night and the conference fee has to be paid by next tuesday. Practice debates are during lunch friday | Position paper:3:Model UN ; Pay the conference fee:5:Model UN
+x | Thursday | he said in calc that the only thing due this week is the ch 3 review so at least thats easy for once | Chapter 3 review:1:Calculus
+x | Thursday | i keep forgeting - the goverment quiz is fridya and the artcile summry is due mondya morning | Quiz:1:Government ; Article summary:4:Government
+x | Thursday | she said the essay prompt wont be posted until next week so theres nothing to start yet. just read whatever you want tonight | -
+x | Thursday | ok what do we have. chem lab tomorrow, apush frq monday, spanish vocab tuesday, and the english book is supposed to be done by wednesday | Lab:1:Chemistry ; FRQ:4:AP US History ; Vocabulary:5:Spanish ; Finish the book:6:English
+x | Thursday | the counselor needs the schedule change form signed and back by the end of the day today or youre stuck in that class | Signed schedule change form:0
+x | Thursday | hi honey, i paid the lunch account. can you please turn in the free lunch application tomorrow and clean the bathroom saturday | Turn in the free lunch application:1 ; Clean the bathroom:2
+
+# --- today = Friday (Sat 1, Sun 2, Mon 3, Tue 4, Wed 5, Thu 6, Fri 7)
+
+x | Friday | anyone know what the hw is over the weekend. i think its the packet for gov due monday and thats it | Packet:3:Government
+x | Friday | Your dads flight lands sunday. Please have the kitchen cleaned by then and take the trash out tonight. Also the school picture money is due tuesday | Clean the kitchen:2 ; Take the trash out:0 ; School picture money:4
+x | Friday | im so glad its friday. no homework this weekend in any class. sarah said the bio quiz got moved but she didnt say to when | -
+x | Friday | Canvas - Grade posted. World History Unit 4 exam, 82 out of 100. No action needed | -
+x | Friday | the yearbook photo submission closes TODAY at midnight. upload your senior quote and photo before then or you get skipped | Upload the senior photo and quote:0:Yearbook
+x | Friday | weekend list - apush timeline due monday - read pg 88-104 in lit by tuesday - clean out my locker before monday - study for the calc quiz wednesday | Timeline:3:AP US History ; Read pages 88-104:4:Literature ; Clean out my locker:3 ; Study for the quiz:5:Calculus
+x | Friday | Cross country - the invitational is saturday, meet at the school at 630am. Everyone still needs to hand in the athlete code of conduct by monday | Athlete code of conduct:3:Cross Country
+x | Friday | reminde me to prnit the reasearch paper befor school monday and bring the flash drieve | Print the research paper:3 ; Bring the flash drive:3
+x | Friday | in ap chem the mole lab is due tuesday. also for ap chem dont forget the mole lab needs the error analysis section | Mole lab:4:AP Chemistry
+x | Friday | hey its ms tran, gentle reminder that the missing homework from unit 2 has to be submitted by monday to count for credit | Unit 2 missing homework:3
+x | Friday | group chat - homework check. gov reading monday, chem test tuesday, and the art project is due wednesday. anyone have the gov reading pages | Reading:3:Government ; Test:4:Chemistry ; Project:5:Art
+x | Friday | no hw this weekend she literally said enjoy your weekend. the only thing is the test but thats not till after break | -
+x | Friday | Canvas - Assignment posted in AP Biology. Cell Respiration Concept Map, due Tuesday at 8am | Cell respiration concept map:4:AP Biology
+x | Friday | weekend - laundry today - econ ch 6 notes monday - fill out the job application by monday - practice the piano piece for the recital sunday - text coach tonight about the ride | Do the laundry:0 ; Chapter 6 notes:3:Economics ; Fill out the job application:3 ; Practice the recital piece:2 ; Text coach about the ride:0
+x | Friday | Wrestling - weigh in cards need to be signed by a parent and handed in monday. Open mat is saturday morning if you want extra reps | Signed weigh in card:3:Wrestling
+x | Friday | dont forgt - the histroy timeline is due mondya and the review packet is due tusday and i still need to buy poster boadr before monday | Timeline:3:History ; Review packet:4:History ; Buy poster board:3
+x | Friday | the club meeting got moved to next week and nothing is due. just think about what committee you want to be on | -
+x | Friday | in ceramics we have to have the bowl trimmed by monday and the glaze test tile is due wednesday. also bring an apron tuesday | Trim the bowl:3:Ceramics ; Glaze test tile:5:Ceramics ; Bring an apron:4:Ceramics
+x | Friday | the aftercare form is due today by 4 and the office closes then. my mom already signed it i just have to walk it over | Turn in the aftercare form:0
+x | Friday | reminder from dad - your car registration thing is monday, bring the paperwork. the registration paperwork is on the fridge. also mow saturday | Bring the registration paperwork:3 ; Mow the lawn:1
+x | Friday | Google Classroom - Two assignments due soon in Spanish 3. Verb conjugation set due Monday and the cultural presentation due Wednesday | Verb conjugation set:3:Spanish 3 ; Cultural presentation:5:Spanish 3
+
+# --- today = Saturday (Sun 1, Mon 2, Tue 3, Wed 4, Thu 5, Fri 6, Sat 7; next Mon 2 ... next Fri 6, next Sun 8)
+
+x | Saturday | wait is the essay due sunday night or monday morning. its sunday night at 1159. i just checked classroom | Essay:1
+x | Saturday | Dont forget you said you would help me at the store tomorrow morning. And your permission form for the college visit is due wednesday | Help at the store:1 ; College visit permission form:4
+x | Saturday | practice got moved to 9am instead of 8. nothing else to bring, coach has the water and the cones. see u there | -
+x | Saturday | sunday plan - finish the bio study guide today - apush notes due monday - text jordan about the group project meeting tomorrow - order the cap and gown by friday | Study guide:0:Biology ; Notes:2:AP US History ; Text Jordan about the group project meeting:1 ; Order the cap and gown:6
+x | Saturday | Debate - the tournament entry form is due next sunday, not this one. Bring a printed case to the meeting monday. Snacks are provided | Tournament entry form:8:Debate ; Bring a printed case:2:Debate
+x | Saturday | the fafsa thing my mom needs the tax doc TODAY she said. find it in the email and print it before she gets home | Print the tax document:0
+x | Saturday | Canvas - Reminder. Precalculus Honors, Chapter 6 review is due Monday at 8am. 0 of 30 questions submitted | Chapter 6 review:2:Precalculus Honors
+x | Saturday | mom sadi the orthodntist is tueasday at 2 and i hve to give the note to the ofice monday | Orthodontist appointment:3 ; Give the note to the office:2
+x | Saturday | so for anatomy we have to bring in a labeled diagram wednesday and the case study writeup is due next thursday | Labeled diagram:4:Anatomy ; Case study writeup:5:Anatomy
+x | Saturday | just remembered i have to finish the volunteer hours form and get it signed before monday or the honor society thing doesnt count | Volunteer hours form:2:National Honor Society
+x | Saturday | yo did anyone do the bio hw. its the ch 4 questions due monday and theres also the vocab sheet due tuesday i think | Chapter 4 questions:2:Biology ; Vocabulary sheet:3:Biology
+x | Saturday | practice was cancelled and coach said take the weekend off. nothing to turn in, no forms, just rest your legs and hydrate | -
+x | Saturday | please clean your room today before your aunt gets here. i am not asking again | Clean your room:0
+x | Saturday | sunday - finish the apush reading tonight - lit essay due monday - permission slip due wednesday - study for the french test thursday | Reading:0:AP US History ; Essay:2:Literature ; Permission slip:4 ; Study for the test:5:French
+x | Saturday | Canvas - Reminder. Environmental Science, Watershed Field Report is due Wednesday at 1159pm | Watershed field report:4:Environmental Science
+x | Saturday | Drama - memorize act one by monday and the costume measurement form is due next friday. Set build is sunday afternoon in the shop | Memorize act one:2:Drama ; Costume measurement form:6:Drama
+x | Saturday | so the tournament is off, not enough teams signed up. nothing to bring monday and the entry fee is getting refunded | -
+x | Saturday | i have to fnish the chem prelab befor monday and the mah worksheet is due tusday and turn in the libary book sundya | Prelab:2:Chemistry ; Worksheet:3:Math ; Turn in the library book:1
+x | Saturday | for ap lang the synthesis essay is due next sunday and the rhetorical terms quiz is monday. she also wants the article annotated by monday | Synthesis essay:8:AP Language ; Rhetorical terms quiz:2:AP Language ; Annotate the article:2:AP Language
+x | Saturday | the scholarship portal closes tonight at midnight so i have to upload the transcript today no matter what | Upload the transcript:0
+x | Saturday | hey your grandpa wants a call sunday. also the sports physical appointment is tuesday at 4 and the form has to go to the office wednesday | Call grandpa:1 ; Sports physical appointment:3 ; Take the form to the office:4
+
+# --- today = Sunday (Mon 1, Tue 2, Wed 3, Thu 4, Fri 5, Sat 6, Sun 7)
+
+x | Sunday | does anybody have the hw for tmrw. i think its the ch 2 questions for bio and the math pset is due wed | Chapter 2 questions:1:Biology ; Problem set:3:Math
+x | Sunday | Please get to bed early. Your permission slip and the 12 dollars are due tomorrow and I put them in your bag. Also call grandma tonight | Turn in the permission slip and money:1 ; Call grandma:0
+x | Sunday | sunday scaries but i checked classroom and literally nothing is due tomorrow. the sub in gov didnt assign anything and lit was a work day | -
+x | Sunday | week ahead - chem test tuesday - english essay outline monday - band uniform fitting form due friday - mow the lawn today | Test:2:Chemistry ; Essay outline:1:English ; Uniform fitting form:5:Band ; Mow the lawn:0
+x | Sunday | Basketball - tryouts start monday and you must have the physical packet turned in before you step on the court. Bring both shoes and a water bottle | Physical packet:1:Basketball ; Bring both shoes and a water bottle:1:Basketball
+x | Sunday | the online quiz for spanish closes tonight at 11. i forgot too, we can do it at the same time | Online quiz:0:Spanish
+x | Sunday | Google Classroom - Ms Whitfield posted Photosynthesis Lab Analysis in Biology I. Due Wednesday. Rubric attached | Photosynthesis lab analysis:3:Biology I
+x | Sunday | i hvae to fnish the aprt of the slidedeck for the grp projct by tusday and send it to elena tonigt | Finish my part of the slide deck:2 ; Send the slides to Elena:0
+x | Sunday | in world history the map quiz is thursday. also the map quiz is thursday not friday like ryan said in the chat | Map quiz:4:World History
+x | Sunday | coach texted the group. everyone needs to bring the signed concussion form to practice tomorrow no exceptions | Bring the signed concussion form:1
+x | Sunday | ok tomorrow we have the geometry quiz and the history notes are due. also the science fair proposal is due friday | Quiz:1:Geometry ; Notes:1:History ; Science fair proposal:5
+x | Sunday | i checked all three portals and nothing is assigned. the teachers are at a conference monday so its a half day and no classes after lunch | -
+x | Sunday | put the trash cans out tonight please and thank you. i left money for lunch on the table | Put the trash cans out:0
+x | Sunday | week - bio notes monday - chem lab report tuesday - english essay wednesday - math test thursday - college visit form due friday | Notes:1:Biology ; Lab report:2:Chemistry ; Essay:3:English ; Test:4:Math ; College visit form:5
+x | Sunday | Baseball - the equipment deposit check is due monday at the first practice. Practice is 3 to 5 every day this week, bring your own water | Equipment deposit check:1:Baseball
+x | Sunday | dont forgt the spansih projct is due wendesday and the vocab quzi is tomorow and i need to prnit the rubirc tonihgt | Project:3:Spanish ; Vocabulary quiz:1:Spanish ; Print the rubric:0:Spanish
+x | Sunday | so we finished the unit friday and she said the new one starts monday with nothing to prepare. i just have to show up on time | -
+x | Sunday | Canvas - Two items due this week in US History. Chapter 8 outline due Tuesday and the primary source analysis due Thursday | Chapter 8 outline:2:US History ; Primary source analysis:4:US History
+x | Sunday | in physics the lab is due wednesday. i keep saying it bc i forgot last time. the physics lab is wednesday. also the pset is due tomorrow | Lab:3:Physics ; Problem set:1:Physics
+x | Sunday | the online reading check closes today at 8pm and it doesnt reopen. do it before dinner seriously | Online reading check:0
+x | Sunday | ok list from the group chat. calc quiz monday, apes lab tuesday, gov reading wednesday, and the art portfolio is due friday | Quiz:1:Calculus ; Lab:2:AP Environmental Science ; Reading:3:Government ; Portfolio:5:Art

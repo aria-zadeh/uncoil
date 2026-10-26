@@ -1,0 +1,862 @@
+[
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Diagram the five sentences from the grammar packet",
+      "subject": "English 9",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and find sentence one\",\"minutes\":5},{\"title\":\"Copy the first sentence onto a blank sheet\",\"minutes\":10},{\"title\":\"Underline the subject and circle the verb in the first sentence\",\"minutes\":15},{\"title\":\"Draw branching lines for the next two sentences\",\"minutes\":20},{\"title\":\"Finish the branching lines for the last two sentences\",\"minutes\":20},{\"title\":\"Check all five diagrams against the example in the packet\",\"minutes\":15}],\"starterAction\":\"Open the packet and find sentence one\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Translate the assigned passage into modern English",
+      "subject": "World Literature",
+      "description": "Twenty lines.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the passage and read it once in the original wording\",\"minutes\":10},{\"title\":\"Underline every word you would need to look up\",\"minutes\":15},{\"title\":\"Write the modern version of the first half\",\"minutes\":25},{\"title\":\"Write the modern version of the second half\",\"minutes\":25},{\"title\":\"Read the translation aloud and check it still matches the original\",\"minutes\":15}],\"starterAction\":\"Open the passage and read it once in the original wording\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write an op-ed on the school's new phone policy",
+      "subject": "AP Language and Composition",
+      "description": "Three hundred words for the school paper.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down your opinion on the phone policy in one sentence\",\"minutes\":10},{\"title\":\"List three reasons that support your opinion\",\"minutes\":15},{\"title\":\"Write the opening paragraph naming the policy and your stance\",\"minutes\":20},{\"title\":\"Write the two paragraphs backing up your reasons\",\"minutes\":30},{\"title\":\"Write a closing line telling readers what you want to happen next\",\"minutes\":15},{\"title\":\"Count the words and trim the piece to three hundred\",\"minutes\":15}],\"starterAction\":\"Write down your opinion on the phone policy in one sentence\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a letter to the editor responding to last week's column",
+      "subject": "English 10",
+      "description": "One page.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the column and reread the paragraph that bothered you most\",\"minutes\":10},{\"title\":\"Write down the one point you want to answer\",\"minutes\":10},{\"title\":\"Write the opening line naming what you are responding to\",\"minutes\":20},{\"title\":\"Write the body making your counterpoint\",\"minutes\":25},{\"title\":\"Sign off with your name and grade level\",\"minutes\":5},{\"title\":\"Read the letter aloud and cut any sentence that repeats\",\"minutes\":15}],\"starterAction\":\"Find the column and reread the paragraph that bothered you most\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a dialogue scene between two characters who disagree",
+      "subject": "Creative Writing",
+      "description": "Two pages, no narration.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down what the two characters disagree about\",\"minutes\":10},{\"title\":\"List three lines each character might open with\",\"minutes\":15},{\"title\":\"Write the first page of back-and-forth dialogue\",\"minutes\":30},{\"title\":\"Write the second page of back-and-forth dialogue\",\"minutes\":30},{\"title\":\"Read both parts out loud in two different voices\",\"minutes\":15},{\"title\":\"Cut any line that does not sound like something a person would say\",\"minutes\":20}],\"starterAction\":\"Write down what the two characters disagree about\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Keep a character journal in the voice of a side character",
+      "subject": "AP Literature",
+      "description": "Five entries.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Pick which side character you will write as\",\"minutes\":5},{\"title\":\"Write down three things that character wants\",\"minutes\":10},{\"title\":\"Write the first entry in that character's voice\",\"minutes\":20},{\"title\":\"Write the next two entries the same way\",\"minutes\":30},{\"title\":\"Write the last two entries the same way\",\"minutes\":30},{\"title\":\"Read all five entries and check the voice stays consistent\",\"minutes\":20}],\"starterAction\":\"Pick which side character you will write as\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a blackout poem from a page of the assigned novel",
+      "subject": "English 11",
+      "description": "One page.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print a copy of one page from the novel\",\"minutes\":10},{\"title\":\"Read the page once straight through\",\"minutes\":10},{\"title\":\"Circle ten words that stand out to you\",\"minutes\":15},{\"title\":\"Cross out every other word on the page\",\"minutes\":20},{\"title\":\"Read the remaining words in order out loud\",\"minutes\":10}],\"starterAction\":\"Print a copy of one page from the novel\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a found poem using lines pulled from the short story",
+      "subject": "Honors English",
+      "description": "Twelve lines.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the short story and skim it once for lines that stand out\",\"minutes\":10},{\"title\":\"Copy twelve lines you might use onto a blank page\",\"minutes\":15},{\"title\":\"Cut the list down to the twelve strongest lines\",\"minutes\":15},{\"title\":\"Arrange the twelve lines into an order that builds\",\"minutes\":20},{\"title\":\"Type the final poem in that order\",\"minutes\":15},{\"title\":\"Read the poem aloud and check the order still makes sense\",\"minutes\":15}],\"starterAction\":\"Open the short story and skim it once for lines that stand out\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a sonnet in strict iambic pentameter",
+      "subject": "AP Literature",
+      "description": "Fourteen lines.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the one feeling or image the sonnet will explore\",\"minutes\":10},{\"title\":\"Write the first four lines and count the syllables in each\",\"minutes\":20},{\"title\":\"Write the next four lines and count the syllables in each\",\"minutes\":20},{\"title\":\"Write the third quatrain the same way\",\"minutes\":25},{\"title\":\"Write the final rhyming couplet\",\"minutes\":15},{\"title\":\"Read the whole poem aloud and mark any line that stumbles\",\"minutes\":20}],\"starterAction\":\"Write down the one feeling or image the sonnet will explore\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a villanelle using the assigned theme",
+      "subject": "English 12",
+      "description": "Nineteen lines.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the two refrain lines the poem will repeat\",\"minutes\":15},{\"title\":\"Write the first tercet ending in those two refrains\",\"minutes\":20},{\"title\":\"Write the second and third tercets\",\"minutes\":25},{\"title\":\"Write the fourth and fifth tercets\",\"minutes\":25},{\"title\":\"Write the closing quatrain using both refrains\",\"minutes\":20},{\"title\":\"Read the whole poem aloud and check both refrains repeat correctly\",\"minutes\":20}],\"starterAction\":\"Write down the two refrain lines the poem will repeat\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Look up the etymology of five words from the vocabulary list",
+      "subject": "English 9",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the first word at the top of a blank page\",\"minutes\":5},{\"title\":\"Look up where that word came from and note the original language\",\"minutes\":15},{\"title\":\"Write down the other four words down the side of the page\",\"minutes\":10},{\"title\":\"Look up the origin of each of the other four words\",\"minutes\":25},{\"title\":\"Write one sentence per word connecting the old meaning to the new one\",\"minutes\":20}],\"starterAction\":\"Write the first word at the top of a blank page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Cite the sources for the research paper in Chicago style",
+      "subject": "AP Language and Composition",
+      "description": "Footnotes, not endnotes.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the paper and find the first quote that needs a footnote\",\"minutes\":10},{\"title\":\"Write the footnote for the first three sources\",\"minutes\":20},{\"title\":\"Write the footnote for the remaining sources\",\"minutes\":20},{\"title\":\"Number every footnote in the order it appears in the paper\",\"minutes\":15},{\"title\":\"Check each footnote against the style guide's example\",\"minutes\":15}],\"starterAction\":\"Open the paper and find the first quote that needs a footnote\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a peer-review letter to a classmate about their essay draft",
+      "subject": "World Literature",
+      "description": "One full page.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Read your classmate's draft once all the way through\",\"minutes\":15},{\"title\":\"Write down two things the draft does well\",\"minutes\":10},{\"title\":\"Write down one question the draft left you with\",\"minutes\":10},{\"title\":\"Write the letter opening with what is working\",\"minutes\":15},{\"title\":\"Write the closing paragraph with one suggestion to try next\",\"minutes\":20},{\"title\":\"Hand the letter back before class ends\",\"minutes\":5}],\"starterAction\":\"Read your classmate's draft once all the way through\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Revise the essay's second paragraph to fix the evidence rubric line",
+      "subject": "English 10",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the essay and find the second paragraph\",\"minutes\":5},{\"title\":\"Read the rubric line about evidence one more time\",\"minutes\":10},{\"title\":\"Underline every sentence in that paragraph that lacks a quote\",\"minutes\":15},{\"title\":\"Rewrite the paragraph adding one quote per claim\",\"minutes\":25},{\"title\":\"Read the new paragraph next to the rubric line and check it matches\",\"minutes\":15}],\"starterAction\":\"Open the essay and find the second paragraph\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write seminar discussion questions on the novel's final chapter",
+      "subject": "AP Literature",
+      "description": "Six questions.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the final chapter and reread your annotations\",\"minutes\":10},{\"title\":\"Write down three moments that surprised you\",\"minutes\":15},{\"title\":\"Turn each moment into a question\",\"minutes\":15},{\"title\":\"Write three more questions about what happens after the ending\",\"minutes\":20},{\"title\":\"Read all six questions aloud and cut any that repeat\",\"minutes\":15}],\"starterAction\":\"Open the final chapter and reread your annotations\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Take notes from the recorded guest-speaker lecture",
+      "subject": "Journalism",
+      "description": "One page of notes.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the recording and play the first ten minutes\",\"minutes\":10},{\"title\":\"Write down every date or name you hear\",\"minutes\":15},{\"title\":\"Play the next ten minutes and pause after each main point\",\"minutes\":20},{\"title\":\"Write one line per main point you paused on\",\"minutes\":20},{\"title\":\"Read your notes back and number them in order\",\"minutes\":10}],\"starterAction\":\"Open the recording and play the first ten minutes\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Draft a bill for the mock congress simulation",
+      "subject": "US Government",
+      "description": "One page, three sections.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the problem your bill will try to fix\",\"minutes\":10},{\"title\":\"Write the first section naming what the bill does\",\"minutes\":20},{\"title\":\"Write the second section explaining how it would work\",\"minutes\":20},{\"title\":\"Write the third section explaining who enforces it\",\"minutes\":20},{\"title\":\"Read the whole bill aloud and check all three sections are there\",\"minutes\":15}],\"starterAction\":\"Write down the problem your bill will try to fix\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Read the class survey results and describe the trend",
+      "subject": "AP Psychology",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the results and count how many people answered\",\"minutes\":10},{\"title\":\"Write down the highest and lowest numbers in the results\",\"minutes\":10},{\"title\":\"Circle the answer that most people picked\",\"minutes\":10},{\"title\":\"Write two sentences describing what the numbers show\",\"minutes\":20},{\"title\":\"Write one sentence guessing why that pattern showed up\",\"minutes\":15}],\"starterAction\":\"Open the results and count how many people answered\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Compare two spending options and choose the better trade-off",
+      "subject": "Economics",
+      "description": "Use the worksheet numbers.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the first spending option's total\",\"minutes\":10},{\"title\":\"Copy the second spending option's total underneath it\",\"minutes\":10},{\"title\":\"List what each option gives up to afford its choices\",\"minutes\":20},{\"title\":\"Write two sentences saying which trade-off you would make\",\"minutes\":20},{\"title\":\"Check your numbers add up the same way the worksheet shows\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the first spending option's total\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Work through the assigned ethical case using the fairness test",
+      "subject": "Philosophy",
+      "description": "One page.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the case and write down who is affected by the decision\",\"minutes\":10},{\"title\":\"List what the fairness test asks you to check\",\"minutes\":15},{\"title\":\"Write down how the decision holds up under that test\",\"minutes\":20},{\"title\":\"Write the page explaining your answer\",\"minutes\":30},{\"title\":\"Read the page aloud and check every claim has a reason\",\"minutes\":15}],\"starterAction\":\"Open the case and write down who is affected by the decision\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Map the route of the Great Migration on a blank US map",
+      "subject": "Human Geography",
+      "description": "Label five destination cities.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the blank map and find the starting region\",\"minutes\":10},{\"title\":\"Trace the route north in pencil first\",\"minutes\":20},{\"title\":\"Mark each of the five destination cities with a dot\",\"minutes\":20},{\"title\":\"Label each dot with the city's name\",\"minutes\":20},{\"title\":\"Add a key explaining the line and the dots\",\"minutes\":15},{\"title\":\"Check all five cities from the assignment are marked\",\"minutes\":15}],\"starterAction\":\"Print the blank map and find the starting region\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Sequence the ten artifact images by date",
+      "subject": "Art History",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the ten artifact images and cut them apart\",\"minutes\":15},{\"title\":\"Lay all ten images out on a table\",\"minutes\":10},{\"title\":\"Sort the images into an order from oldest to newest guess\",\"minutes\":20},{\"title\":\"Write the reason under each image for its position\",\"minutes\":25},{\"title\":\"Check your order against the date list one more time\",\"minutes\":15}],\"starterAction\":\"Print the ten artifact images and cut them apart\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a museum exhibit review of the assigned online collection",
+      "subject": "Art History",
+      "description": "One page.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the collection and look through every piece once\",\"minutes\":15},{\"title\":\"Write down three pieces that stood out to you\",\"minutes\":15},{\"title\":\"Write the paragraph describing your first piece\",\"minutes\":20},{\"title\":\"Write the paragraph describing your other two pieces\",\"minutes\":30},{\"title\":\"Write a closing paragraph rating the exhibit overall\",\"minutes\":20},{\"title\":\"Read the review aloud and fix what sounds wrong\",\"minutes\":15}],\"starterAction\":\"Open the collection and look through every piece once\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Compare the creation narratives from two traditions covered in class",
+      "subject": "Religious Studies",
+      "description": "Two pages.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and list one detail from the first narrative\",\"minutes\":15},{\"title\":\"List one detail from the second narrative underneath it\",\"minutes\":15},{\"title\":\"Write down one thing the two narratives share\",\"minutes\":15},{\"title\":\"Write down one way the two narratives differ\",\"minutes\":15},{\"title\":\"Write the page comparing what they share\",\"minutes\":30},{\"title\":\"Write the page comparing how they differ\",\"minutes\":30}],\"starterAction\":\"Open your notes and list one detail from the first narrative\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Compare two historians' accounts of the same battle",
+      "subject": "US History",
+      "description": "One page.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open both accounts and write down each historian's main claim\",\"minutes\":15},{\"title\":\"List one fact the two accounts agree on\",\"minutes\":15},{\"title\":\"List one point where the two accounts disagree\",\"minutes\":15},{\"title\":\"Write the paragraph explaining where they agree\",\"minutes\":20},{\"title\":\"Write the paragraph explaining where they disagree\",\"minutes\":20},{\"title\":\"Write a closing sentence saying which account you find more convincing\",\"minutes\":15}],\"starterAction\":\"Open both accounts and write down each historian's main claim\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Triangulate three primary sources on the same event",
+      "subject": "AP US History",
+      "description": "One page.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the first source and write down its version of events\",\"minutes\":15},{\"title\":\"Open the second source and write down its version of events\",\"minutes\":15},{\"title\":\"Open the third source and write down its version of events\",\"minutes\":15},{\"title\":\"List every point where all three sources agree\",\"minutes\":20},{\"title\":\"Write the paragraph explaining the one place they conflict\",\"minutes\":25}],\"starterAction\":\"Open the first source and write down its version of events\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Transcribe the primary-source letter from the packet",
+      "subject": "World History",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and find the letter\",\"minutes\":5},{\"title\":\"Copy the first paragraph word for word\",\"minutes\":15},{\"title\":\"Copy the second paragraph word for word\",\"minutes\":15},{\"title\":\"Copy the remaining paragraphs word for word\",\"minutes\":20},{\"title\":\"Read your transcription against the original one line at a time\",\"minutes\":15}],\"starterAction\":\"Open the packet and find the letter\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Conduct an oral history interview and edit it into a short podcast",
+      "subject": "Ethnic Studies",
+      "description": "Three minutes.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"List five questions you want to ask about their story\",\"minutes\":15},{\"title\":\"Set your phone to record and do a ten-second test\",\"minutes\":10},{\"title\":\"Ask all five questions and record every answer\",\"minutes\":35},{\"title\":\"Play back the recording and mark the best thirty seconds of each answer\",\"minutes\":20},{\"title\":\"Cut the recording down to the marked sections\",\"minutes\":25},{\"title\":\"Play the final cut once and check it stays under three minutes\",\"minutes\":15}],\"starterAction\":\"List five questions you want to ask about their story\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a radio-style script narrating the debate topic's background",
+      "subject": "Speech and Debate",
+      "description": "Two minutes.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the one fact about the topic you most want listeners to know\",\"minutes\":10},{\"title\":\"List the three points the script needs to cover in order\",\"minutes\":15},{\"title\":\"Write the opening lines a narrator would read first\",\"minutes\":20},{\"title\":\"Write the rest of the script in order\",\"minutes\":30},{\"title\":\"Read the whole script aloud with a timer running\",\"minutes\":15}],\"starterAction\":\"Write down the one fact about the topic you most want listeners to know\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Log the sound choices shot by shot for the assigned scene",
+      "subject": "Film Studies",
+      "description": "One scene.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Watch the scene once with the sound on and the picture off\",\"minutes\":10},{\"title\":\"Watch the scene again and list every sound you hear in order\",\"minutes\":20},{\"title\":\"Write down what each sound adds to the mood\",\"minutes\":25},{\"title\":\"Write one sentence connecting the sounds to the scene's turning point\",\"minutes\":20},{\"title\":\"Check your list against the scene one more time\",\"minutes\":15}],\"starterAction\":\"Watch the scene once with the sound on and the picture off\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Narrow the broad topic of Reconstruction into one research question",
+      "subject": "AP US History",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find three subtopics of Reconstruction in your textbook's chapter list\",\"minutes\":10},{\"title\":\"Write down one question each subtopic makes you curious about\",\"minutes\":15},{\"title\":\"Circle the question you would most want to spend two weeks answering\",\"minutes\":5},{\"title\":\"Rewrite that question so it names a specific place or group\",\"minutes\":15},{\"title\":\"Read the final question aloud and check it cannot be answered in one sentence\",\"minutes\":15}],\"starterAction\":\"Find three subtopics of Reconstruction in your textbook's chapter list\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Read the assigned public-opinion poll and summarize what changed",
+      "subject": "Sociology",
+      "description": "Compare this year to last year.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the poll and find this year's top-line number\",\"minutes\":10},{\"title\":\"Find last year's top-line number in the packet\",\"minutes\":10},{\"title\":\"Write down the size of the change between the two years\",\"minutes\":15},{\"title\":\"List two groups whose answers shifted the most\",\"minutes\":20},{\"title\":\"Write two sentences explaining what might have caused the shift\",\"minutes\":25}],\"starterAction\":\"Open the poll and find this year's top-line number\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Compare two historians' interpretations of the Congress of Vienna",
+      "subject": "AP European History",
+      "description": "One page.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open both readings and write down each historian's main claim\",\"minutes\":15},{\"title\":\"List one piece of evidence the first historian leans on\",\"minutes\":15},{\"title\":\"List one piece of evidence the second historian leans on\",\"minutes\":15},{\"title\":\"Write the paragraph explaining where the two interpretations clash\",\"minutes\":25},{\"title\":\"Write a closing sentence saying which interpretation you find stronger\",\"minutes\":15}],\"starterAction\":\"Open both readings and write down each historian's main claim\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Compare two translations of the same poem's opening lines",
+      "subject": "World Literature",
+      "description": "Two versions provided in class.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Read the first translation of the opening lines twice\",\"minutes\":10},{\"title\":\"Read the second translation of the opening lines twice\",\"minutes\":10},{\"title\":\"Underline every word that differs between the two versions\",\"minutes\":20},{\"title\":\"Write down what each different word choice changes about the tone\",\"minutes\":25},{\"title\":\"Write a closing sentence saying which translation you prefer and why\",\"minutes\":15}],\"starterAction\":\"Read the first translation of the opening lines twice\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Compare how two political speeches use repetition",
+      "subject": "AP Language and Composition",
+      "description": "Both speeches are in the packet.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the first speech and underline every repeated phrase\",\"minutes\":15},{\"title\":\"Open the second speech and underline every repeated phrase\",\"minutes\":15},{\"title\":\"Count how many times each speech repeats its strongest line\",\"minutes\":15},{\"title\":\"Write the paragraph on how the first speech uses repetition\",\"minutes\":25},{\"title\":\"Write the paragraph on how the second speech uses repetition\",\"minutes\":25},{\"title\":\"Write a closing paragraph comparing which use felt more effective\",\"minutes\":20}],\"starterAction\":\"Open the first speech and underline every repeated phrase\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Compare two op-eds arguing opposite sides of the same issue",
+      "subject": "Journalism",
+      "description": "One page.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Read the first op-ed and write down its strongest claim\",\"minutes\":15},{\"title\":\"Read the second op-ed and write down its strongest claim\",\"minutes\":15},{\"title\":\"List one piece of evidence each writer leans on\",\"minutes\":15},{\"title\":\"Write the paragraph explaining where the two op-eds disagree most\",\"minutes\":20},{\"title\":\"Write a closing sentence saying which argument used stronger evidence\",\"minutes\":15}],\"starterAction\":\"Read the first op-ed and write down its strongest claim\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Compare the majority and dissenting opinions in the assigned case",
+      "subject": "US Government",
+      "description": "One page.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the case summary and write down the majority's main reason\",\"minutes\":15},{\"title\":\"Write down the dissent's main reason underneath it\",\"minutes\":15},{\"title\":\"List one point where the two opinions agree on the facts\",\"minutes\":15},{\"title\":\"Write the paragraph explaining why the dissent disagreed anyway\",\"minutes\":25},{\"title\":\"Write a closing sentence saying which reasoning you find more convincing\",\"minutes\":15}],\"starterAction\":\"Open the case summary and write down the majority's main reason\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Compare two paintings from the same decade",
+      "subject": "Art History",
+      "description": "One page.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open both images and write down one color choice in each\",\"minutes\":15},{\"title\":\"Write down one subject choice in each painting\",\"minutes\":15},{\"title\":\"List one way the two paintings feel similar\",\"minutes\":15},{\"title\":\"Write the paragraph on what the two paintings share\",\"minutes\":20},{\"title\":\"Write the paragraph on how the two paintings differ\",\"minutes\":25},{\"title\":\"Write a closing sentence saying which painting you find stronger\",\"minutes\":15}],\"starterAction\":\"Open both images and write down one color choice in each\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Compare coming-of-age rituals from two traditions covered in class",
+      "subject": "Religious Studies",
+      "description": "Two pages.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and list three details of the first ritual\",\"minutes\":15},{\"title\":\"List three details of the second ritual underneath it\",\"minutes\":15},{\"title\":\"Write down one purpose the two rituals seem to share\",\"minutes\":15},{\"title\":\"Write the page describing the first ritual in full\",\"minutes\":30},{\"title\":\"Write the page describing the second ritual in full\",\"minutes\":30},{\"title\":\"Read both pages back and check neither one is longer than the other\",\"minutes\":15}],\"starterAction\":\"Open your notes and list three details of the first ritual\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Narrow the broad topic of urban growth into one research question",
+      "subject": "Human Geography",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"List three cities from class you could research\",\"minutes\":10},{\"title\":\"Write down one question about growth that interests you for each city\",\"minutes\":20},{\"title\":\"Circle the question with the most specific place and time frame\",\"minutes\":10},{\"title\":\"Rewrite that question so it can be answered with data\",\"minutes\":15},{\"title\":\"Read the final question aloud and check it names one specific city\",\"minutes\":15}],\"starterAction\":\"List three cities from class you could research\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Narrow the broad topic of memory into one testable research question",
+      "subject": "AP Psychology",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"List three parts of memory covered so far in the unit\",\"minutes\":10},{\"title\":\"Write down one question about each part that you could test\",\"minutes\":20},{\"title\":\"Circle the question that names one specific comparison\",\"minutes\":10},{\"title\":\"Rewrite that question so it states what you would measure\",\"minutes\":15},{\"title\":\"Show the final version to a partner and ask if it sounds testable\",\"minutes\":15}],\"starterAction\":\"List three parts of memory covered so far in the unit\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a two-minute floor speech supporting your mock congress bill",
+      "subject": "Civics",
+      "description": "Two minutes.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the one line you most want the chamber to remember\",\"minutes\":10},{\"title\":\"List two reasons the bill deserves a yes vote\",\"minutes\":15},{\"title\":\"Write the opening lines naming the bill and your stance\",\"minutes\":20},{\"title\":\"Write the rest of the speech in order\",\"minutes\":25},{\"title\":\"Practise saying it out loud with a timer\",\"minutes\":20},{\"title\":\"Time yourself and check you land under two minutes\",\"minutes\":10}],\"starterAction\":\"Write down the one line you most want the chamber to remember\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Balance a mock city budget across three competing departments",
+      "subject": "Civics",
+      "description": "Use the worksheet totals.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the total budget at the top of a page\",\"minutes\":10},{\"title\":\"List how much each of the three departments is asking for\",\"minutes\":15},{\"title\":\"Add up the three requests and compare the total to the budget\",\"minutes\":20},{\"title\":\"Cut each department's request down until the totals match\",\"minutes\":25},{\"title\":\"Check your final numbers add up to the budget exactly\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the total budget at the top of a page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Read the case on the research-ethics violation and answer the questions",
+      "subject": "AP Psychology",
+      "description": "Read the case summary first.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the case summary and write down what the researchers did\",\"minutes\":15},{\"title\":\"Write down the rule the case says they broke\",\"minutes\":10},{\"title\":\"List the questions the assignment asks about the case\",\"minutes\":10},{\"title\":\"Answer each question using a detail from the summary\",\"minutes\":30},{\"title\":\"Read your answers aloud and check each one cites the summary\",\"minutes\":15}],\"starterAction\":\"Open the case summary and write down what the researchers did\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Sequence the six coin images by century",
+      "subject": "World History",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the six coin images and cut them into separate cards\",\"minutes\":15},{\"title\":\"Lay all six cards out on a table\",\"minutes\":10},{\"title\":\"Order the cards from oldest to newest by your best guess\",\"minutes\":20},{\"title\":\"Write one clue for each coin that hints at its date\",\"minutes\":25},{\"title\":\"Check your final order against the century list\",\"minutes\":15}],\"starterAction\":\"Print the six coin images and cut them into separate cards\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Map the trans-Saharan trade routes and label three trade cities",
+      "subject": "AP World History",
+      "description": "Label three trade cities.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the blank map and find the southern starting point\",\"minutes\":10},{\"title\":\"Trace the route north across the desert in pencil\",\"minutes\":20},{\"title\":\"Mark each of the three trade cities with a dot\",\"minutes\":15},{\"title\":\"Label each dot with the city's name\",\"minutes\":20},{\"title\":\"Add a key explaining the line and the dots\",\"minutes\":15},{\"title\":\"Check all three cities from the assignment are marked\",\"minutes\":15}],\"starterAction\":\"Print the blank map and find the southern starting point\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Map the routes of the Underground Railroad from three starting points",
+      "subject": "AP US History",
+      "description": "Label three starting points.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the blank map and find the three starting points listed\",\"minutes\":10},{\"title\":\"Trace the first route north in pencil\",\"minutes\":20},{\"title\":\"Trace the second and third routes north in pencil\",\"minutes\":25},{\"title\":\"Mark every stop along the three routes with a dot\",\"minutes\":20},{\"title\":\"Add a key explaining the lines and the dots\",\"minutes\":15},{\"title\":\"Check all three starting points from the assignment are labeled\",\"minutes\":15}],\"starterAction\":\"Print the blank map and find the three starting points listed\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write the strongest possible version of the opposing side's argument",
+      "subject": "Speech and Debate",
+      "description": "Half a page.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down your own side's weakest point\",\"minutes\":5},{\"title\":\"List two reasons the other side could attack that point\",\"minutes\":15},{\"title\":\"Write the opposing argument as if you believed it yourself\",\"minutes\":25},{\"title\":\"Write one sentence admitting where that argument is strongest\",\"minutes\":15},{\"title\":\"Read it back and cut any line that sounds like a strawman\",\"minutes\":15}],\"starterAction\":\"Write down your own side's weakest point\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write seminar discussion questions on the ethical-theories chapter",
+      "subject": "Philosophy",
+      "description": "Five questions.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the chapter and reread the theory definitions once\",\"minutes\":10},{\"title\":\"Write down two theories that seem to conflict with each other\",\"minutes\":15},{\"title\":\"Turn that conflict into a question for the seminar\",\"minutes\":15},{\"title\":\"Write three more questions about how the theories apply to real choices\",\"minutes\":20},{\"title\":\"Read all five questions aloud and cut any that repeat\",\"minutes\":15}],\"starterAction\":\"Open the chapter and reread the theory definitions once\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Take notes from the recorded sociology guest lecture on social class",
+      "subject": "Sociology",
+      "description": "One page of notes.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Play the recording's first ten minutes straight through\",\"minutes\":10},{\"title\":\"Write down every example the speaker gives\",\"minutes\":15},{\"title\":\"Play the next ten minutes and pause at each new term\",\"minutes\":20},{\"title\":\"Write one line defining each term you paused on\",\"minutes\":20},{\"title\":\"Number your notes in the order the speaker covered them\",\"minutes\":10}],\"starterAction\":\"Play the recording's first ten minutes straight through\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write three diary entries in the voice of a character from your short story",
+      "subject": "Creative Writing",
+      "description": "Three entries.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down what your character wants at the start of the story\",\"minutes\":10},{\"title\":\"Write the first diary entry in that character's voice\",\"minutes\":20},{\"title\":\"Write the second diary entry after the story's turning point\",\"minutes\":25},{\"title\":\"Write the third diary entry at the story's end\",\"minutes\":20},{\"title\":\"Read all three entries and check the voice stays consistent\",\"minutes\":15}],\"starterAction\":\"Write down what your character wants at the start of the story\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Transcribe the proclamation excerpt from the primary-source packet",
+      "subject": "AP European History",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and find the proclamation excerpt\",\"minutes\":5},{\"title\":\"Copy the first two sentences word for word\",\"minutes\":15},{\"title\":\"Copy the next two sentences word for word\",\"minutes\":15},{\"title\":\"Copy the remaining sentences word for word\",\"minutes\":20},{\"title\":\"Read your transcription against the original one line at a time\",\"minutes\":15}],\"starterAction\":\"Open the packet and find the proclamation excerpt\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Triangulate three community accounts of the same neighborhood event",
+      "subject": "Ethnic Studies",
+      "description": "One page.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the first account's version of what happened\",\"minutes\":15},{\"title\":\"Write down the second account's version of what happened\",\"minutes\":15},{\"title\":\"Write down the third account's version of what happened\",\"minutes\":15},{\"title\":\"List every detail all three accounts agree on\",\"minutes\":20},{\"title\":\"Write the paragraph explaining the one detail they conflict on\",\"minutes\":25}],\"starterAction\":\"Write down the first account's version of what happened\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a review of the assigned virtual history-museum exhibit",
+      "subject": "World History",
+      "description": "One page.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the exhibit and click through every room once\",\"minutes\":15},{\"title\":\"Write down three objects that stood out to you\",\"minutes\":15},{\"title\":\"Write the paragraph describing your first object\",\"minutes\":20},{\"title\":\"Write the paragraph describing your other two objects\",\"minutes\":30},{\"title\":\"Write a closing paragraph rating how well the exhibit explained its topic\",\"minutes\":20},{\"title\":\"Read the review out loud and smooth over any awkward lines\",\"minutes\":15}],\"starterAction\":\"Open the exhibit and click through every room once\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a two-minute podcast script recapping this month's top story",
+      "subject": "Journalism",
+      "description": "Two minutes.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down the one story you will recap\",\"minutes\":5},{\"title\":\"List the three facts listeners most need to know\",\"minutes\":15},{\"title\":\"Write the opening lines you will say first\",\"minutes\":20},{\"title\":\"Write the rest of the script in order\",\"minutes\":30},{\"title\":\"Read the finished script aloud once against a two-minute timer\",\"minutes\":15}],\"starterAction\":\"Write down the one story you will recap\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Log the edit points shot by shot for the assigned chase scene",
+      "subject": "Film Studies",
+      "description": "One scene.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Watch the chase scene once all the way through\",\"minutes\":10},{\"title\":\"Watch it again and mark every point where the shot cuts\",\"minutes\":20},{\"title\":\"Count how many cuts happen in the scene\",\"minutes\":10},{\"title\":\"Write down what speeds up or slows down around three of the cuts\",\"minutes\":25},{\"title\":\"Check your count against the scene one more time\",\"minutes\":15}],\"starterAction\":\"Watch the chase scene once all the way through\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Format the works-cited entries for five sources in MLA style",
+      "subject": "AP Language and Composition",
+      "description": "Five sources.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Copy the five source names into a blank document\",\"minutes\":10},{\"title\":\"Write the entry for the first source in the correct order\",\"minutes\":15},{\"title\":\"Write the entry for the second and third sources\",\"minutes\":20},{\"title\":\"Write the entry for the last two sources\",\"minutes\":20},{\"title\":\"Sort all five entries into alphabetical order by author\",\"minutes\":15}],\"starterAction\":\"Copy the five source names into a blank document\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a peer-review letter responding to a classmate's poem",
+      "subject": "English 11",
+      "description": "Half a page.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Read your classmate's poem twice all the way through\",\"minutes\":10},{\"title\":\"Write down one image from the poem that stuck with you\",\"minutes\":10},{\"title\":\"Write down one question the poem left you with\",\"minutes\":10},{\"title\":\"Write the letter explaining what worked and why\",\"minutes\":20},{\"title\":\"Sign the letter and leave it on your classmate's desk\",\"minutes\":10}],\"starterAction\":\"Read your classmate's poem twice all the way through\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a comparison of two flood myths from different cultures",
+      "subject": "Mythology",
+      "description": "Two pages.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and list three details of the first flood myth\",\"minutes\":15},{\"title\":\"List three details of the second flood myth underneath it\",\"minutes\":15},{\"title\":\"Write down one warning both myths seem to share\",\"minutes\":15},{\"title\":\"Write the page comparing the two myths' warnings\",\"minutes\":30},{\"title\":\"Write the page comparing how the two stories end differently\",\"minutes\":30},{\"title\":\"Read both pages back and check neither repeats the other\",\"minutes\":15}],\"starterAction\":\"Open your notes and list three details of the first flood myth\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Revise the mock-trial opening statement's evidence section to meet the rubric",
+      "subject": "US Government",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the opening statement and circle every claim without a source\",\"minutes\":10},{\"title\":\"List the three pieces of evidence the case file actually contains\",\"minutes\":15},{\"title\":\"Match each circled claim to one piece of evidence from the list\",\"minutes\":20},{\"title\":\"Rewrite the evidence section using those matched pairs\",\"minutes\":25},{\"title\":\"Read the new section aloud and check every claim now has a source\",\"minutes\":15}],\"starterAction\":\"Open the opening statement and circle every claim without a source\"}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Research paper calendar, AP US History: topic approval Monday, source list a week from Monday, outline due in two weeks, rough draft in three weeks, final paper due in a month.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Topic approval\",\"dueInDays\":7,\"subject\":\"AP US History\"},{\"title\":\"Source list\",\"dueInDays\":14,\"subject\":\"AP US History\"},{\"title\":\"Outline\",\"dueInDays\":14,\"subject\":\"AP US History\"},{\"title\":\"Rough draft\",\"dueInDays\":21,\"subject\":\"AP US History\"},{\"title\":\"Final paper\",\"dueInDays\":30,\"subject\":\"AP US History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Email from Coach Delgado: the tournament moved from Saturday to the following Friday, evidence cards are still due Wednesday, and Thursday's practice round is cancelled.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Evidence cards\",\"dueInDays\":2,\"subject\":\"Speech and Debate\"},{\"title\":\"Tournament\",\"dueInDays\":11,\"subject\":\"Speech and Debate\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Philosophy syllabus, unit 3: reading response due Friday, midterm essay due in two weeks, no class the Monday of parent-teacher conferences.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Reading response\",\"dueInDays\":4,\"subject\":\"Philosophy\"},{\"title\":\"Midterm essay\",\"dueInDays\":14,\"subject\":\"Philosophy\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Group chat: Maya: wait is the stratification presentation friday or monday? Devon: monday, but we still need the slides done by thursday for practice.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Slides\",\"dueInDays\":3},{\"title\":\"Presentation\",\"dueInDays\":7}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Journalism handout: oral history interviews due Friday, edited podcast cuts due the following Wednesday, no staff meeting this week.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Oral history interviews\",\"dueInDays\":4,\"subject\":\"Journalism\"},{\"title\":\"Podcast cuts\",\"dueInDays\":9,\"subject\":\"Journalism\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Note from Ms. Okafor: the virtual museum exhibit review is due next Tuesday, bring your sequenced artifact cards to class tomorrow, quiz on the Renaissance section Friday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Exhibit review\",\"dueInDays\":8,\"subject\":\"Art History\"},{\"title\":\"Artifact cards\",\"dueInDays\":1,\"subject\":\"Art History\"},{\"title\":\"Renaissance quiz\",\"dueInDays\":4,\"subject\":\"Art History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Civics announcement: bill drafts due Wednesday, floor speeches the following Monday, full mock congress session two weeks from today.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Bill draft\",\"dueInDays\":2,\"subject\":\"Civics\"},{\"title\":\"Floor speech\",\"dueInDays\":7,\"subject\":\"Civics\"},{\"title\":\"Mock congress session\",\"dueInDays\":14,\"subject\":\"Civics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Econ reminder: budget worksheet due tomorrow, trade-off case study due Friday, no quiz this week.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Budget worksheet\",\"dueInDays\":1,\"subject\":\"Economics\"},{\"title\":\"Trade-off case study\",\"dueInDays\":4,\"subject\":\"Economics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Psych group chat: hey is the poll-data write-up due thursday or friday? friday, but bring your printed poll results thursday for the check-in.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Poll results check-in\",\"dueInDays\":3},{\"title\":\"Poll write-up\",\"dueInDays\":4}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "World History reading schedule: chapter 12 tonight, chapter 13 tomorrow night, coin-sequencing worksheet due Thursday, unit test on Rome the following Tuesday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Read chapter 12\",\"dueInDays\":0,\"subject\":\"World History\"},{\"title\":\"Read chapter 13\",\"dueInDays\":1,\"subject\":\"World History\"},{\"title\":\"Coin-sequencing worksheet\",\"dueInDays\":3,\"subject\":\"World History\"},{\"title\":\"Unit test\",\"dueInDays\":8,\"subject\":\"World History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Ethnic Studies syllabus excerpt: interview recording due in ten days, edited reflection due three days after that, presentation of both the week after.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Interview recording\",\"dueInDays\":10,\"subject\":\"Ethnic Studies\"},{\"title\":\"Reflection\",\"dueInDays\":13,\"subject\":\"Ethnic Studies\"},{\"title\":\"Presentation\",\"dueInDays\":20,\"subject\":\"Ethnic Studies\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Religious Studies: comparison essay on coming-of-age rituals due in two weeks, no reading tonight, bring your notes on both traditions tomorrow.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Comparison essay\",\"dueInDays\":14,\"subject\":\"Religious Studies\"},{\"title\":\"Bring your notes\",\"dueInDays\":1,\"subject\":\"Religious Studies\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "AP Euro handout: proclamation transcription due tomorrow, essay comparing the two historians due next Friday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Proclamation transcription\",\"dueInDays\":1,\"subject\":\"AP European History\"},{\"title\":\"Comparison essay\",\"dueInDays\":11,\"subject\":\"AP European History\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Human Geography: migration map due Friday, bring colored pencils tomorrow, no homework the week of the field trip.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Migration map\",\"dueInDays\":4,\"subject\":\"Human Geography\"},{\"title\":\"Bring colored pencils\",\"dueInDays\":1}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Announcement: today is a study hall, no new reading, no written work due this week.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Creative Writing: diary-entry draft due Monday, workshop of the entries the following Wednesday, revised final version a week after workshop.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Diary-entry draft\",\"dueInDays\":7,\"subject\":\"Creative Writing\"},{\"title\":\"Workshop\",\"dueInDays\":9,\"subject\":\"Creative Writing\"},{\"title\":\"Revised final version\",\"dueInDays\":16,\"subject\":\"Creative Writing\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Film Studies group chat: is the chase-scene edit log due tomorrow or thursday? tomorrow for sure, teacher said no extensions.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Chase-scene edit log\",\"dueInDays\":1}]}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Historicize the competing interpretations of the assigned battle",
+      "description": "Two historians, one battle."
+    },
+    "completion": "{\"title\":\"Find where the two historians disagree\",\"explanation\":\"Read what each historian says about the battle and find the one point where their stories do not match. Write a sentence naming that point and saying which version you find more convincing.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Triangulate the eyewitness accounts of the protest",
+      "description": "Three accounts, one event."
+    },
+    "completion": "{\"title\":\"Check whether three accounts of the protest agree\",\"explanation\":\"Read what each of the three witnesses says happened. Write down whether they agree, and if they do not, write one sentence about where their stories pull apart.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Parse the syntax of the assigned sentence",
+      "description": null
+    },
+    "completion": "{\"title\":\"Break the sentence down into its parts\",\"explanation\":\"Find the subject, the verb, and every phrase that describes them. Draw a line under each part and label what job it is doing in the sentence.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Gloss the archaic vocabulary in the excerpt",
+      "description": "The excerpt is in the older spelling."
+    },
+    "completion": "{\"title\":\"Figure out what the old-fashioned words mean\",\"explanation\":\"Find every word in the excerpt that looks unfamiliar or spelled strangely. Look each one up and write its modern meaning next to it in the margin.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Adjudicate the strongest amendment proposed for the bill",
+      "description": "Three amendments were proposed."
+    },
+    "completion": "{\"title\":\"Pick the best-argued amendment\",\"explanation\":\"Read all three amendments and the reasons given for each one. Pick the one with the strongest reasoning, and write two sentences saying why it beats the other two.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Extrapolate the trend from the polling data",
+      "description": null
+    },
+    "completion": "{\"title\":\"Say where the numbers are heading\",\"explanation\":\"Look at how the poll's numbers changed from one measurement to the next. Write one sentence describing the direction they are moving, and one sentence guessing why.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Reconcile the mock budget against the department's stated goal",
+      "description": null
+    },
+    "completion": "{\"title\":\"Make the budget numbers match the goal\",\"explanation\":\"Compare what the department says it wants to accomplish with how much money the budget actually gives it. Write down where the numbers fall short, then adjust one category so they match.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Periodize the artifact images into their correct sequence",
+      "description": "Ten images, mixed order."
+    },
+    "completion": "{\"title\":\"Put the images in date order\",\"explanation\":\"Look at each image for clues about how old it is, like style or materials. Arrange all ten images from oldest to newest and write one reason for each placement.\"}"
+  }
+]

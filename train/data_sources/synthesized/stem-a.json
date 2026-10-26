@@ -1,0 +1,862 @@
+[
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Graphing linear equations using a table of values",
+      "subject": "Algebra I",
+      "description": "Ten equations.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the first equation onto graph paper\",\"minutes\":5},{\"title\":\"Make a table of x and y values for problems 1 to 5\",\"minutes\":20},{\"title\":\"Plot the points and draw the line for problems 1 to 5\",\"minutes\":25},{\"title\":\"Make tables and graph the remaining five equations\",\"minutes\":30},{\"title\":\"Check two lines against the slope given in the equation\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the first equation onto graph paper\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Solving and graphing compound inequalities on a number line",
+      "subject": "Algebra I",
+      "description": "And/or statements.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and find the first inequality\",\"minutes\":5},{\"title\":\"Solve the first four compound inequalities\",\"minutes\":20},{\"title\":\"Graph the first four solutions on a number line\",\"minutes\":15},{\"title\":\"Solve and graph the remaining inequalities\",\"minutes\":25},{\"title\":\"Check every open and closed circle against the sign\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and find the first inequality\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Scatter plot and line of best fit project",
+      "subject": "Algebra I",
+      "description": "Measure ten classmates' arm span and height.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the data table for the project\",\"minutes\":5},{\"title\":\"Measure the arm span and height of five classmates\",\"minutes\":25},{\"title\":\"Measure the remaining five classmates\",\"minutes\":25},{\"title\":\"Plot every point on the scatter plot\",\"minutes\":20},{\"title\":\"Draw the line of best fit by eye\",\"minutes\":15},{\"title\":\"Write the equation of your line\",\"minutes\":15}],\"starterAction\":\"Print the data table for the project\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Simplifying radical expressions worksheet",
+      "subject": "Algebra I",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the first radical\",\"minutes\":5},{\"title\":\"Simplify the first six radical expressions\",\"minutes\":20},{\"title\":\"Simplify the next six expressions\",\"minutes\":20},{\"title\":\"Finish the remaining radicals\",\"minutes\":20},{\"title\":\"Check every answer for a perfect-square factor left inside\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the first radical\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Arithmetic sequences worksheet on finding the nth term",
+      "subject": "Algebra I",
+      "description": null,
+      "duePhrase": "Friday",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the first sequence\",\"minutes\":5},{\"title\":\"Find the common difference for the first five sequences\",\"minutes\":20},{\"title\":\"Write the nth term formula for those five\",\"minutes\":20},{\"title\":\"Find the difference and formula for the remaining sequences\",\"minutes\":25},{\"title\":\"Check two formulas by generating the fifth term\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the first sequence\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Matrix determinants and inverses worksheet",
+      "subject": "Algebra II",
+      "description": "2x2 and 3x3 matrices.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the first matrix\",\"minutes\":5},{\"title\":\"Calculate the determinant for problems 1 to 4\",\"minutes\":25},{\"title\":\"Calculate the inverse for problems 1 to 4\",\"minutes\":30},{\"title\":\"Finish the remaining determinants and inverses\",\"minutes\":30},{\"title\":\"Check one inverse by multiplying it against the original\",\"minutes\":20}],\"starterAction\":\"Open the packet and copy the first matrix\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Graphing transformations of quadratic functions from vertex form",
+      "subject": "Algebra II",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the parent function for problem 1\",\"minutes\":10},{\"title\":\"Graph the parent function and its shift for problems 1 to 3\",\"minutes\":25},{\"title\":\"Graph the parent function and its stretch for problems 4 to 6\",\"minutes\":25},{\"title\":\"Graph the remaining transformations\",\"minutes\":25},{\"title\":\"Label each graph with the vertex coordinates\",\"minutes\":20}],\"starterAction\":\"Open the packet and copy the parent function for problem 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Partial sums of arithmetic and geometric series worksheet",
+      "subject": "Algebra II",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the first series\",\"minutes\":5},{\"title\":\"Calculate the partial sum for the first four arithmetic series\",\"minutes\":25},{\"title\":\"Calculate the partial sum for the first four geometric series\",\"minutes\":25},{\"title\":\"Finish the remaining partial sums\",\"minutes\":25},{\"title\":\"Check one sum by adding the terms out by hand\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the first series\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Solving 3x3 systems using Cramer's rule",
+      "subject": "Algebra II",
+      "description": "Four systems.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the first system\",\"minutes\":5},{\"title\":\"Calculate the coefficient determinant for systems 1 and 2\",\"minutes\":25},{\"title\":\"Calculate the variable determinants for systems 1 and 2\",\"minutes\":30},{\"title\":\"Solve systems 3 and 4 the same way\",\"minutes\":35},{\"title\":\"Check one solution by substituting back into all three equations\",\"minutes\":20}],\"starterAction\":\"Open the packet and copy the first system\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Direct and inverse variation word problems",
+      "subject": "Algebra II",
+      "description": "Eight problems.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the first word problem\",\"minutes\":5},{\"title\":\"Write the variation equation for problems 1 to 4\",\"minutes\":20},{\"title\":\"Solve problems 1 to 4 for the missing value\",\"minutes\":20},{\"title\":\"Write and solve problems 5 to 8\",\"minutes\":25},{\"title\":\"Check every answer against the pattern in the problem\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy the first word problem\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Compass and straightedge construction of an equilateral triangle and a regular hexagon",
+      "subject": "Geometry",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and read the steps for the first construction\",\"minutes\":10},{\"title\":\"Draw a circle and mark the center with the compass point\",\"minutes\":15},{\"title\":\"Draw the equilateral triangle from the circle's arcs\",\"minutes\":25},{\"title\":\"Draw the regular hexagon using the same radius six times\",\"minutes\":30},{\"title\":\"Check every side length with a ruler\",\"minutes\":15}],\"starterAction\":\"Open the packet and read the steps for the first construction\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Indirect proof practice packet",
+      "subject": "Geometry",
+      "description": "Proof by contradiction, five proofs.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and read the first statement to prove\",\"minutes\":5},{\"title\":\"Write the negation of the first two statements\",\"minutes\":20},{\"title\":\"Write the contradiction that follows for the first two\",\"minutes\":25},{\"title\":\"Write the negation and contradiction for the remaining three\",\"minutes\":35},{\"title\":\"Read every proof back and check the logic holds\",\"minutes\":20}],\"starterAction\":\"Open the packet and read the first statement to prove\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Derivation of the distance formula from the Pythagorean theorem",
+      "subject": "Geometry",
+      "description": "One page, show every step.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and copy the Pythagorean theorem at the top of the page\",\"minutes\":5},{\"title\":\"Plot two labeled points on a small grid\",\"minutes\":15},{\"title\":\"Draw the horizontal and vertical legs between the points\",\"minutes\":20},{\"title\":\"Write the theorem with the leg lengths substituted in\",\"minutes\":25},{\"title\":\"Write the final formula in terms of the two points\",\"minutes\":20},{\"title\":\"Check the formula against a distance you already know\",\"minutes\":15}],\"starterAction\":\"Open your notes and copy the Pythagorean theorem at the top of the page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Compass and straightedge construction: perpendicular from a point and copying an angle",
+      "subject": "Geometry",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and read the first construction's steps\",\"minutes\":10},{\"title\":\"Draw the perpendicular from the point to the line\",\"minutes\":25},{\"title\":\"Draw the second perpendicular construction\",\"minutes\":20},{\"title\":\"Copy the given angle onto a new ray\",\"minutes\":25},{\"title\":\"Check every construction with a protractor\",\"minutes\":15}],\"starterAction\":\"Open the packet and read the first construction's steps\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "CPCTC proof packet",
+      "subject": "Geometry",
+      "description": "Congruent parts of congruent triangles, four proofs.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and read the first pair of triangles\",\"minutes\":5},{\"title\":\"Write the given and prove statements for proofs 1 and 2\",\"minutes\":20},{\"title\":\"Write the congruence statements and reasons for proofs 1 and 2\",\"minutes\":30},{\"title\":\"Write out proofs 3 and 4 the same way\",\"minutes\":35},{\"title\":\"Check every reason against the postulate list\",\"minutes\":20}],\"starterAction\":\"Open the packet and read the first pair of triangles\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Sigma notation worksheet: writing and expanding series sums",
+      "subject": "Precalculus",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the first sigma expression\",\"minutes\":5},{\"title\":\"Write out and add the first five sums by hand\",\"minutes\":25},{\"title\":\"Write the remaining five sums in sigma notation\",\"minutes\":20},{\"title\":\"Write out and add those five sums\",\"minutes\":25},{\"title\":\"Check two answers against the formula for the sum\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the first sigma expression\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Binomial theorem expansion practice",
+      "subject": "Precalculus",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the first binomial\",\"minutes\":5},{\"title\":\"Write out the first four binomial expansions using the theorem\",\"minutes\":25},{\"title\":\"Write out the next four binomial expansions\",\"minutes\":25},{\"title\":\"Finish the remaining expansions\",\"minutes\":20},{\"title\":\"Check one expansion by multiplying it out the long way\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy the first binomial\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Conic sections in polar form worksheet",
+      "subject": "Precalculus",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the first polar equation\",\"minutes\":5},{\"title\":\"Sketch the conic for problems 1 to 3\",\"minutes\":25},{\"title\":\"Name the eccentricity and conic type for problems 1 to 3\",\"minutes\":20},{\"title\":\"Sketch and name the remaining conics\",\"minutes\":30},{\"title\":\"Check two sketches against a graphed version\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the first polar equation\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Parametric equations introduction: plotting curves from parametric form",
+      "subject": "Precalculus",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the first pair of equations\",\"minutes\":5},{\"title\":\"Make a table of values for problems 1 and 2\",\"minutes\":20},{\"title\":\"Plot the curve for problems 1 and 2 from the table\",\"minutes\":25},{\"title\":\"Make tables and plot the remaining curves\",\"minutes\":30},{\"title\":\"Check one curve on the calculator in parametric mode\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy the first pair of equations\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Gaussian elimination practice on 3-variable systems",
+      "subject": "Precalculus",
+      "description": "Row reduction by hand.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the first system as an augmented matrix\",\"minutes\":10},{\"title\":\"Rewrite the first row for systems 1 and 2 in reduced form\",\"minutes\":25},{\"title\":\"Rewrite the remaining rows for systems 1 and 2\",\"minutes\":30},{\"title\":\"Rewrite systems 3 and 4 the same way\",\"minutes\":35},{\"title\":\"Check one solution by substituting back into the original system\",\"minutes\":20}],\"starterAction\":\"Open the packet and copy the first system as an augmented matrix\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Derivation of the double-angle identities from the angle-sum identities",
+      "subject": "Trigonometry",
+      "description": "Sine and cosine.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and copy the angle-sum identity for sine\",\"minutes\":5},{\"title\":\"Write the double-angle identity by setting both angles equal\",\"minutes\":20},{\"title\":\"Write the derivation for the cosine double-angle identity\",\"minutes\":25},{\"title\":\"Check both identities against the identity sheet from class\",\"minutes\":15}],\"starterAction\":\"Open your notes and copy the angle-sum identity for sine\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Graphing the tangent and cotangent functions with asymptotes",
+      "subject": "Trigonometry",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the first tangent function\",\"minutes\":5},{\"title\":\"Mark the asymptotes for problems 1 to 3\",\"minutes\":20},{\"title\":\"Plot the tangent graphs for problems 1 to 3\",\"minutes\":25},{\"title\":\"Mark asymptotes and plot the cotangent graphs 4 to 6\",\"minutes\":30},{\"title\":\"Check two graphs against the period given\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the first tangent function\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Bearings and navigation word problems",
+      "subject": "Trigonometry",
+      "description": "Six problems.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the first bearings problem\",\"minutes\":5},{\"title\":\"Draw a compass diagram for problems 1 to 3\",\"minutes\":25},{\"title\":\"Solve problems 1 to 3 for the missing distance or bearing\",\"minutes\":30},{\"title\":\"Draw and solve problems 4 to 6\",\"minutes\":35},{\"title\":\"Check each answer for a realistic travel distance\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy the first bearings problem\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Sum and difference identities practice worksheet",
+      "subject": "Trigonometry",
+      "description": "Exact values only.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the first expression\",\"minutes\":5},{\"title\":\"Rewrite problems 1 to 5 as a sum or difference of known angles\",\"minutes\":20},{\"title\":\"Solve problems 1 to 5 for the exact value\",\"minutes\":20},{\"title\":\"Finish the remaining problems\",\"minutes\":20},{\"title\":\"Check three answers against the unit circle\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the first expression\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Law of cosines derivation from the Pythagorean theorem",
+      "subject": "Trigonometry",
+      "description": "One page.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and sketch a triangle with the height drawn in\",\"minutes\":10},{\"title\":\"Write the Pythagorean theorem for each of the two smaller triangles\",\"minutes\":20},{\"title\":\"Write the combined equation in terms of the original triangle\",\"minutes\":25},{\"title\":\"Write the final law of cosines formula\",\"minutes\":20},{\"title\":\"Check the formula against a right-triangle case\",\"minutes\":15}],\"starterAction\":\"Open your notes and sketch a triangle with the height drawn in\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Derivation of the power rule from the limit definition of the derivative",
+      "subject": "AP Calculus AB",
+      "description": "Show every algebra step.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and copy the limit definition of the derivative\",\"minutes\":10},{\"title\":\"Write the definition applied to a general power function\",\"minutes\":25},{\"title\":\"Write out the expanded binomial in the numerator\",\"minutes\":30},{\"title\":\"Simplify the expression and take the limit\",\"minutes\":30},{\"title\":\"Write the power rule as the final result\",\"minutes\":15}],\"starterAction\":\"Open your notes and copy the limit definition of the derivative\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Mean value theorem practice packet",
+      "subject": "AP Calculus AB",
+      "description": "Five problems.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the first function and interval\",\"minutes\":5},{\"title\":\"Check the continuity and differentiability conditions for problems 1 to 3\",\"minutes\":25},{\"title\":\"Solve problems 1 to 3 for the guaranteed value of c\",\"minutes\":30},{\"title\":\"Check the conditions and solve problems 4 and 5\",\"minutes\":30},{\"title\":\"Check one answer by graphing the secant and tangent lines\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy the first function and interval\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Riemann sums worksheet: left, right and midpoint approximations",
+      "subject": "AP Calculus AB",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the first function and interval\",\"minutes\":5},{\"title\":\"Calculate the left-endpoint sum for problems 1 to 3\",\"minutes\":25},{\"title\":\"Calculate the right-endpoint sum for problems 1 to 3\",\"minutes\":25},{\"title\":\"Calculate the midpoint sum for the remaining problems\",\"minutes\":30},{\"title\":\"Check one sum against the exact area on a graph\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the first function and interval\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "u-substitution integration practice packet",
+      "subject": "AP Calculus AB",
+      "description": "Ten integrals.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the first integral\",\"minutes\":5},{\"title\":\"Pick the inner function for problems 1 to 5\",\"minutes\":15},{\"title\":\"Solve problems 1 to 5 using u-substitution\",\"minutes\":30},{\"title\":\"Solve the remaining five integrals\",\"minutes\":30},{\"title\":\"Check two answers by differentiating your result\",\"minutes\":20}],\"starterAction\":\"Open the packet and copy the first integral\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Derivatives of trigonometric and exponential functions worksheet",
+      "subject": "AP Calculus AB",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the first function\",\"minutes\":5},{\"title\":\"Find the derivative for problems 1 to 6\",\"minutes\":20},{\"title\":\"Find the derivative for problems 7 to 12\",\"minutes\":20},{\"title\":\"Finish the remaining derivatives\",\"minutes\":20},{\"title\":\"Check three answers against the derivative rules sheet\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the first function\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Alternating series error bound worksheet",
+      "subject": "AP Calculus BC",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the first alternating series\",\"minutes\":5},{\"title\":\"Check that problems 1 to 3 satisfy the alternating series test\",\"minutes\":20},{\"title\":\"Calculate the error bound for problems 1 to 3\",\"minutes\":25},{\"title\":\"Check and calculate the error bound for the remaining series\",\"minutes\":30},{\"title\":\"Check one bound against the actual difference from the true sum\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the first alternating series\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Euler's method approximation table",
+      "subject": "AP Calculus BC",
+      "description": "Step size 0.1, five steps.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the differential equation and starting point\",\"minutes\":10},{\"title\":\"Calculate the slope at the starting point\",\"minutes\":15},{\"title\":\"Fill in the first two rows of the approximation table\",\"minutes\":25},{\"title\":\"Fill in the remaining three rows\",\"minutes\":30},{\"title\":\"Check your final value against the graph of the slope field\",\"minutes\":20}],\"starterAction\":\"Open the packet and copy the differential equation and starting point\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Vector-valued functions problem set on velocity and acceleration",
+      "subject": "AP Calculus BC",
+      "description": "Six problems.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the first position vector\",\"minutes\":5},{\"title\":\"Find the velocity vector for problems 1 to 3\",\"minutes\":25},{\"title\":\"Find the acceleration vector for problems 1 to 3\",\"minutes\":25},{\"title\":\"Find both vectors for problems 4 to 6\",\"minutes\":35},{\"title\":\"Check one pair by plugging in a specific time value\",\"minutes\":20}],\"starterAction\":\"Open the packet and copy the first position vector\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Improper integrals convergence worksheet",
+      "subject": "AP Calculus BC",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the first improper integral\",\"minutes\":5},{\"title\":\"Rewrite problems 1 to 4 as a limit\",\"minutes\":20},{\"title\":\"Solve problems 1 to 4 for convergence or divergence\",\"minutes\":30},{\"title\":\"Finish the remaining integrals\",\"minutes\":25},{\"title\":\"Check two answers against the p-series comparison rule\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the first improper integral\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Partial fractions decomposition practice packet",
+      "subject": "AP Calculus BC",
+      "description": "Eight problems.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the first rational expression\",\"minutes\":5},{\"title\":\"Split problems 1 to 4 into partial fractions\",\"minutes\":25},{\"title\":\"Solve for the unknown constants in problems 1 to 4\",\"minutes\":25},{\"title\":\"Split and solve the remaining expressions\",\"minutes\":30},{\"title\":\"Check one decomposition by combining the fractions back together\",\"minutes\":20}],\"starterAction\":\"Open the packet and copy the first rational expression\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Probability simulation using a random digit table to model coin flips",
+      "subject": "AP Statistics",
+      "description": "40 trials.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the random digit table\",\"minutes\":5},{\"title\":\"Label even digits as heads and odd digits as tails\",\"minutes\":10},{\"title\":\"Tally the first twenty digits as flips\",\"minutes\":20},{\"title\":\"Tally the remaining twenty digits\",\"minutes\":20},{\"title\":\"Calculate the simulated proportion of heads\",\"minutes\":20},{\"title\":\"Compare your proportion to the theoretical probability\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy the random digit table\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Reaction-time data collection experiment using a dropped ruler",
+      "subject": "AP Statistics",
+      "description": "Ten trials per partner.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the data table for the experiment\",\"minutes\":5},{\"title\":\"Run the ruler-drop test for your partner's first five trials\",\"minutes\":20},{\"title\":\"Record the catch distance for each of those trials\",\"minutes\":15},{\"title\":\"Run and record your partner's remaining five trials\",\"minutes\":25},{\"title\":\"Calculate the mean reaction distance\",\"minutes\":20},{\"title\":\"Compare your mean to the class average\",\"minutes\":20}],\"starterAction\":\"Print the data table for the experiment\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Two-way table worksheet on marginal and conditional distributions",
+      "subject": "AP Statistics",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the first two-way table\",\"minutes\":10},{\"title\":\"Calculate the marginal distribution for problems 1 and 2\",\"minutes\":25},{\"title\":\"Calculate the conditional distribution for problems 1 and 2\",\"minutes\":25},{\"title\":\"Finish the remaining tables\",\"minutes\":25},{\"title\":\"Check one row against the row total given\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the first two-way table\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Binomial distribution problem set",
+      "subject": "AP Statistics",
+      "description": "Ten problems.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the first binomial scenario\",\"minutes\":5},{\"title\":\"Calculate the probability for problems 1 to 5\",\"minutes\":30},{\"title\":\"Calculate the mean and standard deviation for problems 1 to 5\",\"minutes\":25},{\"title\":\"Finish the remaining problems\",\"minutes\":25},{\"title\":\"Check one probability using the calculator's binomial function\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy the first binomial scenario\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Sampling distribution simulation using repeated sample means",
+      "subject": "AP Statistics",
+      "description": "20 samples of size 5.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the population data set given in the packet\",\"minutes\":5},{\"title\":\"Select the first ten random samples of five values\",\"minutes\":25},{\"title\":\"Calculate the mean of each of those ten samples\",\"minutes\":20},{\"title\":\"Select and calculate the mean of the remaining ten samples\",\"minutes\":30},{\"title\":\"Graph all twenty sample means on a dot plot\",\"minutes\":25},{\"title\":\"Compare the spread of your dot plot to the population\",\"minutes\":15}],\"starterAction\":\"Open the population data set given in the packet\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Direct proof and proof-by-contrapositive practice packet",
+      "subject": "Discrete Math",
+      "description": "Four statements.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and read the first statement to prove\",\"minutes\":5},{\"title\":\"Write a direct proof for statements 1 and 2\",\"minutes\":30},{\"title\":\"Write the contrapositive of statements 3 and 4\",\"minutes\":20},{\"title\":\"Write the proof using the contrapositive for statements 3 and 4\",\"minutes\":30},{\"title\":\"Read every proof back and check each line follows from the last\",\"minutes\":20}],\"starterAction\":\"Open the packet and read the first statement to prove\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Graph coloring worksheet on finding the chromatic number",
+      "subject": "Discrete Math",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the first graph diagram\",\"minutes\":5},{\"title\":\"Colour the vertices of graphs 1 to 3 with no two adjacent the same\",\"minutes\":25},{\"title\":\"Count the colours used for graphs 1 to 3\",\"minutes\":15},{\"title\":\"Colour and count the remaining graphs\",\"minutes\":30},{\"title\":\"Check two graphs against the chromatic number given\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the first graph diagram\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Boolean algebra simplification worksheet",
+      "subject": "Discrete Math",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the first expression\",\"minutes\":5},{\"title\":\"Simplify problems 1 to 6 using the boolean laws\",\"minutes\":20},{\"title\":\"Simplify problems 7 to 12\",\"minutes\":20},{\"title\":\"Finish the remaining expressions\",\"minutes\":20},{\"title\":\"Check three answers with a truth table\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the first expression\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Pigeonhole principle problem set",
+      "subject": "Discrete Math",
+      "description": "Six problems.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the first pigeonhole scenario\",\"minutes\":5},{\"title\":\"Write the pigeons and holes for problems 1 to 3\",\"minutes\":20},{\"title\":\"Solve problems 1 to 3 using the principle\",\"minutes\":25},{\"title\":\"Write and solve problems 4 to 6 the same way\",\"minutes\":35},{\"title\":\"Check one answer by listing every case by hand\",\"minutes\":20}],\"starterAction\":\"Open the packet and copy the first pigeonhole scenario\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Relations worksheet on reflexive, symmetric and transitive properties",
+      "subject": "Discrete Math",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the first relation\",\"minutes\":5},{\"title\":\"Check problems 1 to 4 for the reflexive property\",\"minutes\":20},{\"title\":\"Check problems 1 to 4 for the symmetric property\",\"minutes\":20},{\"title\":\"Check the remaining relations for all three properties\",\"minutes\":30},{\"title\":\"Circle every relation that turned out to be an equivalence relation\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the first relation\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Spreadsheet model comparing three savings accounts at different interest rates",
+      "subject": "Financial Literacy",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the spreadsheet template and enter the three interest rates\",\"minutes\":10},{\"title\":\"Enter the starting balance for each account\",\"minutes\":15},{\"title\":\"Calculate the balance at year 5 for each account\",\"minutes\":25},{\"title\":\"Calculate the balance at year 10 for each account\",\"minutes\":25},{\"title\":\"Graph all three balances on the same chart\",\"minutes\":25}],\"starterAction\":\"Open the spreadsheet template and enter the three interest rates\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Stock portfolio tracking spreadsheet over two weeks",
+      "subject": "Financial Literacy",
+      "description": "Three stocks, ten dollars each.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the spreadsheet template and enter the three stock names\",\"minutes\":10},{\"title\":\"Record the starting price of each stock\",\"minutes\":10},{\"title\":\"Record each stock price every day for the first week\",\"minutes\":30},{\"title\":\"Record each stock price every day for the second week\",\"minutes\":30},{\"title\":\"Calculate the total gain or loss on the portfolio\",\"minutes\":20},{\"title\":\"Graph the portfolio value across the two weeks\",\"minutes\":25}],\"starterAction\":\"Open the spreadsheet template and enter the three stock names\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Insurance premium comparison worksheet",
+      "subject": "Financial Literacy",
+      "description": "Three car insurance quotes.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the three quotes given\",\"minutes\":10},{\"title\":\"List the monthly premium for each quote\",\"minutes\":15},{\"title\":\"List the deductible for each quote\",\"minutes\":15},{\"title\":\"Calculate the total yearly cost for each quote\",\"minutes\":25},{\"title\":\"Circle the quote with the lowest total cost\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and copy the three quotes given\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Net worth statement worksheet",
+      "subject": "Financial Literacy",
+      "description": "Assets minus liabilities.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and list every asset you own\",\"minutes\":10},{\"title\":\"Write the value next to each asset\",\"minutes\":15},{\"title\":\"List every liability you owe\",\"minutes\":10},{\"title\":\"Write the value next to each liability\",\"minutes\":15},{\"title\":\"Calculate the net worth by taking assets minus liabilities\",\"minutes\":20}],\"starterAction\":\"Open the worksheet and list every asset you own\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Break-even analysis worksheet for a small business idea",
+      "subject": "Financial Literacy",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and write down the business fixed costs\",\"minutes\":10},{\"title\":\"Write down the variable cost per unit\",\"minutes\":10},{\"title\":\"Write down the price you would charge per unit\",\"minutes\":10},{\"title\":\"Calculate the number of units needed to break even\",\"minutes\":25},{\"title\":\"Graph the cost and revenue lines on the same axes\",\"minutes\":25}],\"starterAction\":\"Open the worksheet and write down the business fixed costs\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Sex-linked trait cross practice worksheet",
+      "subject": "Biology",
+      "description": "X-linked traits, six crosses.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the first cross\",\"minutes\":5},{\"title\":\"Draw the punnett square for crosses 1 to 3\",\"minutes\":25},{\"title\":\"Write the ratio of offspring for crosses 1 to 3\",\"minutes\":20},{\"title\":\"Draw and write the ratio for crosses 4 to 6\",\"minutes\":30},{\"title\":\"Check your ratios against the answer key\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the first cross\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Dichotomous key lab identifying five leaf samples",
+      "subject": "Biology",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the lab packet to the dichotomous key\",\"minutes\":5},{\"title\":\"Look at the first leaf and answer the first branch of the key\",\"minutes\":15},{\"title\":\"Trace the key to a name for leaf samples 1 to 3\",\"minutes\":25},{\"title\":\"Trace the key for the remaining two samples\",\"minutes\":25},{\"title\":\"Check every name against the key one more time\",\"minutes\":15}],\"starterAction\":\"Open the lab packet to the dichotomous key\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Ecology transect line survey along the schoolyard path",
+      "subject": "Biology",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the data table for the transect survey\",\"minutes\":5},{\"title\":\"Lay the measuring tape in a straight line across the path\",\"minutes\":15},{\"title\":\"Count every plant touching the tape for the first ten meters\",\"minutes\":25},{\"title\":\"Count the remaining twenty meters the same way\",\"minutes\":30},{\"title\":\"Record every count in the data table\",\"minutes\":20},{\"title\":\"Compare the counts from each section and note any pattern\",\"minutes\":20}],\"starterAction\":\"Print the data table for the transect survey\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Plant and animal cell comparison labeling diagram",
+      "subject": "Biology",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the textbook to the plant and animal cell diagrams\",\"minutes\":5},{\"title\":\"Sketch the plant cell outline in pencil\",\"minutes\":20},{\"title\":\"Label every organelle in the plant cell\",\"minutes\":25},{\"title\":\"Sketch and label the animal cell the same way\",\"minutes\":30},{\"title\":\"Circle the organelles that appear in only one of the two\",\"minutes\":15}],\"starterAction\":\"Open the textbook to the plant and animal cell diagrams\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Bacterial growth curve graphing lab",
+      "subject": "Biology",
+      "description": "Data from a 24-hour culture.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the bacterial count data\",\"minutes\":5},{\"title\":\"Copy the population count at each hour into the table\",\"minutes\":20},{\"title\":\"Calculate the growth rate between each pair of hours\",\"minutes\":25},{\"title\":\"Graph the population against time\",\"minutes\":25},{\"title\":\"Label the lag, log and stationary phases on your graph\",\"minutes\":25}],\"starterAction\":\"Open your lab notebook to the bacterial count data\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Chi-square test on a genetics cross for goodness of fit",
+      "subject": "AP Biology",
+      "description": "Expected 3:1 ratio.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the observed offspring counts\",\"minutes\":5},{\"title\":\"Calculate the expected count for each phenotype\",\"minutes\":20},{\"title\":\"Calculate the chi-square statistic from the counts\",\"minutes\":30},{\"title\":\"Compare your statistic to the critical value\",\"minutes\":20},{\"title\":\"Write a conclusion sentence about the expected ratio\",\"minutes\":20}],\"starterAction\":\"Open your lab notebook to the observed offspring counts\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Cladogram construction from a trait matrix",
+      "subject": "AP Biology",
+      "description": "Five species, four traits.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the trait matrix\",\"minutes\":10},{\"title\":\"Circle the traits shared by every species\",\"minutes\":15},{\"title\":\"Group the species by their most recent shared trait\",\"minutes\":25},{\"title\":\"Draw the branching diagram from your groupings\",\"minutes\":30},{\"title\":\"Label each branch point with the trait that defines it\",\"minutes\":25},{\"title\":\"Check your diagram against the matrix one more time\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy the trait matrix\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Transpiration lab data table and graph",
+      "subject": "AP Biology",
+      "description": "Water loss over one hour.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the transpiration data\",\"minutes\":5},{\"title\":\"Record the water level every ten minutes for the first half hour\",\"minutes\":20},{\"title\":\"Record the water level every ten minutes for the second half hour\",\"minutes\":20},{\"title\":\"Calculate the water loss between each reading\",\"minutes\":25},{\"title\":\"Graph water loss against time\",\"minutes\":25},{\"title\":\"Write the conclusion using the shape of your graph\",\"minutes\":25}],\"starterAction\":\"Open your lab notebook to the transpiration data\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Free-response practice on gene regulation",
+      "subject": "AP Biology",
+      "description": "Two prompts, the lac operon.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the practice packet to the first prompt\",\"minutes\":5},{\"title\":\"Outline the claim and evidence for the first prompt\",\"minutes\":25},{\"title\":\"Write the full response to the first prompt\",\"minutes\":35},{\"title\":\"Outline and write the response to the second prompt\",\"minutes\":40},{\"title\":\"Check both responses against the scoring guidelines\",\"minutes\":20}],\"starterAction\":\"Open the practice packet to the first prompt\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Hardy-Weinberg equilibrium problem set",
+      "subject": "AP Biology",
+      "description": "Six problems.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the first allele frequency given\",\"minutes\":5},{\"title\":\"Calculate the genotype frequencies for problems 1 to 3\",\"minutes\":30},{\"title\":\"Check that problems 1 to 3 sum to one\",\"minutes\":15},{\"title\":\"Calculate the frequencies for problems 4 to 6\",\"minutes\":30},{\"title\":\"Check the remaining three the same way\",\"minutes\":20}],\"starterAction\":\"Open the packet and copy the first allele frequency given\"}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Group chat: is the compound inequalities worksheet due today or tomorrow? pretty sure it's tomorrow",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Compound inequalities worksheet\",\"dueInDays\":1}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Algebra II syllabus excerpt: matrix unit test is one week from today. Determinants and inverses worksheet due the Monday before that.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Determinants and inverses worksheet\",\"dueInDays\":0,\"subject\":\"Algebra II\"},{\"title\":\"Matrix unit test\",\"dueInDays\":7,\"subject\":\"Algebra II\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Whiteboard photo: constructions lab today, indirect proof packet due Thursday, CPCTC proofs due the following Monday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Indirect proof packet\",\"dueInDays\":3,\"subject\":\"Geometry\"},{\"title\":\"CPCTC proofs\",\"dueInDays\":7,\"subject\":\"Geometry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Email from your precalc teacher: sorry you missed today's lecture on sigma notation, here is the makeup worksheet, due in 3 days like everyone else's.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Sigma notation makeup worksheet\",\"dueInDays\":3}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Trig group chat: bearings word problems due tomorrow right? teacher said tomorrow in class",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Bearings word problems\",\"dueInDays\":1}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "AP Calc AB syllabus block: Riemann sums worksheet due Wednesday, u-substitution packet due Friday, unit test the following Monday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Riemann sums worksheet\",\"dueInDays\":2,\"subject\":\"AP Calculus AB\"},{\"title\":\"u-substitution packet\",\"dueInDays\":4,\"subject\":\"AP Calculus AB\"},{\"title\":\"Unit test\",\"dueInDays\":7,\"subject\":\"AP Calculus AB\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "AP Calc BC whiteboard: Euler's method table due tmrw, alternating series ws due Friday",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Euler's method table\",\"dueInDays\":1,\"subject\":\"AP Calculus BC\"},{\"title\":\"Alternating series worksheet\",\"dueInDays\":4,\"subject\":\"AP Calculus BC\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "AP Stats posted schedule: reaction time data collection is Tuesday's rotation, two-way table worksheet due that Friday, binomial problem set due the following Monday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Reaction time data collection\",\"dueInDays\":1,\"subject\":\"AP Statistics\"},{\"title\":\"Two-way table worksheet\",\"dueInDays\":4,\"subject\":\"AP Statistics\"},{\"title\":\"Binomial problem set\",\"dueInDays\":7,\"subject\":\"AP Statistics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Email from your discrete math teacher: since the pigeonhole lecture ran short, the problem set is pushed to Friday, relations worksheet still due Wednesday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Relations worksheet\",\"dueInDays\":2,\"subject\":\"Discrete Math\"},{\"title\":\"Pigeonhole problem set\",\"dueInDays\":4,\"subject\":\"Discrete Math\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Fin lit group chat: does the stock tracking spreadsheet need daily entries on weekends too? check-in is Friday either way",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Stock tracking spreadsheet check-in\",\"dueInDays\":4,\"subject\":\"Financial Literacy\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Biology posted calendar: dichotomous key lab Tuesday, transect survey data due Friday, cell comparison diagram due the following Wednesday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Dichotomous key lab\",\"dueInDays\":1,\"subject\":\"Biology\"},{\"title\":\"Transect survey data\",\"dueInDays\":4,\"subject\":\"Biology\"},{\"title\":\"Cell comparison diagram\",\"dueInDays\":9,\"subject\":\"Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Email from your AP Bio teacher: you missed the Hardy-Weinberg lecture, here is the problem set, still due Friday with everyone else.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Hardy-Weinberg problem set\",\"dueInDays\":4,\"subject\":\"AP Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Geometry: no homework tonight, work day in class for the constructions packet.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Whiteboard photo: EXTRA CREDIT scatter plot project, due in 5 days, bring your own data or use a partner's",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Scatter plot project\",\"dueInDays\":5,\"subject\":\"Algebra I\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "AP Stats group chat: sampling distribution sim due Weds, binomial set got pushed to the following Monday",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Sampling distribution simulation\",\"dueInDays\":2,\"subject\":\"AP Statistics\"},{\"title\":\"Binomial set\",\"dueInDays\":7,\"subject\":\"AP Statistics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Financial Literacy syllabus excerpt: insurance comparison worksheet due in 2 days, net worth statement due the following week, break-even project due two weeks after that.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Insurance comparison worksheet\",\"dueInDays\":2,\"subject\":\"Financial Literacy\"},{\"title\":\"Net worth statement\",\"dueInDays\":9,\"subject\":\"Financial Literacy\"},{\"title\":\"Break-even project\",\"dueInDays\":23,\"subject\":\"Financial Literacy\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Whiteboard photo, discrete math: graph coloring ws due Thurs, boolean algebra ws due the following Monday",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Graph coloring worksheet\",\"dueInDays\":3,\"subject\":\"Discrete Math\"},{\"title\":\"Boolean algebra worksheet\",\"dueInDays\":7,\"subject\":\"Discrete Math\"}]}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Determine the inverse of the given matrix and verify the result by multiplication",
+      "description": null
+    },
+    "completion": "{\"title\":\"Write down the matrix first\",\"explanation\":\"Copy the numbers of the matrix onto your paper exactly as given. You do not have to know how to find the inverse yet, just get the starting numbers down where you can see them.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Construct a rigorous proof by contradiction demonstrating the falsity of the negation",
+      "description": null
+    },
+    "completion": "{\"title\":\"Write down what you are assuming\",\"explanation\":\"Start by writing the opposite of what you want to prove, as if it were true. That one sentence is the whole setup for a proof by contradiction, and everything after it just follows from assuming it.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Rigorously justify the application of the mean value theorem to the given function",
+      "description": "Show all work."
+    },
+    "completion": "{\"title\":\"Check the two easy conditions first\",\"explanation\":\"Look at the function and ask two quick things: is it continuous on the interval, and is it differentiable on the interval. Once both are yes, the theorem already guarantees the value you are looking for exists.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Evaluate the appropriateness of the binomial model for the given scenario",
+      "description": null
+    },
+    "completion": "{\"title\":\"Check the four binomial conditions\",\"explanation\":\"Go through the scenario and check for four things: two outcomes, a fixed number of trials, the same probability each time, and independence. If all four hold, the binomial model fits.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Formally prove the pigeonhole principle applies to the given configuration",
+      "description": null
+    },
+    "completion": "{\"title\":\"Count the pigeons and the holes\",\"explanation\":\"Read the problem and write down two numbers: how many items there are, and how many groups they are being sorted into. If the first number is bigger, the principle already applies.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Critically analyze the inheritance pattern exhibited in the sex-linked cross",
+      "description": null
+    },
+    "completion": "{\"title\":\"Write down the two phenotypes\",\"explanation\":\"Look at the cross and write down the two versions of the trait you are tracking, one on each line. Everything about the inheritance pattern comes from comparing how those two show up in the offspring.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Synthesize the chi-square goodness-of-fit results into a conclusion about the genetic model",
+      "description": null
+    },
+    "completion": "{\"title\":\"Write your chi-square number down\",\"explanation\":\"Copy the chi-square value you calculated onto a fresh line, then copy the critical value next to it. Comparing those two numbers side by side is the whole conclusion, before you write a single sentence.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Critically assess the long-term growth trajectory across the three savings scenarios",
+      "description": null
+    },
+    "completion": "{\"title\":\"Write down the three interest rates\",\"explanation\":\"Open your notes and copy the three interest rates you were given onto a fresh line, one after another. Comparing growth starts with just having all three numbers in front of you at once.\"}"
+  }
+]

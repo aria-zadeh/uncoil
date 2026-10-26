@@ -1,0 +1,516 @@
+[
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "essay",
+      "subject": null,
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the materials for this and read the instructions\",\"minutes\":5},{\"title\":\"Write down what the finished piece has to contain\",\"minutes\":15},{\"title\":\"Write the opening without stopping to edit\",\"minutes\":25},{\"title\":\"Write the rest of it in one sitting\",\"minutes\":40},{\"title\":\"Read it aloud and fix what sounds wrong\",\"minutes\":15}],\"starterAction\":\"Open the materials for this and read the instructions\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "homework",
+      "subject": null,
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the materials for this and read the instructions\",\"minutes\":5},{\"title\":\"Complete the first part in one sitting\",\"minutes\":30},{\"title\":\"Write down what is still left to do\",\"minutes\":5},{\"title\":\"Finish the rest of it\",\"minutes\":30},{\"title\":\"Check your work against the instructions\",\"minutes\":10}],\"starterAction\":\"Open the materials for this and read the instructions\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "reading",
+      "subject": null,
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the reading and find where you left off\",\"minutes\":5},{\"title\":\"Read the first section without stopping\",\"minutes\":25},{\"title\":\"Write one sentence saying what that section was about\",\"minutes\":5},{\"title\":\"Read the next section without stopping\",\"minutes\":25},{\"title\":\"Write down the parts you did not follow\",\"minutes\":10}],\"starterAction\":\"Open the reading and find where you left off\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "project",
+      "subject": null,
+      "description": null,
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the materials for this and read the instructions\",\"minutes\":10},{\"title\":\"Write down what has to be handed in\",\"minutes\":15},{\"title\":\"Collect the materials you need\",\"minutes\":35},{\"title\":\"Make the first piece all the way through\",\"minutes\":45},{\"title\":\"Make the rest of the pieces\",\"minutes\":45},{\"title\":\"Check your work against the instructions\",\"minutes\":15}],\"starterAction\":\"Open the materials for this and read the instructions\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "math",
+      "subject": "Algebra II",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment and find the first question\",\"minutes\":5},{\"title\":\"Answer the first five questions in order\",\"minutes\":25},{\"title\":\"Answer the rest of the questions\",\"minutes\":25},{\"title\":\"Check your answers against your notes\",\"minutes\":15}],\"starterAction\":\"Open the assignment and find the first question\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "lab",
+      "subject": "Chemistry",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the data you collected\",\"minutes\":5},{\"title\":\"Copy the raw numbers into the data table\",\"minutes\":20},{\"title\":\"Write the method section from your notes\",\"minutes\":25},{\"title\":\"Write the conclusion using the table\",\"minutes\":25},{\"title\":\"Check every unit and label\",\"minutes\":10}],\"starterAction\":\"Open your lab notebook to the data you collected\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "test",
+      "subject": null,
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and put them in date order\",\"minutes\":10},{\"title\":\"Copy the key points onto one page\",\"minutes\":25},{\"title\":\"Write eight questions a test might ask\",\"minutes\":20},{\"title\":\"Answer your own questions without looking\",\"minutes\":30},{\"title\":\"Answer again the ones you got wrong\",\"minutes\":20}],\"starterAction\":\"Open your notes and put them in date order\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "x",
+      "subject": null,
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the materials for this and read the instructions\",\"minutes\":5},{\"title\":\"Complete the first part in one sitting\",\"minutes\":30},{\"title\":\"Write down what is still left to do\",\"minutes\":5},{\"title\":\"Finish the rest of it\",\"minutes\":30}],\"starterAction\":\"Open the materials for this and read the instructions\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "??",
+      "subject": null,
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the materials for this and read the instructions\",\"minutes\":5},{\"title\":\"Write down what the assignment is actually asking for\",\"minutes\":10},{\"title\":\"Complete the first part in one sitting\",\"minutes\":30},{\"title\":\"Finish the rest of it\",\"minutes\":30},{\"title\":\"Check your work against the instructions\",\"minutes\":10}],\"starterAction\":\"Open the materials for this and read the instructions\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Chapter 8",
+      "subject": "Biology",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the textbook to chapter 8\",\"minutes\":5},{\"title\":\"Read the first half without stopping\",\"minutes\":25},{\"title\":\"Write one sentence saying what that half covered\",\"minutes\":5},{\"title\":\"Read the second half without stopping\",\"minutes\":25},{\"title\":\"Write down the terms you did not know\",\"minutes\":10}],\"starterAction\":\"Open the textbook to chapter 8\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Unit 5",
+      "subject": "US Government",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes for this unit and put them in order\",\"minutes\":10},{\"title\":\"Copy the key terms onto one page\",\"minutes\":25},{\"title\":\"Write eight questions a test might ask\",\"minutes\":20},{\"title\":\"Answer your own questions without looking\",\"minutes\":30},{\"title\":\"Answer again the ones you got wrong\",\"minutes\":20}],\"starterAction\":\"Open your notes for this unit and put them in order\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Pages 44 to 71",
+      "subject": "World Literature",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the book to page 44\",\"minutes\":5},{\"title\":\"Read to page 58 without stopping\",\"minutes\":25},{\"title\":\"Write one sentence saying what happened\",\"minutes\":5},{\"title\":\"Read to page 71 without stopping\",\"minutes\":25},{\"title\":\"Write down the parts you found confusing\",\"minutes\":10}],\"starterAction\":\"Open the book to page 44\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "The Great Gatsby",
+      "subject": "English 2H",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the book and find where you left off\",\"minutes\":5},{\"title\":\"Read thirty pages without stopping\",\"minutes\":30},{\"title\":\"Write one sentence saying what happened\",\"minutes\":5},{\"title\":\"Read the next thirty pages\",\"minutes\":30},{\"title\":\"Write down the parts you found confusing\",\"minutes\":10}],\"starterAction\":\"Open the book and find where you left off\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Photosynthesis worksheet, front and back",
+      "subject": "Biology",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and put your name on it\",\"minutes\":5},{\"title\":\"Answer the front side in order\",\"minutes\":25},{\"title\":\"Answer the back side in order\",\"minutes\":25},{\"title\":\"Check your answers against your notes\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and put your name on it\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Periodic table quiz Friday",
+      "subject": "Chemistry",
+      "description": null,
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and find the section you will be quizzed on\",\"minutes\":5},{\"title\":\"Write the key facts onto cards\",\"minutes\":20},{\"title\":\"Answer the cards without looking\",\"minutes\":15},{\"title\":\"Put the ones you missed in a separate pile\",\"minutes\":5},{\"title\":\"Answer the missed cards again\",\"minutes\":15}],\"starterAction\":\"Open your notes and find the section you will be quizzed on\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Sign the permission slip",
+      "subject": null,
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the slip in your bag and put it on the table\",\"minutes\":5},{\"title\":\"Fill in every box that is yours to fill\",\"minutes\":5},{\"title\":\"Ask a parent to sign it tonight\",\"minutes\":5},{\"title\":\"Put the signed slip in your bag by the door\",\"minutes\":5}],\"starterAction\":\"Find the slip in your bag and put it on the table\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Bring gym clothes",
+      "subject": "Health",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find your gym clothes and check they are clean\",\"minutes\":5},{\"title\":\"Pack them in your bag tonight\",\"minutes\":5},{\"title\":\"Put the bag by the door\",\"minutes\":5}],\"starterAction\":\"Find your gym clothes and check they are clean\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Email the teacher about the missed quiz",
+      "subject": null,
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your email and start a new message\",\"minutes\":5},{\"title\":\"Write down the two things you need to ask\",\"minutes\":5},{\"title\":\"Write the message in one sitting\",\"minutes\":10},{\"title\":\"Read it once and send it\",\"minutes\":5}],\"starterAction\":\"Open your email and start a new message\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Charge the laptop",
+      "subject": null,
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the charger and plug it into the wall\",\"minutes\":5},{\"title\":\"Attach the charger to the laptop\",\"minutes\":5},{\"title\":\"Check that the charging light is on\",\"minutes\":5}],\"starterAction\":\"Find the charger and plug it into the wall\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Print the essay",
+      "subject": "English 2H",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the document and check it is the final version\",\"minutes\":5},{\"title\":\"Print the pages\",\"minutes\":5},{\"title\":\"Staple the pages in order\",\"minutes\":5},{\"title\":\"Pack the printed copy in your bag\",\"minutes\":5}],\"starterAction\":\"Open the document and check it is the final version\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Research paper",
+      "subject": "AP US History",
+      "description": "This paper should be between eight and ten pages, double spaced, in twelve point font, with one inch margins on all sides, and must include at least eight scholarly sources, of which no more than two may be websites, with full citations in the required format, a title page that is not counted in the page total, and a works cited page that is also not counted, submitted both on paper and electronically before the start of class on the due date, and late papers lose one letter grade per day.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and write the question you are answering\",\"minutes\":10},{\"title\":\"Write down every requirement as a checklist\",\"minutes\":20},{\"title\":\"Collect eight sources and save them in one folder\",\"minutes\":45},{\"title\":\"Write the outline as a list of section headings\",\"minutes\":30},{\"title\":\"Write the whole draft without editing\",\"minutes\":45},{\"title\":\"Add the citations and check the format\",\"minutes\":30},{\"title\":\"Check the paper against your requirement checklist\",\"minutes\":20}],\"starterAction\":\"Open the assignment sheet and write the question you are answering\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Group project",
+      "subject": "AP Psychology",
+      "description": "Everyone in the group has to contribute equally and you will all be graded on the same rubric so make sure you divide the work fairly and keep a record of who did what because the teacher will ask for it at the end and if someone does not do their part you should say so on the peer evaluation form which is handed out separately on the last day.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and list what has to be handed in\",\"minutes\":10},{\"title\":\"Write down which part is yours\",\"minutes\":10},{\"title\":\"Collect the materials you need for your part\",\"minutes\":35},{\"title\":\"Make your part all the way through\",\"minutes\":45},{\"title\":\"Write down what you did, with dates\",\"minutes\":15},{\"title\":\"Check your part against the rubric\",\"minutes\":20}],\"starterAction\":\"Open the assignment sheet and list what has to be handed in\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Reading",
+      "subject": "World Literature",
+      "description": "qx9 zzz lorem filler filler filler more filler and yet more filler text that does not say anything useful at all about the assignment itself",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the reading and find where you left off\",\"minutes\":5},{\"title\":\"Read the first section without stopping\",\"minutes\":25},{\"title\":\"Write one sentence saying what that section was about\",\"minutes\":5},{\"title\":\"Read the next section without stopping\",\"minutes\":25},{\"title\":\"Write down the parts you did not follow\",\"minutes\":10}],\"starterAction\":\"Open the reading and find where you left off\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Practice the drum part",
+      "subject": "Music Technology",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the sheet music to the first page\",\"minutes\":5},{\"title\":\"Play through the first section slowly\",\"minutes\":25},{\"title\":\"Mark the two bars that broke down\",\"minutes\":5},{\"title\":\"Play those bars five times each\",\"minutes\":20},{\"title\":\"Play the whole part at full speed\",\"minutes\":15}],\"starterAction\":\"Open the sheet music to the first page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Sand and stain the shelf",
+      "subject": "Woodworking",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Collect the sandpaper, cloth and stain\",\"minutes\":15},{\"title\":\"Run the sandpaper over the whole surface until it is smooth\",\"minutes\":45},{\"title\":\"Clean the dust off with a damp cloth\",\"minutes\":10},{\"title\":\"Paste the first coat of stain over the surface\",\"minutes\":30},{\"title\":\"Cover it with a second coat once the first is dry\",\"minutes\":30}],\"starterAction\":\"Collect the sandpaper, cloth and stain\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Log this week's training",
+      "subject": "Physical Education",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the log and write today's date\",\"minutes\":5},{\"title\":\"Write down what you did each day this week\",\"minutes\":15},{\"title\":\"Add up the total minutes\",\"minutes\":5},{\"title\":\"Check the log against the requirement sheet\",\"minutes\":5}],\"starterAction\":\"Open the log and write today's date\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Photograph five textures",
+      "subject": "Photography",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Collect your camera and check the battery\",\"minutes\":10},{\"title\":\"Photograph the first three textures\",\"minutes\":30},{\"title\":\"Photograph the last two textures\",\"minutes\":25},{\"title\":\"Upload the photographs to your folder\",\"minutes\":15},{\"title\":\"Pick the five best and label them\",\"minutes\":15}],\"starterAction\":\"Collect your camera and check the battery\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Rehearse your lines for act 2",
+      "subject": "Theatre",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the script to act 2\",\"minutes\":5},{\"title\":\"Read your lines out loud once\",\"minutes\":15},{\"title\":\"Practise the first half without looking\",\"minutes\":25},{\"title\":\"Practise the second half without looking\",\"minutes\":25},{\"title\":\"Practise the whole act with a timer\",\"minutes\":15}],\"starterAction\":\"Open the script to act 2\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Debug the sorting function",
+      "subject": "Computer Science",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the file and run the failing test\",\"minutes\":10},{\"title\":\"Write down what the test expected and what it got\",\"minutes\":10},{\"title\":\"Add a print statement inside the loop\",\"minutes\":15},{\"title\":\"Run it again and read the output\",\"minutes\":15},{\"title\":\"Fix the line the output points at\",\"minutes\":25}],\"starterAction\":\"Open the file and run the failing test\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Leer el capitulo 3",
+      "subject": "Spanish III",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the book to the chapter you were given\",\"minutes\":5},{\"title\":\"Read the first half without stopping\",\"minutes\":25},{\"title\":\"Write one sentence saying what happened\",\"minutes\":5},{\"title\":\"Read the second half without stopping\",\"minutes\":25},{\"title\":\"Write down the words you did not know\",\"minutes\":10}],\"starterAction\":\"Open the book to the chapter you were given\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Ecrire un paragraphe sur les vacances",
+      "subject": "French II",
+      "description": "Dix phrases.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write down ten things you did, in your own words\",\"minutes\":10},{\"title\":\"Translate the first five sentences\",\"minutes\":20},{\"title\":\"Translate the last five sentences\",\"minutes\":20},{\"title\":\"Check every verb ending against your notes\",\"minutes\":15}],\"starterAction\":\"Write down ten things you did, in your own words\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "宿題を終わらせる",
+      "subject": "Japanese I",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the materials for this and read the instructions\",\"minutes\":5},{\"title\":\"Complete the first part in one sitting\",\"minutes\":25},{\"title\":\"Write down what is still left to do\",\"minutes\":5},{\"title\":\"Finish the rest of it\",\"minutes\":25},{\"title\":\"Check your work against the instructions\",\"minutes\":10}],\"starterAction\":\"Open the materials for this and read the instructions\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Прочитать главу 4",
+      "subject": "Russian I",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the book to the chapter you were given\",\"minutes\":5},{\"title\":\"Read the first half without stopping\",\"minutes\":25},{\"title\":\"Write one sentence saying what happened\",\"minutes\":5},{\"title\":\"Read the second half without stopping\",\"minutes\":25},{\"title\":\"Write down the words you did not know\",\"minutes\":10}],\"starterAction\":\"Open the book to the chapter you were given\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "this stupid essay",
+      "subject": "English 2H",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and read the prompt out loud\",\"minutes\":5},{\"title\":\"Write down the three points it has to make\",\"minutes\":15},{\"title\":\"Write the opening without stopping to edit\",\"minutes\":25},{\"title\":\"Write the rest of it in one sitting\",\"minutes\":40},{\"title\":\"Read it aloud and fix what sounds wrong\",\"minutes\":15}],\"starterAction\":\"Open the assignment sheet and read the prompt out loud\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "i have no idea what this is",
+      "subject": null,
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the materials for this and read the instructions\",\"minutes\":5},{\"title\":\"Write down what the assignment is actually asking for\",\"minutes\":15},{\"title\":\"Write down one question to ask the teacher\",\"minutes\":5},{\"title\":\"Complete the part you already follow\",\"minutes\":30},{\"title\":\"Finish the rest once you have an answer\",\"minutes\":30}],\"starterAction\":\"Open the materials for this and read the instructions\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "catch up on everything",
+      "subject": null,
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your planner and list every assignment that is late\",\"minutes\":15},{\"title\":\"Put the list in order of due date\",\"minutes\":10},{\"title\":\"Finish the first item on the list\",\"minutes\":35},{\"title\":\"Finish the second item on the list\",\"minutes\":35},{\"title\":\"Cross off what you have done and check the list again\",\"minutes\":10}],\"starterAction\":\"Open your planner and list every assignment that is late\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "ALL CAPS ASSIGNMENT TITLE",
+      "subject": "Biology",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the materials for this and read the instructions\",\"minutes\":5},{\"title\":\"Write down what the finished work has to contain\",\"minutes\":15},{\"title\":\"Complete the first part in one sitting\",\"minutes\":30},{\"title\":\"Finish the rest of it\",\"minutes\":30},{\"title\":\"Check your work against the instructions\",\"minutes\":10}],\"starterAction\":\"Open the materials for this and read the instructions\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "lots   of    spaces   in   the  title",
+      "subject": null,
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the materials for this and read the instructions\",\"minutes\":5},{\"title\":\"Complete the first part in one sitting\",\"minutes\":25},{\"title\":\"Write down what is still left to do\",\"minutes\":5},{\"title\":\"Finish the rest of it\",\"minutes\":25}],\"starterAction\":\"Open the materials for this and read the instructions\"}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "???",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "asdfjkl qwerty zzzz",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Due tomorrow.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Assignment\",\"dueInDays\":1}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Everything is due at once and I do not know what to do",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Chapter 1 chapter 2 chapter 3 chapter 4 chapter 5 chapter 6 chapter 7 chapter 8 chapter 9 all due Friday",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Read chapters 1 to 9\",\"dueInDays\":4}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "宿題は明日までです",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Homework\",\"dueInDays\":1}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Reminder reminder reminder reminder reminder",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "essay",
+      "description": null
+    },
+    "completion": "{\"title\":\"Write a short piece about the topic\",\"explanation\":\"Find out what the essay is supposed to be about. Write down three things you want to say, then write a paragraph about each one.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "???",
+      "description": null
+    },
+    "completion": "{\"title\":\"Work out what the task is\",\"explanation\":\"Look at the assignment again and write down anything you can tell about it. Then write one question you could ask the teacher to clear it up.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Undertake a comprehensive interrogation of the extant literature",
+      "description": null
+    },
+    "completion": "{\"title\":\"Read what people have already written\",\"explanation\":\"Find the main things written about this topic. Read them, and write down what most of them agree on and where they disagree.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Operationalize the construct for empirical measurement",
+      "description": null
+    },
+    "completion": "{\"title\":\"Decide how you will measure it\",\"explanation\":\"Write down what you are trying to measure. Then write down exactly what you will count or record so that someone else could do it the same way.\"}"
+  }
+]

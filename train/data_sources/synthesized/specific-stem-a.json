@@ -1,0 +1,937 @@
+[
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Factoring trinomials with a leading coefficient, problems 9 to 16",
+      "subject": "Algebra I",
+      "description": "Section 6.4, show your factoring steps.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the textbook to section 6.4 and copy problem 9's trinomial\",\"minutes\":5},{\"title\":\"Write the a, b, and c coefficients from problem 9 in the box method grid\",\"minutes\":15},{\"title\":\"Write the factored form for problems 9 through 11 using the grid\",\"minutes\":12},{\"title\":\"Write the factored form for problems 12 through 14 using the grid\",\"minutes\":12},{\"title\":\"Write the factored form for problems 15 through 16 using the grid\",\"minutes\":11},{\"title\":\"Check two factored answers by multiplying them back out to confirm they match\",\"minutes\":20}],\"starterAction\":\"Open the textbook to section 6.4 and copy problem 9's trinomial\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Solving quadratics by completing the square, worksheet 7B",
+      "subject": "Algebra I",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open worksheet 7B and copy the first equation\",\"minutes\":5},{\"title\":\"Rewrite problem 1's equation with the constant moved to the other side\",\"minutes\":10},{\"title\":\"Complete the square and solve problems 1 through 4\",\"minutes\":12},{\"title\":\"Complete the square and solve problems 5 through 7\",\"minutes\":9},{\"title\":\"Complete the square and solve problems 8 through 10\",\"minutes\":9},{\"title\":\"Circle every answer that came out as a fraction\",\"minutes\":10}],\"starterAction\":\"Open worksheet 7B and copy the first equation\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Synthetic division of x^3-4x^2+x+6 by (x-2), problems 1-8",
+      "subject": "Algebra II",
+      "description": "Show the division box for each.",
+      "duePhrase": "Thursday",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy problem 1's polynomial\",\"minutes\":5},{\"title\":\"Draw the division box and bring down problem 1's leading coefficient\",\"minutes\":15},{\"title\":\"Finish problem 1's division box and write its remainder\",\"minutes\":15},{\"title\":\"Divide problems 2 through 8 the same way\",\"minutes\":30},{\"title\":\"Check problem 2's quotient by multiplying it back out\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy problem 1's polynomial\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "graphing rational functions, hw pg 214 #1-12",
+      "subject": "Algebra II",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the textbook to page 214 and copy problem 1's function\",\"minutes\":5},{\"title\":\"Make a table finding where the denominator in problem 1 equals zero\",\"minutes\":15},{\"title\":\"Graph problem 1 with its vertical asymptotes marked\",\"minutes\":20},{\"title\":\"Repeat the table and graph steps for problems 2 through 12\",\"minutes\":35},{\"title\":\"Label every hole in one graph with an open circle\",\"minutes\":15}],\"starterAction\":\"Open the textbook to page 214 and copy problem 1's function\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Proving triangle ABC congruent to triangle DEF using SAS, proof set 4.3",
+      "subject": "Geometry",
+      "description": "Two-column format.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the given statement for proof 1\",\"minutes\":5},{\"title\":\"Write the two-column proof for problem 1 using SAS\",\"minutes\":25},{\"title\":\"Write the proof for problem 2 using SAS\",\"minutes\":25},{\"title\":\"Write the proofs for problems 3 and 4\",\"minutes\":30},{\"title\":\"Check every reason against the postulate list\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy the given statement for proof 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "finding arc length and sector area, worksheet 10.2 odds only",
+      "subject": "Geometry",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open worksheet 10.2 and copy problem 1's circle\",\"minutes\":5},{\"title\":\"Calculate problem 1's arc length and sector area together\",\"minutes\":15},{\"title\":\"Calculate the arc length and sector area for problems 3, 5, and 7 the same way\",\"minutes\":30},{\"title\":\"Finish the remaining odd problems\",\"minutes\":20},{\"title\":\"Check one answer against the full circle area\",\"minutes\":15}],\"starterAction\":\"Open worksheet 10.2 and copy problem 1's circle\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "solving trig identities, section 5.2 problems 12-19",
+      "subject": "Precalculus",
+      "description": "Show every substitution.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the textbook to section 5.2 and copy problem 12\",\"minutes\":5},{\"title\":\"Write the left side and right side of problem 12 in two columns\",\"minutes\":15},{\"title\":\"Solve problem 12 by substituting a known identity into one column\",\"minutes\":20},{\"title\":\"Repeat the two-column substitution for problems 13 through 19\",\"minutes\":30},{\"title\":\"Check one proof by plugging in a specific angle\",\"minutes\":15}],\"starterAction\":\"Open the textbook to section 5.2 and copy problem 12\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Writing the equation of a hyperbola from its foci and vertices, problems 1-6",
+      "subject": "Precalculus",
+      "description": null,
+      "duePhrase": "Friday",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy problem 1's foci and vertices\",\"minutes\":5},{\"title\":\"Calculate problem 1's center and the values of a and c\",\"minutes\":15},{\"title\":\"Write problem 1's equation and sketch its graph\",\"minutes\":25},{\"title\":\"Write the equation for problems 2 through 6\",\"minutes\":30},{\"title\":\"Check the sketch against the equation asymptotes\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy problem 1's foci and vertices\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Related rates: a 13-foot ladder sliding down a wall, problems 3 and 7",
+      "subject": "AP Calculus AB",
+      "description": "Show the derivative step.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy problem 3's diagram\",\"minutes\":5},{\"title\":\"Write the equation relating the ladder height and base for problem 3\",\"minutes\":15},{\"title\":\"Take the derivative of both sides and solve problem 3\",\"minutes\":25},{\"title\":\"Write and solve problem 7 the same way\",\"minutes\":30},{\"title\":\"Check problem 3's answer for a negative rate\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy problem 3's diagram\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "L'Hopital's rule practice, problems 21-30",
+      "subject": "AP Calculus AB",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy problem 21\",\"minutes\":5},{\"title\":\"Check that problem 21 is in indeterminate form\",\"minutes\":10},{\"title\":\"Solve problem 21 using l'hopital's rule and write the result\",\"minutes\":20},{\"title\":\"Solve problems 22 through 30 the same way\",\"minutes\":35},{\"title\":\"Check three answers by graphing the original limit\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy problem 21\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Testing series convergence with the ratio test, problems 21-28",
+      "subject": "AP Calculus BC",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy problem 21's series\",\"minutes\":5},{\"title\":\"Write the ratio of consecutive terms for problem 21\",\"minutes\":15},{\"title\":\"Take the limit of that ratio and label convergent or divergent\",\"minutes\":15},{\"title\":\"Repeat both steps for problems 22 through 28\",\"minutes\":35},{\"title\":\"Write convergent or divergent next to every answer\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy problem 21's series\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "finding the interval of convergence for a power series, pg 402 #4-10",
+      "subject": "AP Calculus BC",
+      "description": null,
+      "duePhrase": "Monday",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the textbook to page 402 and copy problem 4's series\",\"minutes\":5},{\"title\":\"Find the radius of convergence for problems 4 through 7\",\"minutes\":25},{\"title\":\"Check the endpoints for problems 4 through 7\",\"minutes\":20},{\"title\":\"Find radius and endpoints for problems 8 through 10\",\"minutes\":30},{\"title\":\"Circle every interval that is open at an endpoint\",\"minutes\":15}],\"starterAction\":\"Open the textbook to page 402 and copy problem 4's series\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Law of sines ambiguous case, problems 9-14",
+      "subject": "Trigonometry",
+      "description": "Zero, one, or two triangles.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy problem 9's given sides and angle\",\"minutes\":5},{\"title\":\"Calculate the height needed to test problem 9 for the ambiguous case\",\"minutes\":20},{\"title\":\"Solve problem 9 and write how many triangles it makes\",\"minutes\":15},{\"title\":\"Repeat the height test and solve for problems 10 through 14\",\"minutes\":35},{\"title\":\"Write zero, one, or two next to every problem\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy problem 9's given sides and angle\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "graphing y = a sin(bx-c) with a phase shift, worksheet 6.4",
+      "subject": "Trigonometry",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open worksheet 6.4 and copy the first function\",\"minutes\":5},{\"title\":\"Write the amplitude, period, and phase shift for problem 1\",\"minutes\":15},{\"title\":\"Plot five key points for problem 1 using those values\",\"minutes\":20},{\"title\":\"Write the values and plot the points for problems 2 through 4\",\"minutes\":30},{\"title\":\"Finish the remaining problems\",\"minutes\":20}],\"starterAction\":\"Open worksheet 6.4 and copy the first function\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "proving a sequence converges using the epsilon definition, problem 3",
+      "subject": "Math Analysis",
+      "description": "One page, full proof.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and copy the sequence formula for problem 3\",\"minutes\":5},{\"title\":\"Write the definition of convergence with epsilon and N\",\"minutes\":20},{\"title\":\"Write the algebra showing N in terms of epsilon\",\"minutes\":30},{\"title\":\"Write the full proof in order\",\"minutes\":30},{\"title\":\"Read the proof back and check every inequality direction\",\"minutes\":15}],\"starterAction\":\"Open your notes and copy the sequence formula for problem 3\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "free body diagrams for a block on a 30-degree incline, problems 1-6",
+      "subject": "Physics",
+      "description": "Include friction.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy problem 1's incline diagram\",\"minutes\":5},{\"title\":\"Draw the weight vector split into components for problem 1\",\"minutes\":20},{\"title\":\"Draw the normal and friction vectors for problem 1\",\"minutes\":15},{\"title\":\"Draw the complete diagram for problems 2 through 6 the same way\",\"minutes\":35},{\"title\":\"Check one diagram against the given angle\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy problem 1's incline diagram\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "projectile motion: finding range and max height, worksheet 4.1 #1-8",
+      "subject": "Physics",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open worksheet 4.1 and copy problem 1's launch angle and speed\",\"minutes\":5},{\"title\":\"Split problem 1's velocity into horizontal and vertical components\",\"minutes\":15},{\"title\":\"Calculate problem 1's max height and range from those components\",\"minutes\":20},{\"title\":\"Split the velocity and calculate max height and range for problems 2 through 8\",\"minutes\":35},{\"title\":\"Check one answer using the time of flight\",\"minutes\":15}],\"starterAction\":\"Open worksheet 4.1 and copy problem 1's launch angle and speed\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "measuring the spring constant k with a hanging mass lab",
+      "subject": "Physics",
+      "description": "Five trial masses.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the data table for the spring lab\",\"minutes\":5},{\"title\":\"Hang the first three masses and record the stretch distance\",\"minutes\":20},{\"title\":\"Hang the remaining two masses and record the stretch\",\"minutes\":15},{\"title\":\"Calculate the spring constant from each trial\",\"minutes\":25},{\"title\":\"Graph force against stretch distance\",\"minutes\":20},{\"title\":\"Write the average k value at the bottom of the table\",\"minutes\":15}],\"starterAction\":\"Print the data table for the spring lab\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Ohm's law circuit lab measuring current at three resistors",
+      "subject": "Physics",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the lab packet to the circuit diagram\",\"minutes\":5},{\"title\":\"Build the circuit with the first resistor and record the current\",\"minutes\":20},{\"title\":\"Assemble the circuit with the second resistor and record the current\",\"minutes\":20},{\"title\":\"Add the third resistor to the circuit and record the current\",\"minutes\":20},{\"title\":\"Calculate the resistance from voltage and current for each trial\",\"minutes\":25},{\"title\":\"Compare your calculated resistance to the resistor labeled value\",\"minutes\":15}],\"starterAction\":\"Open the lab packet to the circuit diagram\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "rotational inertia of a disk vs a hoop, lab data table",
+      "subject": "AP Physics 1",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the rotational inertia data\",\"minutes\":5},{\"title\":\"Record the angular acceleration for the disk trial\",\"minutes\":15},{\"title\":\"Note the angular acceleration for the hoop trial\",\"minutes\":15},{\"title\":\"Calculate the rotational inertia for both objects\",\"minutes\":30},{\"title\":\"Compare your results to the formula for each shape\",\"minutes\":20}],\"starterAction\":\"Open your lab notebook to the rotational inertia data\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "impulse-momentum theorem, free response practice problem 2",
+      "subject": "AP Physics 1",
+      "description": "Show every unit.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the practice packet to problem 2\",\"minutes\":5},{\"title\":\"Write the given values and the impulse equation\",\"minutes\":15},{\"title\":\"Solve for the change in momentum\",\"minutes\":20},{\"title\":\"Calculate the final velocity\",\"minutes\":20},{\"title\":\"Check the sign of your answer against the direction given\",\"minutes\":15}],\"starterAction\":\"Open the practice packet to problem 2\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "simple harmonic motion: period of a spring-mass system, problems 5-10",
+      "subject": "AP Physics 1",
+      "description": null,
+      "duePhrase": "Friday",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy problem 5's spring constant and mass\",\"minutes\":5},{\"title\":\"Write problem 5's angular frequency formula with the values plugged in\",\"minutes\":15},{\"title\":\"Calculate problem 5's period and frequency\",\"minutes\":15},{\"title\":\"Repeat the formula and calculation for problems 6 through 10\",\"minutes\":35},{\"title\":\"Check one period by plugging it back into the formula\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy problem 5's spring constant and mass\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "thin lens equation: locating the image for a converging lens, problems 1-6",
+      "subject": "AP Physics 2",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy problem 1's object distance and focal length\",\"minutes\":5},{\"title\":\"Write the thin lens equation with problem 1's values plugged in\",\"minutes\":15},{\"title\":\"Solve problem 1 for the image distance\",\"minutes\":15},{\"title\":\"Write and solve the equation for problems 2 through 6\",\"minutes\":30},{\"title\":\"Sketch the ray diagram for one problem\",\"minutes\":20}],\"starterAction\":\"Open the packet and copy problem 1's object distance and focal length\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "fluid pressure at three depths in a water tank, problem set",
+      "subject": "AP Physics 2",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the tank dimensions\",\"minutes\":5},{\"title\":\"Calculate the pressure at depth one\",\"minutes\":15},{\"title\":\"Calculate pressure at depths two and three\",\"minutes\":20},{\"title\":\"Graph pressure against depth\",\"minutes\":20},{\"title\":\"Check the slope of your graph against the fluid density\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the tank dimensions\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "deriving the period of a physical pendulum from torque, one page",
+      "subject": "AP Physics C: Mechanics",
+      "description": "Show every step.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and sketch the physical pendulum\",\"minutes\":5},{\"title\":\"Write the torque equation about the pivot point\",\"minutes\":20},{\"title\":\"Write the equation in terms of angular acceleration\",\"minutes\":25},{\"title\":\"Solve the differential equation for the period\",\"minutes\":30},{\"title\":\"Check the formula against the simple pendulum case\",\"minutes\":15}],\"starterAction\":\"Open your notes and sketch the physical pendulum\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "work-energy theorem on a compressed spring launching a cart, problem 4",
+      "subject": "AP Physics C: Mechanics",
+      "description": null,
+      "duePhrase": "Monday",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy problem 4's spring constant and compression\",\"minutes\":5},{\"title\":\"Write the spring potential energy at full compression\",\"minutes\":15},{\"title\":\"Write the kinetic energy of the cart at launch\",\"minutes\":15},{\"title\":\"Solve for the cart launch speed\",\"minutes\":25},{\"title\":\"Check your answer units before writing it in\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy problem 4's spring constant and compression\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "wave interference: constructive and destructive points, worksheet 8.3",
+      "subject": "Physics",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open worksheet 8.3 and copy the first wave diagram\",\"minutes\":5},{\"title\":\"Mark every constructive interference point on diagrams 1-3\",\"minutes\":20},{\"title\":\"Mark every destructive interference point on diagrams 1-3\",\"minutes\":20},{\"title\":\"Finish the remaining diagrams\",\"minutes\":25},{\"title\":\"Check two points against the path difference formula\",\"minutes\":15}],\"starterAction\":\"Open worksheet 8.3 and copy the first wave diagram\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "unit conversion chain for a car's speed from mph to m/s, problems 1-10",
+      "subject": "Physics",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy problem 1's given speed\",\"minutes\":5},{\"title\":\"Write the conversion factors needed for problem 1's chain\",\"minutes\":10},{\"title\":\"Convert problem 1 through the chain to meters per second\",\"minutes\":15},{\"title\":\"Write and convert through the chain for problems 2 through 10\",\"minutes\":35},{\"title\":\"Check one conversion by working it backward\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy problem 1's given speed\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "electric field between two charged plates, problems 3-9",
+      "subject": "AP Physics 1",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy problem 3's plate separation and voltage\",\"minutes\":5},{\"title\":\"Write the electric field formula with problem 3's values plugged in\",\"minutes\":15},{\"title\":\"Calculate problem 3's field and the force on a test charge\",\"minutes\":20},{\"title\":\"Repeat the formula and calculation for problems 4 through 9\",\"minutes\":35},{\"title\":\"Check one field value against the given plate voltage\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy problem 3's plate separation and voltage\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Balancing redox equations using half-reactions, problems 1-8",
+      "subject": "Chemistry",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy problem 1's unbalanced equation\",\"minutes\":5},{\"title\":\"Write the oxidation half-reaction for problem 1\",\"minutes\":15},{\"title\":\"Write the reduction half-reaction for problem 1 and balance electrons\",\"minutes\":20},{\"title\":\"Balance problem 1's half-reactions into the final equation\",\"minutes\":15},{\"title\":\"Balance problems 2 through 8 the same way\",\"minutes\":35},{\"title\":\"Check one balanced equation by counting every atom\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy problem 1's unbalanced equation\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "molarity lab: preparing a 0.5 M NaCl solution",
+      "subject": "Chemistry",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the lab procedure for the molarity lab\",\"minutes\":5},{\"title\":\"Calculate the mass of NaCl needed for 0.5 M\",\"minutes\":20},{\"title\":\"Measure the calculated mass on the balance\",\"minutes\":20},{\"title\":\"Record the final solution volume in the data table\",\"minutes\":15},{\"title\":\"Compare your measured mass to a partner's calculation\",\"minutes\":15}],\"starterAction\":\"Print the lab procedure for the molarity lab\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "limiting reactant problems, worksheet 9.2 #1-10",
+      "subject": "Chemistry",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open worksheet 9.2 and copy problem 1's given masses\",\"minutes\":5},{\"title\":\"Convert problem 1's masses to moles\",\"minutes\":15},{\"title\":\"Find problem 1's limiting reactant and theoretical yield\",\"minutes\":20},{\"title\":\"Convert masses and find the limiting reactant for problems 2 through 10\",\"minutes\":35},{\"title\":\"Check one answer using the excess reactant left over\",\"minutes\":15}],\"starterAction\":\"Open worksheet 9.2 and copy problem 1's given masses\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "naming ionic compounds with polyatomic ions, pg 156 #1-20",
+      "subject": "Chemistry",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the textbook to page 156 and copy problem 1's formula\",\"minutes\":5},{\"title\":\"Circle every formula that contains a polyatomic ion\",\"minutes\":15},{\"title\":\"Name every circled compound using the polyatomic ion chart\",\"minutes\":25},{\"title\":\"Name the remaining compounds using the regular ionic naming rules\",\"minutes\":25},{\"title\":\"Check five names against the ion charge table\",\"minutes\":15}],\"starterAction\":\"Open the textbook to page 156 and copy problem 1's formula\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "gas laws: Boyle's law and Charles's law problem set",
+      "subject": "Chemistry",
+      "description": "Problems 1 to 10.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 60
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy problem 1's given pressure and volume\",\"minutes\":5},{\"title\":\"Write the pressure-volume law with problem 1's values plugged in\",\"minutes\":15},{\"title\":\"Solve problem 1 for the missing value\",\"minutes\":15},{\"title\":\"Set up and solve problems 2 through 5 using the pressure-volume relationship\",\"minutes\":30},{\"title\":\"Solve problems 6 through 10 using the volume-temperature relationship\",\"minutes\":30},{\"title\":\"Check one answer by plugging it back into the original equation\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy problem 1's given pressure and volume\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "calculating Ka from a weak acid titration curve, problem 3",
+      "subject": "AP Chemistry",
+      "description": "Show the half-equivalence point.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the lab packet and copy problem 3's titration curve\",\"minutes\":5},{\"title\":\"Find the equivalence point volume on the curve\",\"minutes\":15},{\"title\":\"Find the half-equivalence point and read the pH there\",\"minutes\":20},{\"title\":\"Write the Ka from that pH value\",\"minutes\":25},{\"title\":\"Check that your Ka is written in scientific notation\",\"minutes\":15}],\"starterAction\":\"Open the lab packet and copy problem 3's titration curve\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "buffer capacity lab: adding acid and base to an acetate buffer",
+      "subject": "AP Chemistry",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the data table for the buffer lab\",\"minutes\":5},{\"title\":\"Record the starting pH of the acetate buffer\",\"minutes\":10},{\"title\":\"Add the acid increments and record pH after each\",\"minutes\":25},{\"title\":\"Add the base increments and record pH after each\",\"minutes\":25},{\"title\":\"Graph pH against volume added\",\"minutes\":25},{\"title\":\"Circle the buffer region on your graph\",\"minutes\":15}],\"starterAction\":\"Print the data table for the buffer lab\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "rate law determination from initial rates data, problem set",
+      "subject": "AP Chemistry",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the initial rates data table\",\"minutes\":5},{\"title\":\"Find the order with respect to reactant A\",\"minutes\":20},{\"title\":\"Find order with respect to reactant B\",\"minutes\":20},{\"title\":\"Write the full rate law with the rate constant\",\"minutes\":25},{\"title\":\"Check your rate law against one data row\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy the initial rates data table\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "electrochemistry: calculating cell potential for a galvanic cell, problems 1-6",
+      "subject": "AP Chemistry",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy problem 1's two half-cells\",\"minutes\":5},{\"title\":\"Look up the standard reduction potentials for problems 1 through 3\",\"minutes\":20},{\"title\":\"Calculate the cell potential for problems 1 through 3\",\"minutes\":25},{\"title\":\"Finish problems 4 through 6\",\"minutes\":25},{\"title\":\"Check one answer for a positive spontaneous cell potential\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy problem 1's two half-cells\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "empirical formula lab from combustion data",
+      "subject": "Chemistry",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the data table for the combustion lab\",\"minutes\":5},{\"title\":\"Record the mass of carbon dioxide and water produced\",\"minutes\":15},{\"title\":\"Calculate the moles of carbon and hydrogen\",\"minutes\":25},{\"title\":\"Calculate the empirical formula from the mole ratio\",\"minutes\":25},{\"title\":\"Compare your formula to the compound named in the packet\",\"minutes\":15}],\"starterAction\":\"Print the data table for the combustion lab\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "significant figures in measured data, worksheet 2.1 #1-15",
+      "subject": "Chemistry",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open worksheet 2.1 and copy problem 1's measurement\",\"minutes\":5},{\"title\":\"Circle the significant figures in problem 1 and write the count\",\"minutes\":10},{\"title\":\"Mark the significant figures and write the count for problems 2 through 6\",\"minutes\":11},{\"title\":\"Mark the significant figures and write the count for problems 7 through 11\",\"minutes\":10},{\"title\":\"Mark the significant figures and write the count for problems 12 through 15\",\"minutes\":9},{\"title\":\"Check three answers against the sig fig rules sheet\",\"minutes\":15}],\"starterAction\":\"Open worksheet 2.1 and copy problem 1's measurement\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "dimensional analysis conversion chain: liters to milliliters to gallons, problems 1-8",
+      "subject": "Chemistry",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy problem 1's given quantity\",\"minutes\":5},{\"title\":\"Write the first conversion factor in problem 1's chain\",\"minutes\":10},{\"title\":\"Convert through problem 1's full chain to the final unit\",\"minutes\":15},{\"title\":\"Write and convert through the chains for problems 2 through 8\",\"minutes\":35},{\"title\":\"Check one conversion by working backward to the start\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy problem 1's given quantity\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "percent yield calculation for a precipitation reaction lab",
+      "subject": "Chemistry",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the lab data sheet for the precipitation reaction\",\"minutes\":5},{\"title\":\"Record the actual mass of precipitate collected\",\"minutes\":15},{\"title\":\"Calculate the theoretical yield from the given masses\",\"minutes\":25},{\"title\":\"Calculate the percent yield\",\"minutes\":20},{\"title\":\"Circle whether your percent yield is above or below 100 percent\",\"minutes\":15}],\"starterAction\":\"Print the lab data sheet for the precipitation reaction\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "spectrophotometry lab: finding concentration from absorbance using Beer's law",
+      "subject": "AP Chemistry",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the data table for the spectrophotometry lab\",\"minutes\":5},{\"title\":\"Record the absorbance for each standard solution\",\"minutes\":20},{\"title\":\"Graph absorbance against concentration\",\"minutes\":20},{\"title\":\"Calculate the slope of your best-fit line\",\"minutes\":20},{\"title\":\"Write the concentration of the unknown from its absorbance\",\"minutes\":25}],\"starterAction\":\"Print the data table for the spectrophotometry lab\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Punnett square cross for heterozygous tall pea plants, problems 1-4",
+      "subject": "Biology",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the first cross genotypes\",\"minutes\":5},{\"title\":\"Draw the Punnett square for problems 1 and 2\",\"minutes\":20},{\"title\":\"Write the phenotype ratio for problems 1 and 2\",\"minutes\":15},{\"title\":\"Draw and write the ratio for problems 3 and 4\",\"minutes\":25},{\"title\":\"Check your ratios against the 3-to-1 pattern\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the first cross genotypes\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "osmosis lab: potato strips in three salt solutions",
+      "subject": "Biology",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the data table for the potato osmosis lab\",\"minutes\":5},{\"title\":\"Record the starting mass of each potato strip\",\"minutes\":15},{\"title\":\"Record the ending mass after soaking in each solution\",\"minutes\":20},{\"title\":\"Calculate the percent mass change for each strip\",\"minutes\":25},{\"title\":\"Graph percent change against solution concentration\",\"minutes\":20},{\"title\":\"Write which solution was hypertonic based on your graph\",\"minutes\":15}],\"starterAction\":\"Print the data table for the potato osmosis lab\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "identifying the stages of mitosis in an onion root tip slide",
+      "subject": "Biology",
+      "description": "Label each stage: prophase, metaphase, anaphase, telophase.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the lab packet to the mitosis stage diagrams\",\"minutes\":5},{\"title\":\"Sketch three cells from the slide showing different stages\",\"minutes\":25},{\"title\":\"Label each sketch with its correct mitosis stage\",\"minutes\":20},{\"title\":\"Count how many cells in your field of view are in each stage\",\"minutes\":20},{\"title\":\"Calculate the percent of cells in prophase\",\"minutes\":15}],\"starterAction\":\"Open the lab packet to the mitosis stage diagrams\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "food web diagram for a pond ecosystem, ten organisms",
+      "subject": "Biology",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and list the ten organisms given\",\"minutes\":5},{\"title\":\"Draw an arrow from each producer to its consumer\",\"minutes\":25},{\"title\":\"Draw the remaining arrows for the secondary consumers\",\"minutes\":25},{\"title\":\"Label every organism as producer, primary, or secondary consumer\",\"minutes\":20},{\"title\":\"Circle the apex predator in your diagram\",\"minutes\":10}],\"starterAction\":\"Open the packet and list the ten organisms given\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "enzyme lab: catalase activity at three temperatures",
+      "subject": "Biology",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the data table for the catalase lab\",\"minutes\":5},{\"title\":\"Record the bubble height at the cold temperature trial\",\"minutes\":15},{\"title\":\"Measure the bubble height at room temperature\",\"minutes\":15},{\"title\":\"Note the bubble height at the warm temperature\",\"minutes\":15},{\"title\":\"Graph bubble height against temperature\",\"minutes\":20},{\"title\":\"Write which temperature produced the fastest reaction\",\"minutes\":15}],\"starterAction\":\"Print the data table for the catalase lab\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "pedigree chart for an X-linked recessive trait across three generations",
+      "subject": "Honors Biology",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the family trait information\",\"minutes\":5},{\"title\":\"Draw the symbols for generation one\",\"minutes\":20},{\"title\":\"Sketch the symbols for generations two and three\",\"minutes\":25},{\"title\":\"Label every carrier with a half-shaded symbol\",\"minutes\":20},{\"title\":\"Write the genotype of each individual below their symbol\",\"minutes\":20}],\"starterAction\":\"Open the packet and copy the family trait information\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "DNA extraction from strawberries, write-up of the visible strands",
+      "subject": "Honors Biology",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the lab write-up template\",\"minutes\":5},{\"title\":\"Record how many strands were visible in your sample\",\"minutes\":15},{\"title\":\"Sketch the DNA strands you observed\",\"minutes\":20},{\"title\":\"Compare your strand count to a lab partner's\",\"minutes\":15},{\"title\":\"Write one sentence describing what the strands are made of\",\"minutes\":15}],\"starterAction\":\"Print the lab write-up template\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Hardy-Weinberg allele frequencies in a beetle population, problems 1-6",
+      "subject": "AP Biology",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy problem 1's given frequencies\",\"minutes\":5},{\"title\":\"Calculate the genotype frequencies for problems 1 through 3\",\"minutes\":25},{\"title\":\"Check that problems 1 through 3 sum to one\",\"minutes\":15},{\"title\":\"Calculate the frequencies for problems 4 through 6\",\"minutes\":25},{\"title\":\"Check the remaining three the same way\",\"minutes\":20}],\"starterAction\":\"Open the packet and copy problem 1's given frequencies\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "population growth model: graphing exponential vs logistic curves from data",
+      "subject": "AP Biology",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the data table and copy the population counts by year\",\"minutes\":5},{\"title\":\"Plot the exponential model curve\",\"minutes\":25},{\"title\":\"Plot the logistic model curve on the same axes\",\"minutes\":25},{\"title\":\"Label the carrying capacity on your graph\",\"minutes\":15},{\"title\":\"Write which model fits the data better\",\"minutes\":15}],\"starterAction\":\"Open the data table and copy the population counts by year\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "free response practice on natural selection in peppered moths",
+      "subject": "AP Biology",
+      "description": "One prompt, full response.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the practice packet to the peppered moth prompt\",\"minutes\":5},{\"title\":\"Write the claim sentence for your response\",\"minutes\":15},{\"title\":\"Write the evidence from the data table given\",\"minutes\":25},{\"title\":\"Write the reasoning connecting evidence to claim\",\"minutes\":30},{\"title\":\"Check your response against the scoring guidelines\",\"minutes\":20}],\"starterAction\":\"Open the practice packet to the peppered moth prompt\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "taxonomy classification worksheet sorting eight organisms by kingdom",
+      "subject": "Biology",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the first organism name\",\"minutes\":5},{\"title\":\"Sort organisms 1 through 4 into their kingdom\",\"minutes\":20},{\"title\":\"Sort organisms 5 through 8\",\"minutes\":20},{\"title\":\"Write one identifying trait next to each kingdom\",\"minutes\":15},{\"title\":\"Check two answers against the classification key\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the first organism name\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "photosynthesis and cellular respiration comparison diagram",
+      "subject": "Biology",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the textbook to the photosynthesis diagram\",\"minutes\":5},{\"title\":\"Sketch the inputs and outputs of photosynthesis\",\"minutes\":20},{\"title\":\"Draw the inputs and outputs of cellular respiration\",\"minutes\":20},{\"title\":\"Label the shared molecules between both diagrams\",\"minutes\":20},{\"title\":\"Circle where each one happens in the cell\",\"minutes\":15}],\"starterAction\":\"Open the textbook to the photosynthesis diagram\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "chi-square goodness of fit test on a dihybrid cross, expected 9-3-3-1",
+      "subject": "AP Biology",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the observed offspring counts\",\"minutes\":5},{\"title\":\"Calculate the expected count for each phenotype\",\"minutes\":20},{\"title\":\"Calculate the chi-square statistic\",\"minutes\":30},{\"title\":\"Compare your statistic to the critical value\",\"minutes\":20},{\"title\":\"Write a conclusion sentence comparing your ratio to the expected split\",\"minutes\":20}],\"starterAction\":\"Open your lab notebook to the observed offspring counts\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "ecosystem transect survey counting plant species along a 20-meter line",
+      "subject": "Biology",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the data table for the transect survey\",\"minutes\":5},{\"title\":\"Lay the measuring tape across the survey area\",\"minutes\":15},{\"title\":\"Count every plant species touching the tape for the first 10 meters\",\"minutes\":25},{\"title\":\"Count the remaining 10 meters\",\"minutes\":25},{\"title\":\"Record every count in the data table\",\"minutes\":15},{\"title\":\"Write which species was most common along the transect\",\"minutes\":15}],\"starterAction\":\"Print the data table for the transect survey\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write a Python function that reverses a string, problem 3",
+      "subject": "Computer Science",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment file and copy problem 3's starter code\",\"minutes\":5},{\"title\":\"Write the function definition and the reversal logic\",\"minutes\":20},{\"title\":\"Run the function with the test input given\",\"minutes\":15},{\"title\":\"Fix the error if the output does not match\",\"minutes\":15},{\"title\":\"Copy your final output into the submission box\",\"minutes\":10}],\"starterAction\":\"Open the assignment file and copy problem 3's starter code\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "for-loop practice: printing a multiplication table, problems 1-5",
+      "subject": "Computer Science",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy problem 1's loop range\",\"minutes\":5},{\"title\":\"Write the for-loop starting line for problem 1\",\"minutes\":10},{\"title\":\"Write the print statement inside the loop and run problem 1\",\"minutes\":15},{\"title\":\"Write and run the loop for problems 2 through 5\",\"minutes\":35},{\"title\":\"Check one output against the table by hand\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy problem 1's loop range\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "debugging: find the off-by-one error in the array-sum function",
+      "subject": "Computer Science",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the file and copy the failing test error message\",\"minutes\":5},{\"title\":\"Trace the loop by hand for the first three iterations\",\"minutes\":20},{\"title\":\"Find the line where the index goes out of range\",\"minutes\":20},{\"title\":\"Fix the loop range and run the test again\",\"minutes\":20},{\"title\":\"Check the test passes on the second run\",\"minutes\":15}],\"starterAction\":\"Open the file and copy the failing test error message\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "flowchart for a simple grade-calculator decision structure",
+      "subject": "Computer Science",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and list the three grade thresholds given\",\"minutes\":5},{\"title\":\"Draw the start and input boxes\",\"minutes\":15},{\"title\":\"Draw the decision diamonds for each threshold\",\"minutes\":25},{\"title\":\"Draw the output boxes for each grade\",\"minutes\":20},{\"title\":\"Trace one sample score through your flowchart by hand\",\"minutes\":15}],\"starterAction\":\"Open the packet and list the three grade thresholds given\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "binary search algorithm traced by hand on a sorted array of 16 numbers",
+      "subject": "Computer Science",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the sorted array\",\"minutes\":5},{\"title\":\"Trace the search for the first target value\",\"minutes\":20},{\"title\":\"Trace search for the second target value\",\"minutes\":20},{\"title\":\"Write the number of comparisons each search took\",\"minutes\":15},{\"title\":\"Check your trace against the array midpoint calculation\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the sorted array\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "writing a class Rectangle with getArea and getPerimeter methods",
+      "subject": "AP Computer Science A",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the starter file and copy the class header\",\"minutes\":5},{\"title\":\"Write the constructor and instance variables\",\"minutes\":20},{\"title\":\"Write the getArea method\",\"minutes\":20},{\"title\":\"Write the getPerimeter method\",\"minutes\":20},{\"title\":\"Run the provided test cases and check every result\",\"minutes\":20}],\"starterAction\":\"Open the starter file and copy the class header\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "recursion: writing a method to calculate factorial, problem 2",
+      "subject": "AP Computer Science A",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment and copy problem 2's method signature\",\"minutes\":5},{\"title\":\"Write the base case for the recursion\",\"minutes\":15},{\"title\":\"Write the recursive call\",\"minutes\":20},{\"title\":\"Run the method with input 5 and check the output is 120\",\"minutes\":20},{\"title\":\"Fix the base case if the program never stops\",\"minutes\":15}],\"starterAction\":\"Open the assignment and copy problem 2's method signature\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "sorting algorithm comparison: tracing bubble sort on a 6-item array",
+      "subject": "AP Computer Science A",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the starting array\",\"minutes\":5},{\"title\":\"Trace the first pass of bubble sort\",\"minutes\":20},{\"title\":\"Trace the second and third passes\",\"minutes\":25},{\"title\":\"Write the array state after every pass\",\"minutes\":20},{\"title\":\"Check your final array is in ascending order\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the starting array\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "HTML and CSS: building a webpage with a header, nav bar, and footer",
+      "subject": "Computer Science",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the starter file and copy the given page title\",\"minutes\":5},{\"title\":\"Write the header section with the page title\",\"minutes\":20},{\"title\":\"Write the nav bar with three links\",\"minutes\":25},{\"title\":\"Write the footer with your name and the date\",\"minutes\":15},{\"title\":\"Open the file in a browser and check every section shows\",\"minutes\":15}],\"starterAction\":\"Open the starter file and copy the given page title\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "converting decimal numbers to binary, worksheet 3.2 #1-10",
+      "subject": "Computer Science",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open worksheet 3.2 and copy problem 1's decimal number\",\"minutes\":5},{\"title\":\"Divide problem 1's number by two repeatedly and write each remainder\",\"minutes\":15},{\"title\":\"Read the remainders bottom to top to get problem 1's binary answer\",\"minutes\":10},{\"title\":\"Repeat the division steps for problems 2 through 10\",\"minutes\":35},{\"title\":\"Check two answers by converting back to decimal\",\"minutes\":15}],\"starterAction\":\"Open worksheet 3.2 and copy problem 1's decimal number\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "pseudocode for a while-loop that finds the largest number in a list",
+      "subject": "Computer Science",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the sample list given\",\"minutes\":5},{\"title\":\"Write the variable that will hold the largest number\",\"minutes\":15},{\"title\":\"Write the while-loop condition\",\"minutes\":20},{\"title\":\"Write the comparison inside the loop\",\"minutes\":20},{\"title\":\"Trace your pseudocode by hand on the sample list\",\"minutes\":20}],\"starterAction\":\"Open the packet and copy the sample list given\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "spreadsheet function practice: writing a VLOOKUP formula for a grade table",
+      "subject": "Computer Science",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the spreadsheet template and copy the grade table\",\"minutes\":5},{\"title\":\"Write the VLOOKUP formula for the first student\",\"minutes\":20},{\"title\":\"Copy the formula down for the remaining students\",\"minutes\":20},{\"title\":\"Check three results against the table by hand\",\"minutes\":15},{\"title\":\"Save the spreadsheet with your name in the filename\",\"minutes\":10}],\"starterAction\":\"Open the spreadsheet template and copy the grade table\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "2D array practice: finding the sum of each row in a grid, problem 4",
+      "subject": "AP Computer Science A",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment and copy problem 4's grid values\",\"minutes\":5},{\"title\":\"Write the nested loop that reads every row\",\"minutes\":25},{\"title\":\"Write the sum calculation for each row\",\"minutes\":25},{\"title\":\"Run the program and record each row total\",\"minutes\":20},{\"title\":\"Check one row total by adding it up by hand\",\"minutes\":15}],\"starterAction\":\"Open the assignment and copy problem 4's grid values\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "algorithm efficiency: counting the steps in a linear search vs binary search",
+      "subject": "Computer Science",
+      "description": "Ten-item list.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the ten-item list given\",\"minutes\":5},{\"title\":\"Trace a linear search and count every comparison\",\"minutes\":20},{\"title\":\"Trace a binary search and count every comparison\",\"minutes\":20},{\"title\":\"Write both comparison counts side by side\",\"minutes\":15},{\"title\":\"Circle which search used fewer comparisons\",\"minutes\":10}],\"starterAction\":\"Open the worksheet and copy the ten-item list given\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "constructing a five-number summary and box plot for quiz scores, problem 1",
+      "subject": "Statistics",
+      "description": "Fifteen quiz scores.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the fifteen quiz scores given\",\"minutes\":5},{\"title\":\"Order the scores from least to greatest\",\"minutes\":15},{\"title\":\"Calculate the median, quartiles, min, and max\",\"minutes\":20},{\"title\":\"Draw the box plot using those five numbers\",\"minutes\":20},{\"title\":\"Check your box plot against a classmate's\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the fifteen quiz scores given\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "calculating standard deviation by hand for a data set of ten values",
+      "subject": "Statistics",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the ten values given\",\"minutes\":5},{\"title\":\"Calculate the mean of the ten values\",\"minutes\":15},{\"title\":\"Calculate the deviation of each value from the mean\",\"minutes\":20},{\"title\":\"Write the squared deviations and add them together\",\"minutes\":20},{\"title\":\"Calculate the standard deviation from the sum\",\"minutes\":20}],\"starterAction\":\"Open the packet and copy the ten values given\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "confidence interval for a population mean, problems 1-4",
+      "subject": "AP Statistics",
+      "description": "95 percent confidence.",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy problem 1's sample mean and size\",\"minutes\":5},{\"title\":\"Calculate the margin of error for problem 1\",\"minutes\":20},{\"title\":\"Write the confidence interval for problem 1\",\"minutes\":15},{\"title\":\"Calculate and write the interval for problems 2 through 4\",\"minutes\":30},{\"title\":\"Check that each interval lower bound is less than its upper bound\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy problem 1's sample mean and size\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "hypothesis test for a proportion, one-sample z-test problem 3",
+      "subject": "AP Statistics",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy problem 3's sample proportion\",\"minutes\":5},{\"title\":\"Write the null and alternative hypotheses\",\"minutes\":15},{\"title\":\"Calculate the z-statistic\",\"minutes\":25},{\"title\":\"Calculate the p-value from the z-statistic\",\"minutes\":20},{\"title\":\"Write your conclusion comparing the p-value to alpha\",\"minutes\":20}],\"starterAction\":\"Open the packet and copy problem 3's sample proportion\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "linear regression: finding the least-squares line for shoe size vs height data",
+      "subject": "AP Statistics",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the data table for shoe size and height\",\"minutes\":5},{\"title\":\"Plot every point on a scatterplot\",\"minutes\":20},{\"title\":\"Calculate the slope and intercept of the regression line\",\"minutes\":25},{\"title\":\"Draw the regression line on your scatterplot\",\"minutes\":20},{\"title\":\"Write the residual for one data point\",\"minutes\":15}],\"starterAction\":\"Print the data table for shoe size and height\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "chi-square test for independence on a two-way table of survey results",
+      "subject": "AP Statistics",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy the two-way table given\",\"minutes\":5},{\"title\":\"Calculate the expected count for each cell\",\"minutes\":25},{\"title\":\"Calculate the chi-square statistic\",\"minutes\":25},{\"title\":\"Compare your statistic to the critical value\",\"minutes\":20},{\"title\":\"Write a conclusion about independence\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy the two-way table given\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "probability tree diagram for drawing two marbles without replacement",
+      "subject": "Statistics",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the marble counts given\",\"minutes\":5},{\"title\":\"Draw the first branch of the tree\",\"minutes\":15},{\"title\":\"Draw the second branch for each first-draw outcome\",\"minutes\":20},{\"title\":\"Write the probability on every branch\",\"minutes\":20},{\"title\":\"Calculate the probability of drawing two of the same color\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the marble counts given\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "sampling methods worksheet: identifying random, stratified, and cluster samples",
+      "subject": "Statistics",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy scenario 1\",\"minutes\":5},{\"title\":\"Label scenarios 1 and 2 with the sampling method used\",\"minutes\":10},{\"title\":\"Label scenarios 3 through 4 with the sampling method used\",\"minutes\":10},{\"title\":\"Label scenarios 5 through 6 with the sampling method used\",\"minutes\":10},{\"title\":\"Label scenarios 7 through 8 with the sampling method used\",\"minutes\":10},{\"title\":\"Write one sentence explaining why scenario 3 has that label\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy scenario 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "normal distribution: finding probabilities using a z-table, problems 1-8",
+      "subject": "AP Statistics",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy problem 1's mean and standard deviation\",\"minutes\":5},{\"title\":\"Calculate problem 1's z-score\",\"minutes\":15},{\"title\":\"Look up problem 1's probability in the z-table\",\"minutes\":15},{\"title\":\"Repeat both steps for problems 2 through 8\",\"minutes\":35},{\"title\":\"Check one answer using the calculator normal function\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy problem 1's mean and standard deviation\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "class survey data collection project on daily screen time",
+      "subject": "Statistics",
+      "description": "Survey thirty classmates.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 60
+    },
+    "completion": "{\"steps\":[{\"title\":\"Print the survey form for the screen-time project\",\"minutes\":5},{\"title\":\"Collect survey responses from the first fifteen classmates\",\"minutes\":25},{\"title\":\"Collect responses from the remaining fifteen\",\"minutes\":25},{\"title\":\"Enter every response into the data table\",\"minutes\":20},{\"title\":\"Calculate the mean and median screen time\",\"minutes\":20},{\"title\":\"Graph the responses on a histogram\",\"minutes\":20}],\"starterAction\":\"Print the survey form for the screen-time project\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "experimental design: identifying treatment, control, and blocking variables in a study",
+      "subject": "AP Statistics",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy the study description for scenario 1\",\"minutes\":5},{\"title\":\"Label the treatment and control groups for scenario 1\",\"minutes\":15},{\"title\":\"Label the blocking variable for scenario 1\",\"minutes\":15},{\"title\":\"Label all three for scenarios 2 and 3\",\"minutes\":25},{\"title\":\"Check your labels against the definitions sheet\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy the study description for scenario 1\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "correlation coefficient calculation for two variables, problems 1-5",
+      "subject": "Statistics",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy problem 1's paired data\",\"minutes\":5},{\"title\":\"Calculate problem 1's correlation coefficient\",\"minutes\":20},{\"title\":\"Write strong, moderate, or weak for problem 1\",\"minutes\":10},{\"title\":\"Calculate the coefficient and write the strength for problems 2 through 5\",\"minutes\":35},{\"title\":\"Check one answer against the scatterplot shape\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy problem 1's paired data\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "binomial probability: calculating exactly k successes in n trials, problems 1-6",
+      "subject": "AP Statistics",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the packet and copy problem 1's n and p values\",\"minutes\":5},{\"title\":\"Write the binomial probability formula with problem 1's values plugged in\",\"minutes\":15},{\"title\":\"Calculate problem 1's probability of exactly k successes\",\"minutes\":15},{\"title\":\"Write and calculate the formula for problems 2 through 6\",\"minutes\":35},{\"title\":\"Check one answer using the calculator binomial function\",\"minutes\":15}],\"starterAction\":\"Open the packet and copy problem 1's n and p values\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "error analysis: finding the mistake in a misread stem-and-leaf plot, problem 2",
+      "subject": "Statistics",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the worksheet and copy problem 2's stem-and-leaf plot\",\"minutes\":5},{\"title\":\"List every value shown in the plot\",\"minutes\":15},{\"title\":\"Find the value that was misplaced on the wrong stem\",\"minutes\":20},{\"title\":\"Write the corrected plot\",\"minutes\":20},{\"title\":\"Check your correction against the original data set\",\"minutes\":15}],\"starterAction\":\"Open the worksheet and copy problem 2's stem-and-leaf plot\"}"
+  }
+]

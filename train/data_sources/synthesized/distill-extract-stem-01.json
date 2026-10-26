@@ -1,0 +1,1282 @@
+[
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "AP Biology Week 6. Monday is notes on cellular respiration. Wednesday the glycolysis worksheet is due. Thursday the Krebs cycle diagram is due. Friday is the unit 3 quiz. Reading for the whole week is chapter 9 sections 1 through 4, finish it by Friday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Glycolysis worksheet\",\"dueInDays\":2,\"subject\":\"AP Biology\"},{\"title\":\"Krebs cycle diagram\",\"dueInDays\":3,\"subject\":\"AP Biology\"},{\"title\":\"Unit 3 quiz\",\"dueInDays\":4,\"subject\":\"AP Biology\"},{\"title\":\"Read chapter 9 sections 1 through 4\",\"dueInDays\":4,\"subject\":\"AP Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Chemistry Week 4 plan. Tuesday the stoichiometry practice set is due at the start of class. Wednesday is the mole conversion lab. Thursday the lab writeup is due. Friday is the unit test on moles and stoichiometry. Office hours are Tuesday after school.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Stoichiometry practice set\",\"dueInDays\":2,\"subject\":\"Chemistry\"},{\"title\":\"Lab writeup\",\"dueInDays\":4,\"subject\":\"Chemistry\"},{\"title\":\"Unit test on moles and stoichiometry\",\"dueInDays\":5,\"subject\":\"Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Geometry Unit 5, Week 2. Homework 5.3 on triangle congruence is due tomorrow. Homework 5.4 is due Wednesday. The proof practice packet is due Thursday. Quiz on congruence proofs Friday. Test on the full unit next Wednesday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Homework 5.3 on triangle congruence\",\"dueInDays\":1,\"subject\":\"Geometry\"},{\"title\":\"Homework 5.4\",\"dueInDays\":2,\"subject\":\"Geometry\"},{\"title\":\"Proof practice packet\",\"dueInDays\":3,\"subject\":\"Geometry\"},{\"title\":\"Quiz on congruence proofs\",\"dueInDays\":4,\"subject\":\"Geometry\"},{\"title\":\"Unit 5 test\",\"dueInDays\":9,\"subject\":\"Geometry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Physics Week 9 overview. Read section 6.1 on work and energy before Monday. Problem set 12 is due Tuesday. The energy conservation lab runs Wednesday and Thursday. The lab report is due in one week. No class Friday because of the assembly.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Read section 6.1 on work and energy\",\"dueInDays\":1,\"subject\":\"Physics\"},{\"title\":\"Problem set 12\",\"dueInDays\":2,\"subject\":\"Physics\"},{\"title\":\"Energy conservation lab report\",\"dueInDays\":7,\"subject\":\"Physics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Algebra II Week 7. Section 4.5 practice is due Tuesday. Section 4.6 practice is due Thursday. Quiz on logarithms Friday. The chapter 4 review packet is due next Monday and the chapter 4 test is next Tuesday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Section 4.5 practice\",\"dueInDays\":1,\"subject\":\"Algebra II\"},{\"title\":\"Section 4.6 practice\",\"dueInDays\":3,\"subject\":\"Algebra II\"},{\"title\":\"Quiz on logarithms\",\"dueInDays\":4,\"subject\":\"Algebra II\"},{\"title\":\"Chapter 4 review packet\",\"dueInDays\":7,\"subject\":\"Algebra II\"},{\"title\":\"Chapter 4 test\",\"dueInDays\":8,\"subject\":\"Algebra II\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "AP Calculus AB Week 12. The related rates notes packet is due tomorrow. Free response practice is due Thursday. The take home quiz on implicit differentiation is due Friday. The unit 4 test is next Thursday. Bring a graphing calculator on Thursday.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Related rates notes packet\",\"dueInDays\":1,\"subject\":\"AP Calculus\"},{\"title\":\"Free response practice\",\"dueInDays\":2,\"subject\":\"AP Calculus\"},{\"title\":\"Take home quiz on implicit differentiation\",\"dueInDays\":3,\"subject\":\"AP Calculus\"},{\"title\":\"Unit 4 test\",\"dueInDays\":9,\"subject\":\"AP Calculus\"},{\"title\":\"Bring a graphing calculator\",\"dueInDays\":2,\"subject\":\"AP Calculus\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Statistics Week 5. The data collection project proposal is due Friday. Chapter 3 problems 1 through 20 are due tomorrow. The quiz on standard deviation is next Tuesday. The project itself is due in three weeks.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Data collection project proposal\",\"dueInDays\":2,\"subject\":\"Statistics\"},{\"title\":\"Chapter 3 problems 1 through 20\",\"dueInDays\":1,\"subject\":\"Statistics\"},{\"title\":\"Quiz on standard deviation\",\"dueInDays\":6,\"subject\":\"Statistics\"},{\"title\":\"Data collection project\",\"dueInDays\":21,\"subject\":\"Statistics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Environmental Science Week 3. The watershed reading response is due Wednesday. The field data sheet from the creek trip is due Thursday. The group presentation on local water quality is Friday. The reflection paragraph is due over the weekend.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Watershed reading response\",\"dueInDays\":2,\"subject\":\"Environmental Science\"},{\"title\":\"Field data sheet from the creek trip\",\"dueInDays\":3,\"subject\":\"Environmental Science\"},{\"title\":\"Group presentation on local water quality\",\"dueInDays\":4,\"subject\":\"Environmental Science\"},{\"title\":\"Reflection paragraph\",\"dueInDays\":7,\"subject\":\"Environmental Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Earth Science Week 8. The plate tectonics vocabulary sheet is due Monday. The seafloor spreading map activity is due Wednesday. The earthquake lab is Thursday and the writeup is due the following Monday. The unit quiz is Friday.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Plate tectonics vocabulary sheet\",\"dueInDays\":1,\"subject\":\"Earth Science\"},{\"title\":\"Seafloor spreading map activity\",\"dueInDays\":3,\"subject\":\"Earth Science\"},{\"title\":\"Earthquake lab writeup\",\"dueInDays\":8,\"subject\":\"Earth Science\"},{\"title\":\"Unit quiz\",\"dueInDays\":5,\"subject\":\"Earth Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Intro to Computer Science Week 6. Lab 6 on loops is due Wednesday. The reading quiz on functions is Thursday. The pair programming assignment is due Friday. The midterm project proposal is due next Monday. Come to class Tuesday with your laptop charged.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Lab 6 on loops\",\"dueInDays\":2,\"subject\":\"Computer Science\"},{\"title\":\"Reading quiz on functions\",\"dueInDays\":3,\"subject\":\"Computer Science\"},{\"title\":\"Pair programming assignment\",\"dueInDays\":4,\"subject\":\"Computer Science\"},{\"title\":\"Midterm project proposal\",\"dueInDays\":7,\"subject\":\"Computer Science\"},{\"title\":\"Bring a charged laptop\",\"dueInDays\":1,\"subject\":\"Computer Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Anatomy and Physiology Week 10. The skeletal system labeling packet is due Monday. The bone quiz is Tuesday. The case study writeup is due Thursday. The muscle system reading is due Friday. Nothing is due over the weekend.",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Skeletal system labeling packet\",\"dueInDays\":2,\"subject\":\"Anatomy\"},{\"title\":\"Bone quiz\",\"dueInDays\":3,\"subject\":\"Anatomy\"},{\"title\":\"Case study writeup\",\"dueInDays\":5,\"subject\":\"Anatomy\"},{\"title\":\"Muscle system reading\",\"dueInDays\":6,\"subject\":\"Anatomy\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Precalculus Week 11. The unit circle memorization check is Monday. Homework 7.1 is due Tuesday. Homework 7.2 is due Thursday. The trig identities quiz is Friday. The review packet for the unit test is due in two weeks.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Unit circle memorization check\",\"dueInDays\":1,\"subject\":\"Precalculus\"},{\"title\":\"Homework 7.1\",\"dueInDays\":2,\"subject\":\"Precalculus\"},{\"title\":\"Homework 7.2\",\"dueInDays\":4,\"subject\":\"Precalculus\"},{\"title\":\"Trig identities quiz\",\"dueInDays\":5,\"subject\":\"Precalculus\"},{\"title\":\"Unit test review packet\",\"dueInDays\":14,\"subject\":\"Precalculus\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "AP Chemistry Week 14. The thermochemistry problem set is due Wednesday. The calorimetry lab is Thursday with pre lab questions due Wednesday. The formal lab report is due next Wednesday. The practice free response is due Friday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Thermochemistry problem set\",\"dueInDays\":2,\"subject\":\"AP Chemistry\"},{\"title\":\"Calorimetry pre lab questions\",\"dueInDays\":2,\"subject\":\"AP Chemistry\"},{\"title\":\"Formal lab report\",\"dueInDays\":9,\"subject\":\"AP Chemistry\"},{\"title\":\"Practice free response\",\"dueInDays\":4,\"subject\":\"AP Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Biology Week 2. The microscope skills lab is today and the drawings with labels are due by the end of class. The chapter 2 reading is due tomorrow. The cell theory worksheet is due Thursday. The vocabulary quiz is Friday.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Microscope drawings with labels\",\"dueInDays\":0,\"subject\":\"Biology\"},{\"title\":\"Chapter 2 reading\",\"dueInDays\":1,\"subject\":\"Biology\"},{\"title\":\"Cell theory worksheet\",\"dueInDays\":2,\"subject\":\"Biology\"},{\"title\":\"Vocabulary quiz\",\"dueInDays\":3,\"subject\":\"Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Algebra I Week 5. The solving two step equations practice is due tomorrow. The word problem set is due Friday. The quiz on equations is next Monday. Corrections on the last quiz are due Thursday if you want the points back.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Solving two step equations practice\",\"dueInDays\":1,\"subject\":\"Algebra I\"},{\"title\":\"Word problem set\",\"dueInDays\":2,\"subject\":\"Algebra I\"},{\"title\":\"Quiz on equations\",\"dueInDays\":5,\"subject\":\"Algebra I\"},{\"title\":\"Quiz corrections\",\"dueInDays\":1,\"subject\":\"Algebra I\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Physics Week 7 is posted. Over the weekend read chapter 5 sections 1 and 2. The momentum worksheet is due Monday. The collision lab is Tuesday. The lab data table is due Wednesday. The unit quiz is next Friday.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Read chapter 5 sections 1 and 2\",\"dueInDays\":3,\"subject\":\"Physics\"},{\"title\":\"Momentum worksheet\",\"dueInDays\":3,\"subject\":\"Physics\"},{\"title\":\"Collision lab data table\",\"dueInDays\":5,\"subject\":\"Physics\"},{\"title\":\"Unit quiz\",\"dueInDays\":7,\"subject\":\"Physics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Statistics Week 1 syllabus is posted on the class site. Grades are 40 percent tests, 30 percent projects, 20 percent homework, and 10 percent participation. Late work loses ten percent per day. Calculators are provided in class. Nothing is due yet.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Geometry Week 9. This week is all review and there is no new homework. The chapter 6 test is Thursday and the review answer key is already posted on the class page.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Chapter 6 test\",\"dueInDays\":3,\"subject\":\"Geometry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Environmental Science Week 12. The carbon footprint survey is due tomorrow. The group poster on renewable energy is due next Wednesday. The article annotation is due Monday. The field trip permission form is due Tuesday.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Carbon footprint survey\",\"dueInDays\":1,\"subject\":\"Environmental Science\"},{\"title\":\"Group poster on renewable energy\",\"dueInDays\":6,\"subject\":\"Environmental Science\"},{\"title\":\"Article annotation\",\"dueInDays\":4,\"subject\":\"Environmental Science\"},{\"title\":\"Field trip permission form\",\"dueInDays\":5,\"subject\":\"Environmental Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "AP Bio Week 15. The genetics problem set is due Tuesday. The pedigree analysis worksheet is due Wednesday. The fruit fly lab data entry is due Thursday. The unit 5 free response practice is due Friday. The full unit test is in two weeks. Saturday review is optional.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Genetics problem set\",\"dueInDays\":2,\"subject\":\"AP Biology\"},{\"title\":\"Pedigree analysis worksheet\",\"dueInDays\":3,\"subject\":\"AP Biology\"},{\"title\":\"Fruit fly lab data entry\",\"dueInDays\":4,\"subject\":\"AP Biology\"},{\"title\":\"Unit 5 free response practice\",\"dueInDays\":5,\"subject\":\"AP Biology\"},{\"title\":\"Unit 5 test\",\"dueInDays\":14,\"subject\":\"AP Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "AP Computer Science A Week 4. The array practice problems are due tomorrow. The debugging worksheet is due Friday. The unit 3 coding project is due next Thursday. Bring your written pseudocode Monday.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Array practice problems\",\"dueInDays\":1,\"subject\":\"AP Computer Science A\"},{\"title\":\"Debugging worksheet\",\"dueInDays\":2,\"subject\":\"AP Computer Science A\"},{\"title\":\"Unit 3 coding project\",\"dueInDays\":8,\"subject\":\"AP Computer Science A\"},{\"title\":\"Bring written pseudocode\",\"dueInDays\":5,\"subject\":\"AP Computer Science A\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Chemistry Week 10. We are finishing the gas laws unit. Everything from last week has been graded and returned. The only thing due this week is the gas laws practice set on Thursday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Gas laws practice set\",\"dueInDays\":3,\"subject\":\"Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Precalculus Week 3 outline. Homework 2.4 is due Monday. Homework 2.5 is due Wednesday. The quiz on polynomial functions is Thursday. The graphing project check in is due Friday. The full project is due two weeks from Friday.",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Homework 2.4\",\"dueInDays\":2,\"subject\":\"Precalculus\"},{\"title\":\"Homework 2.5\",\"dueInDays\":4,\"subject\":\"Precalculus\"},{\"title\":\"Quiz on polynomial functions\",\"dueInDays\":5,\"subject\":\"Precalculus\"},{\"title\":\"Graphing project check in\",\"dueInDays\":6,\"subject\":\"Precalculus\"},{\"title\":\"Graphing project\",\"dueInDays\":20,\"subject\":\"Precalculus\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Hi everyone, a quick note about the titration lab. Because the burettes are still being replaced we are pushing the lab to Thursday. The pre lab questions are now due Wednesday instead of today. The lab report will be due next Wednesday. Please read the safety sheet before Thursday. Mr. Okafor",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Titration pre lab questions\",\"dueInDays\":1,\"subject\":\"Chemistry\"},{\"title\":\"Titration lab report\",\"dueInDays\":8,\"subject\":\"Chemistry\"},{\"title\":\"Read the lab safety sheet\",\"dueInDays\":2,\"subject\":\"Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Good afternoon. A few of you asked about the u substitution homework. It is still due tomorrow. I have added an optional practice sheet that will not be collected. The quiz moves to Friday. If you want a retake on the last quiz you need to sign up by Wednesday. Ms. Reyes",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"U substitution homework\",\"dueInDays\":1,\"subject\":\"AP Calculus\"},{\"title\":\"Quiz on u substitution\",\"dueInDays\":4,\"subject\":\"AP Calculus\"},{\"title\":\"Sign up for the quiz retake\",\"dueInDays\":2,\"subject\":\"AP Calculus\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Hello, I am out sick today so the sub will show the cell division video. Nothing new is assigned. Just be sure the mitosis worksheet you started Tuesday is finished by tomorrow. Thanks for being flexible. Mrs. Han",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Mitosis worksheet\",\"dueInDays\":1,\"subject\":\"Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Team, the bridge building project timeline has shifted. The materials list is due Friday. The design sketch with measurements is due Monday. Build day is next Wednesday and we test on next Thursday. The written analysis is due in two weeks. Let me know if your group needs supplies. Mr. Delgado",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Bridge materials list\",\"dueInDays\":2,\"subject\":\"Physics\"},{\"title\":\"Design sketch with measurements\",\"dueInDays\":5,\"subject\":\"Physics\"},{\"title\":\"Written analysis\",\"dueInDays\":14,\"subject\":\"Physics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Hi all, grades are updated through the chapter 4 quiz. If your survey project data is not in the shared folder please add it by Monday. The chapter 5 reading is due Tuesday and the chapter 5 problem set is due Wednesday. There is no homework over the weekend. Ms. Boateng",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Add survey project data to the shared folder\",\"dueInDays\":3,\"subject\":\"Statistics\"},{\"title\":\"Chapter 5 reading\",\"dueInDays\":4,\"subject\":\"Statistics\"},{\"title\":\"Chapter 5 problem set\",\"dueInDays\":5,\"subject\":\"Statistics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Hi families and students. This is just a reminder that geometry tutoring runs Tuesday and Thursday after school in room 212. Attendance is not required and nothing is being collected. Bring whatever you are stuck on. Mr. Pham",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Everyone, the equilibrium unit is dense so here is the plan. Read sections 13.1 and 13.2 tonight. Problem set 8 is due Thursday. The lab on Le Chatelier is Friday and the pre lab is due Friday as well. The unit test is next Friday. Ms. Kaur",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Read sections 13.1 and 13.2\",\"dueInDays\":0,\"subject\":\"AP Chemistry\"},{\"title\":\"Problem set 8\",\"dueInDays\":2,\"subject\":\"AP Chemistry\"},{\"title\":\"Le Chatelier pre lab\",\"dueInDays\":3,\"subject\":\"AP Chemistry\"},{\"title\":\"Equilibrium unit test\",\"dueInDays\":10,\"subject\":\"AP Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Good morning. The model stations are set up in the back of the room. Station worksheets are due at the end of class today. The nervous system reading is due tomorrow and the reflex lab writeup is due Monday. Please return the borrowed textbooks by Friday. Dr. Nwosu",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Station worksheets\",\"dueInDays\":0,\"subject\":\"Anatomy\"},{\"title\":\"Nervous system reading\",\"dueInDays\":1,\"subject\":\"Anatomy\"},{\"title\":\"Reflex lab writeup\",\"dueInDays\":5,\"subject\":\"Anatomy\"},{\"title\":\"Return the borrowed textbooks\",\"dueInDays\":2,\"subject\":\"Anatomy\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Hi, several people missed the logarithm notes so I posted them. Homework 5.2 is due tomorrow. Homework 5.3 is due Monday. The quiz that was scheduled for tomorrow moves to Tuesday. Corrections on last week's test are due next Thursday. Mr. Ellis",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Homework 5.2\",\"dueInDays\":1,\"subject\":\"Algebra II\"},{\"title\":\"Homework 5.3\",\"dueInDays\":4,\"subject\":\"Algebra II\"},{\"title\":\"Logarithm quiz\",\"dueInDays\":5,\"subject\":\"Algebra II\"},{\"title\":\"Test corrections\",\"dueInDays\":7,\"subject\":\"Algebra II\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Hello, the rock identification kits finally arrived. We will use them Wednesday and Thursday in class. There is nothing to prepare beforehand. The only thing I need from you is the mineral hardness chart, due Friday. Mrs. Iyer",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Mineral hardness chart\",\"dueInDays\":4,\"subject\":\"Earth Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Hi class, sorry for the weekend email. The autograder was down Friday so the sorting lab deadline moves to Tuesday. The recursion reading is still due Monday. Please submit the design document for your final project in ten days. Mr. Sandoval",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Sorting lab\",\"dueInDays\":2,\"subject\":\"Computer Science\"},{\"title\":\"Recursion reading\",\"dueInDays\":1,\"subject\":\"Computer Science\"},{\"title\":\"Final project design document\",\"dueInDays\":10,\"subject\":\"Computer Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Hi everyone. Great job on the enzyme lab. Data tables are due Monday and the full lab report is due next Friday. The chapter 6 reading guide is due Tuesday. Sign up for your presentation slot by Wednesday. Have a good weekend. Ms. Vargas",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Enzyme lab data tables\",\"dueInDays\":3,\"subject\":\"AP Biology\"},{\"title\":\"Enzyme lab report\",\"dueInDays\":7,\"subject\":\"AP Biology\"},{\"title\":\"Chapter 6 reading guide\",\"dueInDays\":4,\"subject\":\"AP Biology\"},{\"title\":\"Sign up for a presentation slot\",\"dueInDays\":5,\"subject\":\"AP Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Hello, the water sampling trip is Thursday. You need a signed permission slip returned tomorrow, closed toe shoes on Thursday, and your field notebook. The data analysis is due next Monday. The reflection is due the following Wednesday. Mr. Attah",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Signed permission slip\",\"dueInDays\":1,\"subject\":\"Environmental Science\"},{\"title\":\"Wear closed toe shoes\",\"dueInDays\":2,\"subject\":\"Environmental Science\"},{\"title\":\"Bring your field notebook\",\"dueInDays\":2,\"subject\":\"Environmental Science\"},{\"title\":\"Water sampling data analysis\",\"dueInDays\":6,\"subject\":\"Environmental Science\"},{\"title\":\"Trip reflection\",\"dueInDays\":8,\"subject\":\"Environmental Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Hi, I looked at the quiz results and we need another day on vectors. The vector homework due today is now due tomorrow. The quiz moves from Wednesday to Thursday. The chapter 8 reading is due Wednesday. Ms. Lindqvist",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Vector homework\",\"dueInDays\":1,\"subject\":\"Precalculus\"},{\"title\":\"Vector quiz\",\"dueInDays\":3,\"subject\":\"Precalculus\"},{\"title\":\"Chapter 8 reading\",\"dueInDays\":2,\"subject\":\"Precalculus\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Hi all, the physics club is doing an egg drop competition Saturday in the gym. It is completely optional and has nothing to do with your grade. Snacks provided. Come watch even if you are not building anything. Mr. Delgado",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Everyone, the AP practice exam is Saturday morning from 8 to 11 in room 118. Bring two pencils and a calculator. Before then, finish the integration review packet, due tomorrow. The unit 6 problem set is due Monday. The scoring reflection is due next Wednesday.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"AP practice exam\",\"dueInDays\":2,\"subject\":\"AP Calculus\"},{\"title\":\"Bring two pencils and a calculator\",\"dueInDays\":2,\"subject\":\"AP Calculus\"},{\"title\":\"Integration review packet\",\"dueInDays\":1,\"subject\":\"AP Calculus\"},{\"title\":\"Unit 6 problem set\",\"dueInDays\":4,\"subject\":\"AP Calculus\"},{\"title\":\"Scoring reflection\",\"dueInDays\":6,\"subject\":\"AP Calculus\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Hi, a correction to what I said in class. The molarity worksheet is due Wednesday, not tomorrow. The dilution lab is Thursday, so wear closed toe shoes. The lab report is due next Monday. Extra help is Tuesday at lunch if you need it.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Molarity worksheet\",\"dueInDays\":2,\"subject\":\"Chemistry\"},{\"title\":\"Wear closed toe shoes\",\"dueInDays\":3,\"subject\":\"Chemistry\"},{\"title\":\"Dilution lab report\",\"dueInDays\":7,\"subject\":\"Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Hi, I am sending this now so nobody is surprised Monday. The chi square homework is due Monday. The project draft is due Wednesday. Peer feedback on two classmates is due Friday. The final draft is due in two weeks.",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Chi square homework\",\"dueInDays\":2,\"subject\":\"Statistics\"},{\"title\":\"Project draft\",\"dueInDays\":4,\"subject\":\"Statistics\"},{\"title\":\"Peer feedback on two classmates\",\"dueInDays\":6,\"subject\":\"Statistics\"},{\"title\":\"Project final draft\",\"dueInDays\":14,\"subject\":\"Statistics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Hello, I have finished grading the unit 3 tests and they are in the gradebook. There is nothing new tonight. The only thing on your plate is the retake sign up sheet, which closes Friday.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Sign the retake sheet\",\"dueInDays\":3}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Hi, we are starting circles tomorrow. Please print the circle vocabulary sheet before class tomorrow. Homework 9.1 is due Friday and homework 9.2 is due Monday. The quiz is next Tuesday and the unit test is in three weeks.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Print the circle vocabulary sheet\",\"dueInDays\":1,\"subject\":\"Geometry\"},{\"title\":\"Homework 9.1\",\"dueInDays\":2,\"subject\":\"Geometry\"},{\"title\":\"Homework 9.2\",\"dueInDays\":5,\"subject\":\"Geometry\"},{\"title\":\"Circles quiz\",\"dueInDays\":6,\"subject\":\"Geometry\"},{\"title\":\"Circles unit test\",\"dueInDays\":21,\"subject\":\"Geometry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Good afternoon. A reminder that the muscle practical is Tuesday. You may bring one index card of notes. The study guide is due Monday so I can check it. The heart dissection is Thursday and the pre lab is due Wednesday.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Muscle practical\",\"dueInDays\":4,\"subject\":\"Anatomy\"},{\"title\":\"Muscle study guide\",\"dueInDays\":3,\"subject\":\"Anatomy\"},{\"title\":\"Heart dissection pre lab\",\"dueInDays\":5,\"subject\":\"Anatomy\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Hello, welcome back from break. The weather unit starts tomorrow. Read pages 210 to 218 before class tomorrow. The cloud identification chart is due Wednesday. The weather station data log starts Tuesday and runs all week, turn it in Friday.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Read pages 210 to 218\",\"dueInDays\":1,\"subject\":\"Earth Science\"},{\"title\":\"Cloud identification chart\",\"dueInDays\":3,\"subject\":\"Earth Science\"},{\"title\":\"Weather station data log\",\"dueInDays\":5,\"subject\":\"Earth Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Long email, sorry. Here is everything for this unit. Read chapter 15 tonight. Problem set 11 is due tomorrow. The buffer calculations worksheet is due Wednesday. The titration lab is Thursday and the pre lab is due Thursday. The lab report is due next Monday. The practice exam is due next Wednesday. The unit test is in two weeks. Ms. Kaur",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Read chapter 15\",\"dueInDays\":0,\"subject\":\"AP Chemistry\"},{\"title\":\"Problem set 11\",\"dueInDays\":1,\"subject\":\"AP Chemistry\"},{\"title\":\"Buffer calculations worksheet\",\"dueInDays\":2,\"subject\":\"AP Chemistry\"},{\"title\":\"Titration pre lab\",\"dueInDays\":3,\"subject\":\"AP Chemistry\"},{\"title\":\"Titration lab report\",\"dueInDays\":7,\"subject\":\"AP Chemistry\"},{\"title\":\"Practice exam\",\"dueInDays\":9,\"subject\":\"AP Chemistry\"},{\"title\":\"Unit test\",\"dueInDays\":14,\"subject\":\"AP Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Posted to the class page. The ecology unit project has three checkpoints. The topic choice is due Thursday. The annotated source list is due next Tuesday. The final poster is due in three weeks. All checkpoints are submitted through the class page.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Ecology project topic choice\",\"dueInDays\":2,\"subject\":\"Biology\"},{\"title\":\"Annotated source list\",\"dueInDays\":7,\"subject\":\"Biology\"},{\"title\":\"Final ecology poster\",\"dueInDays\":21,\"subject\":\"Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Announcement. The periodic table posters in room 305 were donated by last year's class. Feel free to take a photo of them for your notes. There is no assignment attached to this post and nothing changes on the calendar.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Posted. The unit 5 materials are up. The notes packet should be printed before Wednesday. The homework for 5.1 is due Wednesday and the homework for 5.2 is due Friday. The unit quiz is next Monday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Print the unit 5 notes packet\",\"dueInDays\":2},{\"title\":\"Homework 5.1\",\"dueInDays\":2},{\"title\":\"Homework 5.2\",\"dueInDays\":4},{\"title\":\"Unit 5 quiz\",\"dueInDays\":7}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "New post on the class site. The lab 8 specs are up. Part one is due tomorrow, part two is due Monday, and the writeup is due next Thursday. Office hours are Friday at lunch if you get stuck on the file reading section.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Lab 8 part one\",\"dueInDays\":1,\"subject\":\"Computer Science\"},{\"title\":\"Lab 8 part two\",\"dueInDays\":4,\"subject\":\"Computer Science\"},{\"title\":\"Lab 8 writeup\",\"dueInDays\":7,\"subject\":\"Computer Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Announcement from the physics page. The circuits unit begins Monday. Watch the two intro videos over the weekend. Bring a pencil and your lab notebook Monday. The first circuit worksheet is due Tuesday.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Watch the two intro videos\",\"dueInDays\":3,\"subject\":\"Physics\"},{\"title\":\"Bring a pencil and lab notebook\",\"dueInDays\":3,\"subject\":\"Physics\"},{\"title\":\"First circuit worksheet\",\"dueInDays\":4,\"subject\":\"Physics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Posted to the class page Sunday evening. The calculator tutorial video for the binomial functions is now up and watching it is optional. The only graded item this week is the chapter 6 homework, due Thursday.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Chapter 6 homework\",\"dueInDays\":4,\"subject\":\"Statistics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Class site update. The recycling audit assignment has been posted. Data collection happens Tuesday through Thursday. The tally sheet is due Friday. The written summary is due next Tuesday. The class presentation is next Thursday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Recycling audit tally sheet\",\"dueInDays\":4,\"subject\":\"Environmental Science\"},{\"title\":\"Written summary\",\"dueInDays\":8,\"subject\":\"Environmental Science\"},{\"title\":\"Class presentation\",\"dueInDays\":10,\"subject\":\"Environmental Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Posted. The unit 6 review materials are available. The practice test is due Friday. The corrections sheet is due Monday. The actual unit test is next Wednesday. Answer keys go up Saturday morning.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Unit 6 practice test\",\"dueInDays\":2},{\"title\":\"Corrections sheet\",\"dueInDays\":5},{\"title\":\"Unit 6 test\",\"dueInDays\":7}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Announcement. The anatomy lab will be closed Thursday afternoon for cleaning. Regular class still meets in the usual room and no deadline changes because of this. Ask me in class if you had planned to study there.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Weekend post. The unit 7 packet is uploaded. Problems 1 through 12 are due Monday. Problems 13 through 24 are due Wednesday. The construction project is due Friday. The unit test is in two weeks.",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Unit 7 problems 1 through 12\",\"dueInDays\":2,\"subject\":\"Geometry\"},{\"title\":\"Unit 7 problems 13 through 24\",\"dueInDays\":4,\"subject\":\"Geometry\"},{\"title\":\"Construction project\",\"dueInDays\":6,\"subject\":\"Geometry\"},{\"title\":\"Unit 7 test\",\"dueInDays\":14,\"subject\":\"Geometry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Posted to the AP Bio page. The photosynthesis lab data is now shared with everyone. Your individual graph is due tomorrow. The group analysis is due Monday. The formal report is due next Friday. The unit test is in three weeks.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Individual photosynthesis graph\",\"dueInDays\":1,\"subject\":\"AP Biology\"},{\"title\":\"Group analysis\",\"dueInDays\":4,\"subject\":\"AP Biology\"},{\"title\":\"Formal lab report\",\"dueInDays\":8,\"subject\":\"AP Biology\"},{\"title\":\"Unit test\",\"dueInDays\":21,\"subject\":\"AP Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Class page update. All of the unit 5 videos are posted and the answer keys are attached to each one. Nothing there is collected. The only deadline this week is the polar coordinates homework on Thursday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Polar coordinates homework\",\"dueInDays\":3,\"subject\":\"Precalculus\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Posted. The topographic map unit starts Monday. All of the handouts will be given out in class so there is nothing to print this time. The one graded item is the elevation profile worksheet, due Tuesday.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Elevation profile worksheet\",\"dueInDays\":4,\"subject\":\"Earth Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Class site. Lab groups for the second semester are posted, so check yours before Friday. The flame test lab is Friday and the pre lab questions are due Friday. The lab report is due next Wednesday.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Check your lab group\",\"dueInDays\":2,\"subject\":\"Chemistry\"},{\"title\":\"Flame test pre lab questions\",\"dueInDays\":2,\"subject\":\"Chemistry\"},{\"title\":\"Flame test lab report\",\"dueInDays\":7,\"subject\":\"Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Announcement posted Sunday. The unit 4 project rubric is now on the class page. Your project idea is due Tuesday. A working prototype is due Friday. The final submission with a readme file is due in two weeks. Demo day is in three weeks.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Project idea\",\"dueInDays\":2,\"subject\":\"Computer Science\"},{\"title\":\"Working prototype\",\"dueInDays\":5,\"subject\":\"Computer Science\"},{\"title\":\"Final submission with a readme file\",\"dueInDays\":14,\"subject\":\"Computer Science\"},{\"title\":\"Demo day\",\"dueInDays\":21,\"subject\":\"Computer Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Announcement. Grades have been updated through last Friday. If something looks wrong send me a message and I will check it. Nothing new has been assigned and the schedule for the rest of the unit has not changed.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Posted. The kinetics unit resources are up, including the notes and every answer key. Nothing from the resource page is collected or graded. The rate law worksheet is due Thursday.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Rate law worksheet\",\"dueInDays\":2,\"subject\":\"AP Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Class page. The graphing linear equations packet is posted. Pages 1 and 2 are due tomorrow. Pages 3 and 4 are due Monday. The extra practice at the back is optional and not collected.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Graphing packet pages 1 and 2\",\"dueInDays\":1,\"subject\":\"Algebra I\"},{\"title\":\"Graphing packet pages 3 and 4\",\"dueInDays\":4,\"subject\":\"Algebra I\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Posted this morning. The virtual dissection software works on school laptops now, so you do not need to install anything at home. The only thing due next week is the digestive system diagram on Wednesday.",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Digestive system diagram\",\"dueInDays\":4,\"subject\":\"Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Posted. The regression unit materials are up. The scatterplot worksheet is due Wednesday. The residual plot activity is due Thursday. The regression project proposal is due Friday. The full project is due in three weeks. The unit test is in a month.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Scatterplot worksheet\",\"dueInDays\":2,\"subject\":\"Statistics\"},{\"title\":\"Residual plot activity\",\"dueInDays\":3,\"subject\":\"Statistics\"},{\"title\":\"Regression project proposal\",\"dueInDays\":4,\"subject\":\"Statistics\"},{\"title\":\"Regression project\",\"dueInDays\":21,\"subject\":\"Statistics\"},{\"title\":\"Regression unit test\",\"dueInDays\":30,\"subject\":\"Statistics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Class site post. Earth week activities are planned and most of them are optional volunteer shifts you can sign up for any time. The one required piece is the species inventory sheet, due Monday.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Species inventory sheet\",\"dueInDays\":5,\"subject\":\"Environmental Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Posted for the weekend. The related rates problem set is due Monday. The optimization notes should be read before Tuesday. The take home quiz is due Wednesday. The unit test is next Friday.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Related rates problem set\",\"dueInDays\":3,\"subject\":\"AP Calculus\"},{\"title\":\"Read the optimization notes\",\"dueInDays\":4,\"subject\":\"AP Calculus\"},{\"title\":\"Take home quiz\",\"dueInDays\":5,\"subject\":\"AP Calculus\"},{\"title\":\"Unit test\",\"dueInDays\":7,\"subject\":\"AP Calculus\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Announcement. The endocrine system unit begins tomorrow. Print the hormone chart before class tomorrow. The gland labeling activity is due Wednesday. The case study is due Friday. The unit quiz is in two weeks.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Print the hormone chart\",\"dueInDays\":1,\"subject\":\"Anatomy\"},{\"title\":\"Gland labeling activity\",\"dueInDays\":3,\"subject\":\"Anatomy\"},{\"title\":\"Endocrine case study\",\"dueInDays\":5,\"subject\":\"Anatomy\"},{\"title\":\"Unit quiz\",\"dueInDays\":14,\"subject\":\"Anatomy\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Lab schedule for the week. Monday is a demo day with nothing to prepare. Tuesday is the acid base lab and the pre lab is due Tuesday. Wednesday is data analysis. Thursday the graph is due. Friday the full lab report is due.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Acid base pre lab\",\"dueInDays\":1,\"subject\":\"Chemistry\"},{\"title\":\"Titration graph\",\"dueInDays\":3,\"subject\":\"Chemistry\"},{\"title\":\"Full lab report\",\"dueInDays\":4,\"subject\":\"Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Lab rotation posted outside room 118. Group A runs the pendulum lab Wednesday and group B runs it Thursday. There is nothing to prepare in advance and goggles are not needed for this one. Everyone turns in the data sheet Friday.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Pendulum lab data sheet\",\"dueInDays\":3,\"subject\":\"Physics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Lab schedule. The transpiration setup goes in tomorrow and readings are taken Friday and Monday. Record your mass readings in the shared sheet each lab day. The final data table is due Tuesday. The analysis writeup is due next Thursday.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Record mass readings in the shared sheet\",\"dueInDays\":2,\"subject\":\"AP Biology\"},{\"title\":\"Final data table\",\"dueInDays\":6,\"subject\":\"AP Biology\"},{\"title\":\"Analysis writeup\",\"dueInDays\":8,\"subject\":\"AP Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Lab note. The fume hood is being repaired so the synthesis lab is postponed. We will do a paper activity instead and nothing from it is collected. Just bring your lab notebook tomorrow.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Bring your lab notebook\",\"dueInDays\":1,\"subject\":\"Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Dissection schedule. The sheep heart dissection is Tuesday. The pre lab diagram is due Monday. Wear closed toe shoes and tie back long hair Tuesday. The dissection questions are due Wednesday. The reflection is due next Friday.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Pre lab diagram\",\"dueInDays\":3,\"subject\":\"Anatomy\"},{\"title\":\"Wear closed toe shoes\",\"dueInDays\":4,\"subject\":\"Anatomy\"},{\"title\":\"Dissection questions\",\"dueInDays\":5,\"subject\":\"Anatomy\"},{\"title\":\"Dissection reflection\",\"dueInDays\":7,\"subject\":\"Anatomy\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Lab plan for the week. The stream table lab runs Tuesday and Wednesday and everything is done in class, so there is nothing to turn in from the lab days themselves. Read the erosion background sheet before Tuesday so you are not lost.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Read the erosion background sheet\",\"dueInDays\":2,\"subject\":\"Earth Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Lab note. The soil testing kits are back ordered so the soil lab moves to next month. We will fill the time with the reading we skipped earlier in the unit. No new deadlines come out of this change.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Lab block schedule. Thursday is the gravimetric analysis lab and the pre lab calculations are due Thursday. The filter paper has to dry overnight so the mass is taken Friday. The full report with error analysis is due next Tuesday.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Pre lab calculations\",\"dueInDays\":2,\"subject\":\"AP Chemistry\"},{\"title\":\"Take the dried filter paper mass\",\"dueInDays\":3,\"subject\":\"AP Chemistry\"},{\"title\":\"Full report with error analysis\",\"dueInDays\":7,\"subject\":\"AP Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Microscope lab schedule. Station rotations happen tomorrow. Bring a pencil and your lab manual tomorrow. The prelab worksheet is also due tomorrow. Drawings are due Friday and the comparison paragraph is due Monday.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Bring a pencil and lab manual\",\"dueInDays\":1,\"subject\":\"Biology\"},{\"title\":\"Prelab worksheet\",\"dueInDays\":1,\"subject\":\"Biology\"},{\"title\":\"Microscope drawings\",\"dueInDays\":2,\"subject\":\"Biology\"},{\"title\":\"Comparison paragraph\",\"dueInDays\":5,\"subject\":\"Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Lab schedule change. The projectile motion lab moves from tomorrow to Monday because the gym is booked. Read the lab handout before Monday. The graph is due Tuesday and the full report is due next Thursday.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Read the lab handout\",\"dueInDays\":4,\"subject\":\"Physics\"},{\"title\":\"Projectile motion graph\",\"dueInDays\":5,\"subject\":\"Physics\"},{\"title\":\"Full lab report\",\"dueInDays\":7,\"subject\":\"Physics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Weekend lab reminder. The crystal growth setup you started Wednesday is fine over the weekend and I will check it myself Monday morning. The only thing you owe me is the photo log, due Wednesday.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Crystal growth photo log\",\"dueInDays\":5,\"subject\":\"Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Lab schedule for next week. Bacterial transformation plates go in Monday and observations happen Tuesday and Wednesday. The plate count sheet is due Thursday. The lab report is due in ten days.",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Plate count sheet\",\"dueInDays\":5,\"subject\":\"AP Biology\"},{\"title\":\"Transformation lab report\",\"dueInDays\":10,\"subject\":\"AP Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Computer lab schedule. We are in the lab Tuesday and Thursday this week. Bring headphones Tuesday. The sorting algorithm exercise is due Wednesday. The searching exercise is due Friday. The combined writeup is due next Monday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Bring headphones\",\"dueInDays\":1,\"subject\":\"Computer Science\"},{\"title\":\"Sorting algorithm exercise\",\"dueInDays\":2,\"subject\":\"Computer Science\"},{\"title\":\"Searching exercise\",\"dueInDays\":4,\"subject\":\"Computer Science\"},{\"title\":\"Combined writeup\",\"dueInDays\":7,\"subject\":\"Computer Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Lab note. The seismograph demo went long so we did not start the wave lab today. Nothing changes for you and no deadline moves. The only thing still due is the wave vocabulary sheet on Thursday.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Wave vocabulary sheet\",\"dueInDays\":2,\"subject\":\"Earth Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "The lab safety refresher is tomorrow. Everyone must sign the safety contract tomorrow before doing any lab work. The optics lab is Friday and the pre lab questions are due Friday. The ray diagram set is due Monday.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Sign the safety contract\",\"dueInDays\":1,\"subject\":\"Physics\"},{\"title\":\"Optics pre lab questions\",\"dueInDays\":2,\"subject\":\"Physics\"},{\"title\":\"Ray diagram set\",\"dueInDays\":5,\"subject\":\"Physics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Lab week plan. Monday we set up the electrolysis cells. Tuesday and Wednesday we take readings. Thursday the data table is due. Friday the analysis is due. The following Wednesday the formal report is due.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Electrolysis data table\",\"dueInDays\":4,\"subject\":\"Chemistry\"},{\"title\":\"Electrolysis analysis\",\"dueInDays\":5,\"subject\":\"Chemistry\"},{\"title\":\"Formal report\",\"dueInDays\":10,\"subject\":\"Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Lab note. The skeleton models have been moved to the back storage room. If you want to study with them come during lunch or after school any day. Nothing is due because of this and no sign up is needed.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Lab schedule. Spectrophotometer training is tomorrow and everyone must complete it before using the machine. The calibration curve lab is Wednesday and the pre lab is due Wednesday. The concentration calculation sheet is due Thursday. The report is due next Monday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Spectrophotometer training\",\"dueInDays\":1,\"subject\":\"AP Chemistry\"},{\"title\":\"Calibration curve pre lab\",\"dueInDays\":2,\"subject\":\"AP Chemistry\"},{\"title\":\"Concentration calculation sheet\",\"dueInDays\":3,\"subject\":\"AP Chemistry\"},{\"title\":\"Calibration curve report\",\"dueInDays\":7,\"subject\":\"AP Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "A reminder about the enzyme lab Monday. Read the background section over the weekend. Bring a lab coat Monday if you have one. Data is collected Monday and Tuesday. The results table is due Wednesday and the conclusion is due next Friday.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Read the enzyme lab background section\",\"dueInDays\":3,\"subject\":\"Biology\"},{\"title\":\"Bring a lab coat\",\"dueInDays\":3,\"subject\":\"Biology\"},{\"title\":\"Results table\",\"dueInDays\":5,\"subject\":\"Biology\"},{\"title\":\"Lab conclusion\",\"dueInDays\":7,\"subject\":\"Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Field lab schedule. The quadrat sampling is Thursday behind the school. Bring a clipboard and closed toe shoes Thursday. The species tally is due Friday. The biodiversity index calculation is due Monday. The writeup is due next Wednesday.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Bring a clipboard and closed toe shoes\",\"dueInDays\":2,\"subject\":\"Environmental Science\"},{\"title\":\"Species tally\",\"dueInDays\":3,\"subject\":\"Environmental Science\"},{\"title\":\"Biodiversity index calculation\",\"dueInDays\":6,\"subject\":\"Environmental Science\"},{\"title\":\"Quadrat sampling writeup\",\"dueInDays\":8,\"subject\":\"Environmental Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Construction workshop schedule. We are in the makerspace Thursday and Friday and all of the tools are provided there, so nothing has to be bought. Bring your own compass and straightedge Thursday.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Bring a compass and straightedge\",\"dueInDays\":1,\"subject\":\"Geometry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Lab plan posted for Monday. The spring constant lab needs a partner so pick one before Monday. Read the Hooke law section over the weekend. The data sheet is due Tuesday. The graph and analysis are due Thursday. The full report is due in two weeks.",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Pick a lab partner\",\"dueInDays\":2,\"subject\":\"Physics\"},{\"title\":\"Read the Hooke law section\",\"dueInDays\":2,\"subject\":\"Physics\"},{\"title\":\"Spring constant data sheet\",\"dueInDays\":3,\"subject\":\"Physics\"},{\"title\":\"Graph and analysis\",\"dueInDays\":5,\"subject\":\"Physics\"},{\"title\":\"Full report\",\"dueInDays\":14,\"subject\":\"Physics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Robotics lab plan for the week. Charge your robot battery tonight. The motor calibration is due Monday. The line following code is due Tuesday. The obstacle course test is Wednesday and the sensor log is due Wednesday. The debugging journal is due Thursday. The demo video is due Friday. The team writeup is due in two weeks.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Charge the robot battery\",\"dueInDays\":0,\"subject\":\"Computer Science\"},{\"title\":\"Motor calibration\",\"dueInDays\":1,\"subject\":\"Computer Science\"},{\"title\":\"Line following code\",\"dueInDays\":2,\"subject\":\"Computer Science\"},{\"title\":\"Obstacle course test\",\"dueInDays\":3,\"subject\":\"Computer Science\"},{\"title\":\"Sensor log\",\"dueInDays\":3,\"subject\":\"Computer Science\"},{\"title\":\"Debugging journal\",\"dueInDays\":4,\"subject\":\"Computer Science\"},{\"title\":\"Demo video\",\"dueInDays\":5,\"subject\":\"Computer Science\"},{\"title\":\"Team writeup\",\"dueInDays\":14,\"subject\":\"Computer Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "wait is the chem lab report due thursday or friday. i thought thursday. also the stoich worksheet is definitely due tomorrow because she collected part one today. and the unit test is next tuesday right",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Chem lab report\",\"dueInDays\":1,\"subject\":\"Chemistry\"},{\"title\":\"Stoich worksheet\",\"dueInDays\":1,\"subject\":\"Chemistry\"},{\"title\":\"Unit test\",\"dueInDays\":6,\"subject\":\"Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "ok so for bio we have the punnett square packet due tomorrow, the reading guide due monday, and the genetics quiz on tuesday. someone remind me to print the packet tonight because i always forget",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Punnett square packet\",\"dueInDays\":1,\"subject\":\"Biology\"},{\"title\":\"Reading guide\",\"dueInDays\":4,\"subject\":\"Biology\"},{\"title\":\"Genetics quiz\",\"dueInDays\":5,\"subject\":\"Biology\"},{\"title\":\"Print the packet\",\"dueInDays\":0,\"subject\":\"Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "does anyone actually understand the physics homework. i got question 4 but question 5 makes no sense to me at all. anyway it is due wednesday so we have some time to figure it out",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Physics homework\",\"dueInDays\":2,\"subject\":\"Physics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "study group for the calc test? it is monday. also the free response packet is due monday and the correction sheet is due wednesday. i can do sunday afternoon if that works for everyone",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Calc test\",\"dueInDays\":3,\"subject\":\"AP Calculus\"},{\"title\":\"Free response packet\",\"dueInDays\":3,\"subject\":\"AP Calculus\"},{\"title\":\"Correction sheet\",\"dueInDays\":5,\"subject\":\"AP Calculus\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "did anyone else think the geometry test was fine. i thought it was going to be way worse than it actually was. and nothing is due monday which is nice. see everyone monday",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "stats project update. we need the survey questions done by thursday, the data collected by monday, and the slides by next tuesday. i can do the slides if someone else does the survey questions",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Survey questions\",\"dueInDays\":2,\"subject\":\"Statistics\"},{\"title\":\"Collect the data\",\"dueInDays\":6,\"subject\":\"Statistics\"},{\"title\":\"Project slides\",\"dueInDays\":7,\"subject\":\"Statistics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "reminder for tomorrow. the anatomy study guide is due monday. the quiz she mentioned got moved so ignore that for now. i am going to start the study guide tonight if anyone wants to call",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Anatomy study guide\",\"dueInDays\":1,\"subject\":\"Anatomy\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "cs project check in. the class diagram is due tomorrow, the working demo is due friday, and the final code is due next wednesday. who is doing the ui part because i really do not want to",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Class diagram\",\"dueInDays\":1,\"subject\":\"Computer Science\"},{\"title\":\"Working demo\",\"dueInDays\":2,\"subject\":\"Computer Science\"},{\"title\":\"Final code\",\"dueInDays\":7,\"subject\":\"Computer Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "for env sci the poster is due friday and we still have not picked a topic. also the article summary is due wednesday. and the field trip form is due tomorrow so do not forget that one again",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Env sci poster\",\"dueInDays\":4,\"subject\":\"Environmental Science\"},{\"title\":\"Article summary\",\"dueInDays\":2,\"subject\":\"Environmental Science\"},{\"title\":\"Field trip form\",\"dueInDays\":1,\"subject\":\"Environmental Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "the earth science sub just showed a volcano documentary the entire period. nothing was assigned and nothing was collected. honestly the best class of the week so far",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "precalc people. the unit circle quiz is monday. homework 6.4 is due monday too so do not leave both for sunday night. i have the review sheet if anyone wants a photo of it",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Unit circle quiz\",\"dueInDays\":3,\"subject\":\"Precalculus\"},{\"title\":\"Homework 6.4\",\"dueInDays\":3,\"subject\":\"Precalculus\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "ap bio group. the lab report intro is due thursday, the methods section is due friday, and the whole thing is due next tuesday. i will do methods if someone takes the intro",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Lab report intro\",\"dueInDays\":2,\"subject\":\"AP Biology\"},{\"title\":\"Methods section\",\"dueInDays\":3,\"subject\":\"AP Biology\"},{\"title\":\"Full lab report\",\"dueInDays\":7,\"subject\":\"AP Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "algebra 2 hw is only the odd problems on page 214. it is due wednesday. she said the even ones are optional so do not stress about those at all",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Odd problems on page 214\",\"dueInDays\":2,\"subject\":\"Algebra II\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "ok final list for chem. the molarity worksheet is due tomorrow. the lab safety quiz is friday. the dilution lab report is due monday. and the unit test is in two weeks so we have time for that one",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Molarity worksheet\",\"dueInDays\":1,\"subject\":\"Chemistry\"},{\"title\":\"Lab safety quiz\",\"dueInDays\":2,\"subject\":\"Chemistry\"},{\"title\":\"Dilution lab report\",\"dueInDays\":5,\"subject\":\"Chemistry\"},{\"title\":\"Unit test\",\"dueInDays\":14,\"subject\":\"Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "anyone free sunday to work on the physics project. nothing is actually due until the materials list on monday but i would rather not do it all sunday night again",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Materials list\",\"dueInDays\":2,\"subject\":\"Physics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "geometry reminders. the proof packet is due monday. the quiz on triangle similarity is wednesday. and the construction project is due friday. also she said to bring a protractor monday",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Proof packet\",\"dueInDays\":1,\"subject\":\"Geometry\"},{\"title\":\"Quiz on triangle similarity\",\"dueInDays\":3,\"subject\":\"Geometry\"},{\"title\":\"Construction project\",\"dueInDays\":5,\"subject\":\"Geometry\"},{\"title\":\"Bring a protractor\",\"dueInDays\":1,\"subject\":\"Geometry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "history is fine but ap chem is killing me right now. the equilibrium problem set is due tomorrow, the lab report is due monday, and the unit test is next thursday. i still do not understand ice tables",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Equilibrium problem set\",\"dueInDays\":1,\"subject\":\"AP Chemistry\"},{\"title\":\"Lab report\",\"dueInDays\":4,\"subject\":\"AP Chemistry\"},{\"title\":\"Unit test\",\"dueInDays\":7,\"subject\":\"AP Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "cs a homework check. the array lab is due tomorrow, the string methods worksheet is due thursday, and the unit 3 test is friday. also the project proposal is due next monday",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Array lab\",\"dueInDays\":1,\"subject\":\"AP Computer Science A\"},{\"title\":\"String methods worksheet\",\"dueInDays\":3,\"subject\":\"AP Computer Science A\"},{\"title\":\"Unit 3 test\",\"dueInDays\":4,\"subject\":\"AP Computer Science A\"},{\"title\":\"Project proposal\",\"dueInDays\":7,\"subject\":\"AP Computer Science A\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "the biology test got pushed but she has not actually said to when yet. so there is nothing to study for tonight. i will post in here as soon as she tells us the new date",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "env sci field trip is tuesday. bring boots and a water bottle that day. the permission slip is due monday. the pre trip reading is due tuesday and the data sheet is due thursday",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Bring boots and a water bottle\",\"dueInDays\":4,\"subject\":\"Environmental Science\"},{\"title\":\"Permission slip\",\"dueInDays\":3,\"subject\":\"Environmental Science\"},{\"title\":\"Pre trip reading\",\"dueInDays\":4,\"subject\":\"Environmental Science\"},{\"title\":\"Data sheet\",\"dueInDays\":6,\"subject\":\"Environmental Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "algebra 1 stuff. the worksheet is due tomorrow, the quiz is friday, and the unit test is next tuesday. also corrections from the last test are due monday if you want the points back",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Worksheet\",\"dueInDays\":1,\"subject\":\"Algebra I\"},{\"title\":\"Quiz\",\"dueInDays\":2,\"subject\":\"Algebra I\"},{\"title\":\"Unit test\",\"dueInDays\":6,\"subject\":\"Algebra I\"},{\"title\":\"Test corrections\",\"dueInDays\":5,\"subject\":\"Algebra I\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "long week ahead everyone. anatomy diagram due monday, chem lab report due tuesday, calc problem set due wednesday, stats homework due thursday, and the physics quiz is friday",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Anatomy diagram\",\"dueInDays\":1,\"subject\":\"Anatomy\"},{\"title\":\"Chem lab report\",\"dueInDays\":2,\"subject\":\"Chemistry\"},{\"title\":\"Calc problem set\",\"dueInDays\":3,\"subject\":\"AP Calculus\"},{\"title\":\"Stats homework\",\"dueInDays\":4,\"subject\":\"Statistics\"},{\"title\":\"Physics quiz\",\"dueInDays\":5,\"subject\":\"Physics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "someone screenshot the board please. i wrote down the earth science map activity due wednesday, the rock quiz thursday, and the field journal due friday but i think there was one more thing",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Map activity\",\"dueInDays\":2,\"subject\":\"Earth Science\"},{\"title\":\"Rock quiz\",\"dueInDays\":3,\"subject\":\"Earth Science\"},{\"title\":\"Field journal\",\"dueInDays\":4,\"subject\":\"Earth Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "To do this week. Finish the chemistry problem set 6 by Wednesday. Study for the biology quiz on Thursday. Print the calculus notes packet before Friday. Email Mr. Pham about the geometry retake by Friday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Chemistry problem set 6\",\"dueInDays\":2,\"subject\":\"Chemistry\"},{\"title\":\"Study for the biology quiz\",\"dueInDays\":3,\"subject\":\"Biology\"},{\"title\":\"Print the calculus notes packet\",\"dueInDays\":4,\"subject\":\"AP Calculus\"},{\"title\":\"Email Mr. Pham about the retake\",\"dueInDays\":4,\"subject\":\"Geometry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "My list. Physics problem set due tomorrow. Chemistry lab report due Thursday. Algebra 2 homework due Thursday. Statistics reading due Friday. Bio flashcards done by Sunday.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Physics problem set\",\"dueInDays\":1,\"subject\":\"Physics\"},{\"title\":\"Chemistry lab report\",\"dueInDays\":2,\"subject\":\"Chemistry\"},{\"title\":\"Algebra 2 homework\",\"dueInDays\":2,\"subject\":\"Algebra II\"},{\"title\":\"Statistics reading\",\"dueInDays\":3,\"subject\":\"Statistics\"},{\"title\":\"Make bio flashcards\",\"dueInDays\":5,\"subject\":\"Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Only one thing left on my list today. The precalculus homework is due tomorrow and everything else has already been turned in this week.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Precalculus homework\",\"dueInDays\":1,\"subject\":\"Precalculus\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Weekend plan. Read the environmental science chapter Saturday. Finish the anatomy study guide Sunday. Chemistry problem set due Monday. Calculus quiz Monday. Physics lab report due Tuesday.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Read the environmental science chapter\",\"dueInDays\":2,\"subject\":\"Environmental Science\"},{\"title\":\"Finish the anatomy study guide\",\"dueInDays\":3,\"subject\":\"Anatomy\"},{\"title\":\"Chemistry problem set\",\"dueInDays\":4,\"subject\":\"Chemistry\"},{\"title\":\"Calculus quiz\",\"dueInDays\":4,\"subject\":\"AP Calculus\"},{\"title\":\"Physics lab report\",\"dueInDays\":5,\"subject\":\"Physics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Everything is turned in. Chemistry lab report submitted, calculus homework submitted, biology reading done. Nothing at all is due Monday. Plan for the weekend is sleep.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Sunday to do list. Finish the statistics project draft before Monday. Redo the geometry proofs I got wrong before Monday. Review the physics equation sheet for the Tuesday quiz. Start the biology reading that is due Wednesday.",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Statistics project draft\",\"dueInDays\":2,\"subject\":\"Statistics\"},{\"title\":\"Redo the geometry proofs\",\"dueInDays\":2,\"subject\":\"Geometry\"},{\"title\":\"Review the physics equation sheet\",\"dueInDays\":3,\"subject\":\"Physics\"},{\"title\":\"Biology reading\",\"dueInDays\":4,\"subject\":\"Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Week ahead. Algebra 2 homework due Monday. Chemistry quiz Tuesday. Biology lab report due Wednesday. Precalculus test Thursday. Geometry quiz Friday. Environmental science poster due Friday. Computer science lab due in ten days. Statistics project due in two weeks.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Algebra 2 homework\",\"dueInDays\":1,\"subject\":\"Algebra II\"},{\"title\":\"Chemistry quiz\",\"dueInDays\":2,\"subject\":\"Chemistry\"},{\"title\":\"Biology lab report\",\"dueInDays\":3,\"subject\":\"Biology\"},{\"title\":\"Precalculus test\",\"dueInDays\":4,\"subject\":\"Precalculus\"},{\"title\":\"Geometry quiz\",\"dueInDays\":5,\"subject\":\"Geometry\"},{\"title\":\"Environmental science poster\",\"dueInDays\":5,\"subject\":\"Environmental Science\"},{\"title\":\"Computer science lab\",\"dueInDays\":10,\"subject\":\"Computer Science\"},{\"title\":\"Statistics project\",\"dueInDays\":14,\"subject\":\"Statistics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Nothing much on my plate today. I just need to finish the earth science vocabulary sheet that is due Wednesday and then I am caught up for the rest of the week.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Earth science vocabulary sheet\",\"dueInDays\":2,\"subject\":\"Earth Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Priority list. The anatomy practical is Thursday so study tonight. The muscle labeling sheet is due Wednesday. The nervous system reading is due Friday. The case study is due next Tuesday.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Anatomy practical\",\"dueInDays\":2,\"subject\":\"Anatomy\"},{\"title\":\"Study for the practical\",\"dueInDays\":0,\"subject\":\"Anatomy\"},{\"title\":\"Muscle labeling sheet\",\"dueInDays\":1,\"subject\":\"Anatomy\"},{\"title\":\"Nervous system reading\",\"dueInDays\":3,\"subject\":\"Anatomy\"},{\"title\":\"Case study\",\"dueInDays\":7,\"subject\":\"Anatomy\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Reminders. Turn in the computer science lab tomorrow. Turn in the physics worksheet Friday. Bring the signed lab safety form Friday. Study for the chemistry test next Monday.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Computer science lab\",\"dueInDays\":1,\"subject\":\"Computer Science\"},{\"title\":\"Physics worksheet\",\"dueInDays\":2,\"subject\":\"Physics\"},{\"title\":\"Bring the signed lab safety form\",\"dueInDays\":2,\"subject\":\"Physics\"},{\"title\":\"Chemistry test\",\"dueInDays\":5,\"subject\":\"Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Caught up on everything for once. All of the math homework is in, the bio lab is submitted, and the chemistry test is over with. Nothing new is due until next week.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Things I keep forgetting. Return the borrowed graphing calculator Monday. Sign the physics lab contract Monday. Finish the geometry construction due Tuesday. Bring poster board Wednesday for environmental science.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Return the borrowed graphing calculator\",\"dueInDays\":3},{\"title\":\"Sign the physics lab contract\",\"dueInDays\":3,\"subject\":\"Physics\"},{\"title\":\"Geometry construction\",\"dueInDays\":4,\"subject\":\"Geometry\"},{\"title\":\"Bring poster board\",\"dueInDays\":5,\"subject\":\"Environmental Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Short list this weekend. The only thing due is the calculus problem set on Monday. Everything else was collected before the long weekend started.",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Calculus problem set\",\"dueInDays\":2,\"subject\":\"AP Calculus\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "To do. Chemistry reading tonight. Biology worksheet tomorrow. Algebra 1 homework Wednesday. Physics quiz Thursday. Statistics homework Friday. Earth science project due next Monday. Anatomy diagram due next Wednesday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Chemistry reading\",\"dueInDays\":0,\"subject\":\"Chemistry\"},{\"title\":\"Biology worksheet\",\"dueInDays\":1,\"subject\":\"Biology\"},{\"title\":\"Algebra 1 homework\",\"dueInDays\":2,\"subject\":\"Algebra I\"},{\"title\":\"Physics quiz\",\"dueInDays\":3,\"subject\":\"Physics\"},{\"title\":\"Statistics homework\",\"dueInDays\":4,\"subject\":\"Statistics\"},{\"title\":\"Earth science project\",\"dueInDays\":7,\"subject\":\"Earth Science\"},{\"title\":\"Anatomy diagram\",\"dueInDays\":9,\"subject\":\"Anatomy\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Checked all of my classes tonight. Chemistry has nothing, biology has nothing, and calculus is review only. The only thing coming up is the test but she has not scheduled it yet.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Tonight. Finish the ap chemistry problem set due tomorrow. Read the physics section due Friday. Start the statistics project due next Wednesday. Redo the algebra 2 quiz corrections due Monday.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"AP chemistry problem set\",\"dueInDays\":1,\"subject\":\"AP Chemistry\"},{\"title\":\"Read the physics section\",\"dueInDays\":2,\"subject\":\"Physics\"},{\"title\":\"Statistics project\",\"dueInDays\":7,\"subject\":\"Statistics\"},{\"title\":\"Algebra 2 quiz corrections\",\"dueInDays\":5,\"subject\":\"Algebra II\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Do not forget. Environmental science article annotation due tomorrow. Anatomy quiz tomorrow. Geometry homework due Monday. Chemistry lab report due next Thursday.",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Article annotation\",\"dueInDays\":1,\"subject\":\"Environmental Science\"},{\"title\":\"Anatomy quiz\",\"dueInDays\":1,\"subject\":\"Anatomy\"},{\"title\":\"Geometry homework\",\"dueInDays\":4,\"subject\":\"Geometry\"},{\"title\":\"Chemistry lab report\",\"dueInDays\":7,\"subject\":\"Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Study plan for the week. Biology cell quiz Monday. Chemistry mole test Wednesday. Precalculus quiz Thursday. Physics unit test Friday. Start the computer science project that is due in two weeks.",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Biology cell quiz\",\"dueInDays\":1,\"subject\":\"Biology\"},{\"title\":\"Chemistry mole test\",\"dueInDays\":3,\"subject\":\"Chemistry\"},{\"title\":\"Precalculus quiz\",\"dueInDays\":4,\"subject\":\"Precalculus\"},{\"title\":\"Physics unit test\",\"dueInDays\":5,\"subject\":\"Physics\"},{\"title\":\"Computer science project\",\"dueInDays\":14,\"subject\":\"Computer Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Light week for once. The only thing on the calendar is the environmental science reading response due Friday. Everything else has already been finished and turned in.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Reading response\",\"dueInDays\":4,\"subject\":\"Environmental Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Weekend homework. Statistics chapter 7 problems due Monday. Anatomy flashcards for the Tuesday quiz. Calculus review packet due Tuesday. Chemistry lab notebook check Wednesday.",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Statistics chapter 7 problems\",\"dueInDays\":3,\"subject\":\"Statistics\"},{\"title\":\"Make anatomy flashcards\",\"dueInDays\":4,\"subject\":\"Anatomy\"},{\"title\":\"Calculus review packet\",\"dueInDays\":4,\"subject\":\"AP Calculus\"},{\"title\":\"Chemistry lab notebook check\",\"dueInDays\":5,\"subject\":\"Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Catch up list. Late biology worksheet turned in by Monday. Physics corrections due Monday. Geometry homework due Tuesday. Algebra 2 test Wednesday. Earth science map due Thursday.",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Late biology worksheet\",\"dueInDays\":2,\"subject\":\"Biology\"},{\"title\":\"Physics corrections\",\"dueInDays\":2,\"subject\":\"Physics\"},{\"title\":\"Geometry homework\",\"dueInDays\":3,\"subject\":\"Geometry\"},{\"title\":\"Algebra 2 test\",\"dueInDays\":4,\"subject\":\"Algebra II\"},{\"title\":\"Earth science map\",\"dueInDays\":5,\"subject\":\"Earth Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Big week. Chemistry test tomorrow. Biology lab report due Thursday. Statistics quiz Friday. Precalculus homework due Friday. Computer science project due Monday. Physics lab due next Tuesday.",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Chemistry test\",\"dueInDays\":1,\"subject\":\"Chemistry\"},{\"title\":\"Biology lab report\",\"dueInDays\":2,\"subject\":\"Biology\"},{\"title\":\"Statistics quiz\",\"dueInDays\":3,\"subject\":\"Statistics\"},{\"title\":\"Precalculus homework\",\"dueInDays\":3,\"subject\":\"Precalculus\"},{\"title\":\"Computer science project\",\"dueInDays\":6,\"subject\":\"Computer Science\"},{\"title\":\"Physics lab\",\"dueInDays\":7,\"subject\":\"Physics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "To do before the break. Turn in the anatomy case study Friday. Turn in the chemistry lab report Friday. Finish the calculus review packet due Friday. Return the library books Thursday. Clean out the lab drawer Friday.",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Anatomy case study\",\"dueInDays\":2,\"subject\":\"Anatomy\"},{\"title\":\"Chemistry lab report\",\"dueInDays\":2,\"subject\":\"Chemistry\"},{\"title\":\"Calculus review packet\",\"dueInDays\":2,\"subject\":\"AP Calculus\"},{\"title\":\"Return the library books\",\"dueInDays\":1},{\"title\":\"Clean out the lab drawer\",\"dueInDays\":2}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "chem hw pg 142 probs 1 thru 20 due wed. bio ch 4 reading due tues. quiz fri on cells. lab report due next mon. i think thats everything from the board",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Chem hw pg 142 probs 1 thru 20\",\"dueInDays\":2,\"subject\":\"Chemistry\"},{\"title\":\"Bio ch 4 reading\",\"dueInDays\":1,\"subject\":\"Biology\"},{\"title\":\"Quiz on cells\",\"dueInDays\":4,\"subject\":\"Biology\"},{\"title\":\"Lab report\",\"dueInDays\":7,\"subject\":\"Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "physics ps 5 due thurs. thats it for this wk she said. no lab and no quiz this time. still need to ask her about q7 because i got a negative number",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Physics ps 5\",\"dueInDays\":2,\"subject\":\"Physics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "nothing due tmrw except the geo hw. ch 8 probs 4 thru 18. she said the rest of the page is optional so just do those ones",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Geo hw ch 8 probs 4 thru 18\",\"dueInDays\":1,\"subject\":\"Geometry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "anat notes due tmrw. muscle quiz mon. heart diagram due tues. reading ch 11 due wed. i am so behind on all of it and i do not know where to start",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Anat notes\",\"dueInDays\":1,\"subject\":\"Anatomy\"},{\"title\":\"Muscle quiz\",\"dueInDays\":4,\"subject\":\"Anatomy\"},{\"title\":\"Heart diagram\",\"dueInDays\":5,\"subject\":\"Anatomy\"},{\"title\":\"Reading ch 11\",\"dueInDays\":6,\"subject\":\"Anatomy\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "stats hw due mon. proj proposal due wed. ch 6 reading due tues. also need to email her abt the makeup quiz by mon or i lose the chance",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Stats hw\",\"dueInDays\":3,\"subject\":\"Statistics\"},{\"title\":\"Proj proposal\",\"dueInDays\":5,\"subject\":\"Statistics\"},{\"title\":\"Ch 6 reading\",\"dueInDays\":4,\"subject\":\"Statistics\"},{\"title\":\"Email her about the makeup quiz\",\"dueInDays\":3,\"subject\":\"Statistics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "checked the class site just now. no hw for chem or bio this weekend. calc is review only and she posted the key already. nothing to do till mon",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "tmrw is gonna be rough. alg 2 hw due mon. chem quiz mon. bio lab due tues. precalc test wed. env sci poster due fri. i should have started all of this on friday",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Alg 2 hw\",\"dueInDays\":1,\"subject\":\"Algebra II\"},{\"title\":\"Chem quiz\",\"dueInDays\":1,\"subject\":\"Chemistry\"},{\"title\":\"Bio lab\",\"dueInDays\":2,\"subject\":\"Biology\"},{\"title\":\"Precalc test\",\"dueInDays\":3,\"subject\":\"Precalculus\"},{\"title\":\"Env sci poster\",\"dueInDays\":5,\"subject\":\"Environmental Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "cs lab 4 due wed. debugging wksht due thurs. proj proposal due fri. also bring the laptop charger tmrw because the lab outlets are all taken",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Cs lab 4\",\"dueInDays\":2,\"subject\":\"Computer Science\"},{\"title\":\"Debugging wksht\",\"dueInDays\":3,\"subject\":\"Computer Science\"},{\"title\":\"Proj proposal\",\"dueInDays\":4,\"subject\":\"Computer Science\"},{\"title\":\"Bring the laptop charger\",\"dueInDays\":1,\"subject\":\"Computer Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "ap chem prelab due thurs and the lab is thurs too. lab report due next tues. ch 13 reading due tonight. i still do not get ice tables at all",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Ap chem prelab\",\"dueInDays\":2,\"subject\":\"AP Chemistry\"},{\"title\":\"Lab report\",\"dueInDays\":7,\"subject\":\"AP Chemistry\"},{\"title\":\"Ch 13 reading\",\"dueInDays\":0,\"subject\":\"AP Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "earth sci was a video today. no notes no hw nothing at all. she said the unit quiz is coming but definitely not this week so we are fine",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "bio stuff. punnett wksht due tmrw. genetics quiz mon. ch 12 reading due tues. lab report due next thurs. that is way too much for one class",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Punnett wksht\",\"dueInDays\":1,\"subject\":\"Biology\"},{\"title\":\"Genetics quiz\",\"dueInDays\":4,\"subject\":\"Biology\"},{\"title\":\"Ch 12 reading\",\"dueInDays\":5,\"subject\":\"Biology\"},{\"title\":\"Lab report\",\"dueInDays\":7,\"subject\":\"Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "weekend list. calc ps due mon. phys lab report due tues. chem hw due wed. geo proofs due thurs. stats proj due in two wks. saturday is gone already",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Calc ps\",\"dueInDays\":3,\"subject\":\"AP Calculus\"},{\"title\":\"Phys lab report\",\"dueInDays\":4,\"subject\":\"Physics\"},{\"title\":\"Chem hw\",\"dueInDays\":5,\"subject\":\"Chemistry\"},{\"title\":\"Geo proofs\",\"dueInDays\":6,\"subject\":\"Geometry\"},{\"title\":\"Stats proj\",\"dueInDays\":14,\"subject\":\"Statistics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "only thing this wk is the env sci reading response due fri. she moved everything else to after the break so this week is basically free",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Env sci reading response\",\"dueInDays\":4,\"subject\":\"Environmental Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "precalc hw 6.3 due tmrw. 6.4 due thurs. unit circle quiz fri. chapter test next tues. she said bring the calculator every single day",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Precalc hw 6.3\",\"dueInDays\":1,\"subject\":\"Precalculus\"},{\"title\":\"Precalc hw 6.4\",\"dueInDays\":2,\"subject\":\"Precalculus\"},{\"title\":\"Unit circle quiz\",\"dueInDays\":3,\"subject\":\"Precalculus\"},{\"title\":\"Chapter test\",\"dueInDays\":7,\"subject\":\"Precalculus\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "alg 1 wksht due tmrw. quiz fri. test corrections due mon. also the retake signup closes thurs so i need to decide before then",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Alg 1 wksht\",\"dueInDays\":1,\"subject\":\"Algebra I\"},{\"title\":\"Quiz\",\"dueInDays\":2,\"subject\":\"Algebra I\"},{\"title\":\"Test corrections\",\"dueInDays\":5,\"subject\":\"Algebra I\"},{\"title\":\"Retake signup\",\"dueInDays\":1,\"subject\":\"Algebra I\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "phys class was just a lab safety video the whole period. nothing was collected. the lab is next week sometime but she did not say which day yet",
+      "today": "Thursday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "ap bio. lab data due mon. analysis due tues. formal report due next fri. unit test in three wks. i really need to start earlier this time around",
+      "today": "Friday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Lab data\",\"dueInDays\":3,\"subject\":\"AP Biology\"},{\"title\":\"Analysis\",\"dueInDays\":4,\"subject\":\"AP Biology\"},{\"title\":\"Formal report\",\"dueInDays\":7,\"subject\":\"AP Biology\"},{\"title\":\"Unit test\",\"dueInDays\":21,\"subject\":\"AP Biology\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "sun to do. chem ps due mon. bio reading due mon. anat study guide due tues. calc quiz tues. stats hw due wed. going to be a long sunday",
+      "today": "Saturday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Chem ps\",\"dueInDays\":2,\"subject\":\"Chemistry\"},{\"title\":\"Bio reading\",\"dueInDays\":2,\"subject\":\"Biology\"},{\"title\":\"Anat study guide\",\"dueInDays\":3,\"subject\":\"Anatomy\"},{\"title\":\"Calc quiz\",\"dueInDays\":3,\"subject\":\"AP Calculus\"},{\"title\":\"Stats hw\",\"dueInDays\":4,\"subject\":\"Statistics\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "just checked everything. the only thing due this wk is the geo construction proj on thurs. everything else got pushed back after the assembly",
+      "today": "Sunday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Geo construction proj\",\"dueInDays\":4,\"subject\":\"Geometry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "chem lab tues. prelab due tues. goggles tues. data table due wed. lab report due next mon. unit test in two wks. writing this down so i stop forgetting",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Prelab\",\"dueInDays\":1,\"subject\":\"Chemistry\"},{\"title\":\"Bring goggles\",\"dueInDays\":1,\"subject\":\"Chemistry\"},{\"title\":\"Data table\",\"dueInDays\":2,\"subject\":\"Chemistry\"},{\"title\":\"Lab report\",\"dueInDays\":7,\"subject\":\"Chemistry\"},{\"title\":\"Unit test\",\"dueInDays\":14,\"subject\":\"Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "env sci. the recycling audit is all done in class this wk so there is nothing to prep. only thing due is the permission form for the landfill trip and that is due tmrw",
+      "today": "Wednesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Permission form for the landfill trip\",\"dueInDays\":1,\"subject\":\"Environmental Science\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "math and sci for the wk. alg 2 hw due tmrw. geo proofs due thurs. bio lab due fri. chem test mon. phys ps due next tues. anat diagram due next wed",
+      "today": "Tuesday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Alg 2 hw\",\"dueInDays\":1,\"subject\":\"Algebra II\"},{\"title\":\"Geo proofs\",\"dueInDays\":2,\"subject\":\"Geometry\"},{\"title\":\"Bio lab\",\"dueInDays\":3,\"subject\":\"Biology\"},{\"title\":\"Chem test\",\"dueInDays\":6,\"subject\":\"Chemistry\"},{\"title\":\"Phys ps\",\"dueInDays\":7,\"subject\":\"Physics\"},{\"title\":\"Anat diagram\",\"dueInDays\":8,\"subject\":\"Anatomy\"}]}"
+  }
+]

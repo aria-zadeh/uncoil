@@ -1,0 +1,822 @@
+{
+  "_comment": "Shared fixture for reconcileDueDates in services/dueDates.ts and train/due_dates.py. Each case: the pasted text, the reference weekday, an optional real reference date (ISO), the tasks the model returned, and the tasks expected after the text's own due phrases override the model's counts. dueSource is 'text' when a phrase in the task's sentence set the count, 'model' when the model's number was kept. An optional lastDue on a case is the count carried in from an earlier chunk of the same paste (reconcileDueDates' fifth argument); absent means null.",
+  "cases": [
+    {
+      "name": "teacher email, three phrases, one per sentence",
+      "text": "Hi all, reminder that the unit 2 test is Friday and covers everything through cell transport. The study guide is due tomorrow at the start of class. Signed field trip forms need to be in by next Tuesday. Have a good week. Ms. Okafor",
+      "today": "Wednesday",
+      "tasks": [
+        {
+          "title": "Unit 2 test",
+          "dueInDays": 1,
+          "subject": "Biology"
+        },
+        {
+          "title": "Study guide",
+          "dueInDays": 2,
+          "subject": "Biology"
+        },
+        {
+          "title": "Sign field trip forms",
+          "dueInDays": 5,
+          "subject": "Biology"
+        }
+      ],
+      "expected": [
+        {
+          "title": "Unit 2 test",
+          "dueInDays": 2,
+          "subject": "Biology",
+          "dueSource": "text"
+        },
+        {
+          "title": "Study guide",
+          "dueInDays": 1,
+          "subject": "Biology",
+          "dueSource": "text"
+        },
+        {
+          "title": "Sign field trip forms",
+          "dueInDays": 6,
+          "subject": "Biology",
+          "dueSource": "text"
+        }
+      ]
+    },
+    {
+      "name": "syllabus week block, weekday labels and a following-weekday phrase",
+      "text": "Week 3. Monday: quiz on chapters 1 to 3. Wednesday: bring your lab notebook, lab 2 write-up due Friday. Thursday: no homework, office hours after school. Friday: chapter 4 reading questions due, project proposal due the following Monday.",
+      "today": "Sunday",
+      "tasks": [
+        {
+          "title": "Quiz on chapters 1 to 3",
+          "dueInDays": 2
+        },
+        {
+          "title": "Lab 2 write-up",
+          "dueInDays": 4
+        },
+        {
+          "title": "Chapter 4 reading questions",
+          "dueInDays": 10
+        },
+        {
+          "title": "Project proposal",
+          "dueInDays": 7
+        }
+      ],
+      "expected": [
+        {
+          "title": "Quiz on chapters 1 to 3",
+          "dueInDays": 1,
+          "dueSource": "text"
+        },
+        {
+          "title": "Lab 2 write-up",
+          "dueInDays": 5,
+          "dueSource": "text"
+        },
+        {
+          "title": "Chapter 4 reading questions",
+          "dueInDays": 5,
+          "dueSource": "text"
+        },
+        {
+          "title": "Project proposal",
+          "dueInDays": 8,
+          "dueSource": "text"
+        }
+      ]
+    },
+    {
+      "name": "no due phrase in the text keeps the model's count",
+      "text": "Finish the vocabulary packet and the reading log. Bring both to class.",
+      "today": "Monday",
+      "tasks": [
+        {
+          "title": "Vocabulary packet",
+          "dueInDays": 2
+        },
+        {
+          "title": "Reading log",
+          "dueInDays": 2
+        }
+      ],
+      "expected": [
+        {
+          "title": "Vocabulary packet",
+          "dueInDays": 2,
+          "dueSource": "model"
+        },
+        {
+          "title": "Reading log",
+          "dueInDays": 2,
+          "dueSource": "model"
+        }
+      ]
+    },
+    {
+      "name": "title that matches no sentence keeps the model's count",
+      "text": "Essay draft due Thursday. Quiz Friday.",
+      "today": "Monday",
+      "tasks": [
+        {
+          "title": "Essay draft",
+          "dueInDays": 2
+        },
+        {
+          "title": "Quiz",
+          "dueInDays": 5
+        },
+        {
+          "title": "Permission slip",
+          "dueInDays": 9
+        }
+      ],
+      "expected": [
+        {
+          "title": "Essay draft",
+          "dueInDays": 3,
+          "dueSource": "text"
+        },
+        {
+          "title": "Quiz",
+          "dueInDays": 4,
+          "dueSource": "text"
+        },
+        {
+          "title": "Permission slip",
+          "dueInDays": 9,
+          "dueSource": "model"
+        }
+      ]
+    },
+    {
+      "name": "one sentence, two tasks, two phrases: each task takes the phrase after its own words",
+      "text": "The lab report is due Wednesday and the problem set is due next Monday.",
+      "today": "Monday",
+      "tasks": [
+        {
+          "title": "Lab report",
+          "dueInDays": 3
+        },
+        {
+          "title": "Problem set",
+          "dueInDays": 6
+        }
+      ],
+      "expected": [
+        {
+          "title": "Lab report",
+          "dueInDays": 2,
+          "dueSource": "text"
+        },
+        {
+          "title": "Problem set",
+          "dueInDays": 7,
+          "dueSource": "text"
+        }
+      ]
+    },
+    {
+      "name": "unit calendar with day labels in order, read on a Sunday",
+      "text": "Unit 6 calendar. Mon - 6.1 practice due. Tue - 6.2 practice due. Wed - mixed review due. Thu - quiz on 6.1 and 6.2. Fri - section 6.3 practice due. Next Mon - unit 6 study guide due. Next Wed - unit 6 test.",
+      "today": "Sunday",
+      "tasks": [
+        {
+          "title": "6.1 practice",
+          "dueInDays": 1
+        },
+        {
+          "title": "6.2 practice",
+          "dueInDays": 2
+        },
+        {
+          "title": "Mixed review",
+          "dueInDays": 2
+        },
+        {
+          "title": "Quiz on 6.1 and 6.2",
+          "dueInDays": 3
+        },
+        {
+          "title": "Section 6.3 practice",
+          "dueInDays": 4
+        },
+        {
+          "title": "Unit 6 study guide",
+          "dueInDays": 5
+        },
+        {
+          "title": "Unit 6 test",
+          "dueInDays": 6
+        }
+      ],
+      "expected": [
+        {
+          "title": "6.1 practice",
+          "dueInDays": 1,
+          "dueSource": "text"
+        },
+        {
+          "title": "6.2 practice",
+          "dueInDays": 2,
+          "dueSource": "text"
+        },
+        {
+          "title": "Mixed review",
+          "dueInDays": 3,
+          "dueSource": "text"
+        },
+        {
+          "title": "Quiz on 6.1 and 6.2",
+          "dueInDays": 4,
+          "dueSource": "text"
+        },
+        {
+          "title": "Section 6.3 practice",
+          "dueInDays": 5,
+          "dueSource": "text"
+        },
+        {
+          "title": "Unit 6 study guide",
+          "dueInDays": 8,
+          "dueSource": "text"
+        },
+        {
+          "title": "Unit 6 test",
+          "dueInDays": 10,
+          "dueSource": "text"
+        }
+      ]
+    },
+    {
+      "name": "calendar date resolved from the real reference date",
+      "text": "Scholarship essay due September 15. Recommendation letter request should go out by Friday.",
+      "today": "Monday",
+      "todayDate": "2026-09-07",
+      "tasks": [
+        {
+          "title": "Scholarship essay",
+          "dueInDays": 14
+        },
+        {
+          "title": "Recommendation letter request",
+          "dueInDays": 10
+        }
+      ],
+      "expected": [
+        {
+          "title": "Scholarship essay",
+          "dueInDays": 8,
+          "dueSource": "text"
+        },
+        {
+          "title": "Recommendation letter request",
+          "dueInDays": 4,
+          "dueSource": "text"
+        }
+      ]
+    },
+    {
+      "name": "the model's count survives when the resolver has no calendar for a date",
+      "text": "Scholarship essay due September 15.",
+      "today": "Monday",
+      "tasks": [
+        {
+          "title": "Scholarship essay",
+          "dueInDays": 14
+        }
+      ],
+      "expected": [
+        {
+          "title": "Scholarship essay",
+          "dueInDays": 14,
+          "dueSource": "model"
+        }
+      ]
+    },
+    {
+      "name": "a resolved count outside 0 to 365 is not applied",
+      "text": "Reunion essay due in 900 days.",
+      "today": "Monday",
+      "tasks": [
+        {
+          "title": "Reunion essay",
+          "dueInDays": 30
+        }
+      ],
+      "expected": [
+        {
+          "title": "Reunion essay",
+          "dueInDays": 30,
+          "dueSource": "model"
+        }
+      ]
+    },
+    {
+      "name": "en dash and em dash labels split like a hyphen",
+      "text": "Unit 6 calendar. Mon – 6.1 practice due. Tue — 6.2 practice due. Wed – mixed review due.",
+      "today": "Sunday",
+      "tasks": [
+        {
+          "title": "6.1 practice",
+          "dueInDays": 3
+        },
+        {
+          "title": "6.2 practice",
+          "dueInDays": 3
+        },
+        {
+          "title": "Mixed review",
+          "dueInDays": 3
+        }
+      ],
+      "expected": [
+        {
+          "title": "6.1 practice",
+          "dueInDays": 1,
+          "dueSource": "text"
+        },
+        {
+          "title": "6.2 practice",
+          "dueInDays": 2,
+          "dueSource": "text"
+        },
+        {
+          "title": "Mixed review",
+          "dueInDays": 3,
+          "dueSource": "text"
+        }
+      ]
+    },
+    {
+      "name": "a weekday with a calendar date takes the calendar date",
+      "text": "Project due Friday the 25th. Reading log due Friday.",
+      "today": "Monday",
+      "todayDate": "2026-09-07",
+      "tasks": [
+        {
+          "title": "Project",
+          "dueInDays": 4
+        },
+        {
+          "title": "Reading log",
+          "dueInDays": 4
+        }
+      ],
+      "expected": [
+        {
+          "title": "Project",
+          "dueInDays": 18,
+          "dueSource": "text"
+        },
+        {
+          "title": "Reading log",
+          "dueInDays": 4,
+          "dueSource": "text"
+        }
+      ]
+    },
+    {
+      "name": "lastDue carried in from an earlier chunk anchors a following-weekday phrase",
+      "text": "Project proposal due the following Monday.",
+      "today": "Sunday",
+      "lastDue": 5,
+      "tasks": [
+        {
+          "title": "Project proposal",
+          "dueInDays": 3
+        }
+      ],
+      "expected": [
+        {
+          "title": "Project proposal",
+          "dueInDays": 8,
+          "dueSource": "text"
+        }
+      ]
+    },
+    {
+      "name": "empty task list and whitespace text",
+      "text": "   \n  ",
+      "today": "Monday",
+      "tasks": [],
+      "expected": []
+    },
+    {
+      "name": "lowercase list with spaced dashes: each item after the day label keeps its own phrase",
+      "text": "sunday - finish the apush reading tonight - lit essay due monday - permission slip due wednesday - study for the french test thursday",
+      "today": "Saturday",
+      "tasks": [
+        {
+          "title": "Finish the APUSH reading",
+          "dueInDays": 0
+        },
+        {
+          "title": "Lit essay",
+          "dueInDays": 0
+        },
+        {
+          "title": "Permission slip",
+          "dueInDays": 2
+        },
+        {
+          "title": "French test",
+          "dueInDays": 5
+        }
+      ],
+      "expected": [
+        {
+          "title": "Finish the APUSH reading",
+          "dueInDays": 0,
+          "dueSource": "text"
+        },
+        {
+          "title": "Lit essay",
+          "dueInDays": 2,
+          "dueSource": "text"
+        },
+        {
+          "title": "Permission slip",
+          "dueInDays": 4,
+          "dueSource": "text"
+        },
+        {
+          "title": "French test",
+          "dueInDays": 5,
+          "dueSource": "text"
+        }
+      ]
+    },
+    {
+      "name": "relative phrases: the following weekday after a stated due, and N weeks from today",
+      "text": "Civics announcement: bill drafts due Wednesday, floor speeches the following Monday, full mock congress session two weeks from today.",
+      "today": "Monday",
+      "tasks": [
+        {
+          "title": "Bill drafts",
+          "dueInDays": 2
+        },
+        {
+          "title": "Floor speeches",
+          "dueInDays": 7
+        },
+        {
+          "title": "Full mock congress session",
+          "dueInDays": 0
+        }
+      ],
+      "expected": [
+        {
+          "title": "Bill drafts",
+          "dueInDays": 2,
+          "dueSource": "text"
+        },
+        {
+          "title": "Floor speeches",
+          "dueInDays": 7,
+          "dueSource": "text"
+        },
+        {
+          "title": "Full mock congress session",
+          "dueInDays": 14,
+          "dueSource": "text"
+        }
+      ]
+    },
+    {
+      "name": "the following weekday as a label with an abbreviation",
+      "text": "Fri - 6.3 practice due. The following Mon - unit 6 study guide due. The following Wed - unit 6 test.",
+      "today": "Sunday",
+      "tasks": [
+        {
+          "title": "6.3 practice",
+          "dueInDays": 5
+        },
+        {
+          "title": "Unit 6 study guide",
+          "dueInDays": 1
+        },
+        {
+          "title": "Unit 6 test",
+          "dueInDays": 3
+        }
+      ],
+      "expected": [
+        {
+          "title": "6.3 practice",
+          "dueInDays": 5,
+          "dueSource": "text"
+        },
+        {
+          "title": "Unit 6 study guide",
+          "dueInDays": 8,
+          "dueSource": "text"
+        },
+        {
+          "title": "Unit 6 test",
+          "dueInDays": 10,
+          "dueSource": "text"
+        }
+      ]
+    },
+    {
+      "name": "N days after that counts from the previous due",
+      "text": "Interview recording due in ten days, edited reflection due three days after that, presentation a week after that.",
+      "today": "Monday",
+      "tasks": [
+        {
+          "title": "Interview recording",
+          "dueInDays": 10
+        },
+        {
+          "title": "Reflection",
+          "dueInDays": 10
+        },
+        {
+          "title": "Presentation",
+          "dueInDays": 17
+        }
+      ],
+      "expected": [
+        {
+          "title": "Interview recording",
+          "dueInDays": 10,
+          "dueSource": "text"
+        },
+        {
+          "title": "Reflection",
+          "dueInDays": 13,
+          "dueSource": "text"
+        },
+        {
+          "title": "Presentation",
+          "dueInDays": 20,
+          "dueSource": "text"
+        }
+      ]
+    },
+    {
+      "name": "week blocks in prose read on a Friday start next week",
+      "text": "Unit calendar - Beloved. Week one, the part one reading notes are due Tuesday and the passage annotation is due Friday. Week two, the part two notes are due Wednesday and the seminar prep is due Friday. Week three, the final essay is due Friday.",
+      "today": "Friday",
+      "tasks": [
+        {
+          "title": "Part one reading notes",
+          "dueInDays": 0
+        },
+        {
+          "title": "Passage annotation",
+          "dueInDays": 0
+        },
+        {
+          "title": "Part two notes",
+          "dueInDays": 0
+        },
+        {
+          "title": "Seminar prep",
+          "dueInDays": 0
+        },
+        {
+          "title": "Final essay",
+          "dueInDays": 0
+        }
+      ],
+      "expected": [
+        {
+          "title": "Part one reading notes",
+          "dueInDays": 4,
+          "dueSource": "text"
+        },
+        {
+          "title": "Passage annotation",
+          "dueInDays": 7,
+          "dueSource": "text"
+        },
+        {
+          "title": "Part two notes",
+          "dueInDays": 12,
+          "dueSource": "text"
+        },
+        {
+          "title": "Seminar prep",
+          "dueInDays": 14,
+          "dueSource": "text"
+        },
+        {
+          "title": "Final essay",
+          "dueInDays": 21,
+          "dueSource": "text"
+        }
+      ]
+    },
+    {
+      "name": "week blocks with dashes read on a Saturday",
+      "text": "unit 7 calendar, three weeks. week one - the cylinder set due wednesday, the throwing log due friday. week two - the bowl set due tuesday, the glaze tiles due friday. week three - the finished set due wednesday.",
+      "today": "Saturday",
+      "tasks": [
+        {
+          "title": "Cylinder set",
+          "dueInDays": 0
+        },
+        {
+          "title": "Throwing log",
+          "dueInDays": 0
+        },
+        {
+          "title": "Bowl set",
+          "dueInDays": 0
+        },
+        {
+          "title": "Glaze tiles",
+          "dueInDays": 0
+        },
+        {
+          "title": "Finished set",
+          "dueInDays": 0
+        }
+      ],
+      "expected": [
+        {
+          "title": "Cylinder set",
+          "dueInDays": 4,
+          "dueSource": "text"
+        },
+        {
+          "title": "Throwing log",
+          "dueInDays": 6,
+          "dueSource": "text"
+        },
+        {
+          "title": "Bowl set",
+          "dueInDays": 10,
+          "dueSource": "text"
+        },
+        {
+          "title": "Glaze tiles",
+          "dueInDays": 13,
+          "dueSource": "text"
+        },
+        {
+          "title": "Finished set",
+          "dueInDays": 18,
+          "dueSource": "text"
+        }
+      ]
+    },
+    {
+      "name": "a single numbered week is this week, past days roll forward",
+      "text": "Week 4 posted. Monday - the intake survey is due. Wednesday - the time audit worksheet is due. Friday - the unit quiz.",
+      "today": "Tuesday",
+      "tasks": [
+        {
+          "title": "Intake survey",
+          "dueInDays": 0
+        },
+        {
+          "title": "Time audit worksheet",
+          "dueInDays": 0
+        },
+        {
+          "title": "Unit quiz",
+          "dueInDays": 0
+        }
+      ],
+      "expected": [
+        {
+          "title": "Intake survey",
+          "dueInDays": 6,
+          "dueSource": "text"
+        },
+        {
+          "title": "Time audit worksheet",
+          "dueInDays": 1,
+          "dueSource": "text"
+        },
+        {
+          "title": "Unit quiz",
+          "dueInDays": 3,
+          "dueSource": "text"
+        }
+      ]
+    },
+    {
+      "name": "a numbered week posted for next week is next week on a weekday",
+      "text": "Week 11 in AP Macroeconomics, posted for next week. Monday - the aggregate demand notes check. Tuesday - the AD and AS problem set is due. Wednesday - the fiscal policy reading guide is due.",
+      "today": "Wednesday",
+      "tasks": [
+        {
+          "title": "Aggregate demand notes check",
+          "dueInDays": 0
+        },
+        {
+          "title": "AD and AS problem set",
+          "dueInDays": 0
+        },
+        {
+          "title": "Fiscal policy reading guide",
+          "dueInDays": 0
+        }
+      ],
+      "expected": [
+        {
+          "title": "Aggregate demand notes check",
+          "dueInDays": 5,
+          "dueSource": "text"
+        },
+        {
+          "title": "AD and AS problem set",
+          "dueInDays": 6,
+          "dueSource": "text"
+        },
+        {
+          "title": "Fiscal policy reading guide",
+          "dueInDays": 7,
+          "dueSource": "text"
+        }
+      ]
+    },
+    {
+      "name": "label-first calendar line read on a Sunday",
+      "text": "Unit 4 Calendar / Week 1 Monday the chapter 13 reading guide is due, Wednesday the map activity is due. Week 2 Thursday the DBQ practice is due. Week 3 Monday the unit review packet is due.",
+      "today": "Sunday",
+      "tasks": [
+        {
+          "title": "Chapter 13 reading guide",
+          "dueInDays": 0
+        },
+        {
+          "title": "Map activity",
+          "dueInDays": 0
+        },
+        {
+          "title": "DBQ practice",
+          "dueInDays": 0
+        },
+        {
+          "title": "Unit review packet",
+          "dueInDays": 0
+        }
+      ],
+      "expected": [
+        {
+          "title": "Chapter 13 reading guide",
+          "dueInDays": 1,
+          "dueSource": "text"
+        },
+        {
+          "title": "Map activity",
+          "dueInDays": 3,
+          "dueSource": "text"
+        },
+        {
+          "title": "DBQ practice",
+          "dueInDays": 11,
+          "dueSource": "text"
+        },
+        {
+          "title": "Unit review packet",
+          "dueInDays": 15,
+          "dueSource": "text"
+        }
+      ]
+    },
+    {
+      "name": "phrase-after list is unchanged by the label rule",
+      "text": "The outline is due Monday, the essay is due Wednesday, and the reflection is due Friday.",
+      "today": "Sunday",
+      "tasks": [
+        {
+          "title": "Outline",
+          "dueInDays": 0
+        },
+        {
+          "title": "Essay",
+          "dueInDays": 0
+        },
+        {
+          "title": "Reflection",
+          "dueInDays": 0
+        }
+      ],
+      "expected": [
+        {
+          "title": "Outline",
+          "dueInDays": 1,
+          "dueSource": "text"
+        },
+        {
+          "title": "Essay",
+          "dueInDays": 3,
+          "dueSource": "text"
+        },
+        {
+          "title": "Reflection",
+          "dueInDays": 5,
+          "dueSource": "text"
+        }
+      ]
+    }
+  ]
+}

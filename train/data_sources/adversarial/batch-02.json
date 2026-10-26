@@ -1,0 +1,1566 @@
+[
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Math",
+      "subject": null,
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment and find the first question\",\"minutes\":5},{\"title\":\"Answer the first few questions in order\",\"minutes\":20},{\"title\":\"Finish the questions that are left\",\"minutes\":20},{\"title\":\"Check your answers against your notes\",\"minutes\":10}],\"starterAction\":\"Open the assignment and find the first question\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Essay",
+      "subject": null,
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment and read what it asks for\",\"minutes\":5},{\"title\":\"Write down the point you want to make\",\"minutes\":10},{\"title\":\"Write the first half without stopping to edit\",\"minutes\":25},{\"title\":\"Write the second half without stopping to edit\",\"minutes\":25},{\"title\":\"Read it back and fix what sounds wrong\",\"minutes\":15}],\"starterAction\":\"Open the assignment and read what it asks for\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Read",
+      "subject": null,
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the book and find where you left off\",\"minutes\":5},{\"title\":\"Read the first part without stopping\",\"minutes\":20},{\"title\":\"Write one sentence saying what happened\",\"minutes\":5},{\"title\":\"Read the rest of it\",\"minutes\":25},{\"title\":\"Write down what you did not follow\",\"minutes\":10}],\"starterAction\":\"Open the book and find where you left off\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Project",
+      "subject": null,
+      "description": null,
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Collect the materials this needs and set them on the desk\",\"minutes\":10},{\"title\":\"Write down what has to be handed in\",\"minutes\":15},{\"title\":\"Make the first part all the way through\",\"minutes\":45},{\"title\":\"Make the rest of the parts\",\"minutes\":45},{\"title\":\"Check your work against what was asked\",\"minutes\":15}],\"starterAction\":\"Collect the materials this needs and set them on the desk\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Lab",
+      "subject": null,
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notebook to today's page\",\"minutes\":5},{\"title\":\"Copy the numbers you recorded into the table\",\"minutes\":20},{\"title\":\"Write the method from your notes\",\"minutes\":25},{\"title\":\"Write the conclusion using the table\",\"minutes\":25},{\"title\":\"Check every unit and label\",\"minutes\":10}],\"starterAction\":\"Open your notebook to today's page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Homework",
+      "subject": null,
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Gather your books and open them to tonight's page\",\"minutes\":5},{\"title\":\"Answer the first part in order\",\"minutes\":20},{\"title\":\"Write down what is still left\",\"minutes\":5},{\"title\":\"Finish the rest of it\",\"minutes\":20},{\"title\":\"Check it against what you were given\",\"minutes\":10}],\"starterAction\":\"Gather your books and open them to tonight's page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Study",
+      "subject": null,
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Collect your notes and put them in one pile\",\"minutes\":10},{\"title\":\"Copy the key points onto one page\",\"minutes\":20},{\"title\":\"Write six questions this might be tested on\",\"minutes\":20},{\"title\":\"Answer your own questions without looking\",\"minutes\":25},{\"title\":\"Answer again the ones you missed\",\"minutes\":15}],\"starterAction\":\"Collect your notes and put them in one pile\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Chores",
+      "subject": null,
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Look around the room and find what is out of place\",\"minutes\":5},{\"title\":\"Pick up everything on the floor\",\"minutes\":15},{\"title\":\"Put everything back where it belongs\",\"minutes\":15},{\"title\":\"Clean the surfaces with a cloth\",\"minutes\":10},{\"title\":\"Check the room once more before you leave\",\"minutes\":5}],\"starterAction\":\"Look around the room and find what is out of place\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Quiz",
+      "subject": null,
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Look through your notes and find the right section\",\"minutes\":5},{\"title\":\"Write eight questions this might ask\",\"minutes\":20},{\"title\":\"Answer your own questions without looking\",\"minutes\":20},{\"title\":\"Check your answers against your notes\",\"minutes\":10}],\"starterAction\":\"Look through your notes and find the right section\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Packet",
+      "subject": null,
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Take out the packet and put your name on it\",\"minutes\":5},{\"title\":\"Answer the first side in order\",\"minutes\":20},{\"title\":\"Answer the back side in order\",\"minutes\":20},{\"title\":\"Check your answers against the examples\",\"minutes\":10}],\"starterAction\":\"Take out the packet and put your name on it\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "x",
+      "subject": null,
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Search your bag for anything marked with today's date\",\"minutes\":5},{\"title\":\"Write down what the task is asking for\",\"minutes\":10},{\"title\":\"Complete the first part you can see\",\"minutes\":20},{\"title\":\"Finish whatever is left\",\"minutes\":20},{\"title\":\"Check it against the instructions\",\"minutes\":10}],\"starterAction\":\"Search your bag for anything marked with today's date\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "...",
+      "subject": null,
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Look at the top of the page for any instructions\",\"minutes\":5},{\"title\":\"Write down what it is actually asking\",\"minutes\":10},{\"title\":\"Complete the part that makes sense so far\",\"minutes\":25},{\"title\":\"Finish the rest once that part is done\",\"minutes\":25},{\"title\":\"Check the whole thing against the instructions\",\"minutes\":10}],\"starterAction\":\"Look at the top of the page for any instructions\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "hw",
+      "subject": null,
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Take everything out of your bag and sort it into piles\",\"minutes\":5},{\"title\":\"Answer the first few questions\",\"minutes\":20},{\"title\":\"Answer the rest of the questions\",\"minutes\":20},{\"title\":\"Check your work against your notes\",\"minutes\":10}],\"starterAction\":\"Take everything out of your bag and sort it into piles\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Chapter 7",
+      "subject": null,
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the book to chapter 7\",\"minutes\":5},{\"title\":\"Read the first half without stopping\",\"minutes\":20},{\"title\":\"Write one sentence saying what it covered\",\"minutes\":5},{\"title\":\"Read the second half without stopping\",\"minutes\":20},{\"title\":\"Write down the words you did not know\",\"minutes\":10}],\"starterAction\":\"Open the book to chapter 7\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Page 210 to 230",
+      "subject": null,
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Turn to page 210 in the book\",\"minutes\":5},{\"title\":\"Read to page 220 without stopping\",\"minutes\":20},{\"title\":\"Write one sentence saying what happened\",\"minutes\":5},{\"title\":\"Read to page 230 without stopping\",\"minutes\":20},{\"title\":\"Write down the parts you found confusing\",\"minutes\":10}],\"starterAction\":\"Turn to page 210 in the book\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Unit 4 test",
+      "subject": null,
+      "description": null,
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Collect your notes and put them in date order\",\"minutes\":10},{\"title\":\"Copy the key terms onto one page\",\"minutes\":20},{\"title\":\"Write eight questions a test might ask\",\"minutes\":20},{\"title\":\"Answer your own questions without looking\",\"minutes\":25},{\"title\":\"Answer again the ones you got wrong\",\"minutes\":15}],\"starterAction\":\"Collect your notes and put them in date order\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Section B",
+      "subject": null,
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find section b on the worksheet\",\"minutes\":5},{\"title\":\"Answer the first half of section b\",\"minutes\":20},{\"title\":\"Answer the second half of section b\",\"minutes\":20},{\"title\":\"Check your answers against the examples\",\"minutes\":10}],\"starterAction\":\"Find section b on the worksheet\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Ch. 12",
+      "subject": null,
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the textbook and find chapter 12\",\"minutes\":5},{\"title\":\"Read the first part without stopping\",\"minutes\":20},{\"title\":\"Write one sentence saying what it was about\",\"minutes\":5},{\"title\":\"Read the rest of it\",\"minutes\":20},{\"title\":\"Write down what you did not follow\",\"minutes\":10}],\"starterAction\":\"Open the textbook and find chapter 12\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Problems 5 to 20",
+      "subject": null,
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find problem 5 in the textbook\",\"minutes\":5},{\"title\":\"Answer problems 5 through 10\",\"minutes\":25},{\"title\":\"Answer problems 11 through 15\",\"minutes\":25},{\"title\":\"Answer problems 16 through 20\",\"minutes\":25},{\"title\":\"Check your answers against the back of the book\",\"minutes\":15}],\"starterAction\":\"Find problem 5 in the textbook\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Vocab list 3",
+      "subject": null,
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Count how many words are on the list\",\"minutes\":5},{\"title\":\"Write the first half of the words on cards\",\"minutes\":15},{\"title\":\"Write the second half of the words on cards\",\"minutes\":15},{\"title\":\"Answer all the cards without looking\",\"minutes\":20},{\"title\":\"Put the ones you missed in a separate pile\",\"minutes\":10}],\"starterAction\":\"Count how many words are on the list\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Worksheet 4B",
+      "subject": null,
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Put your name at the top of the worksheet\",\"minutes\":5},{\"title\":\"Answer the first column in order\",\"minutes\":20},{\"title\":\"Answer the second column in order\",\"minutes\":20},{\"title\":\"Check your answers against the examples\",\"minutes\":10}],\"starterAction\":\"Put your name at the top of the worksheet\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Unit 7 review",
+      "subject": null,
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Gather this unit's handouts from your binder\",\"minutes\":10},{\"title\":\"Copy every definition onto one page\",\"minutes\":20},{\"title\":\"Answer the review questions in order\",\"minutes\":25},{\"title\":\"Check your answers against your notes\",\"minutes\":15}],\"starterAction\":\"Gather this unit's handouts from your binder\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Test corrections",
+      "subject": null,
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Circle every question you missed on the test\",\"minutes\":10},{\"title\":\"Solve the first half of them again\",\"minutes\":20},{\"title\":\"Solve the second half of them again\",\"minutes\":20},{\"title\":\"Write one sentence on each about what went wrong\",\"minutes\":15}],\"starterAction\":\"Circle every question you missed on the test\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Sign the permission slip",
+      "subject": null,
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the slip and set it on the table\",\"minutes\":5},{\"title\":\"Fill in every box that is yours to fill\",\"minutes\":5},{\"title\":\"Ask a parent to sign it tonight\",\"minutes\":5},{\"title\":\"Put the signed slip back in your bag\",\"minutes\":5}],\"starterAction\":\"Find the slip and set it on the table\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Bring gym shoes",
+      "subject": null,
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find your gym shoes and check they still fit\",\"minutes\":5},{\"title\":\"Pack them in your bag tonight\",\"minutes\":5},{\"title\":\"Set the bag by the door\",\"minutes\":5},{\"title\":\"Check the bag again before you leave\",\"minutes\":5}],\"starterAction\":\"Find your gym shoes and check they still fit\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Email the teacher back",
+      "subject": null,
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your email and find the message\",\"minutes\":5},{\"title\":\"Write down the one thing you need to say\",\"minutes\":5},{\"title\":\"Write the reply in one sitting\",\"minutes\":10},{\"title\":\"Read it once and send it\",\"minutes\":5}],\"starterAction\":\"Open your email and find the message\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Return the library book",
+      "subject": null,
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the book on your shelf\",\"minutes\":5},{\"title\":\"Put it in your bag tonight\",\"minutes\":5},{\"title\":\"Set the bag by the front door\",\"minutes\":5},{\"title\":\"Check the book is in your bag before you leave\",\"minutes\":5}],\"starterAction\":\"Find the book on your shelf\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Charge the tablet",
+      "subject": null,
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the charger and plug it into the wall\",\"minutes\":5},{\"title\":\"Attach the charger to the tablet\",\"minutes\":5},{\"title\":\"Check that the light comes on\",\"minutes\":5}],\"starterAction\":\"Find the charger and plug it into the wall\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Print the ticket",
+      "subject": null,
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the email with the ticket in it\",\"minutes\":5},{\"title\":\"Find the print button and click it\",\"minutes\":5},{\"title\":\"Check the printed page is readable\",\"minutes\":5},{\"title\":\"Put the ticket in your bag\",\"minutes\":5}],\"starterAction\":\"Open the email with the ticket in it\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Pack the calculator",
+      "subject": null,
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the calculator on your desk\",\"minutes\":5},{\"title\":\"Check the batteries still work\",\"minutes\":5},{\"title\":\"Put it in the front pocket of your bag\",\"minutes\":5},{\"title\":\"Check the pocket is zipped before you go\",\"minutes\":5}],\"starterAction\":\"Find the calculator on your desk\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Text mom the pickup time",
+      "subject": null,
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your messages and find the thread\",\"minutes\":5},{\"title\":\"Write down the exact time you need\",\"minutes\":5},{\"title\":\"Type the message in one line\",\"minutes\":5},{\"title\":\"Send it and check it went through\",\"minutes\":5}],\"starterAction\":\"Open your messages and find the thread\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Buy poster board",
+      "subject": null,
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find money and put it in your pocket\",\"minutes\":5},{\"title\":\"Ask a parent for a ride to the store\",\"minutes\":5},{\"title\":\"Pick the size the assignment needs\",\"minutes\":10},{\"title\":\"Pack the board flat in your bag\",\"minutes\":10}],\"starterAction\":\"Find money and put it in your pocket\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Return the graded quiz signed",
+      "subject": null,
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the quiz in your folder\",\"minutes\":5},{\"title\":\"Ask a parent to sign the top line\",\"minutes\":5},{\"title\":\"Put it back in your folder tonight\",\"minutes\":5},{\"title\":\"Check it is on top of your other papers\",\"minutes\":5}],\"starterAction\":\"Find the quiz in your folder\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Research project",
+      "subject": "Environmental Science",
+      "description": "This has to cover a local environmental issue of your choosing, include at least six sources with proper citations, a section on possible solutions, a section on who is affected and how, photographs or diagrams where useful, a bibliography that is not counted in the page total, and it has to be printed single sided and stapled in the top left corner before the start of class, and if it is late it drops one letter grade for every day past the deadline.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and write down the issue you picked\",\"minutes\":10},{\"title\":\"Write every requirement out as a checklist\",\"minutes\":20},{\"title\":\"Collect six sources and save them in one folder\",\"minutes\":40},{\"title\":\"Write the outline as a list of section headings\",\"minutes\":25},{\"title\":\"Write the whole draft without stopping to edit\",\"minutes\":45},{\"title\":\"Add the citations and check the format\",\"minutes\":25},{\"title\":\"Check the paper against your requirement checklist\",\"minutes\":20}],\"starterAction\":\"Open the assignment sheet and write down the issue you picked\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Group presentation",
+      "subject": "Health",
+      "description": "Every person in the group has to talk for roughly the same amount of time and you will be graded both on the group's slides and on how well you personally explain your part so it matters that you actually know what your slides say instead of just reading off them word for word in front of the whole class on presentation day.",
+      "duePhrase": "next week",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and find which part is yours\",\"minutes\":10},{\"title\":\"Write down the three points your part has to make\",\"minutes\":15},{\"title\":\"Collect an image or fact for each point\",\"minutes\":25},{\"title\":\"Build your slides in order\",\"minutes\":35},{\"title\":\"Write out what you will say for each slide\",\"minutes\":25},{\"title\":\"Practise saying it out loud with a timer\",\"minutes\":20}],\"starterAction\":\"Open the assignment sheet and find which part is yours\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Take-home exam",
+      "subject": "Statistics",
+      "description": "It is open notes but not open internet and not open to talking with anyone else in the class about it including over text or online in any form, and every answer has to show the steps you used to get there because an answer with no work shown gets zero credit no matter how correct the final number is, and it is due back at the start of the next class period no exceptions.",
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 40
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the exam and count how many questions there are\",\"minutes\":5},{\"title\":\"Answer the first third in order, showing every step\",\"minutes\":35},{\"title\":\"Answer the middle third in order, showing every step\",\"minutes\":35},{\"title\":\"Answer the last third in order, showing every step\",\"minutes\":35},{\"title\":\"Check every answer has work shown next to it\",\"minutes\":20}],\"starterAction\":\"Open the exam and count how many questions there are\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Portfolio",
+      "subject": "Art",
+      "description": "Six finished pieces total, at least two of which have to be in a medium you had not used before this year, each one needs an artist statement of a few sentences explaining what you were going for and what you would change if you did it again, and the whole thing gets mounted on black board and turned in together in the folder provided rather than as loose pieces.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 45
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the folder and list the six pieces you want to include\",\"minutes\":10},{\"title\":\"Collect the materials for the new medium\",\"minutes\":35},{\"title\":\"Finish the first three pieces\",\"minutes\":45},{\"title\":\"Finish the last three pieces\",\"minutes\":45},{\"title\":\"Write an artist statement for each piece\",\"minutes\":40},{\"title\":\"Place every piece onto the black board\",\"minutes\":35},{\"title\":\"Check the folder against the list you made\",\"minutes\":15}],\"starterAction\":\"Open the folder and list the six pieces you want to include\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Lab practical",
+      "subject": "Chemistry",
+      "description": "You rotate through five stations in the room, each with a different piece of equipment, and at every station you have a set amount of time to record a measurement, identify a substance, or answer a short written question, and you are not allowed to go back to a station once the timer moves you along, so accuracy on the first attempt matters more than usual here.",
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your notes and look over the five stations you were told about\",\"minutes\":10},{\"title\":\"Write down what each station is likely to ask\",\"minutes\":15},{\"title\":\"Practise the measurement steps once with your own equipment\",\"minutes\":25},{\"title\":\"Time yourself answering a sample question\",\"minutes\":15},{\"title\":\"Check your notes cover all five stations\",\"minutes\":10}],\"starterAction\":\"Open your notes and look over the five stations you were told about\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Independent study proposal",
+      "subject": null,
+      "description": "You get to pick your own topic for this as long as a teacher signs off on it first, and the proposal has to explain what you want to study, why it matters to you, how you will prove you learned something by the end of the term, and roughly how many hours a week you expect to spend on it, plus a rough week by week outline for the whole semester.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a blank document and write the topic you want\",\"minutes\":10},{\"title\":\"Write down why it matters to you, in a few sentences\",\"minutes\":15},{\"title\":\"Write how you will prove you learned something\",\"minutes\":20},{\"title\":\"Write a rough outline for each week of the term\",\"minutes\":30},{\"title\":\"Read the whole thing back and fix what is unclear\",\"minutes\":15}],\"starterAction\":\"Open a blank document and write the topic you want\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Capstone reflection",
+      "subject": null,
+      "description": "This is supposed to look back at everything from the whole year, not just the last project, and it should mention at least one thing that was harder than expected, one thing you are proud of, one thing you would tell a younger student to watch out for, and it should be written in your own voice rather than sounding like a formal essay because this one is just for you and your advisor to read.",
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a blank document and write today's date\",\"minutes\":5},{\"title\":\"Write down one thing that was harder than expected\",\"minutes\":15},{\"title\":\"Write down one thing you are proud of\",\"minutes\":15},{\"title\":\"Write down one thing to tell a younger student\",\"minutes\":15},{\"title\":\"Write the whole reflection in your own words\",\"minutes\":30},{\"title\":\"Read it back once and fix what sounds off\",\"minutes\":15}],\"starterAction\":\"Open a blank document and write today's date\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Science fair write-up",
+      "subject": "Physics",
+      "description": "The write-up has to include your original question, your hypothesis, the full list of materials you used, the exact steps you followed so someone else could repeat it, a data table, a graph made from that table, and a conclusion that says whether your hypothesis was right or wrong and why you think that happened.",
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 40
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook to the data you collected\",\"minutes\":5},{\"title\":\"Write down your original question and hypothesis\",\"minutes\":10},{\"title\":\"List every material you used\",\"minutes\":15},{\"title\":\"Copy your raw numbers into a data table\",\"minutes\":25},{\"title\":\"Draw the graph from the table\",\"minutes\":30},{\"title\":\"Write the conclusion using the graph\",\"minutes\":30},{\"title\":\"Check every step is written in the right order\",\"minutes\":20}],\"starterAction\":\"Open your lab notebook to the data you collected\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "FINISH THE LAB REPORT",
+      "subject": "Chemistry",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your lab notebook and find last night's data\",\"minutes\":5},{\"title\":\"Copy the numbers into the data table\",\"minutes\":20},{\"title\":\"Write the method section from your notes\",\"minutes\":25},{\"title\":\"Write the conclusion using the table\",\"minutes\":25},{\"title\":\"Check every unit and label\",\"minutes\":10}],\"starterAction\":\"Open your lab notebook and find last night's data\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "STUDY GUIDE DUE MONDAY",
+      "subject": null,
+      "description": null,
+      "duePhrase": "in 4 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Gather every quiz and handout from this unit\",\"minutes\":10},{\"title\":\"Copy the key points onto one page\",\"minutes\":20},{\"title\":\"Write eight questions this might be tested on\",\"minutes\":20},{\"title\":\"Answer your own questions without looking\",\"minutes\":25},{\"title\":\"Answer again the ones you missed\",\"minutes\":15}],\"starterAction\":\"Gather every quiz and handout from this unit\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "READ CHAPTERS 3 AND 4",
+      "subject": "English",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the book to the start of chapter 3\",\"minutes\":5},{\"title\":\"Read chapter 3 without stopping\",\"minutes\":25},{\"title\":\"Write one sentence saying what happened\",\"minutes\":5},{\"title\":\"Read chapter 4 the same way\",\"minutes\":25},{\"title\":\"Write down the parts you found confusing\",\"minutes\":10}],\"starterAction\":\"Open the book to the start of chapter 3\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "worksheet due tomorrow no name yet",
+      "subject": null,
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write your name at the top of the worksheet\",\"minutes\":5},{\"title\":\"Answer the first few questions in order\",\"minutes\":20},{\"title\":\"Answer the rest of the questions\",\"minutes\":20},{\"title\":\"Check your answers against your notes\",\"minutes\":10}],\"starterAction\":\"Write your name at the top of the worksheet\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "finish the packet before class",
+      "subject": null,
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Count how many pages are left in the packet\",\"minutes\":5},{\"title\":\"Answer the next few pages in order\",\"minutes\":20},{\"title\":\"Answer the pages after that\",\"minutes\":20},{\"title\":\"Check every page has an answer on it\",\"minutes\":10}],\"starterAction\":\"Count how many pages are left in the packet\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "catch up on reading for tomorrow",
+      "subject": null,
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find your place in the book from last time\",\"minutes\":5},{\"title\":\"Read the next section without stopping\",\"minutes\":25},{\"title\":\"Write one sentence saying what happened\",\"minutes\":5},{\"title\":\"Read the section after that\",\"minutes\":25},{\"title\":\"Write down what you did not follow\",\"minutes\":10}],\"starterAction\":\"Find your place in the book from last time\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "ALGEBRA WORKSHEET CHAPTER 6",
+      "subject": "Algebra",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find problem one on the worksheet\",\"minutes\":5},{\"title\":\"Answer the first ten problems in order\",\"minutes\":25},{\"title\":\"Answer the next ten problems in order\",\"minutes\":25},{\"title\":\"Check your answers against the back of the book\",\"minutes\":15}],\"starterAction\":\"Find problem one on the worksheet\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "write the outline tonight",
+      "subject": null,
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Write the topic at the top of a blank page\",\"minutes\":5},{\"title\":\"List every section this needs\",\"minutes\":15},{\"title\":\"Write two lines under each section\",\"minutes\":20},{\"title\":\"Read the outline back once\",\"minutes\":10}],\"starterAction\":\"Write the topic at the top of a blank page\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "PACK FOR THE FIELD TRIP",
+      "subject": null,
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the packing list on your desk\",\"minutes\":5},{\"title\":\"Collect everything the list asks for\",\"minutes\":20},{\"title\":\"Pack it all into one bag\",\"minutes\":15},{\"title\":\"Check every item off the list\",\"minutes\":10}],\"starterAction\":\"Find the packing list on your desk\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "clean out the binder its a mess",
+      "subject": null,
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Take everything out of the binder\",\"minutes\":5},{\"title\":\"Sort the papers into keep and toss piles\",\"minutes\":20},{\"title\":\"Put the keep pile back in order\",\"minutes\":15},{\"title\":\"Put the toss pile in the recycling bin\",\"minutes\":10},{\"title\":\"Check every section has the right papers\",\"minutes\":10}],\"starterAction\":\"Take everything out of the binder\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "essay bout the civil war due fri",
+      "subject": "History",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and read the prompt\",\"minutes\":5},{\"title\":\"Write down the three points it has to make\",\"minutes\":15},{\"title\":\"Write the opening without stopping to edit\",\"minutes\":25},{\"title\":\"Write the rest of it in one sitting\",\"minutes\":35},{\"title\":\"Read it aloud and fix what sounds wrong\",\"minutes\":15}],\"starterAction\":\"Open the assignment sheet and read the prompt\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "finsih math hw b4 practice",
+      "subject": null,
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the math assignment in your bag\",\"minutes\":5},{\"title\":\"Answer the first half of the questions\",\"minutes\":20},{\"title\":\"Answer the second half of the questions\",\"minutes\":20},{\"title\":\"Check your answers against your notes\",\"minutes\":10}],\"starterAction\":\"Find the math assignment in your bag\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "reserch paper rough draft due thurs",
+      "subject": null,
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a new document and type the topic at the top\",\"minutes\":5},{\"title\":\"Write down what the paper has to argue\",\"minutes\":15},{\"title\":\"Write the first half without stopping to edit\",\"minutes\":30},{\"title\":\"Write the second half without stopping to edit\",\"minutes\":30},{\"title\":\"Read it back once and fix what sounds wrong\",\"minutes\":15}],\"starterAction\":\"Open a new document and type the topic at the top\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "studdy for the spanish quiz 2marrow",
+      "subject": "Spanish",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the section your notes cover for this\",\"minutes\":5},{\"title\":\"Write the key words onto cards\",\"minutes\":20},{\"title\":\"Answer the cards without looking\",\"minutes\":15},{\"title\":\"Put the ones you missed in a separate pile\",\"minutes\":5},{\"title\":\"Answer the missed cards again\",\"minutes\":15}],\"starterAction\":\"Find the section your notes cover for this\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "forgot bout this 1 til now",
+      "subject": null,
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Read the assignment from the top\",\"minutes\":5},{\"title\":\"Write down what is already done\",\"minutes\":5},{\"title\":\"Complete the part that is left\",\"minutes\":25},{\"title\":\"Check it against the instructions\",\"minutes\":10}],\"starterAction\":\"Read the assignment from the top\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "huge bio packet ugh",
+      "subject": "Biology",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Count how many pages the packet has\",\"minutes\":5},{\"title\":\"Answer the first third of the packet\",\"minutes\":25},{\"title\":\"Answer the middle third of the packet\",\"minutes\":25},{\"title\":\"Answer the last third of the packet\",\"minutes\":25},{\"title\":\"Check every page against the answer key\",\"minutes\":15}],\"starterAction\":\"Count how many pages the packet has\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "eng essy revison b4 fri",
+      "subject": "English",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Read the draft start to finish once\",\"minutes\":10},{\"title\":\"Circle every sentence that sounds off\",\"minutes\":15},{\"title\":\"Rewrite the circled sentences\",\"minutes\":25},{\"title\":\"Read the whole thing aloud once more\",\"minutes\":15}],\"starterAction\":\"Read the draft start to finish once\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "quizz make up 2day",
+      "subject": null,
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Look up which section the quiz covers\",\"minutes\":5},{\"title\":\"Write the key facts onto one page\",\"minutes\":20},{\"title\":\"Answer the practice questions without looking\",\"minutes\":20},{\"title\":\"Check your answers against your notes\",\"minutes\":10}],\"starterAction\":\"Look up which section the quiz covers\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "lab writeup due 2moro nite",
+      "subject": "Chemistry",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the data from last night's lab\",\"minutes\":5},{\"title\":\"Record each number in the data table\",\"minutes\":20},{\"title\":\"Write the conclusion using the table\",\"minutes\":25},{\"title\":\"Check every unit and label\",\"minutes\":10}],\"starterAction\":\"Find the data from last night's lab\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "worksheeet pg 12 odd only",
+      "subject": null,
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Turn to page 12 in the worksheet\",\"minutes\":5},{\"title\":\"Answer the first five odd problems\",\"minutes\":20},{\"title\":\"Answer the rest of the odd problems\",\"minutes\":20},{\"title\":\"Check your answers against the examples\",\"minutes\":10}],\"starterAction\":\"Turn to page 12 in the worksheet\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Faire les devoirs de maths",
+      "subject": "French",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment and find the first problem\",\"minutes\":5},{\"title\":\"Answer the first half of the questions\",\"minutes\":25},{\"title\":\"Answer the second half of the questions\",\"minutes\":25},{\"title\":\"Check your answers against your notes\",\"minutes\":10}],\"starterAction\":\"Open the assignment and find the first problem\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Estudiar para el examen",
+      "subject": "Spanish",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Gather your notes and put them in order\",\"minutes\":10},{\"title\":\"Write the key words onto cards\",\"minutes\":20},{\"title\":\"Answer the cards without looking\",\"minutes\":20},{\"title\":\"Answer again the ones you missed\",\"minutes\":15}],\"starterAction\":\"Gather your notes and put them in order\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "数学の宿題をやる",
+      "subject": "Japanese",
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Take out the assignment and find the first question\",\"minutes\":5},{\"title\":\"Answer the first half of the questions\",\"minutes\":20},{\"title\":\"Answer the second half of the questions\",\"minutes\":20},{\"title\":\"Check your answers against your notes\",\"minutes\":10}],\"starterAction\":\"Take out the assignment and find the first question\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Hausaufgaben fertig machen",
+      "subject": "German",
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find today's page in the folder\",\"minutes\":5},{\"title\":\"Answer the first part in order\",\"minutes\":20},{\"title\":\"Finish the rest of it\",\"minutes\":20},{\"title\":\"Check it against the instructions\",\"minutes\":10}],\"starterAction\":\"Find today's page in the folder\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Lire le chapitre pour lundi",
+      "subject": "French",
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the book to the chapter you were given\",\"minutes\":5},{\"title\":\"Read the first half without stopping\",\"minutes\":20},{\"title\":\"Write one sentence saying what happened\",\"minutes\":5},{\"title\":\"Read the second half without stopping\",\"minutes\":20},{\"title\":\"Write down the words you did not know\",\"minutes\":10}],\"starterAction\":\"Open the book to the chapter you were given\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "history essay + verlade notes",
+      "subject": "History",
+      "description": "mezcla of notes en dos idiomas, sorry",
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Read the assignment sheet once through\",\"minutes\":5},{\"title\":\"Write down the points it has to make\",\"minutes\":15},{\"title\":\"Write the draft in one sitting\",\"minutes\":25},{\"title\":\"Read it back and fix what sounds wrong\",\"minutes\":15}],\"starterAction\":\"Read the assignment sheet once through\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "tarea de ciencias capitulo 5",
+      "subject": "Science",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the book to chapter 5\",\"minutes\":5},{\"title\":\"Read the first half without stopping\",\"minutes\":20},{\"title\":\"Write one sentence saying what it covered\",\"minutes\":5},{\"title\":\"Read the second half without stopping\",\"minutes\":20},{\"title\":\"Write down the words you did not know\",\"minutes\":10}],\"starterAction\":\"Open the book to chapter 5\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "완성해야 할 숙제",
+      "subject": null,
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Look at what is due and set it in front of you\",\"minutes\":5},{\"title\":\"Complete the first part in one sitting\",\"minutes\":20},{\"title\":\"Write down what is still left\",\"minutes\":5},{\"title\":\"Finish the rest of it\",\"minutes\":20}],\"starterAction\":\"Look at what is due and set it in front of you\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Practice free throws",
+      "subject": "Gym",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find a ball and bring it to the court\",\"minutes\":5},{\"title\":\"Take ten free throws and count how many go in\",\"minutes\":15},{\"title\":\"Take ten more and count how many go in\",\"minutes\":15},{\"title\":\"Write down your total out of twenty\",\"minutes\":5}],\"starterAction\":\"Find a ball and bring it to the court\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Fill out the locker form",
+      "subject": "Study hall",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the form in your folder\",\"minutes\":5},{\"title\":\"Fill in every box that is yours\",\"minutes\":5},{\"title\":\"Ask the teacher where to turn it in\",\"minutes\":5},{\"title\":\"Put it in the turn-in bin\",\"minutes\":5}],\"starterAction\":\"Find the form in your folder\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Pick electives for next year",
+      "subject": "Advisory",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the course list and read it once\",\"minutes\":10},{\"title\":\"Circle three classes you might want\",\"minutes\":10},{\"title\":\"Write down one question for your advisor\",\"minutes\":5},{\"title\":\"Rank your three choices in order\",\"minutes\":10}],\"starterAction\":\"Open the course list and read it once\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Get the permission form for driving hours",
+      "subject": "Driver's ed",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the form on the class website\",\"minutes\":5},{\"title\":\"Print the form at home\",\"minutes\":5},{\"title\":\"Ask a parent to sign it tonight\",\"minutes\":5},{\"title\":\"Pack it in your bag\",\"minutes\":5}],\"starterAction\":\"Find the form on the class website\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Clean the band instrument",
+      "subject": "Band",
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the cleaning kit in your case\",\"minutes\":5},{\"title\":\"Take the instrument apart the way you were shown\",\"minutes\":10},{\"title\":\"Clean each piece with the kit\",\"minutes\":15},{\"title\":\"Put it back together and pack the case\",\"minutes\":10}],\"starterAction\":\"Find the cleaning kit in your case\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Turn in the yearbook order form",
+      "subject": null,
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the form and the money for it\",\"minutes\":5},{\"title\":\"Fill in every box on the form\",\"minutes\":5},{\"title\":\"Put the form and money in an envelope\",\"minutes\":5},{\"title\":\"Hand it to the front office tomorrow morning\",\"minutes\":5}],\"starterAction\":\"Find the form and the money for it\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Log community service hours",
+      "subject": null,
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the log sheet in your folder\",\"minutes\":5},{\"title\":\"Write down every date you volunteered\",\"minutes\":10},{\"title\":\"Add up the total hours\",\"minutes\":5},{\"title\":\"Check the total against what is required\",\"minutes\":5}],\"starterAction\":\"Find the log sheet in your folder\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "figure life stuff out this weekend",
+      "subject": null,
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open your planner and list everything that is due\",\"minutes\":15},{\"title\":\"Put the list in order by date\",\"minutes\":10},{\"title\":\"Finish the first thing on the list\",\"minutes\":30},{\"title\":\"Cross off what is done and look at the list again\",\"minutes\":10}],\"starterAction\":\"Open your planner and list everything that is due\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Advisory reflection sheet",
+      "subject": "Advisory",
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the sheet and read the three questions\",\"minutes\":5},{\"title\":\"Write one sentence for the first question\",\"minutes\":5},{\"title\":\"Write one sentence for the second question\",\"minutes\":5},{\"title\":\"Write one sentence for the third question\",\"minutes\":5},{\"title\":\"Check every question has an answer\",\"minutes\":5}],\"starterAction\":\"Open the sheet and read the three questions\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "idk what this even is",
+      "subject": null,
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Take out everything in your bag that is due today\",\"minutes\":5},{\"title\":\"Write down what you can tell about it\",\"minutes\":10},{\"title\":\"Finish the part that makes sense\",\"minutes\":15},{\"title\":\"Check it against whatever you were given\",\"minutes\":10}],\"starterAction\":\"Take out everything in your bag that is due today\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Finish the semester project",
+      "subject": null,
+      "description": null,
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 60
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment sheet and list everything it needs\",\"minutes\":15},{\"title\":\"Collect the materials this needs\",\"minutes\":40},{\"title\":\"Build the first half of it\",\"minutes\":45},{\"title\":\"Build the second half of it\",\"minutes\":45},{\"title\":\"Check the sheet again for anything missed\",\"minutes\":20}],\"starterAction\":\"Open the assignment sheet and list everything it needs\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Write the term paper draft",
+      "subject": "English",
+      "description": null,
+      "duePhrase": "in 2 weeks",
+      "sessionMinutes": 60
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a blank document and write the topic at the top\",\"minutes\":10},{\"title\":\"Write down what the paper has to argue\",\"minutes\":15},{\"title\":\"Write the first third without stopping to edit\",\"minutes\":40},{\"title\":\"Write the middle third without stopping to edit\",\"minutes\":40},{\"title\":\"Write the last third without stopping to edit\",\"minutes\":40},{\"title\":\"Read it back once and fix what sounds wrong\",\"minutes\":25}],\"starterAction\":\"Open a blank document and write the topic at the top\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Rehearse the full scene",
+      "subject": "Theatre",
+      "description": null,
+      "duePhrase": "in 3 days",
+      "sessionMinutes": 60
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the script to the start of the scene\",\"minutes\":5},{\"title\":\"Read through the whole scene once out loud\",\"minutes\":20},{\"title\":\"Practise the first half without looking\",\"minutes\":35},{\"title\":\"Practise the second half without looking\",\"minutes\":35},{\"title\":\"Practise the whole scene with a timer\",\"minutes\":30}],\"starterAction\":\"Open the script to the start of the scene\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Build the diorama",
+      "subject": "History",
+      "description": null,
+      "duePhrase": "in 5 days",
+      "sessionMinutes": 60
+    },
+    "completion": "{\"steps\":[{\"title\":\"Collect the assignment sheet and list what it needs\",\"minutes\":10},{\"title\":\"Collect a box and the materials you need\",\"minutes\":35},{\"title\":\"Build the background first\",\"minutes\":45},{\"title\":\"Add every figure and label\",\"minutes\":40},{\"title\":\"Check the sheet again for anything missed\",\"minutes\":15}],\"starterAction\":\"Collect the assignment sheet and list what it needs\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Sort the recycling",
+      "subject": "Chores",
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the bins and bring them to the kitchen\",\"minutes\":5},{\"title\":\"Sort the bottles from the paper\",\"minutes\":10},{\"title\":\"Put each bin back in its spot\",\"minutes\":5}],\"starterAction\":\"Find the bins and bring them to the kitchen\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Water the plants",
+      "subject": "Chores",
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the watering can and fill it up\",\"minutes\":5},{\"title\":\"Pour water into the first half of the plants\",\"minutes\":5},{\"title\":\"Pour water into the rest of the plants\",\"minutes\":5}],\"starterAction\":\"Find the watering can and fill it up\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Take out the trash",
+      "subject": "Chores",
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find every trash can in the house\",\"minutes\":5},{\"title\":\"Pick up each bag and carry it outside\",\"minutes\":5},{\"title\":\"Put fresh bags in every can\",\"minutes\":5}],\"starterAction\":\"Find every trash can in the house\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Load the dishwasher",
+      "subject": "Chores",
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find every dirty dish in the sink\",\"minutes\":5},{\"title\":\"Place the dishes into the rack\",\"minutes\":10},{\"title\":\"Add soap and close the door\",\"minutes\":5}],\"starterAction\":\"Find every dirty dish in the sink\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Feed the dog",
+      "subject": "Chores",
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the food bag in the pantry\",\"minutes\":5},{\"title\":\"Measure one cup into the bowl\",\"minutes\":5},{\"title\":\"Set the bowl down by the door\",\"minutes\":5}],\"starterAction\":\"Find the food bag in the pantry\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "this whole thing is due tmrw and i havent started",
+      "subject": null,
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open the assignment and read what it is asking for\",\"minutes\":5},{\"title\":\"Write down every part it needs\",\"minutes\":15},{\"title\":\"Complete the part that is easiest first\",\"minutes\":30},{\"title\":\"Finish the harder parts after\",\"minutes\":30},{\"title\":\"Check the whole thing against the instructions\",\"minutes\":15}],\"starterAction\":\"Open the assignment and read what it is asking for\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "i dont get this assignment at all",
+      "subject": null,
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Read the assignment through twice\",\"minutes\":5},{\"title\":\"Write down the one part you do follow\",\"minutes\":10},{\"title\":\"Write down one question to ask the teacher\",\"minutes\":5},{\"title\":\"Complete the part that already makes sense\",\"minutes\":25},{\"title\":\"Finish the rest once you have an answer\",\"minutes\":25}],\"starterAction\":\"Read the assignment through twice\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "so behind on everything rn",
+      "subject": null,
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 30
+    },
+    "completion": "{\"steps\":[{\"title\":\"Take out your bag and sort what is late\",\"minutes\":5},{\"title\":\"Put the papers in order by due date\",\"minutes\":10},{\"title\":\"Finish the first one on the list\",\"minutes\":30},{\"title\":\"Finish the second one on the list\",\"minutes\":30},{\"title\":\"Cross off what is done and check the list again\",\"minutes\":10}],\"starterAction\":\"Take out your bag and sort what is late\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "teacher said just wing it",
+      "subject": null,
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Open a blank page and write today's topic at the top\",\"minutes\":5},{\"title\":\"Write down the first thing that comes to mind\",\"minutes\":15},{\"title\":\"Write the rest without stopping to edit\",\"minutes\":25},{\"title\":\"Read it back once and fix what sounds wrong\",\"minutes\":15}],\"starterAction\":\"Open a blank page and write today's topic at the top\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "THIS IS SO DUMB BUT WHATEVER",
+      "subject": null,
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Read the instructions one time through\",\"minutes\":5},{\"title\":\"Write down what it wants in your own words\",\"minutes\":10},{\"title\":\"Complete the first part\",\"minutes\":20},{\"title\":\"Finish the rest of it\",\"minutes\":20},{\"title\":\"Check it against the instructions\",\"minutes\":10}],\"starterAction\":\"Read the instructions one time through\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "random worksheet found in bag",
+      "subject": null,
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Look for a due date anywhere on the worksheet\",\"minutes\":5},{\"title\":\"Answer the first half of the questions\",\"minutes\":20},{\"title\":\"Answer the second half of the questions\",\"minutes\":20},{\"title\":\"Check your answers against your notes\",\"minutes\":10}],\"starterAction\":\"Look for a due date anywhere on the worksheet\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Finish the thing from science",
+      "subject": "Science",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 25
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the science handout in your folder\",\"minutes\":5},{\"title\":\"Answer the first half in order\",\"minutes\":20},{\"title\":\"Answer the second half in order\",\"minutes\":20},{\"title\":\"Check your answers against your notes\",\"minutes\":10}],\"starterAction\":\"Find the science handout in your folder\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "idk the name of this class assignment",
+      "subject": null,
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Read the top line of the assignment\",\"minutes\":5},{\"title\":\"Write down anything it tells you about itself\",\"minutes\":10},{\"title\":\"Complete the part that is clearest\",\"minutes\":20},{\"title\":\"Finish whatever is left\",\"minutes\":20},{\"title\":\"Check it against what you were given\",\"minutes\":10}],\"starterAction\":\"Read the top line of the assignment\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "mystery packet no instructions",
+      "subject": null,
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Look for any heading on the packet\",\"minutes\":5},{\"title\":\"Write down what each page seems to ask for\",\"minutes\":15},{\"title\":\"Answer the pages that make sense\",\"minutes\":20},{\"title\":\"Write down one question about the pages that do not\",\"minutes\":10}],\"starterAction\":\"Look for any heading on the packet\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Practice spelling words",
+      "subject": "Spelling",
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Count the words on this week's list\",\"minutes\":5},{\"title\":\"Write each word three times\",\"minutes\":15},{\"title\":\"Say each word out loud once\",\"minutes\":5},{\"title\":\"Check your spelling against the list\",\"minutes\":5}],\"starterAction\":\"Count the words on this week's list\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Organize the binder by unit",
+      "subject": null,
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Take every loose paper out of the binder\",\"minutes\":5},{\"title\":\"Sort the papers into piles by unit\",\"minutes\":20},{\"title\":\"Put each pile behind its matching tab\",\"minutes\":15},{\"title\":\"Check every tab has the right papers behind it\",\"minutes\":10}],\"starterAction\":\"Take every loose paper out of the binder\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Finish signing up for the trip",
+      "subject": null,
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the sign-up page online\",\"minutes\":5},{\"title\":\"Fill in every field it asks for\",\"minutes\":10},{\"title\":\"Check your answers before you submit them\",\"minutes\":5},{\"title\":\"Save or print the confirmation\",\"minutes\":5}],\"starterAction\":\"Find the sign-up page online\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Return the signed field trip form",
+      "subject": null,
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the form in your bag\",\"minutes\":5},{\"title\":\"Check every box has a parent's signature\",\"minutes\":5},{\"title\":\"Put it in the turn-in folder\",\"minutes\":5},{\"title\":\"Hand it to the teacher first thing\",\"minutes\":5}],\"starterAction\":\"Find the form in your bag\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Study hall packet",
+      "subject": "Study hall",
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Count the pages in the packet\",\"minutes\":5},{\"title\":\"Answer the first few pages\",\"minutes\":20},{\"title\":\"Answer the pages after that\",\"minutes\":20},{\"title\":\"Check every page against the answer key\",\"minutes\":10}],\"starterAction\":\"Count the pages in the packet\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Finish the vocab quiz corrections",
+      "subject": null,
+      "description": null,
+      "duePhrase": "in 2 days",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Circle every word you missed on the quiz\",\"minutes\":5},{\"title\":\"Look up the correct definition for each one\",\"minutes\":20},{\"title\":\"Write each corrected definition out by hand\",\"minutes\":20},{\"title\":\"Check your corrections against the quiz key\",\"minutes\":10}],\"starterAction\":\"Circle every word you missed on the quiz\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Chapter 12 vocabulary",
+      "subject": "Biology",
+      "description": null,
+      "duePhrase": "tomorrow",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the chapter 12 word list in the book\",\"minutes\":5},{\"title\":\"Write the first half of the words with their definitions\",\"minutes\":20},{\"title\":\"Write the second half of the words with their definitions\",\"minutes\":20},{\"title\":\"Check every definition against the glossary\",\"minutes\":10}],\"starterAction\":\"Find the chapter 12 word list in the book\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Unit 2, part 3",
+      "subject": null,
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 20
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find part 3 in the packet\",\"minutes\":5},{\"title\":\"Answer the questions in part 3 in order\",\"minutes\":20},{\"title\":\"Finish whatever is left in part 3\",\"minutes\":20},{\"title\":\"Check your answers against your notes\",\"minutes\":10}],\"starterAction\":\"Find part 3 in the packet\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Pack the lunch for tomorrow",
+      "subject": "Chores",
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find a bag and the food you need\",\"minutes\":5},{\"title\":\"Pack the food into the bag\",\"minutes\":5},{\"title\":\"Set the bag in the fridge\",\"minutes\":5}],\"starterAction\":\"Find a bag and the food you need\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Sharpen the pencils for tomorrow",
+      "subject": null,
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find every dull pencil in your case\",\"minutes\":5},{\"title\":\"Run each one through the sharpener\",\"minutes\":10},{\"title\":\"Put the sharp pencils back in your case\",\"minutes\":5}],\"starterAction\":\"Find every dull pencil in your case\"}"
+  },
+  {
+    "kind": "breakdown",
+    "task": {
+      "title": "Fill the water bottle for practice",
+      "subject": "Gym",
+      "description": null,
+      "duePhrase": "today",
+      "sessionMinutes": 15
+    },
+    "completion": "{\"steps\":[{\"title\":\"Find the water bottle in your bag\",\"minutes\":5},{\"title\":\"Fill it at the sink\",\"minutes\":5},{\"title\":\"Put it back in the front pocket\",\"minutes\":5}],\"starterAction\":\"Find the water bottle in your bag\"}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "???",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "asdkfj alsdkfj zzzzz nothing here",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Have a good weekend everyone!",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "No school Monday, enjoy the day off.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Just checking in, nothing due right now.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "lol what even is this text",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Everything got pushed, more info soon, nothing to do yet.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "okay so basically today was kind of a mess because the fire drill ate up half of first period and then the sub for second period didnt know what was going on so nothing really got covered there but third period we did go over stuff and mr allen said the reading response is due Friday and also dont forget the field trip form has to be back by next Tuesday or you cant go and he said it like three times so it must be important",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Reading response\",\"dueInDays\":4},{\"title\":\"Field trip form\",\"dueInDays\":8}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "so i was texting sam about the weekend and we're still figuring out if we're doing the movie thing or just hanging out at his place but anyway he reminded me that the chem lab writeup which i totally forgot about is due tomorrow and also i guess there's a pop quiz possibility this week in that class so maybe look over notes at some point but nothing else is really going on",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Chem lab writeup\",\"dueInDays\":1,\"subject\":\"Chemistry\"}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "ugh this whole week has been a lot, monday was fine but tuesday the wifi went out during class so we didnt finish the worksheet and mrs park said just bring it back done by end of the month whenever that works for people since a bunch of us were affected, and wednesday and today were pretty normal, nothing else new",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Worksheet\",\"dueInDays\":30}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Monday: math homework. Tuesday: english quiz. Wednesday: history reading. Thursday: chem lab. Friday: spanish project. Also due this week: gym waiver, art sketch, band forms, yearbook photo order, and the locker cleanout.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Math homework\",\"dueInDays\":0},{\"title\":\"English quiz\",\"dueInDays\":1},{\"title\":\"History reading\",\"dueInDays\":2},{\"title\":\"Chem lab\",\"dueInDays\":3},{\"title\":\"Spanish project\",\"dueInDays\":4},{\"title\":\"Gym waiver\",\"dueInDays\":4},{\"title\":\"Art sketch\",\"dueInDays\":4},{\"title\":\"Band forms\",\"dueInDays\":4}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Things due this week in no particular order: permission slip, reading log, times tables quiz, spelling test, library book return, show and tell item, field day shirt order, class picture money, and the pizza fundraiser form.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Permission slip\",\"dueInDays\":4},{\"title\":\"Reading log\",\"dueInDays\":4},{\"title\":\"Times tables quiz\",\"dueInDays\":4},{\"title\":\"Spelling test\",\"dueInDays\":4},{\"title\":\"Library book return\",\"dueInDays\":4},{\"title\":\"Show and tell item\",\"dueInDays\":4},{\"title\":\"Field day shirt order\",\"dueInDays\":4},{\"title\":\"Class picture money\",\"dueInDays\":4}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Coach said the permission form for the tournament needs to be turned in by next Tuesday, no exceptions this time since he already extended it once.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Permission form\",\"dueInDays\":8}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "The teacher mentioned the big group project isn't due until end of the month, so there's no rush, but she wants a topic choice emailed to her by next Tuesday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Topic choice\",\"dueInDays\":8},{\"title\":\"Group project\",\"dueInDays\":30}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "HW: pg 45 #1-20 due tmrw, quiz fri, dont forget!!",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Pg 45 #1-20\",\"dueInDays\":1},{\"title\":\"Quiz\",\"dueInDays\":4}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "reminder reminder reminder nothing new just a reminder",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Field trip Thursday, bring $10 and a signed form by Wednesday.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Signed form\",\"dueInDays\":2}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "明日は提出物があります。宿題を忘れないでください。",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Homework\",\"dueInDays\":1}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Devoirs de francais pour lundi, redaction de dix phrases.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Devoirs de francais\",\"dueInDays\":7}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Tarea de matematicas pagina 12, examen la proxima semana.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Tarea de matematicas\",\"dueInDays\":1},{\"title\":\"Examen\",\"dueInDays\":7}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "quiz 2day, worksheet due 2moro, project due in like 2 wks i think",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Quiz\",\"dueInDays\":0},{\"title\":\"Worksheet\",\"dueInDays\":1},{\"title\":\"Project\",\"dueInDays\":14}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Bring your own device tomorrow for testing, and the consent form was due last week so bring that too if you still have it.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Consent form\",\"dueInDays\":0},{\"title\":\"Bring your own device\",\"dueInDays\":1}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Everything is due Friday: the essay, the works cited page, and the peer review sheet.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Essay\",\"dueInDays\":4},{\"title\":\"Works cited page\",\"dueInDays\":4},{\"title\":\"Peer review sheet\",\"dueInDays\":4}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "idk man this class just assigns stuff constantly, today its a worksheet due friday and some reading due next Tuesday",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Worksheet\",\"dueInDays\":4},{\"title\":\"Reading\",\"dueInDays\":8}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Practice log due Monday, sign it before turning it in.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Practice log\",\"dueInDays\":7}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Two things: bring the note from home, and finish the reading by end of the month.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Note from home\",\"dueInDays\":1},{\"title\":\"Reading\",\"dueInDays\":30}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "asdf",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Half day tomorrow, no homework, just come to school.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "STUDY GUIDE DUE FRIDAY QUIZ MONDAY DONT FORGET CALCULATOR",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[{\"title\":\"Study guide\",\"dueInDays\":4},{\"title\":\"Quiz\",\"dueInDays\":7}]}"
+  },
+  {
+    "kind": "extraction",
+    "task": {
+      "text": "Everything's on the portal, just check there, nothing to write down right now.",
+      "today": "Monday"
+    },
+    "completion": "{\"tasks\":[]}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Math",
+      "description": null
+    },
+    "completion": "{\"title\":\"Do today's math work\",\"explanation\":\"The title just says math with no unit or page number given, so treat it as whatever is due next: open the folder or the app and find the one assignment marked for today.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Essay",
+      "description": null
+    },
+    "completion": "{\"title\":\"Write the assigned essay\",\"explanation\":\"Nothing here says which essay or what it is about, so this stands for whatever essay was actually given. Check the folder or ask a classmate what the actual topic and length are before starting.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "???",
+      "description": null
+    },
+    "completion": "{\"title\":\"Work out what this task even is\",\"explanation\":\"The title alone does not say what has to be done. Reread whatever it came with, and if nothing else is written down, ask the teacher what it actually is before doing any of it.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "HW DUE 2MORO NO IDEA WHAT IT IS",
+      "description": null
+    },
+    "completion": "{\"title\":\"Figure out which homework is due tomorrow\",\"explanation\":\"The all caps title and the typing do not say which class this is from. Check each class's folder or app for anything marked due tomorrow, and start with whichever one you find first.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "essay bout the civil war due fri",
+      "description": null
+    },
+    "completion": "{\"title\":\"Write the civil war essay\",\"explanation\":\"The words bout and fri are just texting shortcuts for about and Friday. This is a regular essay about the civil war, due Friday, and the plain version just spells that out clearly.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Undertake a rigorous analysis of the socioeconomic factors",
+      "description": null
+    },
+    "completion": "{\"title\":\"Look at what caused it economically\",\"explanation\":\"Find the money and class related reasons behind what happened. List three of them, and for each one write a sentence on how it made things worse or better.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Engage in a critical evaluation of the primary source",
+      "description": null
+    },
+    "completion": "{\"title\":\"Judge how trustworthy the source is\",\"explanation\":\"Look at who wrote it, when, and why. Write down one reason to trust it and one reason to be careful with it, then say overall whether you would rely on it.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Synthesize a cohesive argument from disparate evidence",
+      "description": null
+    },
+    "completion": "{\"title\":\"Pull the evidence into one argument\",\"explanation\":\"Look at all the separate facts and quotes you collected. Write one sentence that ties them together into a single point, then use each piece of evidence to back that point up.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "THE ASSIGNMENT (see attached, IMPORTANT, READ ALL OF IT)",
+      "description": null
+    },
+    "completion": "{\"title\":\"Read the attached assignment sheet carefully\",\"explanation\":\"The all caps and extra words are just the teacher trying to get your attention. Underneath that, it just means open the attached sheet and read the whole thing before starting anything.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "idk this weird bio thing about cells n stuff",
+      "description": null
+    },
+    "completion": "{\"title\":\"Do the biology assignment about cells\",\"explanation\":\"The texting spelling makes it look more confusing than it is. It is a biology task about cells, so open the actual handout to see exactly what it wants before you start guessing.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Interrogate the underlying power structures present in the text",
+      "description": null
+    },
+    "completion": "{\"title\":\"Find who has the power in the story\",\"explanation\":\"Look at which characters get to make decisions and which ones do not. Write down two examples of that difference, and say what it seems to be saying about power.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Devoirs de francais difficiles",
+      "description": null
+    },
+    "completion": "{\"title\":\"Do the french homework\",\"explanation\":\"The title is just in French for difficult French homework. It still means the same thing: open the assignment and do whatever pages or questions were given.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Chapter 12",
+      "description": null
+    },
+    "completion": "{\"title\":\"Read chapter 12\",\"explanation\":\"A bare chapter number with no other detail just means read that chapter. Open the textbook to chapter 12 and go through it start to finish, since nothing else was specified about which pages or questions.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Utilize dimensional analysis to convert between units",
+      "description": null
+    },
+    "completion": "{\"title\":\"Convert the units step by step\",\"explanation\":\"This means lining up the units so the ones you do not want cancel out. Write the starting number, multiply by a fraction that flips the unit, and repeat until only the unit you want is left.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "Formulate a testable hypothesis for the experiment",
+      "description": null
+    },
+    "completion": "{\"title\":\"Write a guess you can actually test\",\"explanation\":\"Write one sentence saying what you think will happen and why. Make sure it says exactly what you would measure, so someone else could check if you turned out to be right or wrong.\"}"
+  },
+  {
+    "kind": "simplification",
+    "task": {
+      "title": "asdkjf assignment thing",
+      "description": null
+    },
+    "completion": "{\"title\":\"Work out what was actually assigned\",\"explanation\":\"The title does not say anything real about the task. Look at wherever it came from for a real name or instructions, and if there is nothing else, ask the teacher what it is before doing any of it.\"}"
+  }
+]

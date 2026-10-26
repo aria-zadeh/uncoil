@@ -1,0 +1,110 @@
+# Pinned toolchain for train/.venv-export12: executorch 1.2.0, chosen to match
+# the ExecuTorch runtime react-native-executorch 0.9.3 embeds (1.2.0), rather
+# than the 1.4.1 in train/.venv-export, whose forward compatibility with the
+# app's older embedded runtime is not guaranteed. See HANDOFF.md, export
+# section, for which artifact (built by which venv) to try first on device.
+#
+# Neither optimum-executorch release on PyPI declares an upper bound on
+# executorch (both 0.1.0 and 1.1.0 say only `executorch>=1.0.0`), and only
+# those two versions exist there at all - there is no 0.7.x or 1.0.x. 1.1.0
+# (the same release train/.venv-export uses, paired there with executorch
+# 1.4.1) is used here too, paired with executorch==1.2.0 instead; nothing in
+# its metadata suggests that pairing is unsupported.
+#
+# torch is pinned down to 2.11.0, NOT the plain `pip install` resolve. A
+# clean `pip install executorch==1.2.0 optimum-executorch==1.1.0` resolves
+# torch to the newest wheel satisfying executorch's own declared
+# `torch>=2.11.0` (2.13.0, same as train/.venv-export) - but executorch
+# 1.2.0's compiled `_portable_lib` pybind extension does not load against
+# that torch: `ImportError: DLL load failed while importing _portable_lib:
+# The specified procedure could not be found` (a torch C++ ABI mismatch;
+# pip's dependency resolution doesn't and can't check binary ABI
+# compatibility, only the declared version range). Downgrading to
+# torch==2.11.0 - executorch's own declared floor, and evidently what its
+# wheel was actually built against - fixed the import. If a future
+# executorch 1.2.x/1.3.x rebuild changes this, re-verify with:
+#   train/.venv-export12/Scripts/python.exe -c "from executorch.extension.pybindings import portable_lib"
+#
+# Install:
+#   C:\Users\Aria\AppData\Local\Programs\Python\Python312\python.exe -m venv train/.venv-export12
+#   train/.venv-export12/Scripts/python.exe -m pip install -r train/requirements-export12.txt
+#
+# Full `pip freeze` on this machine (Windows, Python 3.12.0) after
+# `pip install executorch==1.2.0 optimum-executorch==1.1.0` then
+# `pip install torch==2.11.0`, pinned for reproducibility.
+accelerate==1.14.0
+annotated-doc==0.0.5
+antlr4-python3-runtime==4.9.3
+anyio==4.14.2
+certifi==2026.7.22
+charset-normalizer==3.5.1
+click==8.5.0
+cloudpickle==3.1.2
+colorama==0.4.6
+execnet==2.1.2
+executorch==1.2.0
+expecttest==0.3.0
+filelock==3.32.5
+flatbuffers==25.12.19
+fsspec==2026.7.0
+h11==0.16.0
+hf-xet==1.6.0
+httpcore==1.0.9
+httpx==0.28.1
+huggingface_hub==1.29.0
+hydra-core==1.3.6
+hypothesis==6.167.1
+idna==3.19
+iniconfig==2.3.0
+Jinja2==3.1.6
+joblib==1.6.0
+kgb==7.3
+markdown-it-py==4.2.0
+MarkupSafe==3.0.3
+mdurl==0.1.2
+mpmath==1.3.0
+networkx==3.6.1
+numpy==2.5.2
+omegaconf==2.3.1
+optimum==2.0.0
+optimum-executorch==1.1.0
+packaging==26.3
+pandas==3.0.5
+parameterized==0.9.0
+pluggy==1.6.0
+psutil==7.2.2
+Pygments==2.21.0
+pytest==8.4.2
+pytest-json-report==1.5.0
+pytest-metadata==3.1.1
+pytest-rerunfailures==15.1
+pytest-xdist==3.8.0
+python-dateutil==2.9.0.post0
+pytorch_tokenizers==1.4.1
+PyYAML==6.0.3
+regex==2026.9.3
+requests==2.34.2
+rich==15.0.0
+ruamel.yaml==0.19.1
+safetensors==0.8.0
+scikit-learn==1.7.1
+scipy==1.18.1
+sentencepiece==0.2.2
+setuptools==81.0.0
+shellingham==1.5.4
+six==1.17.0
+sortedcontainers==2.4.0
+sympy==1.14.0
+tabulate==0.10.0
+threadpoolctl==3.6.0
+tiktoken==0.14.0
+tokenizers==0.22.2
+torch==2.11.0
+torchao==0.18.0
+tqdm==4.70.0
+transformers==5.0.0rc1
+typer==0.27.2
+typer-slim==0.24.0
+typing_extensions==4.16.0
+tzdata==2026.3
+urllib3==2.7.0
